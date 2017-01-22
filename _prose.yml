@@ -1,0 +1,26 @@
+prose:
+  rooturl: '_posts/'
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+          type: "text"
+      - name: "categories"
+        field:
+          element: "multiselect"
+          label: "Post Category"
+          placeholder: "Create or choose"
+          alterable: true
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Post Tag"
+          placeholder: "Create or choose"
+          alterable: true
