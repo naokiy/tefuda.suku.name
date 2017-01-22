@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 《ドロモカの命令/Dromoka's Command(DTK)》で白緑英雄的デッキは組めるのか
-published: false
+published: true
 categories:
   - MTG
   - カード考察
