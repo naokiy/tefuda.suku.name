@@ -1,7 +1,18 @@
 ---
 layout: post
-title: ''
+title: 《ドロモカの命令/Dromoka's Command(DTK)》で白緑英雄的デッキは組めるのか
 published: false
+categories:
+  - MTG
+  - カード考察
+tags:
+  - スタンダード
+  - スタンダード(THS/M15/DTK)
+  - 白
+  - 緑
+  - タルキール龍紀伝
+  - インスタント
+  - メモ
 ---
 《ヘリオッドの試練/Ordeal of Heliod(THS)》や《タッサの試練/Ordeal of Thassa(THS)》を無理やり突破できてしまうカード《アブザンの優位/Abzan Advantage(FRF)》。
 
