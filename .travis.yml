@@ -10,6 +10,8 @@ install:
 - cd jekyll
 - bundle install
 
+cache: bundler
+
 script:
 - cd $TRAVIS_BUILD_DIR
 - cp -r _posts jekyll/
