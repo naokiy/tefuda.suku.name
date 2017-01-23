@@ -19,7 +19,9 @@ script:
 - cd jekyll
 - bundle exec rake convert_front_matter['_posts']
 - bundle exec jekyll build --trace
-- bundle exec rake deploy
+
+after_success:
+- bundle exec rake deploy --trace
 
 branches:
   except:
