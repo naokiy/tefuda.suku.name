@@ -1,7 +1,15 @@
 ---
 layout: post
-published: false
 title: 《嘲る映し身/Mirror Mockery(DTK)》は書いてあることがおかしいのでは
+category:
+- MTG
+- カード考察
+tags:
+- スタンダード
+- スタンダード(THS/M15/DTK)
+- 青
+- タルキール龍紀伝
+- クリーチャー
 ---
 ## 《嘲る映し身/Mirror Mockery(DTK)》がなんか強そうに見える
 
