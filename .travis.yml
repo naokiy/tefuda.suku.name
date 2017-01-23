@@ -11,6 +11,7 @@ install:
 - bundle install
 
 script:
+- cd $TRAVIS_BUILD_DIR
 - cp _posts jekyll/
 - cd jekyll
 - bundle exec jekyll build --trace
