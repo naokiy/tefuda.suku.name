@@ -8,11 +8,9 @@ before_install:
 
 install:
 - cd jekyll
-- bundle install --deployment
+- bundle install
 
-cache:
-  directories:
-  - vendor/bundle
+cache: bundler
 
 script:
 - cd $TRAVIS_BUILD_DIR
