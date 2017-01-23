@@ -11,6 +11,10 @@ title: 《嘲る映し身/Mirror Mockery(DTK)》は書いてあることがお�
 
 CIP持ちにつけて、CIPを再利用する方向で。
 
+<!-- more -->
+
+----
+
 ## 《嘲る映し身/Mirror Mockery(DTK)》と相性のよさそうなカード
 
 マナコスト順に。
