@@ -19,10 +19,6 @@ script:
 - cd jekyll
 - bundle exec rake convert_front_matter['_posts']
 - bundle exec jekyll build --trace
-
-deploy:
-- cd $TRAVIS_BUILD_DIR
-- cd jekyll
 - bundle exec rake deploy
 
 branches:
