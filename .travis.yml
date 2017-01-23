@@ -10,6 +10,11 @@ install:
 - cd jekyll
 - bundle install
 
+script:
+- cp _posts jekyll/
+- cd jekyll
+- bundle exec jekyll build --trace
+
 branches:
   except:
   - master
