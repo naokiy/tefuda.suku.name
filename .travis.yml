@@ -1,24 +1,21 @@
 language: ruby
 rvm:
 - 2.2.5
-
-# before install
 before_install:
+- openssl aes-256-cbc -K $encrypted_0b90d33a0dab_key -iv $encrypted_0b90d33a0dab_iv
+  -in .deploy_key.enc -out .deploy_key -d
+- chmod 600 .deploy_key
 - git clone https://github.com/naokiy/tefuda.suku.name-jekyll.git jekyll
-
 install:
 - cd jekyll
 - bundle install
-
 script:
 - cd $TRAVIS_BUILD_DIR
 - cp -r _posts jekyll/
 - cd jekyll
 - bundle exec rake convert_front_matter['_posts']
 - bundle exec jekyll build --trace
-
 branches:
   except:
   - master
-
 sudo: false
