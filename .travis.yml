@@ -12,7 +12,7 @@ install:
 
 cache:
   directories:
-  - jekyll/vendor/bundle
+  - vendor/bundle
 
 script:
 - cd $TRAVIS_BUILD_DIR
