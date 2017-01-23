@@ -1,0 +1,17 @@
+language: ruby
+rvm:
+- 2.2.5
+
+# before install
+before_install:
+- git clone https://github.com/naokiy/tefuda.suku.name-jekyll.git jekyll
+
+install:
+- cd jekyll
+- bundle install
+
+branches:
+  except:
+  - master
+
+sudo: false
