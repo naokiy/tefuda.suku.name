@@ -1,7 +1,7 @@
 language: ruby
 
 rvm:
-- 2.2.5
+- 2.2
 
 before_install:
 - git clone https://github.com/naokiy/tefuda.suku.name-jekyll.git jekyll
