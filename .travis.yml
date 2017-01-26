@@ -4,21 +4,32 @@ rvm:
 - 2.2
 
 before_install:
-- git clone https://github.com/naokiy/tefuda.suku.name-jekyll.git jekyll
+- git clone https://github.com/naokiy/tefuda.suku.name-jekyll.git jekyll_fetch
+- cp -rf jekyll_fetch/* jekyll/
+- rm -rf jekyll/_posts
 - cp -r _posts jekyll/
 - openssl aes-256-cbc -K $encrypted_0b90d33a0dab_key -iv $encrypted_0b90d33a0dab_iv
   -in .travis/.deploy_key.enc -out jekyll/.deploy_key -d
 
-cache: bundler
+cache:
+  directories:
+    - jekyll
+
+
 
 install:
 - cd jekyll
 - bash ./scripts/install.sh
+- cd $TRAVIS_BUILD_DIR
 
 script:
+- cd jekyll
 - bash ./scripts/build.sh
+- cd $TRAVIS_BUILD_DIR
 
 after_success:
+- cd jekyll
 - bash ./scripts/deploy.sh
+- cd $TRAVIS_BUILD_DIR
 
 sudo: false
