@@ -11,17 +11,22 @@ before_install:
 
 cache:
   directories:
-    - vender/bundler
+    - jekyll/vender/bundler
 
 
 install:
 - cd jekyll
 - bash ./scripts/install.sh
+- cd $TRAVIS_BUILD_DIR
 
 script:
+- cd jekyll
 - bash ./scripts/build.sh
+- cd $TRAVIS_BUILD_DIR
 
 after_success:
+- cd jekyll
 - bash ./scripts/deploy.sh
+- cd $TRAVIS_BUILD_DIR
 
 sudo: false
