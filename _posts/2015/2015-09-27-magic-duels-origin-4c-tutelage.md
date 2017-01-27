@@ -24,7 +24,7 @@ tags:
 
 ----
 
-```
+```mtg-deck
 2 Plains
 3 Islands
 2 Swamp
