@@ -230,6 +230,6 @@ Friendly Sealed Leagueは全9戦。
 
 2T目《精緻会の改革派/Countless Gears Renegade》、3T目《模範操縦士、デパラ/Depala, Pilot Exemplar》、4T目《光袖会の職工/Glint-Sleeve Artisan》と並べ、強化されたドワーフで押し切る。
 
-## オチ
+## 感想
 
-こうやって見返すと、なんで《光に目が眩む/Caught in the Brights》入れてないんだろうな、としか。
+火力が優秀、というか数が多いという印象。ちょっとでかいやつが出てくるとどうにもならん。
