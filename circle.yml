@@ -5,12 +5,13 @@ general:
 
 machine:
   ruby:
-    version: 2.2.0
+    version: 2.2.6
   node:
     version: 6.1.0
 
 dependencies:
   override:
+    - git checkout https://github.com/naokiy/tefuda.suku.name-jekyll.git jekyll
     - cd jekyll && ./scripts/install.sh
     - npm install
 
