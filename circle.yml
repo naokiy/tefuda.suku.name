@@ -10,8 +10,15 @@ machine:
     version: 6.1.0
 
 dependencies:
+  cache_directories:
+    - ~/jekyll
+
   override:
-    - git clone https://github.com/naokiy/tefuda.suku.name-jekyll.git jekyll
+    - mkdir -p jekyll
+    - git clone https://github.com/naokiy/tefuda.suku.name-jekyll.git jekyll_fetch
+    - cp -rf jekyll_fetch/* jekyll/
+    - rm -rf jekyll/_posts
+    - cp -r _posts jekyll/
     - cd jekyll && bash ./scripts/install.sh
     - npm install
 
