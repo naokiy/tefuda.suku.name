@@ -26,3 +26,9 @@ test:
   override:
     - bash ./scripts/textlint.sh
     - cd jekyll && bash ./scripts/build.sh
+
+deployment:
+  production:
+    branch: develop
+    commands:
+      - cd jekyll && bash ./scripts/deploy.sh
