@@ -1,0 +1,20 @@
+{
+  "name": "tefuda.suku.name",
+  "version": "1.0.0",
+  "description": "tefuda.suku.name",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naokiy/tefuda.suku.name.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naokiy/tefuda.suku.name/issues"
+  },
+  "homepage": "https://github.com/naokiy/tefuda.suku.name#readme",
+  "devDependencies": {
+    "textlint": "^7.2.1",
+    "textlint-rule-max-ten": "^2.0.3",
+    "textlint-rule-no-mix-dearu-desumasu": "^3.0.3"
+  }
+}
