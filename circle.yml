@@ -27,6 +27,7 @@ test:
     - bash ./scripts/textlint.sh
     - cd jekyll && bash ./scripts/build.sh
 
+
 deployment:
   production:
     branch: develop
