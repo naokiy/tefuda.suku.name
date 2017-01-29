@@ -1,0 +1,34 @@
+general:
+  branches:
+    ignore:
+      - gh-pages
+
+machine:
+  ruby:
+    version: 2.2.6
+  node:
+    version: 6.1.0
+
+dependencies:
+  cache_directories:
+    - jekyll
+
+  override:
+    - mkdir -p jekyll
+    - git clone https://github.com/naokiy/tefuda.suku.name-jekyll.git jekyll_fetch
+    - cp -rf jekyll_fetch/* jekyll/
+    - rm -rf jekyll/_posts
+    - cp -r _posts jekyll/
+    - cd jekyll && bash ./scripts/install.sh
+    - npm install
+
+test:
+  override:
+    - bash ./scripts/textlint.sh
+    - cd jekyll && bash ./scripts/build.sh
+
+deployment:
+  production:
+    branch: develop
+    commands:
+      - cd jekyll && bash ./scripts/deploy.sh
