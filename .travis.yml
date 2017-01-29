@@ -1,11 +1,10 @@
-language: ruby
+language: node_js
 
-rvm:
-- 2.2
-
-node_js: 6.1
+node_js:
+- 6.1
 
 before_install:
+- rvm install 2.2
 - git clone https://github.com/naokiy/tefuda.suku.name-jekyll.git jekyll_fetch
 - cp -rf jekyll_fetch/* jekyll/
 - rm -rf jekyll/_posts
