@@ -11,7 +11,7 @@ machine:
 
 dependencies:
   override:
-    - git checkout https://github.com/naokiy/tefuda.suku.name-jekyll.git jekyll
+    - git clone https://github.com/naokiy/tefuda.suku.name-jekyll.git jekyll
     - cd jekyll && ./scripts/install.sh
     - npm install
 
