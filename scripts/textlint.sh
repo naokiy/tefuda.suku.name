@@ -13,8 +13,4 @@ diffBranchName="origin/develop"
 # 変更行のみを対象にする
 git diff --name-only --diff-filter=ACMR ${diffBranchName} \
 | grep -a '_posts/.*.md$' \
-| xargs $(npm bin)/textlint -f checkstyle \
-| checkstyle_filter-git diff ${diffBranchName} \
-| saddler report \
-    --require saddler/reporter/github \
-    --reporter Saddler::Reporter::Github::PullRequestReviewComment
+| xargs $(npm bin)/textlint -f checkstyle
