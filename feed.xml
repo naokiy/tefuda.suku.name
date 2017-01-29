@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://tefuda.suku.name/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://tefuda.suku.name/feed.xml" rel="self" type="application/atom+xml" /><link href="http://tefuda.suku.name/" rel="alternate" type="text/html" /><updated>2017-01-28T22:44:32+09:00</updated><id>http://tefuda.suku.name//</id><title type="html">手札少なめ</title><subtitle>tefuda.suku.name</subtitle><entry><title type="html">MO - Friendly Sealed League - KLDx2 AERx4 - 1回目 第1ステージ</title><link href="http://tefuda.suku.name/2017/01/28/MO-Friendly-Sealed-League-KLDx2-AERx4-1%E5%9B%9E%E7%9B%AE-%E7%AC%AC1%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8/" rel="alternate" type="text/html" title="MO - Friendly Sealed League - KLDx2 AERx4 - 1回目 第1ステージ" /><published>2017-01-28T00:00:00+09:00</published><updated>2017-01-28T00:00:00+09:00</updated><id>http://tefuda.suku.name/2017/01/28/MO%20-%20Friendly%20Sealed%20League%20-%20KLDx2%20AERx4%20-%201%E5%9B%9E%E7%9B%AE%20%E7%AC%AC1%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8</id><content type="html" xml:base="http://tefuda.suku.name/2017/01/28/MO-Friendly-Sealed-League-KLDx2-AERx4-1%E5%9B%9E%E7%9B%AE-%E7%AC%AC1%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8/">&lt;h2 id=&quot;概要&quot;&gt;概要&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://tefuda.suku.name/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://tefuda.suku.name/feed.xml" rel="self" type="application/atom+xml" /><link href="http://tefuda.suku.name/" rel="alternate" type="text/html" /><updated>2017-01-29T14:49:23+09:00</updated><id>http://tefuda.suku.name//</id><title type="html">手札少なめ</title><subtitle>tefuda.suku.name</subtitle><entry><title type="html">MO - Friendly Sealed League - KLDx2 AERx4 - 1回目 第1ステージ</title><link href="http://tefuda.suku.name/2017/01/28/MO-Friendly-Sealed-League-KLDx2-AERx4-1%E5%9B%9E%E7%9B%AE-%E7%AC%AC1%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8/" rel="alternate" type="text/html" title="MO - Friendly Sealed League - KLDx2 AERx4 - 1回目 第1ステージ" /><published>2017-01-28T00:00:00+09:00</published><updated>2017-01-28T00:00:00+09:00</updated><id>http://tefuda.suku.name/2017/01/28/MO%20-%20Friendly%20Sealed%20League%20-%20KLDx2%20AERx4%20-%201%E5%9B%9E%E7%9B%AE%20%E7%AC%AC1%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8</id><content type="html" xml:base="http://tefuda.suku.name/2017/01/28/MO-Friendly-Sealed-League-KLDx2-AERx4-1%E5%9B%9E%E7%9B%AE-%E7%AC%AC1%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8/">&lt;h2 id=&quot;概要&quot;&gt;概要&lt;/h2&gt;
 
 &lt;p&gt;MOでリミテッド遊んでる。ただ漫然とプレイするのでなく、あとから見直すために記録をつけてみることにした。&lt;/p&gt;
 
@@ -505,9 +505,9 @@ Friendly Sealed Leagueは全9戦。
 &lt;hr /&gt;
 
 &lt;pre&gt;&lt;code class=&quot;language-mtg-deck&quot;&gt;2 Plains
-3 Islands
+3 Island
 2 Swamp
-3 Forests
+4 Forest
 2 Woodland Cemetery
 2 Drowned Catacomb
 2 Hinterland Harbor
@@ -717,7 +717,7 @@ Friendly Sealed Leagueは全9戦。
 
 &lt;p&gt;《悲劇的な傲慢/Tragic Arrogance》の前に《衰滅/Languish》を使ってしまうと結局デカブツが落とせなくなって死ぬ。&lt;/p&gt;
 
-&lt;h3 id=&quot;土地26枚&quot;&gt;土地26枚&lt;/h3&gt;
+&lt;h3 id=&quot;土地27枚&quot;&gt;土地27枚&lt;/h3&gt;
 
 &lt;p&gt;このデッキの要件としては…&lt;/p&gt;
 
@@ -726,7 +726,7 @@ Friendly Sealed Leagueは全9戦。
   &lt;li&gt;4色(うち3色はダブルシンボルあり)のカードを唱えられる必要あり → 無色マナしか出ないような土地は入れるスペース無し&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;というわけで、《進化する未開地/Evolving Wilds》4枚、M10ランド6種12枚、基本土地10枚の構成。&lt;/p&gt;
+&lt;p&gt;というわけで、《進化する未開地/Evolving Wilds》4枚、M10ランド6種12枚、基本土地11枚の構成。&lt;/p&gt;
 
 &lt;p&gt;《森/Forest》が多めに入ってるのは《巨森の予見者、ニッサ/Nissa, Vastwood Seer》でサーチが空振りになることを防ぐため。&lt;/p&gt;
 
