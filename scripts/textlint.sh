@@ -30,8 +30,4 @@ git diff --name-only --diff-filter=ACMR ${diffBranchName} \
     --reporter Saddler::Reporter::Github::PullRequestReviewComment
 
 
-git diff --name-only --diff-filter=ACMR ${diffBranchName} \
-| grep -a '_posts/.*.md$' \
-| xargs $(npm bin)/textlint
-
 
