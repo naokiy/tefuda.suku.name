@@ -28,7 +28,7 @@ MOでリミテッド遊んでる。ただ漫然とプレイするのでなく、
 ## プールとデッキ
 
 Friendly Sealed Leagueは全9戦。
-3戦ごとにステージに分けられており、第1ステージではカラデシュ2パック、霊気紛争4パックからデッキを作る。
+3戦ずつステージに分けられており、第1ステージではカラデシュ2パック、霊気紛争4パックからデッキを作る。
 第2ステージでは霊気紛争1パックが、第3ステージではカラデシュ1パックが追加される。
 
 まずは第一ステージのプールから。
@@ -216,7 +216,7 @@ Friendly Sealed Leagueは全9戦。
 
 2T目《修復専門家/Restoration Specialist》、3T目《生真面目な補充兵/Solemn Recruit》。
 
-相手3T目、2T目に出した《霊気追跡者/Aether Chaser》に《巨人の光景/Giant Spectacle》をエンチャントし、4/2・威迫・先制攻撃で殴ってくる。
+相手3T目、2T目に出した《霊気追跡者/Aether Chaser》に対して《巨人の光景/Giant Spectacle》をエンチャントし、4/2・威迫・先制攻撃で殴ってくる。
 
 これを《チャンドラの革命/Chandra's Revolution》で焼く。
 
@@ -228,7 +228,7 @@ Friendly Sealed Leagueは全9戦。
 
 相手4マリガン。
 
-2T目《精緻会の改革派/Countless Gears Renegade》、3T目《模範操縦士、デパラ/Depala, Pilot Exemplar》、4T目《光袖会の職工/Glint-Sleeve Artisan》と並べ、強化されたドワーフで押し切る。
+2T目《精緻会の改革派/Countless Gears Renegade》・3T目《模範操縦士、デパラ/Depala, Pilot Exemplar》・4T目《光袖会の職工/Glint-Sleeve Artisan》と並べ、強化されたドワーフで押し切る。
 
 ## 感想
 
