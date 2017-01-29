@@ -26,9 +26,9 @@ tags:
 
 ```mtg-deck
 2 Plains
-3 Islands
+3 Island
 2 Swamp
-3 Forests
+4 Forest
 2 Woodland Cemetery
 2 Drowned Catacomb
 2 Hinterland Harbor
@@ -214,14 +214,14 @@ tags:
 
 《悲劇的な傲慢/Tragic Arrogance》の前に《衰滅/Languish》を使ってしまうと結局デカブツが落とせなくなって死ぬ。
 
-### 土地26枚
+### 土地27枚
 
 このデッキの要件としては…
 
   * 3ターン目に確実に3マナ出ること → どの状況でもタップインであるギルド門を入れるスペースはない
   * 4色(うち3色はダブルシンボルあり)のカードを唱えられる必要あり → 無色マナしか出ないような土地は入れるスペース無し
 
-というわけで、《進化する未開地/Evolving Wilds》4枚、M10ランド6種12枚、基本土地10枚の構成。
+というわけで、《進化する未開地/Evolving Wilds》4枚、M10ランド6種12枚、基本土地11枚の構成。
 
 《森/Forest》が多めに入ってるのは《巨森の予見者、ニッサ/Nissa, Vastwood Seer》でサーチが空振りになることを防ぐため。
 
