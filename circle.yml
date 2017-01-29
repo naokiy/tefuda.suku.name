@@ -12,10 +12,10 @@ machine:
 dependencies:
   override:
     - git clone https://github.com/naokiy/tefuda.suku.name-jekyll.git jekyll
-    - cd jekyll && ./scripts/install.sh
+    - cd jekyll && bash ./scripts/install.sh
     - npm install
 
 test:
   override:
     - ./scripts/textlint.sh
-    - cd jekyll && ./scripts/build.sh
+    - cd jekyll && bash ./scripts/build.sh
