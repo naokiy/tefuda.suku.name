@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://tefuda.suku.name/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://tefuda.suku.name/feed.xml" rel="self" type="application/atom+xml" /><link href="http://tefuda.suku.name/" rel="alternate" type="text/html" /><updated>2017-01-29T23:28:20+09:00</updated><id>http://tefuda.suku.name//</id><title type="html">手札少なめ</title><subtitle>tefuda.suku.name</subtitle><entry><title type="html">MO - Friendly Sealed League - KLDx2 AERx4 - 1回目 第1ステージ</title><link href="http://tefuda.suku.name/2017/01/28/MO-Friendly-Sealed-League-KLDx2-AERx4-1%E5%9B%9E%E7%9B%AE-%E7%AC%AC1%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8/" rel="alternate" type="text/html" title="MO - Friendly Sealed League - KLDx2 AERx4 - 1回目 第1ステージ" /><published>2017-01-28T00:00:00+09:00</published><updated>2017-01-28T00:00:00+09:00</updated><id>http://tefuda.suku.name/2017/01/28/MO%20-%20Friendly%20Sealed%20League%20-%20KLDx2%20AERx4%20-%201%E5%9B%9E%E7%9B%AE%20%E7%AC%AC1%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8</id><content type="html" xml:base="http://tefuda.suku.name/2017/01/28/MO-Friendly-Sealed-League-KLDx2-AERx4-1%E5%9B%9E%E7%9B%AE-%E7%AC%AC1%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8/">&lt;h2 id=&quot;概要&quot;&gt;概要&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://tefuda.suku.name/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://tefuda.suku.name/feed.xml" rel="self" type="application/atom+xml" /><link href="http://tefuda.suku.name/" rel="alternate" type="text/html" /><updated>2017-01-29T23:40:48+09:00</updated><id>http://tefuda.suku.name//</id><title type="html">手札少なめ</title><subtitle>tefuda.suku.name</subtitle><entry><title type="html">MO - Friendly Sealed League - KLDx2 AERx4 - 1回目 第1ステージ</title><link href="http://tefuda.suku.name/2017/01/28/MO-Friendly-Sealed-League-KLDx2-AERx4-1%E5%9B%9E%E7%9B%AE-%E7%AC%AC1%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8/" rel="alternate" type="text/html" title="MO - Friendly Sealed League - KLDx2 AERx4 - 1回目 第1ステージ" /><published>2017-01-28T00:00:00+09:00</published><updated>2017-01-28T00:00:00+09:00</updated><id>http://tefuda.suku.name/2017/01/28/MO%20-%20Friendly%20Sealed%20League%20-%20KLDx2%20AERx4%20-%201%E5%9B%9E%E7%9B%AE%20%E7%AC%AC1%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8</id><content type="html" xml:base="http://tefuda.suku.name/2017/01/28/MO-Friendly-Sealed-League-KLDx2-AERx4-1%E5%9B%9E%E7%9B%AE-%E7%AC%AC1%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8/">&lt;h2 id=&quot;概要&quot;&gt;概要&lt;/h2&gt;
 
 &lt;p&gt;MOでリミテッド遊んでる。ただ漫然とプレイするのでなく、あとから見直すために記録をつけてみることにした。&lt;/p&gt;
 
@@ -15,7 +15,7 @@
 &lt;h2 id=&quot;プールとデッキ&quot;&gt;プールとデッキ&lt;/h2&gt;
 
 &lt;p&gt;Friendly Sealed Leagueは全9戦。
-3戦ごとにステージに分けられており、第1ステージではカラデシュ2パック、霊気紛争4パックからデッキを作る。
+3戦ずつステージに分けられており、第1ステージではカラデシュ2パック、霊気紛争4パックからデッキを作る。
 第2ステージでは霊気紛争1パックが、第3ステージではカラデシュ1パックが追加される。&lt;/p&gt;
 
 &lt;p&gt;まずは第一ステージのプールから。&lt;/p&gt;
@@ -203,7 +203,7 @@
 
 &lt;p&gt;2T目《修復専門家/Restoration Specialist》、3T目《生真面目な補充兵/Solemn Recruit》。&lt;/p&gt;
 
-&lt;p&gt;相手3T目、2T目に出した《霊気追跡者/Aether Chaser》に《巨人の光景/Giant Spectacle》をエンチャントし、4/2・威迫・先制攻撃で殴ってくる。&lt;/p&gt;
+&lt;p&gt;相手3T目、2T目に出した《霊気追跡者/Aether Chaser》に対して《巨人の光景/Giant Spectacle》をエンチャントし、4/2・威迫・先制攻撃で殴ってくる。&lt;/p&gt;
 
 &lt;p&gt;これを《チャンドラの革命/Chandra’s Revolution》で焼く。&lt;/p&gt;
 
@@ -215,7 +215,7 @@
 
 &lt;p&gt;相手4マリガン。&lt;/p&gt;
 
-&lt;p&gt;2T目《精緻会の改革派/Countless Gears Renegade》、3T目《模範操縦士、デパラ/Depala, Pilot Exemplar》、4T目《光袖会の職工/Glint-Sleeve Artisan》と並べ、強化されたドワーフで押し切る。&lt;/p&gt;
+&lt;p&gt;2T目《精緻会の改革派/Countless Gears Renegade》・3T目《模範操縦士、デパラ/Depala, Pilot Exemplar》・4T目《光袖会の職工/Glint-Sleeve Artisan》と並べ、強化されたドワーフで押し切る。&lt;/p&gt;
 
 &lt;h2 id=&quot;感想&quot;&gt;感想&lt;/h2&gt;
 
@@ -236,7 +236,7 @@ MOでリミテッド遊んでる。ただ漫然とプレイするのでなく、
 プールとデッキ
 
 Friendly Sealed Leagueは全9戦。
-3戦ごとにステージに分けられており、第1ステージではカラデシュ2パック、霊気紛争4パックからデッキを作る。
+3戦ずつステージに分けられており、第1ステージではカラデシュ2パック、霊気紛争4パックからデッキを作る。
 第2ステージでは霊気紛争1パックが、第3ステージではカラデシュ1パックが追加される。
 
 まずは第一ステージのプールから。
@@ -424,7 +424,7 @@ Friendly Sealed Leagueは全9戦。
 
 2T目《修復専門家/Restoration Specialist》、3T目《生真面目な補充兵/Solemn Recruit》。
 
-相手3T目、2T目に出した《霊気追跡者/Aether Chaser》に《巨人の光景/Giant Spectacle》をエンチャントし、4/2・威迫・先制攻撃で殴ってくる。
+相手3T目、2T目に出した《霊気追跡者/Aether Chaser》に対して《巨人の光景/Giant Spectacle》をエンチャントし、4/2・威迫・先制攻撃で殴ってくる。
 
 これを《チャンドラの革命/Chandra’s Revolution》で焼く。
 
@@ -436,19 +436,19 @@ Friendly Sealed Leagueは全9戦。
 
 相手4マリガン。
 
-2T目《精緻会の改革派/Countless Gears Renegade》、3T目《模範操縦士、デパラ/Depala, Pilot Exemplar》、4T目《光袖会の職工/Glint-Sleeve Artisan》と並べ、強化されたドワーフで押し切る。
+2T目《精緻会の改革派/Countless Gears Renegade》・3T目《模範操縦士、デパラ/Depala, Pilot Exemplar》・4T目《光袖会の職工/Glint-Sleeve Artisan》と並べ、強化されたドワーフで押し切る。
 
 感想
 
 火力が優秀、というか数が多いという印象。ちょっとでかいやつが出てくるとどうにもならん。</summary></entry><entry><title type="html">機会費用の力</title><link href="http://tefuda.suku.name/2015/10/14/%E6%A9%9F%E4%BC%9A%E8%B2%BB%E7%94%A8%E3%81%AE%E5%8A%9B/" rel="alternate" type="text/html" title="機会費用の力" /><published>2015-10-14T00:00:00+09:00</published><updated>2015-10-14T00:00:00+09:00</updated><id>http://tefuda.suku.name/2015/10/14/%E6%A9%9F%E4%BC%9A%E8%B2%BB%E7%94%A8%E3%81%AE%E5%8A%9B</id><content type="html" xml:base="http://tefuda.suku.name/2015/10/14/%E6%A9%9F%E4%BC%9A%E8%B2%BB%E7%94%A8%E3%81%AE%E5%8A%9B/">&lt;h2 id=&quot;原文&quot;&gt;原文&lt;/h2&gt;
 
-&lt;p&gt;この文章は&lt;a href=&quot;http://www.channelfireball.com/&quot;&gt;Channel Fireball&lt;/a&gt;に掲載された&lt;a href=&quot;http://www.channelfireball.com/articles/the-power-of-opportunity-cost/&quot;&gt;The Power of Opportunity Cost&lt;/a&gt;の和訳です。原文の掲載は2015年10月8日でした。&lt;/p&gt;
+&lt;p&gt;この文章は&lt;a href=&quot;http://www.channelfireball.com/&quot;&gt;Channel Fireball&lt;/a&gt;に掲載された&lt;a href=&quot;http://www.channelfireball.com/articles/the-power-of-opportunity-cost/&quot;&gt;The Power of Opportunity Cost&lt;/a&gt;の和訳である。原文の掲載は2015年10月8日だった。&lt;/p&gt;
 
 &lt;!-- more --&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;マジックから学ぶことができる最も強力な考え方の一つが、機会費用に基づく判断の評価である。意思決定において、このスキルを学んだ人間とまだ学んでいない人間の間にある違いは膨大だ。これはまさに人生を変えるレッスンであり、いかに幸福のためにマジックを用いることができるかという一つの良い例でもある。&lt;/p&gt;
+&lt;p&gt;マジックから学ぶことができる最も強力な考え方の1つが、機会費用に基づく判断の評価である。意思決定において、このスキルを学んだ人間とまだ学んでいない人間の間にある違いは膨大だ。これはまさに人生を変えるレッスンであり、いかに幸福のためにマジックを用いることができるかという1つの良い例でもある。&lt;/p&gt;
 
 &lt;h2 id=&quot;機会費用の力&quot;&gt;機会費用の力&lt;/h2&gt;
 
@@ -557,7 +557,7 @@ Friendly Sealed Leagueは全9戦。
 
 &lt;h3 id=&quot;門を這う蔦gatecreeper-vine-3枚&quot;&gt;《門を這う蔦/Gatecreeper Vine》 3枚&lt;/h3&gt;
 
-&lt;p&gt;3ターン目に《スフィンクスの後見/Sphinx’s Tutelage》、それ以降は《濃霧/Fog》を構えながらドロースペル連射、適宜《衰滅/Languish》または《悲劇的な傲慢/Tragic Arrogance》を撃ちたい、というデッキなので、3ターン目の3マナを用意しつつ色マナを安定させることは超重要。&lt;/p&gt;
+&lt;p&gt;このデッキのやりたいことは、まず3ターン目に《スフィンクスの後見/Sphinx’s Tutelage》の設置。それ以降は《濃霧/Fog》を構えながらドロースペル連射、適宜《衰滅/Languish》または《悲劇的な傲慢/Tragic Arrogance》。つまり、3ターン目の3マナを用意しつつ色マナを安定させることは超重要。&lt;/p&gt;
 
 &lt;p&gt;ただし、2T目に出せた時やダブルシンボルを揃えられるときは強いものの、それ以外の局面ではあまり引きたくないので1枚減らしている。&lt;/p&gt;
 
@@ -570,7 +570,7 @@ Friendly Sealed Leagueは全9戦。
   &lt;li&gt;飛行クリーチャーの群れに無視される&lt;/li&gt;
   &lt;li&gt;《秘儀術師の掌握/Grasp of the Hieromancer》で毎ターンタップされる&lt;/li&gt;
   &lt;li&gt;《残酷な蘇生/Cruel Revival》でアドバンテージ取られながら死ぬ&lt;/li&gt;
-  &lt;li&gt;《霊気への抑留/Anchor to the AEther》でライブラリーの一番上に戻される。実質的にドロー1回スキップ。&lt;/li&gt;
+  &lt;li&gt;《霊気への抑留/Anchor to the AEther》でライブラリーの一番上に戻される。実質的にドロー1回スキップ&lt;/li&gt;
   &lt;li&gt;《反逆の行動/Act of Treason》で寝返って《猛火のヘルハウンド/Blazing Hellhound》なんかの餌になって死ぬ&lt;/li&gt;
   &lt;li&gt;《野性の本能/Wild Instincts》で格闘して死ぬ (相手クリーチャー1体が+2/+2される)&lt;/li&gt;
   &lt;li&gt;魔巧を達成した《残虐無道の猛火/Ravaging Blaze》でプレイヤーごと死ぬ (最悪)&lt;/li&gt;
@@ -593,7 +593,7 @@ Friendly Sealed Leagueは全9戦。
 
 &lt;p&gt;序盤・中盤・終盤いつ引いても嬉しい。フル投入。&lt;/p&gt;
 
-&lt;p&gt;他の2マナのカードと比べて守りの役にはほぼ立たないが、ダブルマリガンしたハンドから《スフィンクスの後見/Sphinx’s Tutelage》を探したり、手札のリセット呪文に合わせて土地を探したり、やることは多い。
+&lt;p&gt;他の2マナのカードと比べて守りの役にはほぼ立たないが、ダブルマリガンしたハンドから《スフィンクスの後見/Sphinx’s Tutelage》を探したり、手札のリセット呪文に合わせて土地を探したりとやることは多い。
 デッキにたくさん入ってる土地をボトムに送れるのは超重要。&lt;/p&gt;
 
 &lt;p&gt;2ターン目に使うなら《錬金術師の薬瓶/Alchemist’s Vial》より優先してる。&lt;/p&gt;
@@ -609,7 +609,7 @@ Friendly Sealed Leagueは全9戦。
 &lt;p&gt;勝ち手段ナンバー1。目一杯積んだ。
 サイドボードからエンチャント除去が入ったりしない環境なので安心感がある。&lt;/p&gt;
 
-&lt;p&gt;序盤に手札に3枚揃ったりすると死ねるが、1枚も来ないとまず勝てないので、初手にないときはトリプルマリガンくらいはしてる。&lt;/p&gt;
+&lt;p&gt;序盤の手札に3枚揃ったりすると死ねるが、1枚も来ないとまず勝てないので、初手にないときはトリプルマリガンくらいはしてる。&lt;/p&gt;
 
 &lt;p&gt;終盤には相手のデッキをほぼ確認できるので、「カウンターは《計算された放逐/Calculated Dismissal》しか入ってなさそう」とか読めるのがグッド。&lt;/p&gt;
 
@@ -650,7 +650,7 @@ Friendly Sealed Leagueは全9戦。
 &lt;p&gt;例えば《スフィンクスの後見/Sphinx’s Tutelage》がある状態で《霊感/Inspiration》を使うと、4マナ2ドローで相手のライブラリーを4枚(+α)削れる。
 一方でこのカードは《スフィンクスの後見/Sphinx’s Tutelage》抜きで使えて、ライブラリーを削る枚数が3枚多い。除去とかドロースペルがめくれると美味しすぎる。&lt;/p&gt;
 
-&lt;p&gt;魔巧を達成するまで待つかとか、除去がめくれた時のことを考えて相手のクリーチャーが出るのを待つかとか、唱えるかどうか迷うことはよくある。往々にして何もめくれないんだけど。&lt;/p&gt;
+&lt;p&gt;魔巧を達成するまで待つか、除去がめくれた時のことを考えて相手のクリーチャーが出るのを待つか、唱えるかどうか迷うことはよくある。往々にして何もめくれないんだけど。&lt;/p&gt;
 
 &lt;p&gt;《スフィンクスの後見/Sphinx’s Tutelage》デッキ同士のゲームで、うっかり相手の《テレパスの才能/Talent of the Telepath》がめくれると宇宙。&lt;/p&gt;
 
@@ -738,7 +738,7 @@ Friendly Sealed Leagueは全9戦。
 マストカウンター(《カラデシュの火、チャンドラ/Chandra, Fire of Kaladesh》とか《過去の過ち/Shadows of the Past》とか)に対して、往々にして間に合わない。
 間に合ったところでこっちのほうが多くマナを払ってるし、マナ拘束が重すぎるので抜けた。&lt;/p&gt;
 
-&lt;p&gt;相手ターンでは《水撃/Hydrolash》使ったり《濃霧/Fog》使ったり、やるべきことは多い。
+&lt;p&gt;《水撃/Hydrolash》とか《濃霧/Fog》とか、相手ターンにやるべきことは多い。
 《ガイアの復讐者/Gaea’s Revenge》の存在がでかいのも確か。&lt;/p&gt;
 
 &lt;h3 id=&quot;霊感inspiration&quot;&gt;《霊感/Inspiration》&lt;/h3&gt;
@@ -749,7 +749,7 @@ Friendly Sealed Leagueは全9戦。
 &lt;h3 id=&quot;墓刃の匪賊graveblade-marauder&quot;&gt;《墓刃の匪賊/Graveblade Marauder》&lt;/h3&gt;
 
 &lt;p&gt;赤を相手にしたときの《反逆の行動/Act of Treason》や《裏切りの本能/Traitorous Instinct》が怖すぎるので抜いた。
-序盤に出せた時に数ターン稼いでくれるし、《ガイアの復讐者/Gaea’s Revenge》も止まるので、入れなおしてもいいかもしれない。
+序盤に出せれば数ターン稼いでくれるし、《ガイアの復讐者/Gaea’s Revenge》も止まるので、入れなおしてもいいかもしれない。
 緑単相手でもないかぎりこいつが生き延びることはないと思うが…。&lt;/p&gt;
 
 &lt;h3 id=&quot;変位の波displacement-wave&quot;&gt;《変位の波/Displacement Wave》&lt;/h3&gt;
@@ -762,7 +762,7 @@ Friendly Sealed Leagueは全9戦。
 
 &lt;p&gt;単体除去に割くスペースはない。&lt;/p&gt;</content><category term="[&quot;MTG&quot;, &quot;マジック・デュエルズ&quot;]" /><category term="Magic Duels Origins" /><category term="デッキ" /><category term="白" /><category term="青" /><category term="黒" /><category term="緑" /><category term="白青黒緑" /><category term="《スフィンクスの後見/Sphinx's Tutelage》" /><summary type="html">戦乱のゼンディカー リリース遅延記念</summary></entry><entry><title type="html">《ドロモカの命令/Dromoka’s Command(DTK)》で白緑英雄的デッキは組めるのか</title><link href="http://tefuda.suku.name/2015/03/23/%E3%83%89%E3%83%AD%E3%83%A2%E3%82%AB%E3%81%AE%E5%91%BD%E4%BB%A4-Dromoka's-Command(DTK)-%E3%81%A7%E7%99%BD%E7%B7%91%E8%8B%B1%E9%9B%84%E7%9A%84%E3%83%87%E3%83%83%E3%82%AD%E3%81%AF%E7%B5%84%E3%82%81%E3%82%8B%E3%81%AE%E3%81%8B/" rel="alternate" type="text/html" title="《ドロモカの命令/Dromoka's Command(DTK)》で白緑英雄的デッキは組めるのか" /><published>2015-03-23T00:00:00+09:00</published><updated>2015-03-23T00:00:00+09:00</updated><id>http://tefuda.suku.name/2015/03/23/%E3%80%8A%E3%83%89%E3%83%AD%E3%83%A2%E3%82%AB%E3%81%AE%E5%91%BD%E4%BB%A4/Dromoka's%20Command(DTK)%E3%80%8B%E3%81%A7%E7%99%BD%E7%B7%91%E8%8B%B1%E9%9B%84%E7%9A%84%E3%83%87%E3%83%83%E3%82%AD%E3%81%AF%E7%B5%84%E3%82%81%E3%82%8B%E3%81%AE%E3%81%8B</id><content type="html" xml:base="http://tefuda.suku.name/2015/03/23/%E3%83%89%E3%83%AD%E3%83%A2%E3%82%AB%E3%81%AE%E5%91%BD%E4%BB%A4-Dromoka's-Command(DTK)-%E3%81%A7%E7%99%BD%E7%B7%91%E8%8B%B1%E9%9B%84%E7%9A%84%E3%83%87%E3%83%83%E3%82%AD%E3%81%AF%E7%B5%84%E3%82%81%E3%82%8B%E3%81%AE%E3%81%8B/">&lt;p&gt;《ヘリオッドの試練/Ordeal of Heliod(THS)》や《タッサの試練/Ordeal of Thassa(THS)》を無理やり突破できてしまうカード《アブザンの優位/Abzan Advantage(FRF)》。&lt;/p&gt;
 
-&lt;p&gt;その《アブザンの優位/Abzan Advantage(FRF)》を多色にしたら、自分で英雄的を使えるようになった上にできることがやたら増えたというわけのわからないカードが《ドロモカの命令/Dromoka’s Command(DTK)》。&lt;/p&gt;
+&lt;p&gt;その《アブザンの優位/Abzan Advantage(FRF)》を多色にしたら、自分で英雄的を使えるようになり、いろいろできるようになったというわけのわからないカードが《ドロモカの命令/Dromoka’s Command(DTK)》。&lt;/p&gt;
 
 &lt;p&gt;このへん使って英雄的デッキ組めないかな。緑の英雄的にろくなやつがいないのできついか。&lt;/p&gt;
 
@@ -833,7 +833,7 @@ Friendly Sealed Leagueは全9戦。
 
 &lt;h3 id=&quot;霜のオオヤマネコfrost-lynxm15-2u&quot;&gt;《霜のオオヤマネコ/Frost Lynx(M15)》 (2)(U)&lt;/h3&gt;
 
-&lt;p&gt;擬似除去。何より色があってるのが嬉しい。&lt;/p&gt;
+&lt;p&gt;擬似除去。同じ色であることが何よりも嬉しい。&lt;/p&gt;
 
 &lt;h3 id=&quot;血顎の狂信者blood-chin-fanaticdtk-1bb&quot;&gt;《血顎の狂信者/Blood-Chin Fanatic(DTK)》 (1)(B)(B)&lt;/h3&gt;
 
@@ -842,7 +842,7 @@ Friendly Sealed Leagueは全9戦。
 
 &lt;h3 id=&quot;厳かな守護者grim-guardianjou-2b&quot;&gt;《厳かな守護者/Grim Guardian(JOU)》 (2)(B)&lt;/h3&gt;
 
-&lt;p&gt;《嘲る映し身/Mirror Mockery(DTK)》が戦場に出たときに1回と、コピーが出たときに2回誘発するので、星座持ちにつけると星座が3回誘発する計算。
+&lt;p&gt;《嘲る映し身/Mirror Mockery(DTK)》が戦場に出たとき1回、コピーが出たとき2回誘発するので、星座持ちにつけると星座が3回誘発する計算。
 他の星座持ちや《嘲る映し身/Mirror Mockery(DTK)》が複数出てるとさらに美味しい。&lt;/p&gt;
 
 &lt;p&gt;攻撃するたび2点ルーズだが、それだけじゃあ《カルシのサディスト/Qarsi Sadist(DTK)》だよなあ。&lt;/p&gt;
@@ -861,8 +861,8 @@ Friendly Sealed Leagueは全9戦。
 
 &lt;h3 id=&quot;波使いmaster-of-wavesths-3u&quot;&gt;《波使い/Master of Waves(THS)》 (3)(U)&lt;/h3&gt;
 
-&lt;p&gt;攻撃するたびにトークンが一回り大きくなって、増える。
-オリジナルの波使い + 波使いのコピー + 嘲る写し身 で信心3が確定してるのがGood。&lt;/p&gt;
+&lt;p&gt;攻撃するたびにトークンがひとまわり大きくなって、増える。
+オリジナルの《波使い/Master of Waves》+ 《波使い/Master of Waves》のコピー + 《嘲る映し身/Mirror Mockery》で信心3が確定している。Good。&lt;/p&gt;
 
 &lt;h3 id=&quot;死者を冒涜するものprofaner-of-the-deaddtk-3u&quot;&gt;《死者を冒涜するもの/Profaner of the Dead(DTK)》 (3)(U)&lt;/h3&gt;
 
@@ -874,7 +874,7 @@ Friendly Sealed Leagueは全9戦。
 &lt;h3 id=&quot;フィナックスの信奉者disciple-of-phenaxths-2bb&quot;&gt;《フィナックスの信奉者/Disciple of Phenax(THS)》 (2)(B)(B)&lt;/h3&gt;
 
 &lt;p&gt;攻撃するたび、相手の手札を最低4枚見て1枚捨てさせる。
-こっちに選択権があるのが嬉しい。&lt;/p&gt;
+選択権がこっちにあって嬉しい。&lt;/p&gt;
 
 &lt;h3 id=&quot;禿鷹エイヴンvulturous-avendtk-3b&quot;&gt;《禿鷹エイヴン/Vulturous Aven(DTK)》 (3)(B)&lt;/h3&gt;
 
@@ -883,14 +883,14 @@ Friendly Sealed Leagueは全9戦。
 
 &lt;h3 id=&quot;開花の幻霊eidolon-of-blossomsjou-2gg&quot;&gt;《開花の幻霊/Eidolon of Blossoms(JOU)》 (2)(G)(G)&lt;/h3&gt;
 
-&lt;p&gt;攻撃するたび2ドロー。幻霊自体のスペックが高くないのが悲しい。
+&lt;p&gt;攻撃するたび2ドロー。幻霊自体の小ささが悲しい。
 星座方面にカードを寄せるなら入るカードではある。&lt;/p&gt;
 
 &lt;h3 id=&quot;包囲サイsiege-rhinoktk-1wbg&quot;&gt;《包囲サイ/Siege Rhino(KTK)》 (1)(W)(B)(G)&lt;/h3&gt;
 
 &lt;p&gt;相性が良いというか、もともと強い。攻撃するたび3点ドレイン。&lt;/p&gt;
 
-&lt;p&gt;色が全く合ってないのが弱点。&lt;/p&gt;
+&lt;p&gt;難点は色が全く合っていないこと。&lt;/p&gt;
 
 &lt;h3 id=&quot;風番いのロックwingmate-rocktk-3ww&quot;&gt;《風番いのロック/Wingmate Roc(KTK)》 (3)(W)(W)&lt;/h3&gt;
 
