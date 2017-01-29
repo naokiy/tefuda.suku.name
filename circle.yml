@@ -1,0 +1,20 @@
+general:
+  branches:
+    ignore:
+      - gh-pages
+
+machine:
+  ruby:
+    version: 2.2.0
+  node:
+    version: 6.1.0
+
+dependencies:
+  override:
+    - cd jekyll && ./scripts/install.sh
+    - npm install
+
+test:
+  override:
+    - ./scripts/textlint.sh
+    - cd jekyll && ./scripts/build.sh
