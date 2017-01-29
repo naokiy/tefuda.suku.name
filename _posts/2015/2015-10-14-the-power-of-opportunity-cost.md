@@ -11,13 +11,13 @@ categories:
 
 ## 原文
 
-この文章は[Channel Fireball](http://www.channelfireball.com/)に掲載された[The Power of Opportunity Cost](http://www.channelfireball.com/articles/the-power-of-opportunity-cost/)の和訳です。原文の掲載は2015年10月8日でした。
+この文章は[Channel Fireball](http://www.channelfireball.com/)に掲載された[The Power of Opportunity Cost](http://www.channelfireball.com/articles/the-power-of-opportunity-cost/)の和訳である。原文の掲載は2015年10月8日だった。
 
 <!-- more -->
 
 ----
 
-マジックから学ぶことができる最も強力な考え方の一つが、機会費用に基づく判断の評価である。意思決定において、このスキルを学んだ人間とまだ学んでいない人間の間にある違いは膨大だ。これはまさに人生を変えるレッスンであり、いかに幸福のためにマジックを用いることができるかという一つの良い例でもある。
+マジックから学ぶことができる最も強力な考え方の一つが、機会費用に基づく判断の評価である。意思決定において、このスキルを学んだ人間とまだ学んでいない人間の間にある違いは膨大だ。これはまさに人生を変えるレッスンであり、いかに幸福のためにマジックを用いることができるかという1つの良い例でもある。
 
 ## 機会費用の力
 
