@@ -16,7 +16,7 @@ MTG公式サイトの連載だったLevel Oneへのリンク集。自分用ま�
 
 ----
 
-== Mike Flores氏 ==
+## Mike Flores氏
 
   * [Strategy](http://web.archive.org/web/20140707094843/http://archive.wizards.com/Magic/magazine/article.aspx?x=mtg/daily/lo/284) (Internet Archive)
   * [Strategies](http://web.archive.org/web/20140723071613/http://archive.wizards.com/Magic/magazine/article.aspx?x=mtg/daily/lo/285) (Internet Archive)
@@ -28,7 +28,7 @@ MTG公式サイトの連載だったLevel Oneへのリンク集。自分用ま�
   * [Card Advantage Two-for-Ones](http://magic.wizards.com/en/articles/archive/level-one/card-advantage-two-ones-2014-03-17)
   * [Mana Curve](http://web.archive.org/web/20140731125615/http://archive.wizards.com/Magic/magazine/article.aspx?x=mtg/daily/lo/292) (Internet Archive)
   * [(More) Expensive Casting Costs](http://web.archive.org/web/20150518222444/http://archive.wizards.com/Magic/magazine/Article.aspx?x=mtg/daily/lo/293) (Internet Archive)
-  * [Symmetry | Symmetrical Effects](http://web.archive.org/web/20150916173327/http://archive.wizards.com/Magic/magazine/Article.aspx?x=mtg/daily/lo/294) (Internet Archive)
+  * [Symmetry - Symmetrical Effects](http://web.archive.org/web/20150916173327/http://archive.wizards.com/Magic/magazine/Article.aspx?x=mtg/daily/lo/294) (Internet Archive)
   * [Lucky Djinn](http://magic.wizards.com/en/articles/archive/level-one/lucky-djinn-2014-04-14)
   * [Life and Cards I: Philosophy of Fire](http://magic.wizards.com/en/articles/archive/level-one/life-and-cards-i-philosophy-fire-2014-04-28)
   * [Card Advantage - Life and Card Advantage](http://magic.wizards.com/en/articles/archive/level-one/card-advantage%E2%80%94life-and-card-advantage-2014-05-05)
@@ -45,7 +45,7 @@ MTG公式サイトの連載だったLevel Oneへのリンク集。自分用ま�
   * [Undercosted](http://magic.wizards.com/en/articles/archive/level-one/undercosted-2014-07-28)
   * [The Only Way to Play the Game](http://magic.wizards.com/en/articles/archive/lo/only-way-play-game-2014-08-04)
 
-== Reid Duke 氏 ==
+## Reid Duke 氏
 
 [ここ](http://magic.wizards.com/en/articles/archive/level-one/level-one-full-course-2015-10-05)に一覧がある。また、[ここ](http://magic.wizards.com/en/articles/archive/arcana/best-2015-and-holiday-treats-2015-12-10)から電子書籍版がDLできる。
 
