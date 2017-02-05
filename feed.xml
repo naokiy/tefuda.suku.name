@@ -1,4 +1,180 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://tefuda.suku.name/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://tefuda.suku.name/feed.xml" rel="self" type="application/atom+xml" /><link href="http://tefuda.suku.name/" rel="alternate" type="text/html" /><updated>2017-02-03T10:46:33+09:00</updated><id>http://tefuda.suku.name//</id><title type="html">手札少なめ</title><subtitle>tefuda.suku.name</subtitle><entry><title type="html">公式サイトLevel Oneリンク集</title><link href="http://tefuda.suku.name/2017/02/03/%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88Level-One%E3%83%AA%E3%83%B3%E3%82%AF%E9%9B%86/" rel="alternate" type="text/html" title="公式サイトLevel Oneリンク集" /><published>2017-02-03T00:00:00+09:00</published><updated>2017-02-03T00:00:00+09:00</updated><id>http://tefuda.suku.name/2017/02/03/%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88Level%20One%E3%83%AA%E3%83%B3%E3%82%AF%E9%9B%86</id><content type="html" xml:base="http://tefuda.suku.name/2017/02/03/%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88Level-One%E3%83%AA%E3%83%B3%E3%82%AF%E9%9B%86/">&lt;p&gt;MTG公式サイトの連載だったLevel Oneへのリンク集。自分用まとめ。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://tefuda.suku.name/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://tefuda.suku.name/feed.xml" rel="self" type="application/atom+xml" /><link href="http://tefuda.suku.name/" rel="alternate" type="text/html" /><updated>2017-02-05T19:22:11+09:00</updated><id>http://tefuda.suku.name//</id><title type="html">手札少なめ</title><subtitle>tefuda.suku.name</subtitle><entry><title type="html">白青《パラドックス装置/Paradox Engine》デッキ</title><link href="http://tefuda.suku.name/2017/02/05/%E7%99%BD%E9%9D%92-%E3%83%91%E3%83%A9%E3%83%89%E3%83%83%E3%82%AF%E3%82%B9%E8%A3%85%E7%BD%AE-Paradox-Engine-%E3%83%87%E3%83%83%E3%82%AD/" rel="alternate" type="text/html" title="白青《パラドックス装置/Paradox Engine》デッキ" /><published>2017-02-05T00:00:00+09:00</published><updated>2017-02-05T00:00:00+09:00</updated><id>http://tefuda.suku.name/2017/02/05/%E7%99%BD%E9%9D%92%E3%80%8A%E3%83%91%E3%83%A9%E3%83%89%E3%83%83%E3%82%AF%E3%82%B9%E8%A3%85%E7%BD%AE/Paradox%20Engine%E3%80%8B%E3%83%87%E3%83%83%E3%82%AD</id><content type="html" xml:base="http://tefuda.suku.name/2017/02/05/%E7%99%BD%E9%9D%92-%E3%83%91%E3%83%A9%E3%83%89%E3%83%83%E3%82%AF%E3%82%B9%E8%A3%85%E7%BD%AE-Paradox-Engine-%E3%83%87%E3%83%83%E3%82%AD/">&lt;p&gt;MOでなんとなく使ってる《パラドックス装置/Paradox Engine》デッキを晒してみる。&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;デッキ&quot;&gt;デッキ&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-mtg-deck&quot;&gt;4 Paradox Engine
+4 Conviction
+4 Cultivator's Caravan
+2 Aetherflux Reservoir
+4 Hedron Archive
+3 Prophetic Prism
+4 Glint-Nest Crane
+4 Magnifying Glass
+4 Decoction Module
+4 Authority of the Consuls
+4 Port Town
+6 Plains
+13 Island
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;やりたいことは以下の通り。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;《パラドックス装置/Paradox Engine》を出す&lt;/li&gt;
+  &lt;li&gt;マナさえあれば無限に呪文を唱えられる状態にする&lt;/li&gt;
+  &lt;li&gt;マナ・アーティファクトを並べる&lt;/li&gt;
+  &lt;li&gt;《霊気貯蔵器/Aetherflux Reservoir》で勝つ&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;マナさえあれば何度でも唱えられる呪文&quot;&gt;マナさえあれば何度でも唱えられる呪文&lt;/h3&gt;
+
+&lt;p&gt;以下の2パターン用意した。&lt;/p&gt;
+
+&lt;h4 id=&quot;罪の自覚conviction--何かクリーチャー&quot;&gt;《罪の自覚/Conviction》 + 何かクリーチャー&lt;/h4&gt;
+
+&lt;p&gt;クリーチャーは対戦相手がコントロールするものでもよい。(白)(白)(1)でループ。&lt;/p&gt;
+
+&lt;h4 id=&quot;光り物集めの鶴glint-nest-crane抽出機構decoction-module&quot;&gt;《光り物集めの鶴/Glint-Nest Crane》+《抽出機構/Decoction Module》&lt;/h4&gt;
+
+&lt;p&gt;(青)(5)でループ。&lt;/p&gt;
+
+&lt;p&gt;《罪の自覚/Conviction》パターンより重いが、ループの過程でデッキの中のアーティファクトをすべて手札に加えることができる。&lt;/p&gt;
+
+&lt;h3 id=&quot;マナアーティファクトの取捨選択&quot;&gt;マナ・アーティファクトの取捨選択&lt;/h3&gt;
+
+&lt;p&gt;現環境でマナを出すアーティファクトは9枚。このうち《テラリオン/Terrarion》と《予言のプリズム/Prophetic Prism》はマナが増えないので除外すると下記の7枚。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;《崩れた墓石/Corrupted Grafstone》&lt;/li&gt;
+  &lt;li&gt;《面晶体の這行器/Hedron Crawler》&lt;/li&gt;
+  &lt;li&gt;《謎の石の断片/Cryptolith Fragment》&lt;/li&gt;
+  &lt;li&gt;《耕作者の荷馬車/Cultivator’s Caravan》&lt;/li&gt;
+  &lt;li&gt;《拡大鏡/Magnifying Glass》&lt;/li&gt;
+  &lt;li&gt;《予見者のランタン/Seer’s Lantern》&lt;/li&gt;
+  &lt;li&gt;《面晶体の記録庫/Hedron Archive》&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;以下のような理由により、《耕作者の荷馬車/Cultivator’s Caravan》・《拡大鏡/Magnifying Glass》・《面晶体の記録庫/Hedron Archive》を採用している。&lt;/p&gt;
+
+&lt;h4 id=&quot;崩れた墓石corrupted-grafstone&quot;&gt;《崩れた墓石/Corrupted Grafstone》&lt;/h4&gt;
+
+&lt;p&gt;戦場に出た直後にマナが出せず、墓地にカードが落ちてないと役に立たないのでボツ。&lt;/p&gt;
+
+&lt;h4 id=&quot;面晶体の這行器hedron-crawler&quot;&gt;《面晶体の這行器/Hedron Crawler》&lt;/h4&gt;
+
+&lt;p&gt;戦場に出たターンにマナが出せない上、相手の除去の的になる。ボツ。&lt;/p&gt;
+
+&lt;h4 id=&quot;謎の石の断片cryptolith-fragment&quot;&gt;《謎の石の断片/Cryptolith Fragment》&lt;/h4&gt;
+
+&lt;p&gt;戦場に出た直後にマナが出せず、ライフで負けてると連続起動できなくなる。ボツ。&lt;/p&gt;
+
+&lt;h4 id=&quot;耕作者の荷馬車cultivators-caravan&quot;&gt;《耕作者の荷馬車/Cultivator’s Caravan》&lt;/h4&gt;
+
+&lt;p&gt;無条件で色マナが出せる唯一のマナ・アーティファクト。採用。&lt;/p&gt;
+
+&lt;h4 id=&quot;拡大鏡magnifying-glass&quot;&gt;《拡大鏡/Magnifying Glass》&lt;/h4&gt;
+
+&lt;p&gt;戦場に出たターンにマナが出せるうえ、無限マナと無限アンタップが可能であれば無限ドローが可能になる。採用。&lt;/p&gt;
+
+&lt;h4 id=&quot;予見者のランタンseers-lantern&quot;&gt;《予見者のランタン/Seer’s Lantern》&lt;/h4&gt;
+
+&lt;p&gt;無限に占術ができるようになるが、占術よりドローのほうが嬉しい。《拡大鏡/Magnifying Glass》を優先。&lt;/p&gt;
+
+&lt;h4 id=&quot;面晶体の記録庫hedron-archive&quot;&gt;《面晶体の記録庫/Hedron Archive》&lt;/h4&gt;
+
+&lt;p&gt;複数のマナが出せる唯一のマナ・アーティファクト。採用。&lt;/p&gt;</content><category term="デッキ" /><category term="白" /><category term="青" /><category term="スタンダード (BFZ/AER)" /><category term="スタンダード" /><summary type="html">MOでなんとなく使ってる《パラドックス装置/Paradox Engine》デッキを晒してみる。
+
+
+
+
+
+デッキ
+
+4 Paradox Engine
+4 Conviction
+4 Cultivator's Caravan
+2 Aetherflux Reservoir
+4 Hedron Archive
+3 Prophetic Prism
+4 Glint-Nest Crane
+4 Magnifying Glass
+4 Decoction Module
+4 Authority of the Consuls
+4 Port Town
+6 Plains
+13 Island
+
+
+やりたいことは以下の通り。
+
+
+  《パラドックス装置/Paradox Engine》を出す
+  マナさえあれば無限に呪文を唱えられる状態にする
+  マナ・アーティファクトを並べる
+  《霊気貯蔵器/Aetherflux Reservoir》で勝つ
+
+
+マナさえあれば何度でも唱えられる呪文
+
+以下の2パターン用意した。
+
+《罪の自覚/Conviction》 + 何かクリーチャー
+
+クリーチャーは対戦相手がコントロールするものでもよい。(白)(白)(1)でループ。
+
+《光り物集めの鶴/Glint-Nest Crane》+《抽出機構/Decoction Module》
+
+(青)(5)でループ。
+
+《罪の自覚/Conviction》パターンより重いが、ループの過程でデッキの中のアーティファクトをすべて手札に加えることができる。
+
+マナ・アーティファクトの取捨選択
+
+現環境でマナを出すアーティファクトは9枚。このうち《テラリオン/Terrarion》と《予言のプリズム/Prophetic Prism》はマナが増えないので除外すると下記の7枚。
+
+
+  《崩れた墓石/Corrupted Grafstone》
+  《面晶体の這行器/Hedron Crawler》
+  《謎の石の断片/Cryptolith Fragment》
+  《耕作者の荷馬車/Cultivator’s Caravan》
+  《拡大鏡/Magnifying Glass》
+  《予見者のランタン/Seer’s Lantern》
+  《面晶体の記録庫/Hedron Archive》
+
+
+以下のような理由により、《耕作者の荷馬車/Cultivator’s Caravan》・《拡大鏡/Magnifying Glass》・《面晶体の記録庫/Hedron Archive》を採用している。
+
+《崩れた墓石/Corrupted Grafstone》
+
+戦場に出た直後にマナが出せず、墓地にカードが落ちてないと役に立たないのでボツ。
+
+《面晶体の這行器/Hedron Crawler》
+
+戦場に出たターンにマナが出せない上、相手の除去の的になる。ボツ。
+
+《謎の石の断片/Cryptolith Fragment》
+
+戦場に出た直後にマナが出せず、ライフで負けてると連続起動できなくなる。ボツ。
+
+《耕作者の荷馬車/Cultivator’s Caravan》
+
+無条件で色マナが出せる唯一のマナ・アーティファクト。採用。
+
+《拡大鏡/Magnifying Glass》
+
+戦場に出たターンにマナが出せるうえ、無限マナと無限アンタップが可能であれば無限ドローが可能になる。採用。
+
+《予見者のランタン/Seer’s Lantern》
+
+無限に占術ができるようになるが、占術よりドローのほうが嬉しい。《拡大鏡/Magnifying Glass》を優先。
+
+《面晶体の記録庫/Hedron Archive》
+
+複数のマナが出せる唯一のマナ・アーティファクト。採用。</summary></entry><entry><title type="html">公式サイトLevel Oneリンク集</title><link href="http://tefuda.suku.name/2017/02/03/%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88Level-One%E3%83%AA%E3%83%B3%E3%82%AF%E9%9B%86/" rel="alternate" type="text/html" title="公式サイトLevel Oneリンク集" /><published>2017-02-03T00:00:00+09:00</published><updated>2017-02-03T00:00:00+09:00</updated><id>http://tefuda.suku.name/2017/02/03/%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88Level%20One%E3%83%AA%E3%83%B3%E3%82%AF%E9%9B%86</id><content type="html" xml:base="http://tefuda.suku.name/2017/02/03/%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88Level-One%E3%83%AA%E3%83%B3%E3%82%AF%E9%9B%86/">&lt;p&gt;MTG公式サイトの連載だったLevel Oneへのリンク集。自分用まとめ。&lt;/p&gt;
 
 &lt;!-- more --&gt;
 
