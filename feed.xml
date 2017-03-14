@@ -1,6 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://tefuda.suku.name/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://tefuda.suku.name/feed.xml" rel="self" type="application/atom+xml" /><link href="http://tefuda.suku.name/" rel="alternate" type="text/html" /><updated>2017-03-13T23:36:27+09:00</updated><id>http://tefuda.suku.name//</id><title type="html">手札少なめ</title><subtitle>tefuda.suku.name</subtitle><entry><title type="html">[和訳] 十分時間をかけた</title><link href="http://tefuda.suku.name/2017/03/13/%E5%92%8C%E8%A8%B3-%E5%8D%81%E5%88%86%E6%99%82%E9%96%93%E3%82%92%E3%81%8B%E3%81%91%E3%81%9F/" rel="alternate" type="text/html" title="[和訳] 十分時間をかけた" /><published>2017-03-13T00:00:00+09:00</published><updated>2017-03-13T00:00:00+09:00</updated><id>http://tefuda.suku.name/2017/03/13/%5B%E5%92%8C%E8%A8%B3%5D%20%E5%8D%81%E5%88%86%E6%99%82%E9%96%93%E3%82%92%E3%81%8B%E3%81%91%E3%81%9F</id><content type="html" xml:base="http://tefuda.suku.name/2017/03/13/%E5%92%8C%E8%A8%B3-%E5%8D%81%E5%88%86%E6%99%82%E9%96%93%E3%82%92%E3%81%8B%E3%81%91%E3%81%9F/">&lt;h2 id=&quot;原文&quot;&gt;原文&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://tefuda.suku.name/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://tefuda.suku.name/feed.xml" rel="self" type="application/atom+xml" /><link href="http://tefuda.suku.name/" rel="alternate" type="text/html" /><updated>2017-03-14T11:26:16+09:00</updated><id>http://tefuda.suku.name//</id><title type="html">手札少なめ</title><subtitle>tefuda.suku.name</subtitle><entry><title type="html">[和訳] 十分時間をかけた</title><link href="http://tefuda.suku.name/2017/03/13/%E5%92%8C%E8%A8%B3-%E5%8D%81%E5%88%86%E6%99%82%E9%96%93%E3%82%92%E3%81%8B%E3%81%91%E3%81%9F/" rel="alternate" type="text/html" title="[和訳] 十分時間をかけた" /><published>2017-03-13T00:00:00+09:00</published><updated>2017-03-13T00:00:00+09:00</updated><id>http://tefuda.suku.name/2017/03/13/%5B%E5%92%8C%E8%A8%B3%5D%20%E5%8D%81%E5%88%86%E6%99%82%E9%96%93%E3%82%92%E3%81%8B%E3%81%91%E3%81%9F</id><content type="html" xml:base="http://tefuda.suku.name/2017/03/13/%E5%92%8C%E8%A8%B3-%E5%8D%81%E5%88%86%E6%99%82%E9%96%93%E3%82%92%E3%81%8B%E3%81%91%E3%81%9F/">&lt;h2 id=&quot;原文&quot;&gt;原文&lt;/h2&gt;
 
 &lt;p&gt;この文章は&lt;a href=&quot;http://www.channelfireball.com/&quot;&gt;海外公式サイト&lt;/a&gt;に掲載された&lt;a href=&quot;http://magic.wizards.com/en/articles/archive/card-preview/took-us-long-enough-2017-02-27&quot;&gt;Took Us Long Enough&lt;/a&gt;の和訳である。原文の掲載は2017年2月27日だった。&lt;/p&gt;
+
+&lt;p&gt;モダマス2017の《滅び/Damnation》プレビュー記事。&lt;/p&gt;
 
 &lt;!-- more --&gt;
 
@@ -74,11 +76,11 @@
 特にこのセットは5つの友好色の組み合わせと、それらの持つ戦略を中心に作られている。&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;’'’白青ブリンク’’’ - ETB能力を持つクリーチャーとそれを再利用する手段&lt;/li&gt;
-  &lt;li&gt;’'’青黒インスタント・コントロール’’’ - 戦場をコントロールする多くのインスタントと打ち消し呪文&lt;/li&gt;
-  &lt;li&gt;’'’黒赤蘇生’’’ - 蘇生を持つクリーチャーで絶えず攻撃する前のめりなデッキ&lt;/li&gt;
-  &lt;li&gt;’'’赤緑展開力’’’ - トークンの生成とそれらすべてを巨大にするカード群&lt;/li&gt;
-  &lt;li&gt;’'’緑白居住’’’ - ラヴニカへの回帰で登場した居住を使ってアドバンテージを得る&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;白青ブリンク&lt;/em&gt; - ETB能力を持つクリーチャーとそれを再利用する手段&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;青黒インスタント・コントロール&lt;/em&gt; - 戦場をコントロールする多くのインスタントと打ち消し呪文&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;黒赤蘇生&lt;/em&gt; - 蘇生を持つクリーチャーで絶えず攻撃する前のめりなデッキ&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;赤緑展開力&lt;/em&gt; - トークンの生成とそれらすべてを巨大にするカード群&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;緑白居住&lt;/em&gt; - ラヴニカへの回帰で登場した居住を使ってアドバンテージを得る&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;セットには友好3色(緑白青・白青黒・青黒赤・黒赤緑・赤緑白)や敵対2色のカードもある。
@@ -95,11 +97,11 @@
 
 &lt;p&gt;私の最大の仕事は、Samの初期のビジョンを拡張し、さまざまな戦略がサポートされるようにセットを構築することだった。
 マルチカラーセットの最大の課題の1つは、プレイヤーが2色と5色の両方をプレイできるようにすることだ。
-例えば、2色のデッキが非常に焦点を絞ったテーマを持つことがよくある。
-たとえば、緑白をドラフトすることにし、目についた『居住』カードとトークン生成カードを片っ端からデッキに入れるとしよう。
+あるときには、2色のデッキが非常に焦点を絞ったテーマを持つ。
+例えば、緑白をドラフトすることにし、目についた『居住』カードとトークン生成カードを片っ端からデッキに入れるとしよう。
 居住カードを残さずドラフトするために、緑白以外の色をドラフトする必要はない。
 しかし、あなたはドラフト中強力な赤緑のカードを発見し、それを盤面に叩きつけたくなるかもしれない。
-我々もそれが可能であることを望んでいる。&lt;/p&gt;
+我々もそれが可能であることを望んでいるのだ。&lt;/p&gt;
 
 &lt;p&gt;3色のデッキを強化するためには、色のペアの戦略が重なるようにセットを作る必要があった。
 各色について友好色のペア2つは重大な重なりを有している。
@@ -110,10 +112,10 @@
 &lt;p&gt;最後に、4色や5色のデッキをプレイできるようにもしたかった。
 これはどういうことかというと、このセットはあなたが自分でシナジーを見つけることができなくなるような超強力テーマばかりではないということだ。
 赤黒のデッキでしか使えないカードがたくさんある場合、仮に赤と黒の両方をプレイしていても、4色または5色のデッキでそれらのカードを使用するのは難しい。
-これはマナ修正の話でもある。
+これはマナ補正の話でもある。
 私が試したトライランドは、方程式のある1つの部分に過ぎない。
 モダンマスターズ2017のマナはアラーラの断片のマナよりもはるかに強力だ。
-あなたのテーブルにいる1人の人間が、マナ修正カードをすべてドラフトしようとしてもできないほど十分だ。
+あなたのテーブルにいる1人の人間が、マナ補正カードをすべてドラフトしようとしてもできないほど十分だ。
 誰もがその人物を知っている。 時に、その人物は私だ。&lt;/p&gt;
 
 &lt;p&gt;私はモダンマスターズ2017を作ったことを信じられないほど誇りに思っている。そして、それが3月17日にリリースされ、あなたがセットすべてを堪能するのが待ちきれない。&lt;/p&gt;</content><category term="Adam Prosak" /><category term="Modern Masters 2017" /><category term="《滅び/Damnation》" /><summary type="html">原文</summary></entry><entry><title type="html">白青《パラドックス装置/Paradox Engine》デッキ</title><link href="http://tefuda.suku.name/2017/02/05/%E7%99%BD%E9%9D%92-%E3%83%91%E3%83%A9%E3%83%89%E3%83%83%E3%82%AF%E3%82%B9%E8%A3%85%E7%BD%AE-Paradox-Engine-%E3%83%87%E3%83%83%E3%82%AD/" rel="alternate" type="text/html" title="白青《パラドックス装置/Paradox Engine》デッキ" /><published>2017-02-05T00:00:00+09:00</published><updated>2017-02-05T00:00:00+09:00</updated><id>http://tefuda.suku.name/2017/02/05/%E7%99%BD%E9%9D%92%E3%80%8A%E3%83%91%E3%83%A9%E3%83%89%E3%83%83%E3%82%AF%E3%82%B9%E8%A3%85%E7%BD%AE/Paradox%20Engine%E3%80%8B%E3%83%87%E3%83%83%E3%82%AD</id><content type="html" xml:base="http://tefuda.suku.name/2017/02/05/%E7%99%BD%E9%9D%92-%E3%83%91%E3%83%A9%E3%83%89%E3%83%83%E3%82%AF%E3%82%B9%E8%A3%85%E7%BD%AE-Paradox-Engine-%E3%83%87%E3%83%83%E3%82%AD/">&lt;p&gt;MOでなんとなく使ってる《パラドックス装置/Paradox Engine》デッキを晒してみる。&lt;/p&gt;
