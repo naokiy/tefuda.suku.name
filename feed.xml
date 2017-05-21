@@ -1,4 +1,118 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://tefuda.suku.name/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://tefuda.suku.name/feed.xml" rel="self" type="application/atom+xml" /><link href="http://tefuda.suku.name/" rel="alternate" type="text/html" /><updated>2017-03-14T11:26:16+09:00</updated><id>http://tefuda.suku.name//</id><title type="html">手札少なめ</title><subtitle>tefuda.suku.name</subtitle><entry><title type="html">[和訳] 十分時間をかけた</title><link href="http://tefuda.suku.name/2017/03/13/%E5%92%8C%E8%A8%B3-%E5%8D%81%E5%88%86%E6%99%82%E9%96%93%E3%82%92%E3%81%8B%E3%81%91%E3%81%9F/" rel="alternate" type="text/html" title="[和訳] 十分時間をかけた" /><published>2017-03-13T00:00:00+09:00</published><updated>2017-03-13T00:00:00+09:00</updated><id>http://tefuda.suku.name/2017/03/13/%5B%E5%92%8C%E8%A8%B3%5D%20%E5%8D%81%E5%88%86%E6%99%82%E9%96%93%E3%82%92%E3%81%8B%E3%81%91%E3%81%9F</id><content type="html" xml:base="http://tefuda.suku.name/2017/03/13/%E5%92%8C%E8%A8%B3-%E5%8D%81%E5%88%86%E6%99%82%E9%96%93%E3%82%92%E3%81%8B%E3%81%91%E3%81%9F/">&lt;h2 id=&quot;原文&quot;&gt;原文&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://tefuda.suku.name/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://tefuda.suku.name/feed.xml" rel="self" type="application/atom+xml" /><link href="http://tefuda.suku.name/" rel="alternate" type="text/html" /><updated>2017-05-21T21:16:02+09:00</updated><id>http://tefuda.suku.name//</id><title type="html">手札少なめ</title><subtitle>tefuda.suku.name</subtitle><entry><title type="html">緑白青《副陽の接近/Approach of the Second Sun》デッキ</title><link href="http://tefuda.suku.name/2017/05/20/%E7%B7%91%E7%99%BD%E9%9D%92-%E5%89%AF%E9%99%BD%E3%81%AE%E6%8E%A5%E8%BF%91-Approach-of-the-Second-Sun-%E3%83%87%E3%83%83%E3%82%AD/" rel="alternate" type="text/html" title="緑白青《副陽の接近/Approach of the Second Sun》デッキ" /><published>2017-05-20T00:00:00+09:00</published><updated>2017-05-20T00:00:00+09:00</updated><id>http://tefuda.suku.name/2017/05/20/%E7%B7%91%E7%99%BD%E9%9D%92%E3%80%8A%E5%89%AF%E9%99%BD%E3%81%AE%E6%8E%A5%E8%BF%91/Approach%20of%20the%20Second%20Sun%E3%80%8B%E3%83%87%E3%83%83%E3%82%AD</id><content type="html" xml:base="http://tefuda.suku.name/2017/05/20/%E7%B7%91%E7%99%BD%E9%9D%92-%E5%89%AF%E9%99%BD%E3%81%AE%E6%8E%A5%E8%BF%91-Approach-of-the-Second-Sun-%E3%83%87%E3%83%83%E3%82%AD/">&lt;h2 id=&quot;副陽の接近approach-of-the-second-sunを2連打して勝ちたい&quot;&gt;《副陽の接近/Approach of the Second Sun》を2連打して勝ちたい&lt;/h2&gt;
+
+&lt;p&gt;MOでアモンケットのシールド戦をしていたらレア6枚中《副陽の接近/Approach of the Second Sun》が2枚というトラブルが発生。それほど感触が悪くなかったのでスタンダードでも組んでみた。&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;h2 id=&quot;デッキ&quot;&gt;デッキ&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-mtg-deck&quot;&gt;4 Primal Druid
+3 Shefet Monitor
+4 Pieces of the Puzzle
+4 Evolving Wilds
+4 Approach of the Second Sun
+4 Spring/Mind
+4 Commencement of Festivities
+4 Haze of Pollen
+7 Forest
+5 Island
+3 Plains
+3 Pull from Tomorrow
+3 Splendid Reclamation
+4 Scattered Groves
+4 Irrigated Farmland
+
+4 Negate
+4 Failure/Comply
+4 Drake Haven
+3 Fumigate
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;序盤は《原初のドルイド/Primal Druid》・《開拓/Spring》・《シェフェトのオオトカゲ/Shefet Monitor》・《見事な再生/Splendid Reclamation》で土地を伸ばし、後半で《副陽の接近/Approach of the Second Sun》を2回唱えるだけという非常にわかりやすいデッキ。&lt;/p&gt;
+
+&lt;p&gt;《パズルの欠片/Pieces of the Puzzle》は以下の4つの役割を果たしてくれるナイスガイ。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;墓地に土地を置く
+    &lt;ul&gt;
+      &lt;li&gt;《見事な再生/Splendid Reclamation》でマナ加速へ&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;《花粉のもや/Haze of Pollen》・《祝祭の開幕/Commencement of Festivities》を探してくる&lt;/li&gt;
+  &lt;li&gt;《副陽の接近/Approach of the Second Sun》を探してくる&lt;/li&gt;
+  &lt;li&gt;ライブラリの上から7枚目に積まれた《副陽の接近/Approach of the Second Sun》を手札に来やすくする&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;とくに、《副陽の接近/Approach of the Second Sun》を唱えた次のターン、ドローと《パズルの欠片/Pieces of the Puzzle》で6枚ライブラリーを削れると、その次のドローは《副陽の接近/Approach of the Second Sun》なのでこれを唱えれば勝利できる。このとき2枚めの《副陽の接近/Approach of the Second Sun》は引いたターンに即唱えることになるので、ハンデスが効かないのもえらい。&lt;/p&gt;
+
+&lt;p&gt;サイドは……うん。全然考えてないですね……。サイクリングを持つ・手札を捨てるカードが以下の18枚あるので、なんとなく《ドレイクの安息地/Drake Haven》を入れてみたものの、なんか役に立つ気はしない。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;4 x 《花粉のもや/Haze of Pollen》&lt;/li&gt;
+  &lt;li&gt;3 x 《シェフェトのオオトカゲ/Shefet Monitor》&lt;/li&gt;
+  &lt;li&gt;4 x 《まばらな木立ち/Scattered Groves》&lt;/li&gt;
+  &lt;li&gt;4 x 《灌漑農地/Irrigated Farmland》&lt;/li&gt;
+  &lt;li&gt;3 x 《明日からの引き寄せ/Pull from Tomorrow》&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;打ち消し呪文相手には2回目の《副陽の接近/Approach of the Second Sun》が通るかどうかが勝負なので、《払拭/Dispel》を入れるのが正しいのかも。&lt;/p&gt;</content><category term="デッキ" /><category term="白" /><category term="青" /><category term="緑" /><category term="スタンダード (BFZ/AKH)" /><category term="スタンダード" /><category term="《副陽の接近/Approach of the Second Sun》" /><summary type="html">《副陽の接近/Approach of the Second Sun》を2連打して勝ちたい
+
+MOでアモンケットのシールド戦をしていたらレア6枚中《副陽の接近/Approach of the Second Sun》が2枚というトラブルが発生。それほど感触が悪くなかったのでスタンダードでも組んでみた。
+
+
+
+デッキ
+
+4 Primal Druid
+3 Shefet Monitor
+4 Pieces of the Puzzle
+4 Evolving Wilds
+4 Approach of the Second Sun
+4 Spring/Mind
+4 Commencement of Festivities
+4 Haze of Pollen
+7 Forest
+5 Island
+3 Plains
+3 Pull from Tomorrow
+3 Splendid Reclamation
+4 Scattered Groves
+4 Irrigated Farmland
+
+4 Negate
+4 Failure/Comply
+4 Drake Haven
+3 Fumigate
+
+
+序盤は《原初のドルイド/Primal Druid》・《開拓/Spring》・《シェフェトのオオトカゲ/Shefet Monitor》・《見事な再生/Splendid Reclamation》で土地を伸ばし、後半で《副陽の接近/Approach of the Second Sun》を2回唱えるだけという非常にわかりやすいデッキ。
+
+《パズルの欠片/Pieces of the Puzzle》は以下の4つの役割を果たしてくれるナイスガイ。
+
+
+  墓地に土地を置く
+    
+      《見事な再生/Splendid Reclamation》でマナ加速へ
+    
+  
+  《花粉のもや/Haze of Pollen》・《祝祭の開幕/Commencement of Festivities》を探してくる
+  《副陽の接近/Approach of the Second Sun》を探してくる
+  ライブラリの上から7枚目に積まれた《副陽の接近/Approach of the Second Sun》を手札に来やすくする
+
+
+とくに、《副陽の接近/Approach of the Second Sun》を唱えた次のターン、ドローと《パズルの欠片/Pieces of the Puzzle》で6枚ライブラリーを削れると、その次のドローは《副陽の接近/Approach of the Second Sun》なのでこれを唱えれば勝利できる。このとき2枚めの《副陽の接近/Approach of the Second Sun》は引いたターンに即唱えることになるので、ハンデスが効かないのもえらい。
+
+サイドは……うん。全然考えてないですね……。サイクリングを持つ・手札を捨てるカードが以下の18枚あるので、なんとなく《ドレイクの安息地/Drake Haven》を入れてみたものの、なんか役に立つ気はしない。
+
+
+  4 x 《花粉のもや/Haze of Pollen》
+  3 x 《シェフェトのオオトカゲ/Shefet Monitor》
+  4 x 《まばらな木立ち/Scattered Groves》
+  4 x 《灌漑農地/Irrigated Farmland》
+  3 x 《明日からの引き寄せ/Pull from Tomorrow》
+
+
+打ち消し呪文相手には2回目の《副陽の接近/Approach of the Second Sun》が通るかどうかが勝負なので、《払拭/Dispel》を入れるのが正しいのかも。</summary></entry><entry><title type="html">[和訳] 十分時間をかけた</title><link href="http://tefuda.suku.name/2017/03/13/%E5%92%8C%E8%A8%B3-%E5%8D%81%E5%88%86%E6%99%82%E9%96%93%E3%82%92%E3%81%8B%E3%81%91%E3%81%9F/" rel="alternate" type="text/html" title="[和訳] 十分時間をかけた" /><published>2017-03-13T00:00:00+09:00</published><updated>2017-03-13T00:00:00+09:00</updated><id>http://tefuda.suku.name/2017/03/13/%5B%E5%92%8C%E8%A8%B3%5D%20%E5%8D%81%E5%88%86%E6%99%82%E9%96%93%E3%82%92%E3%81%8B%E3%81%91%E3%81%9F</id><content type="html" xml:base="http://tefuda.suku.name/2017/03/13/%E5%92%8C%E8%A8%B3-%E5%8D%81%E5%88%86%E6%99%82%E9%96%93%E3%82%92%E3%81%8B%E3%81%91%E3%81%9F/">&lt;h2 id=&quot;原文&quot;&gt;原文&lt;/h2&gt;
 
 &lt;p&gt;この文章は&lt;a href=&quot;http://www.channelfireball.com/&quot;&gt;海外公式サイト&lt;/a&gt;に掲載された&lt;a href=&quot;http://magic.wizards.com/en/articles/archive/card-preview/took-us-long-enough-2017-02-27&quot;&gt;Took Us Long Enough&lt;/a&gt;の和訳である。原文の掲載は2017年2月27日だった。&lt;/p&gt;
 
@@ -1836,155 +1950,4 @@ Friendly Sealed Leagueは全9戦。
 
 &lt;p&gt;《鼓舞する呼び声/Inspiring Call(DTK)》・《毅然さの化身/Avatar of the Resolute(DTK)》・《アラシンの上級歩哨/High Sentinels of Arashin(KTK)》が+1/+1カウンターの置かれたクリーチャーの数を参照するので、複数のクリーチャーに+1/+1カウンターを置けるカードがほしい。&lt;/p&gt;
 
-&lt;p&gt;またあとで考える。&lt;/p&gt;</content><category term="スタンダード" /><category term="スタンダード(THS/M15/DTK)" /><category term="白" /><category term="緑" /><category term="タルキール龍紀伝" /><category term="インスタント" /><category term="メモ" /><summary type="html">《ヘリオッドの試練/Ordeal of Heliod(THS)》や《タッサの試練/Ordeal of Thassa(THS)》を無理やり突破できてしまうカード《アブザンの優位/Abzan Advantage(FRF)》。</summary></entry><entry><title type="html">《嘲る映し身/Mirror Mockery(DTK)》は書いてあることがおかしいのでは</title><link href="http://tefuda.suku.name/2015/03/22/%E5%98%B2%E3%82%8B%E6%98%A0%E3%81%97%E8%BA%AB-Mirror-Mockery(DTK)-%E3%81%AF%E6%9B%B8%E3%81%84%E3%81%A6%E3%81%82%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%8A%E3%81%8B%E3%81%97%E3%81%84%E3%81%AE%E3%81%A7%E3%81%AF/" rel="alternate" type="text/html" title="《嘲る映し身/Mirror Mockery(DTK)》は書いてあることがおかしいのでは" /><published>2015-03-22T00:00:00+09:00</published><updated>2015-03-22T00:00:00+09:00</updated><id>http://tefuda.suku.name/2015/03/22/%E3%80%8A%E5%98%B2%E3%82%8B%E6%98%A0%E3%81%97%E8%BA%AB/Mirror%20Mockery(DTK)%E3%80%8B%E3%81%AF%E6%9B%B8%E3%81%84%E3%81%A6%E3%81%82%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%8A%E3%81%8B%E3%81%97%E3%81%84%E3%81%AE%E3%81%A7%E3%81%AF</id><content type="html" xml:base="http://tefuda.suku.name/2015/03/22/%E5%98%B2%E3%82%8B%E6%98%A0%E3%81%97%E8%BA%AB-Mirror-Mockery(DTK)-%E3%81%AF%E6%9B%B8%E3%81%84%E3%81%A6%E3%81%82%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%8A%E3%81%8B%E3%81%97%E3%81%84%E3%81%AE%E3%81%A7%E3%81%AF/">&lt;h2 id=&quot;嘲る映し身mirror-mockerydtkがなんか強そうに見える&quot;&gt;《嘲る映し身/Mirror Mockery(DTK)》がなんか強そうに見える&lt;/h2&gt;
-
-&lt;p&gt;現在の売値は100円前後。安いと思うんだよなあ。&lt;/p&gt;
-
-&lt;p&gt;相手のクリーチャーにもつけられるけど、ここでは自分のクリーチャーにつけることを考える。&lt;/p&gt;
-
-&lt;p&gt;CIP持ちにつけて、CIPを再利用する方向で。&lt;/p&gt;
-
-&lt;!-- more --&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;嘲る映し身mirror-mockerydtkと相性のよさそうなカード&quot;&gt;《嘲る映し身/Mirror Mockery(DTK)》と相性のよさそうなカード&lt;/h2&gt;
-
-&lt;p&gt;マナコスト順に。&lt;/p&gt;
-
-&lt;h3 id=&quot;シディシの信者sidisis-faithfuldtk-u&quot;&gt;《シディシの信者/Sidisi’s Faithful(DTK)》 (U)&lt;/h3&gt;
-
-&lt;p&gt;出てきたトークンの濫用で自身を生け贄にすれば、すぐにトークンがいなくなるデメリットを相殺できる。&lt;/p&gt;
-
-&lt;p&gt;1T目《シディシの信者/Sidisi’s Faithful(DTK)》から、2T目以降毎ターンクリーチャーをバウンスできるのが強み。
-タフネスが4あるしブロックされる前にバウンスできるので攻撃に行きやすいところがGood。&lt;/p&gt;
-
-&lt;p&gt;単体でもソーサリーの《送還》かタフネス4の壁を選べるので、1マナにしては十分。&lt;/p&gt;
-
-&lt;h3 id=&quot;アラシンの僧侶arashin-clericfrf-1w&quot;&gt;《アラシンの僧侶/Arashin Cleric(FRF)》 (1)(W)&lt;/h3&gt;
-
-&lt;p&gt;攻撃するたびに3点ゲイン。別に回避能力もないのでタフネス3くらいはほしい。
-濫用と違ってオリジナルのプレイ時にも3点回復してるのが嬉しい。&lt;/p&gt;
-
-&lt;h3 id=&quot;マルドゥの頭蓋狩りmardu-skullhunterktk-1b&quot;&gt;《マルドゥの頭蓋狩り/Mardu Skullhunter(KTK)》 (1)(B)&lt;/h3&gt;
-
-&lt;p&gt;攻撃するたびハンデス。ただ、殴ってるオリジナルはたぶん死ぬ。&lt;/p&gt;
-
-&lt;h3 id=&quot;カルシのサディストqarsi-sadistdtk-1b&quot;&gt;《カルシのサディスト/Qarsi Sadist(DTK)》 (1)(B)&lt;/h3&gt;
-
-&lt;p&gt;攻撃するたび2点ドレイン。
-《宮殿の包囲/Palace Siege(FRF)》の龍モードと同じか…。黒包囲のほうが安定してそう。&lt;/p&gt;
-
-&lt;p&gt;それはそれとして黒包囲が濫用と相性よさげなのはいいなあ。&lt;/p&gt;
-
-&lt;h3 id=&quot;サテュロスの道探しsatyr-wayfinderm15-1g&quot;&gt;《サテュロスの道探し/Satyr Wayfinder(M15)》 (1)(G)&lt;/h3&gt;
-
-&lt;p&gt;手札も増えるし墓地も増える。&lt;/p&gt;
-
-&lt;h3 id=&quot;アラシンの先頭に立つ者arashin-foremostdtk-1ww&quot;&gt;《アラシンの先頭に立つ者/Arashin Foremost(DTK)》 (1)(W)(W)&lt;/h3&gt;
-
-&lt;p&gt;他の戦士1体に二段攻撃がつく。&lt;/p&gt;
-
-&lt;p&gt;嘲る写し身がついているのがこれでなくても、一緒に殴っておくと便利。&lt;/p&gt;
-
-&lt;h3 id=&quot;ヘリオッドの巡礼者heliods-pilgrimm15-2w&quot;&gt;《ヘリオッドの巡礼者/Heliod’s Pilgrim(M15)》 (2)(W)&lt;/h3&gt;
-
-&lt;p&gt;攻撃するたびにオーラをサーチできる。&lt;/p&gt;
-
-&lt;p&gt;オリジナルをプレイした時に嘲る写し身を探せるのは偉い。&lt;/p&gt;
-
-&lt;h3 id=&quot;霜のオオヤマネコfrost-lynxm15-2u&quot;&gt;《霜のオオヤマネコ/Frost Lynx(M15)》 (2)(U)&lt;/h3&gt;
-
-&lt;p&gt;擬似除去。同じ色であることが何よりも嬉しい。&lt;/p&gt;
-
-&lt;h3 id=&quot;血顎の狂信者blood-chin-fanaticdtk-1bb&quot;&gt;《血顎の狂信者/Blood-Chin Fanatic(DTK)》 (1)(B)(B)&lt;/h3&gt;
-
-&lt;p&gt;出てくるトークンが戦士なので、(1)(B)を支払って生け贄にすると3点ドレインできる。
-本体も3/3あるので殴りに行きやすい。&lt;/p&gt;
-
-&lt;h3 id=&quot;厳かな守護者grim-guardianjou-2b&quot;&gt;《厳かな守護者/Grim Guardian(JOU)》 (2)(B)&lt;/h3&gt;
-
-&lt;p&gt;《嘲る映し身/Mirror Mockery(DTK)》が戦場に出たとき1回、コピーが出たとき2回誘発するので、星座持ちにつけると星座が3回誘発する計算。
-他の星座持ちや《嘲る映し身/Mirror Mockery(DTK)》が複数出てるとさらに美味しい。&lt;/p&gt;
-
-&lt;p&gt;攻撃するたび2点ルーズだが、それだけじゃあ《カルシのサディスト/Qarsi Sadist(DTK)》だよなあ。&lt;/p&gt;
-
-&lt;h3 id=&quot;無慈悲な処刑人merciless-executionerfrf-2b&quot;&gt;《無慈悲な処刑人/Merciless Executioner(FRF)》 (2)(B)&lt;/h3&gt;
-
-&lt;p&gt;攻撃するたびに布告除去。タフネス1だけど、除去つきというところに希望を抱いていたい。&lt;/p&gt;
-
-&lt;h3 id=&quot;モーギスの匪賊mogiss-marauderths-2b&quot;&gt;《モーギスの匪賊/Mogis’s Marauder(THS)》 (2)(B)&lt;/h3&gt;
-
-&lt;p&gt;攻撃クリーチャー指定ステップの間に速攻がついてもしょうがないので、結果的に威嚇をもたせるだけになりそう。&lt;/p&gt;
-
-&lt;h3 id=&quot;機を見た軍族朋timely-hordematektk-3w&quot;&gt;《機を見た軍族朋/Timely Hordemate(KTK)》 (3)(W)&lt;/h3&gt;
-
-&lt;p&gt;ETBで《シディシの信者/Sidisi’s Faithful(DTK)》とかを使いまわせる。&lt;/p&gt;
-
-&lt;h3 id=&quot;波使いmaster-of-wavesths-3u&quot;&gt;《波使い/Master of Waves(THS)》 (3)(U)&lt;/h3&gt;
-
-&lt;p&gt;攻撃するたびにトークンがひとまわり大きくなって、増える。
-オリジナルの《波使い/Master of Waves》+ 《波使い/Master of Waves》のコピー + 《嘲る映し身/Mirror Mockery》で信心3が確定している。Good。&lt;/p&gt;
-
-&lt;h3 id=&quot;死者を冒涜するものprofaner-of-the-deaddtk-3u&quot;&gt;《死者を冒涜するもの/Profaner of the Dead(DTK)》 (3)(U)&lt;/h3&gt;
-
-&lt;p&gt;攻撃するたびタフネス3以下のクリーチャーをすべてバウンス。
-毎ターン行うことに意味があるのかという気もする。&lt;/p&gt;
-
-&lt;p&gt;能力の効果が生け贄に捧げたクリーチャーに影響をうける唯一のカード。そう考えると夢がある。ない?&lt;/p&gt;
-
-&lt;h3 id=&quot;フィナックスの信奉者disciple-of-phenaxths-2bb&quot;&gt;《フィナックスの信奉者/Disciple of Phenax(THS)》 (2)(B)(B)&lt;/h3&gt;
-
-&lt;p&gt;攻撃するたび、相手の手札を最低4枚見て1枚捨てさせる。
-選択権がこっちにあって嬉しい。&lt;/p&gt;
-
-&lt;h3 id=&quot;禿鷹エイヴンvulturous-avendtk-3b&quot;&gt;《禿鷹エイヴン/Vulturous Aven(DTK)》 (3)(B)&lt;/h3&gt;
-
-&lt;p&gt;濫用持ちにしては珍しく回避能力を持ってるのでそれなりに安心して殴れるのは嬉しい。
-攻撃するたび2枚ドロー2点ルーズ。&lt;/p&gt;
-
-&lt;h3 id=&quot;開花の幻霊eidolon-of-blossomsjou-2gg&quot;&gt;《開花の幻霊/Eidolon of Blossoms(JOU)》 (2)(G)(G)&lt;/h3&gt;
-
-&lt;p&gt;攻撃するたび2ドロー。幻霊自体の小ささが悲しい。
-星座方面にカードを寄せるなら入るカードではある。&lt;/p&gt;
-
-&lt;h3 id=&quot;包囲サイsiege-rhinoktk-1wbg&quot;&gt;《包囲サイ/Siege Rhino(KTK)》 (1)(W)(B)(G)&lt;/h3&gt;
-
-&lt;p&gt;相性が良いというか、もともと強い。攻撃するたび3点ドレイン。&lt;/p&gt;
-
-&lt;p&gt;難点は色が全く合っていないこと。&lt;/p&gt;
-
-&lt;h3 id=&quot;風番いのロックwingmate-rocktk-3ww&quot;&gt;《風番いのロック/Wingmate Roc(KTK)》 (3)(W)(W)&lt;/h3&gt;
-
-&lt;p&gt;3/4飛行が増えてゆく。&lt;/p&gt;
-
-&lt;h3 id=&quot;破滅喚起の巨人doomwake-giantjou-4b&quot;&gt;《破滅喚起の巨人/Doomwake Giant(JOU)》 (4)(B)&lt;/h3&gt;
-
-&lt;p&gt;星座デッキのパーツその2。攻撃するたび相手全体に-2/-2。
-青黒アリだなあ…。&lt;/p&gt;
-
-&lt;h3 id=&quot;アスフォデルの灰色商人gray-merchant-of-asphodelths-3bb&quot;&gt;《アスフォデルの灰色商人/Gray Merchant of Asphodel(THS)》 (3)(B)(B)&lt;/h3&gt;
-
-&lt;p&gt;攻撃するたびに最低でも4点ドレイン。&lt;/p&gt;
-
-&lt;h3 id=&quot;囁きの森の精霊whisperwood-elementalfrf-3gg&quot;&gt;《囁きの森の精霊/Whisperwood Elemental(FRF)》 (3)(G)(G)&lt;/h3&gt;
-
-&lt;p&gt;出てきたコピーを生け贄にして能力を起動できる。
-オリジナルと両方起動したりすると胡散臭いが、単体で十分強いのでオーバーキル感ある。&lt;/p&gt;
-
-&lt;h3 id=&quot;熊の仲間bears-companionktk-2gur&quot;&gt;《熊の仲間/Bear’s Companion(KTK)》 (2)(G)(U)(R)&lt;/h3&gt;
-
-&lt;p&gt;攻撃するたび4/4が出る。この重さからバニラが増えてもという感がある。&lt;/p&gt;
-
-&lt;h2 id=&quot;デッキを作るとしたら&quot;&gt;デッキを作るとしたら…&lt;/h2&gt;
-
-&lt;p&gt;以上を考えると…&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;黒緑t青星座&lt;/li&gt;
-  &lt;li&gt;青信心&lt;/li&gt;
-  &lt;li&gt;黒信心&lt;/li&gt;
-  &lt;li&gt;白黒t青戦士&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;この4択かなあ。一番弱そうな白黒t青戦士の『エスパー戦士』という響きに惹かれる。スタンダードの青い戦士はみんなティムールだけど。&lt;/p&gt;</content><category term="[&quot;MTG&quot;, &quot;カード考察&quot;]" /><category term="スタンダード" /><category term="スタンダード(THS/M15/DTK)" /><category term="青" /><category term="タルキール龍紀伝" /><category term="クリーチャー" /><summary type="html">《嘲る映し身/Mirror Mockery(DTK)》がなんか強そうに見える</summary></entry></feed>
+&lt;p&gt;またあとで考える。&lt;/p&gt;</content><category term="スタンダード" /><category term="スタンダード(THS/M15/DTK)" /><category term="白" /><category term="緑" /><category term="タルキール龍紀伝" /><category term="インスタント" /><category term="メモ" /><summary type="html">《ヘリオッドの試練/Ordeal of Heliod(THS)》や《タッサの試練/Ordeal of Thassa(THS)》を無理やり突破できてしまうカード《アブザンの優位/Abzan Advantage(FRF)》。</summary></entry></feed>
