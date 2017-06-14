@@ -178,7 +178,7 @@ categories:
 1 Cartouche of Zeal
 1 Cartouche of Solidarity
 1 Compulsory Rest
-1 Rhona's Monument
+1 Rhonas's Monument
 1 Trial of Zeal
 1 Cast Out
 1 Electrify
