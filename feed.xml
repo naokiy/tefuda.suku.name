@@ -1,4 +1,658 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://tefuda.suku.name/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://tefuda.suku.name/feed.xml" rel="self" type="application/atom+xml" /><link href="http://tefuda.suku.name/" rel="alternate" type="text/html" /><updated>2017-06-13T16:13:45+09:00</updated><id>http://tefuda.suku.name//</id><title type="html">手札少なめ</title><subtitle>tefuda.suku.name</subtitle><entry><title type="html">アモンケット・シールドの鍵</title><link href="http://tefuda.suku.name/2017/06/13/%E3%82%A2%E3%83%A2%E3%83%B3%E3%82%B1%E3%83%83%E3%83%88-%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E3%81%AE%E9%8D%B5/" rel="alternate" type="text/html" title="アモンケット・シールドの鍵" /><published>2017-06-13T00:00:00+09:00</published><updated>2017-06-13T00:00:00+09:00</updated><id>http://tefuda.suku.name/2017/06/13/%E3%82%A2%E3%83%A2%E3%83%B3%E3%82%B1%E3%83%83%E3%83%88%E3%83%BB%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E3%81%AE%E9%8D%B5</id><content type="html" xml:base="http://tefuda.suku.name/2017/06/13/%E3%82%A2%E3%83%A2%E3%83%B3%E3%82%B1%E3%83%83%E3%83%88-%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E3%81%AE%E9%8D%B5/">&lt;h2 id=&quot;原文&quot;&gt;原文&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://tefuda.suku.name/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://tefuda.suku.name/feed.xml" rel="self" type="application/atom+xml" /><link href="http://tefuda.suku.name/" rel="alternate" type="text/html" /><updated>2017-06-14T18:03:06+09:00</updated><id>http://tefuda.suku.name//</id><title type="html">手札少なめ</title><subtitle>tefuda.suku.name</subtitle><entry><title type="html">アモンケット・シールド環境を分析する</title><link href="http://tefuda.suku.name/2017/06/14/%E3%82%A2%E3%83%A2%E3%83%B3%E3%82%B1%E3%83%83%E3%83%88-%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E7%92%B0%E5%A2%83%E3%82%92%E5%88%86%E6%9E%90%E3%81%99%E3%82%8B/" rel="alternate" type="text/html" title="アモンケット・シールド環境を分析する" /><published>2017-06-14T00:00:00+09:00</published><updated>2017-06-14T00:00:00+09:00</updated><id>http://tefuda.suku.name/2017/06/14/%E3%82%A2%E3%83%A2%E3%83%B3%E3%82%B1%E3%83%83%E3%83%88%E3%83%BB%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E7%92%B0%E5%A2%83%E3%82%92%E5%88%86%E6%9E%90%E3%81%99%E3%82%8B</id><content type="html" xml:base="http://tefuda.suku.name/2017/06/14/%E3%82%A2%E3%83%A2%E3%83%B3%E3%82%B1%E3%83%83%E3%83%88-%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E7%92%B0%E5%A2%83%E3%82%92%E5%88%86%E6%9E%90%E3%81%99%E3%82%8B/">&lt;h2 id=&quot;原文&quot;&gt;原文&lt;/h2&gt;
+
+&lt;p&gt;この文章は&lt;a href=&quot;http://www.mtgmintcard.com/&quot;&gt;mtgmintcard&lt;/a&gt;に掲載された&lt;a href=&quot;http://www.mtgmintcard.com/articles/writers/zen-takahashi/analyzing-amonkhet-sealed&quot;&gt;Analyzing Amonkhet Sealed&lt;/a&gt;の和訳である。原文の掲載は2017年4月26日だった。&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;アモンケットシールド環境を分析する&quot;&gt;アモンケット・シールド環境を分析する&lt;/h2&gt;
+
+&lt;p&gt;こんにちは！&lt;/p&gt;
+
+&lt;p&gt;先週末、私はアモンケットのプレリリースに参加し、シールド・イベントに3回参加した。
+来週にはリミテッドのグランプリが世界各地で開催される。
+今こそ私の組んだシールド・デッキから何が学べるか、そしてフォーマット全体に対する私の理解を議論する、良い機会だと思う。&lt;/p&gt;
+
+&lt;h2 id=&quot;シールドデッキその1-青緑タッチ白&quot;&gt;シールド・デッキその1 青緑タッチ白&lt;/h2&gt;
+
+&lt;h3 id=&quot;デッキリスト&quot;&gt;デッキリスト&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-mtg-deck&quot;&gt;3 Bitterblade Warrior
+1 Naga Vitalist
+1 Tah-Crop Skirmisher
+1 Hooded Brawler
+1 Defiant Greatmaw
+1 Ornery Kudu
+2 Quarry Hauler
+1 Aven Initiate
+2 Shimmerscale Drake
+1 Glyph Keeper
+1 Angler Drake
+1 Cryptic Serpent
+1 Shed Weakness
+1 Stinging Shot
+1 Compulsory Rest
+1 Winds of Rebuke
+1 Rhonas's Monument
+1 Galestrike
+1 Cast Out
+1 Evolving Wilds
+8 Forest
+7 Island
+1 Plains
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;戦績: 3-2&lt;/p&gt;
+
+&lt;p&gt;これは私が最初に参加したイベントで組んだデッキで、妥当なものかどうか確信は持てていなかった。
+プランはこうだ。最初の数ターンは2マナ・3マナのクリーチャーでアグレッシブに攻める。そして、後半はフライヤーでとどめを刺す。&lt;/p&gt;
+
+&lt;h3 id=&quot;良かった点&quot;&gt;良かった点&lt;/h3&gt;
+
+&lt;h4 id=&quot;ロナスの碑rhonass-monument&quot;&gt;《ロナスの碑/Rhonas’s Monument》&lt;/h4&gt;
+
+&lt;p&gt;《ロナスの碑/Rhonas’s Monument》はパワフルだった。
+《苦刃の戦士/Bitterblade Warrior》は序盤にこそダメージを通す役に立つが、中盤になって対戦相手がより大きいクリーチャーを出すと立ち往生してしまう。
+《ロナスの碑/Rhonas’s Monument》があれば、序盤に出た熊を中盤でも意味のある4/4のアタッカーに変えることができる。
+《ロナスの碑/Rhonas’s Monument》はフライヤーとも相性が良く、それを《溶岩の斧/Lava Axe》に変えることで2～3回の攻撃でケリをつけることができるようになる。&lt;/p&gt;
+
+&lt;h4 id=&quot;飛行クリーチャー&quot;&gt;飛行クリーチャー&lt;/h4&gt;
+
+&lt;p&gt;大きなフライヤーは偉大だ。上記の通り、このセットに存在する4マナ・5マナのクリーチャーによって、私の軽量クリーチャーは道を塞がれてしまっていた。
+飛行クリーチャーは小型クリーチャーのやり残した役割を上空から全うしてみせた。
+《釣りドレイク/Angler Drake》は私が考えていたとおりのぶっ壊れであった。&lt;/p&gt;
+
+&lt;h4 id=&quot;採石場の運び屋quarry-hauler&quot;&gt;《採石場の運び屋/Quarry Hauler》&lt;/h4&gt;
+
+&lt;p&gt;《採石場の運び屋/Quarry Hauler》は思っていた以上のやり手だった。
+《気性の荒いクーズー/Ornery Kudu》のような自分のクリーチャーから-1/-1カウンターを取り除くこともしたし、対戦相手のクリーチャーの-1/-1カウンターを増やして殺すこともした。
+何人かの対戦相手は、タフネス2のクリーチャーの上に-1/-1カウンターを置いていた。おそらくチャンプ・ブロックに回すつもりだったのだろう。
+《採石場の運び屋/Quarry Hauler》は戦場に出るだけでそれを殺した。&lt;/p&gt;
+
+&lt;h4 id=&quot;バウンス&quot;&gt;バウンス&lt;/h4&gt;
+
+&lt;p&gt;私は、このフォーマットにおいてバウンスは強力だと考えていた。
+不朽トークンがあること、カルトーシュがあること、コンバットトリックが多いことがその理由だ。
+《叱責の風/Winds of Rebuke》は見事にこれを証明した。
+様々な状況で対戦相手を叩きのめし、大きなテンポ・アドバンテージを奪っていったのだ。
+より習熟したプレイヤーにはさほど効果がないかもしれないが、バウンス呪文はこのフォーマットで有効だろう。&lt;/p&gt;
+
+&lt;h3 id=&quot;悪かった点&quot;&gt;悪かった点&lt;/h3&gt;
+
+&lt;h4 id=&quot;プレイング&quot;&gt;プレイング&lt;/h4&gt;
+
+&lt;p&gt;デッキがゲームの戦略を持っていたものの、実際のプレイはお粗末なものだった。
+私の2マナ・3マナのクリーチャーは、対戦相手の4マナ・5マナのクリーチャーの前にあっさりと役立たずになってしまった。
+そして、《ロナスの碑/Rhonas’s Monument》を引かないかぎり、攻撃を押し通すだけのコンバットトリックもなかった。
+幾つかのゲームでは飛行クリーチャーで押し切ることができたが、序盤の攻勢をサポートするにはいささか遅すぎた。
+アグロ・デッキを実現するには、ライフを詰めるために3ターン目から5ターン目のコンバットトリックが本当に重要である。
+飛行クリーチャーを用いた私の遅い戦術は、十分に良いとはいえないだろう。&lt;/p&gt;
+
+&lt;h4 id=&quot;-1-1カウンター戦術&quot;&gt;-1/-1カウンター戦術&lt;/h4&gt;
+
+&lt;p&gt;このデッキにおける-1/-1カウンターを用いたシナジーは弱すぎた。
+殆どの場合、《気性の荒いクーズー/Ornery Kudu》と《好戦的な巨口/Defiant Greatmaw》は3マナ2/3でしかなかった。これは非常に弱い。
+このシナジーを有効に活用できるような十分なサポートをシールドで引くことは難しい。
+《横断地のクロコダイル/Crocodile of the Crossing》のような単独でプレイしても十分強いカードのみを使うべきだろう。&lt;/p&gt;
+
+&lt;h4 id=&quot;マナフラッド&quot;&gt;マナ・フラッド&lt;/h4&gt;
+
+&lt;p&gt;このデッキはマナ・フラッドに陥りやすい。不朽持ちのカードは少なく、余波のある呪文は入っていない。
+対戦相手の多くがこれらのカードをデッキに入れていたので、これは大きな問題であった。
+彼らはマナ・フラッドでもアクションを起こせたが、私はできることがなにもなかったのだ。
+これはつまり、私はマナ・フラッドを起こせば全く抜け出すことができないのに対し、対戦相手はそうではないということだ。
+この経験から、色があっている不朽クリーチャーと余波呪文は、たとえ強力なものでなくともデッキに入れるべきだと信じるようになった。&lt;/p&gt;
+
+&lt;h3 id=&quot;この環境について学んだこと&quot;&gt;この環境について学んだこと&lt;/h3&gt;
+
+&lt;p&gt;この環境はプロアクティブだが、ゲームは長くなる。
+プロアクティブであることはアグレッシブであることと結びつくことが多いので、これは矛盾しているように聞こえるかもしれない。
+しかし、この環境のクリーチャーは大きくてパワフルなのに対し、除去はそれほど多くないのである。&lt;/p&gt;
+
+&lt;p&gt;このことは、コントロール・デッキを組むことが難しいことを意味している。
+なので、ほとんどすべてのデッキがクリーチャーで相手を殴り倒すことを目標にしている。
+しかし、彼らのペースはまちまちだ。
+幾つかのデッキは督励を持つクリーチャーでアグレッシブに攻めようとする。
+また、他のデッキは《鱗ビヒモス/Scaled Behemoth》などの巨大クリーチャーで押しつぶそうとする。&lt;/p&gt;
+
+&lt;p&gt;ゲームはしばしば長引く。
+どの色でもマナ・コストに対するクリーチャーのサイズはだいたい同じだし、戦闘で多くの交換が発生するからだ。
+ゲームは片方のプレイヤーが競争に追いつけなくなったときに終了する。
+彼らが躓いてしまったときか、彼らの対戦相手が盤面で圧倒したときということだ。&lt;/p&gt;
+
+&lt;p&gt;このセットのクリーチャーは巨大であり、そしてマナコストが大きくなるにつれてサイズもさらに大きくなる。
+そして殆どのデッキがプロアクティブである。
+このことはつまり、もしあなたが一度躓くとゲームに復帰することは難しいということだ。
+対戦相手のクリーチャーはあなたのクリーチャーをあっさりと無力化し、苛烈な攻撃を仕掛けてくるだろう。
+このことが理由で、私は2マナのサイクリングが好きではない。
+どのデッキもきれいなマナ・カーブを描こうとするような環境で、2マナは巨大なテンポロスとなるのだ。
+私はもともと、特定の状況に適したサイクリングカードを使うのは良いアイデアだと考えていた。
+今ではそれはサイクリングデッキ以外で行うべきでないと考え始めている。&lt;/p&gt;
+
+&lt;p&gt;ゲームは長引くので、すべてのデッキに終盤戦の構想が必要だ。たとえアグロデッキであってもだ。
+アグロデッキにおいては、通常、軽量なサイクリング・コストを持つ巨大クリーチャーの形で実現されることになる。
+例えば《有翼の番人/Winged Shepherd》や《砂漠セロドン/Desert Cerodon》など。
+デッキにもよるが、私は《栄光の探究/Pursue Glory》が好きだ。
+このタイプのカードは、対戦相手の盤面が安定して見える状態であっても、ゲームを掠め取ることができるようになる。&lt;/p&gt;
+
+&lt;p&gt;《ロナスの碑/Rhonas’s Monument》と《オケチラの碑/Oketra’s Monument》はともにシールドで強力である。
+ドラフトにおいては、環境がもっと速いのでそこまで強くないと私は予想するが。
+なお、他の碑は好きではない。&lt;/p&gt;
+
+&lt;h2 id=&quot;シールドデッキ-その2-白赤&quot;&gt;シールド・デッキ その2 白赤&lt;/h2&gt;
+
+&lt;h3 id=&quot;デッキリスト-1&quot;&gt;デッキリスト&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-mtg-deck&quot;&gt;1 Soul-Scar Mage
+1 Glory-Bound Initiate
+1 Pathmaker Initiate
+1 Gust Walker
+1 Trueheart Duelist
+1 Rhet-Crop Spearmaster
+1 Unwavering Initiate
+1 Thresher Lizard
+1 Devoted Crop-Mate
+2 Emberhorn Minotaur
+1 Tah-Crop Elite
+1 Trueheart Twins
+1 Winged Shepherd
+2 Djeru's Resolve
+1 Cartouche of Zeal
+1 Cartouche of Solidarity
+1 Compulsory Rest
+1 Rhonas's Monument
+1 Trial of Zeal
+1 Cast Out
+1 Electrify
+1 Deem Worthy
+8 Plains
+8 Mountain
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;戦績: 1-2&lt;/p&gt;
+
+&lt;p&gt;このデッキは比較的良いと思っていた。しかし、下記に示すとおり幾つかの致命的問題を抱えていた。&lt;/p&gt;
+
+&lt;h3 id=&quot;良かった点-1&quot;&gt;良かった点&lt;/h3&gt;
+
+&lt;h4 id=&quot;督励&quot;&gt;督励&lt;/h4&gt;
+
+&lt;p&gt;督励は強い。
+歴史的に、序盤のクリーチャーは次第に役立たずになり、終盤では死に札になってしまう。
+しかし、《突風歩き/Gust Walker》や《レト一門の槍の達人/Rhet-Crop Spearmaster》のようなクリーチャーはしばしばゲームを通して有効である。
+殆どの督励持ちクリーチャーは標準的なステータスを持っているので、督励は純然たるボーナスとして働く。
+とくに《燃えさし角のミノタウルス/Emberhorn Minotaur》はアグロデッキの障害になる中盤のクリーチャーに対して有用であり、パフォーマンスが高い。&lt;/p&gt;
+
+&lt;h3 id=&quot;悪かった点-1&quot;&gt;悪かった点&lt;/h3&gt;
+
+&lt;h4 id=&quot;クリーチャーの数&quot;&gt;クリーチャーの数&lt;/h4&gt;
+
+&lt;p&gt;このデッキにはコンバットトリックが多く含まれているのに対して、十分な数のクリーチャーがいない。
+これにより、唱える先のクリーチャーがいないのに手札にコンバットトリックが詰まってしまうという状況がしばしば発生した。
+私は幾つかのコンバットトリックを抜いて、《仕える者たち/Those Who Serve》や《補給の隊商/Supply Caravan》を使用するべきだった。
+私にはもっと生物が必要で、除去は十分なものが揃っていたのだから。&lt;/p&gt;
+
+&lt;h4 id=&quot;デジェルの決意djerus-resolve&quot;&gt;《デジェルの決意/Djeru’s Resolve》&lt;/h4&gt;
+
+&lt;p&gt;《デジェルの決意/Djeru’s Resolve》は期待外れだった。
+督励持ちクリーチャーはだいたい低マナ域にあり、防御時に待ち伏せを行うにはサイズが不足していた。
+また、すでに述べたとおり、2マナのサイクリングはコストが高すぎる。
+序盤の数ターンマナを効率的に使い切りたいアグロ・デッキにおいては特にそうだ。&lt;/p&gt;
+
+&lt;h4 id=&quot;献身的な門友devoted-crop-mate&quot;&gt;《献身的な門友/Devoted Crop-Mate》&lt;/h4&gt;
+
+&lt;p&gt;《献身的な門友/Devoted Crop-Mate》もまた期待外れだった。
+不利な交換になったり、大きなブロッカーに相対して攻撃できないことがしばしば発生した。
+また。4ターン目や5ターン目に2マナのクリーチャーを戻してもあまり意味を感じなかった。&lt;/p&gt;
+
+&lt;h4 id=&quot;マナフラッド-1&quot;&gt;マナ・フラッド&lt;/h4&gt;
+
+&lt;p&gt;前回のデッキと同じように、不朽持ちクリーチャーは少なく、余波呪文はない。
+従って、マナ・フラッドは起きやすい。&lt;/p&gt;
+
+&lt;h4 id=&quot;終盤戦の戦術&quot;&gt;終盤戦の戦術&lt;/h4&gt;
+
+&lt;p&gt;先述の通り、ゲームは長引きやすいので、超攻撃的なデッキにおいても終盤戦の戦術は必要だ。
+しかし、このデッキはそこが欠けている。5マナクリーチャー1枚と《有翼の番人/Winged Shepherd》では不十分だ。
+このデッキにほんとうに必要だったのは何枚かの《砂漠セロドン/Desert Cerodon》である。&lt;/p&gt;
+
+&lt;h3 id=&quot;この環境について学んだこと-1&quot;&gt;この環境について学んだこと&lt;/h3&gt;
+
+&lt;p&gt;この環境で純粋なアグロデッキを成立させるのは極めて難しい。
+先述したとおり、この環境のクリーチャーは4マナ・5マナで極めて大きくなり、軽量なアグロクリーチャーをせき止めてしまう。
+このことは、中盤を通じてダメージを通すための良いコンバットトリックが必要だということだ。&lt;/p&gt;
+
+&lt;p&gt;しかし、どの色でも同じようなサイズのクリーチャーに到達できるので、盤面の交換は頻繁に発生することになる。
+そのため、アグロデッキは終盤戦のプランを持っていなければ、相手デッキが使用する不朽や余波によるアドバンテージに立ち向かわねばならないことになる。
+しかし、手札にカードを余らせておくための余裕はないので、巨大な脅威をただ詰め込めばいいというものではない。
+理想的なのは強大な影響力を持った5マナのクリーチャー、あるいは軽量なサイクリングコストを持つ巨大クリーチャーだ。&lt;/p&gt;
+
+&lt;p&gt;簡単にまとめると、このフォーマットでアグロデッキを成立させるにはたくさんのことが必要だ。
+まず、序盤から圧力をかけられるクリーチャー。
+中盤で巨大なブロッカーを押しのけられるコンバットトリック。
+そしてゲームが長引いたときのための終盤用の戦術。
+これらすべての要求を満たすことができないなら、デッキは失敗になってしまう。それは、ゲームの何処かの段階で躓いてしまうのだ。&lt;/p&gt;
+
+&lt;h2 id=&quot;シールドデッキ-その3-緑白タッチ黒&quot;&gt;シールド・デッキ その3 緑白タッチ黒&lt;/h2&gt;
+
+&lt;h3 id=&quot;デッキリスト-2&quot;&gt;デッキリスト&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-mtg-deck&quot;&gt;1 Fan Bearer
+2 Gust Walker
+1 Watchers of the Dead
+1 Unwavering Initiate
+1 Hooded Brawler
+1 Rhet-Crop Spearmaster
+1 Aven Mindcensor
+1 Ornery Kudu
+2 Tah-Crop Elite
+1 Quarry Hauler
+1 Decimator Beetle
+1 Oketra's Attendant
+1 Colossapede
+1 Scaled Behemoth
+1 Shed Weakness
+1 Stinging Shot
+1 Compulsory Rest
+1 Synchronized Strike
+1 Oketra's Monument
+1 Final Reward
+1 Mouth/Feed
+1 Evolving Wilds
+8 Plains
+6 Forest
+2 Swamp
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;戦績: 0-2&lt;/p&gt;
+
+&lt;p&gt;1ラウンド目は不戦勝、2ラウンド目は超強力なデッキに敗れ、最終ラウンドも強力なデッキと当たって敗れた。
+私が思うに、このデッキは十分強力だが、2つのマッチともボムにボコボコにされてしまったということだ。&lt;/p&gt;
+
+&lt;h3 id=&quot;良かった点-2&quot;&gt;良かった点&lt;/h3&gt;
+
+&lt;h4 id=&quot;鱗ビヒモスscaled-behemoth&quot;&gt;《鱗ビヒモス/Scaled Behemoth》&lt;/h4&gt;
+
+&lt;p&gt;《鱗ビヒモス/Scaled Behemoth》最高。
+このカードは他の地上クリーチャーより遥かに巨大なサイズで、盤面をただただ壊滅させる。
+除去の対象にならないので、対戦相手は通常ダブルブロックによる対処を強いられる。
+しかしそれはあなたにとってコンバットトリックで相手を叩きのめすチャンスなのだ。そして相手は、呪禁のために何もできない。&lt;/p&gt;
+
+&lt;h4 id=&quot;扇持ちfan-bearer&quot;&gt;《扇持ち/Fan Bearer》&lt;/h4&gt;
+
+&lt;p&gt;《扇持ち/Fan Bearer》は期待以上だった。
+2マナの起動コストはたしかに重いが、このフォーマットは十分に遅い。
+そしてボムの数はやたら多い割に除去の数は充分でないので、クリーチャーを止められるカードは何でも強いのである。
+ドラフトにおいてはシールドほど強くないだろうと予想する。
+同様の発想で、はじめ《錯覚の覆い/Illusory Wrappings》はプレイアブルでないだろうと予想していたが、少なくともシールドでは良いカードなのではないかと今では思う。&lt;/p&gt;
+
+&lt;h3 id=&quot;悪かった点-2&quot;&gt;悪かった点&lt;/h3&gt;
+
+&lt;h4 id=&quot;色のタッチ&quot;&gt;色のタッチ&lt;/h4&gt;
+
+&lt;p&gt;前述の通り、この環境は非常にアグレッシブであるので、つまづきは許されない。
+しかし、色をタッチすることで、時々なんでもないときにつまづきが生じてしまうことになる。このフォーマットはそれを咎めるだろう。
+とはいえ、ボムが大量に存在し除去の数が不充分な環境なので、除去のために色をタッチするハメになることはよくあるだろう。&lt;/p&gt;
+
+&lt;h4 id=&quot;同期した一撃synchronized-strike&quot;&gt;《同期した一撃/Synchronized Strike》&lt;/h4&gt;
+
+&lt;p&gt;《同期した一撃/Synchronized Strike》は、それが最も輝くようなデッキでないことを差し引いたとしても、期待外れだった。
+カードはそこまで悪くないのだが、私はそれをいささか過大評価していたようである。
+緑で最も優れたアンコモンであるとさえ考えていた。
+このカードが潜在的な爆発力を秘めていることには間違いないが、しかし結局はコンバットトリックにすぎない。
+つまり、手札で詰まってしまうことがよくある。
+3マナというコストは対戦相手の対応を容易にする。一度見せてしまっている場合には特にそうだ。&lt;/p&gt;
+
+&lt;h3 id=&quot;この環境について学んだこと-2&quot;&gt;この環境について学んだこと&lt;/h3&gt;
+
+&lt;p&gt;この環境のレアの多くは完全にボムだ。
+対処しないかぎりゲームを決めてしまうだろうし、このセットには対応するための除去が不足している。&lt;/p&gt;
+
+&lt;p&gt;ある特定のメカニズムに基づいた出来を組むのは難しい。
+殆どのシールドプールで、十分な数のサポートカードが手に入らないためだ。
+このことはつまり、デッキを組むにあたって、プールの中で良いカードに注目すべきだということだ。
+除去が大量にある場合を除いて、一貫性のあるデッキを作るよりも最強のカードを使えるようにするべきだ。
+もしあなたのデッキがきれいなマナカーブに沿っていたとしても、対戦相手のボムが全てをぶち壊すだろう。&lt;/p&gt;
+
+&lt;p&gt;一方で、あなたのデッキは数合わせのコモンやアンコモンで一杯になるかもしれない。
+それでもそれらはあなたを生き延びさせ、あなたがレアのボムを叩きつけるまで、相手の除去を何枚か消費させることができるだろう。
+そうなれば、あなたはその巨大な脅威で、勝利をつかむことができるはずだ。&lt;/p&gt;
+
+&lt;h2 id=&quot;まとめ&quot;&gt;まとめ&lt;/h2&gt;
+
+&lt;p&gt;私が最後にプレリリースで遊んでからしばらくたったが、全体的にそれは楽しいものであった。
+私の結果は芳しくなかったが、この週末で多くのことを学ぶことができた。
+そして、今後ますますアモンケットのリミテッド環境を探求することが、楽しみで仕方がない。&lt;/p&gt;
+
+&lt;p&gt;また次回。&lt;/p&gt;</content><category term="Zen Takahashi" /><category term="アモンケット" /><category term="Sealed" /><category term="Limited" /><category term="Sealed (AKH)" /><category term="Limited (AKH)" /><summary type="html">原文
+
+この文章はmtgmintcardに掲載されたAnalyzing Amonkhet Sealedの和訳である。原文の掲載は2017年4月26日だった。
+
+
+
+
+
+アモンケット・シールド環境を分析する
+
+こんにちは！
+
+先週末、私はアモンケットのプレリリースに参加し、シールド・イベントに3回参加した。
+来週にはリミテッドのグランプリが世界各地で開催される。
+今こそ私の組んだシールド・デッキから何が学べるか、そしてフォーマット全体に対する私の理解を議論する、良い機会だと思う。
+
+シールド・デッキその1 青緑タッチ白
+
+デッキリスト
+
+3 Bitterblade Warrior
+1 Naga Vitalist
+1 Tah-Crop Skirmisher
+1 Hooded Brawler
+1 Defiant Greatmaw
+1 Ornery Kudu
+2 Quarry Hauler
+1 Aven Initiate
+2 Shimmerscale Drake
+1 Glyph Keeper
+1 Angler Drake
+1 Cryptic Serpent
+1 Shed Weakness
+1 Stinging Shot
+1 Compulsory Rest
+1 Winds of Rebuke
+1 Rhonas's Monument
+1 Galestrike
+1 Cast Out
+1 Evolving Wilds
+8 Forest
+7 Island
+1 Plains
+
+
+戦績: 3-2
+
+これは私が最初に参加したイベントで組んだデッキで、妥当なものかどうか確信は持てていなかった。
+プランはこうだ。最初の数ターンは2マナ・3マナのクリーチャーでアグレッシブに攻める。そして、後半はフライヤーでとどめを刺す。
+
+良かった点
+
+《ロナスの碑/Rhonas’s Monument》
+
+《ロナスの碑/Rhonas’s Monument》はパワフルだった。
+《苦刃の戦士/Bitterblade Warrior》は序盤にこそダメージを通す役に立つが、中盤になって対戦相手がより大きいクリーチャーを出すと立ち往生してしまう。
+《ロナスの碑/Rhonas’s Monument》があれば、序盤に出た熊を中盤でも意味のある4/4のアタッカーに変えることができる。
+《ロナスの碑/Rhonas’s Monument》はフライヤーとも相性が良く、それを《溶岩の斧/Lava Axe》に変えることで2～3回の攻撃でケリをつけることができるようになる。
+
+飛行クリーチャー
+
+大きなフライヤーは偉大だ。上記の通り、このセットに存在する4マナ・5マナのクリーチャーによって、私の軽量クリーチャーは道を塞がれてしまっていた。
+飛行クリーチャーは小型クリーチャーのやり残した役割を上空から全うしてみせた。
+《釣りドレイク/Angler Drake》は私が考えていたとおりのぶっ壊れであった。
+
+《採石場の運び屋/Quarry Hauler》
+
+《採石場の運び屋/Quarry Hauler》は思っていた以上のやり手だった。
+《気性の荒いクーズー/Ornery Kudu》のような自分のクリーチャーから-1/-1カウンターを取り除くこともしたし、対戦相手のクリーチャーの-1/-1カウンターを増やして殺すこともした。
+何人かの対戦相手は、タフネス2のクリーチャーの上に-1/-1カウンターを置いていた。おそらくチャンプ・ブロックに回すつもりだったのだろう。
+《採石場の運び屋/Quarry Hauler》は戦場に出るだけでそれを殺した。
+
+バウンス
+
+私は、このフォーマットにおいてバウンスは強力だと考えていた。
+不朽トークンがあること、カルトーシュがあること、コンバットトリックが多いことがその理由だ。
+《叱責の風/Winds of Rebuke》は見事にこれを証明した。
+様々な状況で対戦相手を叩きのめし、大きなテンポ・アドバンテージを奪っていったのだ。
+より習熟したプレイヤーにはさほど効果がないかもしれないが、バウンス呪文はこのフォーマットで有効だろう。
+
+悪かった点
+
+プレイング
+
+デッキがゲームの戦略を持っていたものの、実際のプレイはお粗末なものだった。
+私の2マナ・3マナのクリーチャーは、対戦相手の4マナ・5マナのクリーチャーの前にあっさりと役立たずになってしまった。
+そして、《ロナスの碑/Rhonas’s Monument》を引かないかぎり、攻撃を押し通すだけのコンバットトリックもなかった。
+幾つかのゲームでは飛行クリーチャーで押し切ることができたが、序盤の攻勢をサポートするにはいささか遅すぎた。
+アグロ・デッキを実現するには、ライフを詰めるために3ターン目から5ターン目のコンバットトリックが本当に重要である。
+飛行クリーチャーを用いた私の遅い戦術は、十分に良いとはいえないだろう。
+
+-1/-1カウンター戦術
+
+このデッキにおける-1/-1カウンターを用いたシナジーは弱すぎた。
+殆どの場合、《気性の荒いクーズー/Ornery Kudu》と《好戦的な巨口/Defiant Greatmaw》は3マナ2/3でしかなかった。これは非常に弱い。
+このシナジーを有効に活用できるような十分なサポートをシールドで引くことは難しい。
+《横断地のクロコダイル/Crocodile of the Crossing》のような単独でプレイしても十分強いカードのみを使うべきだろう。
+
+マナ・フラッド
+
+このデッキはマナ・フラッドに陥りやすい。不朽持ちのカードは少なく、余波のある呪文は入っていない。
+対戦相手の多くがこれらのカードをデッキに入れていたので、これは大きな問題であった。
+彼らはマナ・フラッドでもアクションを起こせたが、私はできることがなにもなかったのだ。
+これはつまり、私はマナ・フラッドを起こせば全く抜け出すことができないのに対し、対戦相手はそうではないということだ。
+この経験から、色があっている不朽クリーチャーと余波呪文は、たとえ強力なものでなくともデッキに入れるべきだと信じるようになった。
+
+この環境について学んだこと
+
+この環境はプロアクティブだが、ゲームは長くなる。
+プロアクティブであることはアグレッシブであることと結びつくことが多いので、これは矛盾しているように聞こえるかもしれない。
+しかし、この環境のクリーチャーは大きくてパワフルなのに対し、除去はそれほど多くないのである。
+
+このことは、コントロール・デッキを組むことが難しいことを意味している。
+なので、ほとんどすべてのデッキがクリーチャーで相手を殴り倒すことを目標にしている。
+しかし、彼らのペースはまちまちだ。
+幾つかのデッキは督励を持つクリーチャーでアグレッシブに攻めようとする。
+また、他のデッキは《鱗ビヒモス/Scaled Behemoth》などの巨大クリーチャーで押しつぶそうとする。
+
+ゲームはしばしば長引く。
+どの色でもマナ・コストに対するクリーチャーのサイズはだいたい同じだし、戦闘で多くの交換が発生するからだ。
+ゲームは片方のプレイヤーが競争に追いつけなくなったときに終了する。
+彼らが躓いてしまったときか、彼らの対戦相手が盤面で圧倒したときということだ。
+
+このセットのクリーチャーは巨大であり、そしてマナコストが大きくなるにつれてサイズもさらに大きくなる。
+そして殆どのデッキがプロアクティブである。
+このことはつまり、もしあなたが一度躓くとゲームに復帰することは難しいということだ。
+対戦相手のクリーチャーはあなたのクリーチャーをあっさりと無力化し、苛烈な攻撃を仕掛けてくるだろう。
+このことが理由で、私は2マナのサイクリングが好きではない。
+どのデッキもきれいなマナ・カーブを描こうとするような環境で、2マナは巨大なテンポロスとなるのだ。
+私はもともと、特定の状況に適したサイクリングカードを使うのは良いアイデアだと考えていた。
+今ではそれはサイクリングデッキ以外で行うべきでないと考え始めている。
+
+ゲームは長引くので、すべてのデッキに終盤戦の構想が必要だ。たとえアグロデッキであってもだ。
+アグロデッキにおいては、通常、軽量なサイクリング・コストを持つ巨大クリーチャーの形で実現されることになる。
+例えば《有翼の番人/Winged Shepherd》や《砂漠セロドン/Desert Cerodon》など。
+デッキにもよるが、私は《栄光の探究/Pursue Glory》が好きだ。
+このタイプのカードは、対戦相手の盤面が安定して見える状態であっても、ゲームを掠め取ることができるようになる。
+
+《ロナスの碑/Rhonas’s Monument》と《オケチラの碑/Oketra’s Monument》はともにシールドで強力である。
+ドラフトにおいては、環境がもっと速いのでそこまで強くないと私は予想するが。
+なお、他の碑は好きではない。
+
+シールド・デッキ その2 白赤
+
+デッキリスト
+
+1 Soul-Scar Mage
+1 Glory-Bound Initiate
+1 Pathmaker Initiate
+1 Gust Walker
+1 Trueheart Duelist
+1 Rhet-Crop Spearmaster
+1 Unwavering Initiate
+1 Thresher Lizard
+1 Devoted Crop-Mate
+2 Emberhorn Minotaur
+1 Tah-Crop Elite
+1 Trueheart Twins
+1 Winged Shepherd
+2 Djeru's Resolve
+1 Cartouche of Zeal
+1 Cartouche of Solidarity
+1 Compulsory Rest
+1 Rhonas's Monument
+1 Trial of Zeal
+1 Cast Out
+1 Electrify
+1 Deem Worthy
+8 Plains
+8 Mountain
+
+
+戦績: 1-2
+
+このデッキは比較的良いと思っていた。しかし、下記に示すとおり幾つかの致命的問題を抱えていた。
+
+良かった点
+
+督励
+
+督励は強い。
+歴史的に、序盤のクリーチャーは次第に役立たずになり、終盤では死に札になってしまう。
+しかし、《突風歩き/Gust Walker》や《レト一門の槍の達人/Rhet-Crop Spearmaster》のようなクリーチャーはしばしばゲームを通して有効である。
+殆どの督励持ちクリーチャーは標準的なステータスを持っているので、督励は純然たるボーナスとして働く。
+とくに《燃えさし角のミノタウルス/Emberhorn Minotaur》はアグロデッキの障害になる中盤のクリーチャーに対して有用であり、パフォーマンスが高い。
+
+悪かった点
+
+クリーチャーの数
+
+このデッキにはコンバットトリックが多く含まれているのに対して、十分な数のクリーチャーがいない。
+これにより、唱える先のクリーチャーがいないのに手札にコンバットトリックが詰まってしまうという状況がしばしば発生した。
+私は幾つかのコンバットトリックを抜いて、《仕える者たち/Those Who Serve》や《補給の隊商/Supply Caravan》を使用するべきだった。
+私にはもっと生物が必要で、除去は十分なものが揃っていたのだから。
+
+《デジェルの決意/Djeru’s Resolve》
+
+《デジェルの決意/Djeru’s Resolve》は期待外れだった。
+督励持ちクリーチャーはだいたい低マナ域にあり、防御時に待ち伏せを行うにはサイズが不足していた。
+また、すでに述べたとおり、2マナのサイクリングはコストが高すぎる。
+序盤の数ターンマナを効率的に使い切りたいアグロ・デッキにおいては特にそうだ。
+
+《献身的な門友/Devoted Crop-Mate》
+
+《献身的な門友/Devoted Crop-Mate》もまた期待外れだった。
+不利な交換になったり、大きなブロッカーに相対して攻撃できないことがしばしば発生した。
+また。4ターン目や5ターン目に2マナのクリーチャーを戻してもあまり意味を感じなかった。
+
+マナ・フラッド
+
+前回のデッキと同じように、不朽持ちクリーチャーは少なく、余波呪文はない。
+従って、マナ・フラッドは起きやすい。
+
+終盤戦の戦術
+
+先述の通り、ゲームは長引きやすいので、超攻撃的なデッキにおいても終盤戦の戦術は必要だ。
+しかし、このデッキはそこが欠けている。5マナクリーチャー1枚と《有翼の番人/Winged Shepherd》では不十分だ。
+このデッキにほんとうに必要だったのは何枚かの《砂漠セロドン/Desert Cerodon》である。
+
+この環境について学んだこと
+
+この環境で純粋なアグロデッキを成立させるのは極めて難しい。
+先述したとおり、この環境のクリーチャーは4マナ・5マナで極めて大きくなり、軽量なアグロクリーチャーをせき止めてしまう。
+このことは、中盤を通じてダメージを通すための良いコンバットトリックが必要だということだ。
+
+しかし、どの色でも同じようなサイズのクリーチャーに到達できるので、盤面の交換は頻繁に発生することになる。
+そのため、アグロデッキは終盤戦のプランを持っていなければ、相手デッキが使用する不朽や余波によるアドバンテージに立ち向かわねばならないことになる。
+しかし、手札にカードを余らせておくための余裕はないので、巨大な脅威をただ詰め込めばいいというものではない。
+理想的なのは強大な影響力を持った5マナのクリーチャー、あるいは軽量なサイクリングコストを持つ巨大クリーチャーだ。
+
+簡単にまとめると、このフォーマットでアグロデッキを成立させるにはたくさんのことが必要だ。
+まず、序盤から圧力をかけられるクリーチャー。
+中盤で巨大なブロッカーを押しのけられるコンバットトリック。
+そしてゲームが長引いたときのための終盤用の戦術。
+これらすべての要求を満たすことができないなら、デッキは失敗になってしまう。それは、ゲームの何処かの段階で躓いてしまうのだ。
+
+シールド・デッキ その3 緑白タッチ黒
+
+デッキリスト
+
+1 Fan Bearer
+2 Gust Walker
+1 Watchers of the Dead
+1 Unwavering Initiate
+1 Hooded Brawler
+1 Rhet-Crop Spearmaster
+1 Aven Mindcensor
+1 Ornery Kudu
+2 Tah-Crop Elite
+1 Quarry Hauler
+1 Decimator Beetle
+1 Oketra's Attendant
+1 Colossapede
+1 Scaled Behemoth
+1 Shed Weakness
+1 Stinging Shot
+1 Compulsory Rest
+1 Synchronized Strike
+1 Oketra's Monument
+1 Final Reward
+1 Mouth/Feed
+1 Evolving Wilds
+8 Plains
+6 Forest
+2 Swamp
+
+
+戦績: 0-2
+
+1ラウンド目は不戦勝、2ラウンド目は超強力なデッキに敗れ、最終ラウンドも強力なデッキと当たって敗れた。
+私が思うに、このデッキは十分強力だが、2つのマッチともボムにボコボコにされてしまったということだ。
+
+良かった点
+
+《鱗ビヒモス/Scaled Behemoth》
+
+《鱗ビヒモス/Scaled Behemoth》最高。
+このカードは他の地上クリーチャーより遥かに巨大なサイズで、盤面をただただ壊滅させる。
+除去の対象にならないので、対戦相手は通常ダブルブロックによる対処を強いられる。
+しかしそれはあなたにとってコンバットトリックで相手を叩きのめすチャンスなのだ。そして相手は、呪禁のために何もできない。
+
+《扇持ち/Fan Bearer》
+
+《扇持ち/Fan Bearer》は期待以上だった。
+2マナの起動コストはたしかに重いが、このフォーマットは十分に遅い。
+そしてボムの数はやたら多い割に除去の数は充分でないので、クリーチャーを止められるカードは何でも強いのである。
+ドラフトにおいてはシールドほど強くないだろうと予想する。
+同様の発想で、はじめ《錯覚の覆い/Illusory Wrappings》はプレイアブルでないだろうと予想していたが、少なくともシールドでは良いカードなのではないかと今では思う。
+
+悪かった点
+
+色のタッチ
+
+前述の通り、この環境は非常にアグレッシブであるので、つまづきは許されない。
+しかし、色をタッチすることで、時々なんでもないときにつまづきが生じてしまうことになる。このフォーマットはそれを咎めるだろう。
+とはいえ、ボムが大量に存在し除去の数が不充分な環境なので、除去のために色をタッチするハメになることはよくあるだろう。
+
+《同期した一撃/Synchronized Strike》
+
+《同期した一撃/Synchronized Strike》は、それが最も輝くようなデッキでないことを差し引いたとしても、期待外れだった。
+カードはそこまで悪くないのだが、私はそれをいささか過大評価していたようである。
+緑で最も優れたアンコモンであるとさえ考えていた。
+このカードが潜在的な爆発力を秘めていることには間違いないが、しかし結局はコンバットトリックにすぎない。
+つまり、手札で詰まってしまうことがよくある。
+3マナというコストは対戦相手の対応を容易にする。一度見せてしまっている場合には特にそうだ。
+
+この環境について学んだこと
+
+この環境のレアの多くは完全にボムだ。
+対処しないかぎりゲームを決めてしまうだろうし、このセットには対応するための除去が不足している。
+
+ある特定のメカニズムに基づいた出来を組むのは難しい。
+殆どのシールドプールで、十分な数のサポートカードが手に入らないためだ。
+このことはつまり、デッキを組むにあたって、プールの中で良いカードに注目すべきだということだ。
+除去が大量にある場合を除いて、一貫性のあるデッキを作るよりも最強のカードを使えるようにするべきだ。
+もしあなたのデッキがきれいなマナカーブに沿っていたとしても、対戦相手のボムが全てをぶち壊すだろう。
+
+一方で、あなたのデッキは数合わせのコモンやアンコモンで一杯になるかもしれない。
+それでもそれらはあなたを生き延びさせ、あなたがレアのボムを叩きつけるまで、相手の除去を何枚か消費させることができるだろう。
+そうなれば、あなたはその巨大な脅威で、勝利をつかむことができるはずだ。
+
+まとめ
+
+私が最後にプレリリースで遊んでからしばらくたったが、全体的にそれは楽しいものであった。
+私の結果は芳しくなかったが、この週末で多くのことを学ぶことができた。
+そして、今後ますますアモンケットのリミテッド環境を探求することが、楽しみで仕方がない。
+
+また次回。</summary></entry><entry><title type="html">アモンケット・シールドの鍵</title><link href="http://tefuda.suku.name/2017/06/13/%E3%82%A2%E3%83%A2%E3%83%B3%E3%82%B1%E3%83%83%E3%83%88-%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E3%81%AE%E9%8D%B5/" rel="alternate" type="text/html" title="アモンケット・シールドの鍵" /><published>2017-06-13T00:00:00+09:00</published><updated>2017-06-13T00:00:00+09:00</updated><id>http://tefuda.suku.name/2017/06/13/%E3%82%A2%E3%83%A2%E3%83%B3%E3%82%B1%E3%83%83%E3%83%88%E3%83%BB%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E3%81%AE%E9%8D%B5</id><content type="html" xml:base="http://tefuda.suku.name/2017/06/13/%E3%82%A2%E3%83%A2%E3%83%B3%E3%82%B1%E3%83%83%E3%83%88-%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E3%81%AE%E9%8D%B5/">&lt;h2 id=&quot;原文&quot;&gt;原文&lt;/h2&gt;
 
 &lt;p&gt;この文章は&lt;a href=&quot;http://www.channelfireball.com/&quot;&gt;Channel Fireball&lt;/a&gt;に掲載された&lt;a href=&quot;https://www.channelfireball.com/articles/keys-to-amonkhet-sealed/&quot;&gt;Keys to Amonkhet Sealed&lt;/a&gt;の和訳である。原文の掲載は2017年5月3日だった。&lt;/p&gt;
 
@@ -306,9 +960,7 @@ Magix Onlineで7回シールドリーグに参加した経験上、私はこの�
 
 リッチモンドが楽しみだ！ぜひともこういったレアを2枚とか引いて、一緒に走らせてみたい。
 
-シールドをプレイする場合には、上記のような乱暴なレアや神話レアを開封し、素晴らしいx-0のデッキを組んでほしい。
-
-幸運を祈ります。砂漠を楽しんでください。</summary></entry><entry><title type="html">緑白青《副陽の接近/Approach of the Second Sun》デッキ</title><link href="http://tefuda.suku.name/2017/05/20/%E7%B7%91%E7%99%BD%E9%9D%92-%E5%89%AF%E9%99%BD%E3%81%AE%E6%8E%A5%E8%BF%91-Approach-of-the-Second-Sun-%E3%83%87%E3%83%83%E3%82%AD/" rel="alternate" type="text/html" title="緑白青《副陽の接近/Approach of the Second Sun》デッキ" /><published>2017-05-20T00:00:00+09:00</published><updated>2017-05-20T00:00:00+09:00</updated><id>http://tefuda.suku.name/2017/05/20/%E7%B7%91%E7%99%BD%E9%9D%92%E3%80%8A%E5%89%AF%E9%99%BD%E3%81%AE%E6%8E%A5%E8%BF%91/Approach%20of%20the%20Second%20Sun%E3%80%8B%E3%83%87%E3%83%83%E3%82%AD</id><content type="html" xml:base="http://tefuda.suku.name/2017/05/20/%E7%B7%91%E7%99%BD%E9%9D%92-%E5%89%AF%E9%99%BD%E3%81%AE%E6%8E%A5%E8%BF%91-Approach-of-the-Second-Sun-%E3%83%87%E3%83%83%E3%82%AD/">&lt;h2 id=&quot;副陽の接近approach-of-the-second-sunを2連打して勝ちたい&quot;&gt;《副陽の接近/Approach of the Second Sun》を2連打して勝ちたい&lt;/h2&gt;
+シールドをプレイする場合には、上記のような乱暴なレアや神話レアを開封し、素晴らしいx-0のデッキを組んでほしい。</summary></entry><entry><title type="html">緑白青《副陽の接近/Approach of the Second Sun》デッキ</title><link href="http://tefuda.suku.name/2017/05/20/%E7%B7%91%E7%99%BD%E9%9D%92-%E5%89%AF%E9%99%BD%E3%81%AE%E6%8E%A5%E8%BF%91-Approach-of-the-Second-Sun-%E3%83%87%E3%83%83%E3%82%AD/" rel="alternate" type="text/html" title="緑白青《副陽の接近/Approach of the Second Sun》デッキ" /><published>2017-05-20T00:00:00+09:00</published><updated>2017-05-20T00:00:00+09:00</updated><id>http://tefuda.suku.name/2017/05/20/%E7%B7%91%E7%99%BD%E9%9D%92%E3%80%8A%E5%89%AF%E9%99%BD%E3%81%AE%E6%8E%A5%E8%BF%91/Approach%20of%20the%20Second%20Sun%E3%80%8B%E3%83%87%E3%83%83%E3%82%AD</id><content type="html" xml:base="http://tefuda.suku.name/2017/05/20/%E7%B7%91%E7%99%BD%E9%9D%92-%E5%89%AF%E9%99%BD%E3%81%AE%E6%8E%A5%E8%BF%91-Approach-of-the-Second-Sun-%E3%83%87%E3%83%83%E3%82%AD/">&lt;h2 id=&quot;副陽の接近approach-of-the-second-sunを2連打して勝ちたい&quot;&gt;《副陽の接近/Approach of the Second Sun》を2連打して勝ちたい&lt;/h2&gt;
 
 &lt;p&gt;MOでアモンケットのシールド戦をしていたらレア6枚中《副陽の接近/Approach of the Second Sun》が2枚というトラブルが発生。それほど感触が悪くなかったのでスタンダードでも組んでみた。&lt;/p&gt;
 
@@ -1980,270 +2632,4 @@ Friendly Sealed Leagueは全9戦。
 一度身につけてしまえば、二度と忘れることはない。
 これが機会費用を理解することの力だ。&lt;/p&gt;
 
-&lt;p&gt;引き続き、『幸福のためのマジック』をお楽しみに。&lt;/p&gt;</content><category term="Travis Woo" /><summary type="html">原文</summary></entry><entry><title type="html">マジック・デュエルズ・オリジン Magic Duels: Origins 4色後見</title><link href="http://tefuda.suku.name/2015/09/27/%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF-%E3%83%87%E3%83%A5%E3%82%A8%E3%83%AB%E3%82%BA-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%B3-Magic-Duels-Origins-4%E8%89%B2%E5%BE%8C%E8%A6%8B/" rel="alternate" type="text/html" title="マジック・デュエルズ・オリジン Magic Duels: Origins 4色後見" /><published>2015-09-27T00:00:00+09:00</published><updated>2015-09-27T00:00:00+09:00</updated><id>http://tefuda.suku.name/2015/09/27/%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF%E3%83%BB%E3%83%87%E3%83%A5%E3%82%A8%E3%83%AB%E3%82%BA%E3%83%BB%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%B3%20Magic%20Duels:%20Origins%204%E8%89%B2%E5%BE%8C%E8%A6%8B</id><content type="html" xml:base="http://tefuda.suku.name/2015/09/27/%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF-%E3%83%87%E3%83%A5%E3%82%A8%E3%83%AB%E3%82%BA-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%B3-Magic-Duels-Origins-4%E8%89%B2%E5%BE%8C%E8%A6%8B/">&lt;h2 id=&quot;戦乱のゼンディカー-リリース遅延記念&quot;&gt;戦乱のゼンディカー リリース遅延記念&lt;/h2&gt;
-
-&lt;p&gt;マジック・デュエルズ・オリジンで使ってる4色後見デッキを晒してみる。&lt;/p&gt;
-
-&lt;p&gt;レーティングは30あたりをうろうろしてる。ちょっとここいらで各カードの役割を整理したい。&lt;/p&gt;
-
-&lt;!-- more --&gt;
-
-&lt;hr /&gt;
-
-&lt;pre&gt;&lt;code class=&quot;language-mtg-deck&quot;&gt;2 Plains
-3 Island
-2 Swamp
-4 Forest
-2 Woodland Cemetery
-2 Drowned Catacomb
-2 Hinterland Harbor
-2 Isolated Chapel
-2 Glacial Fortress
-2 Sunpetal Grove
-4 Evolving Wilds
-4 Fog
-1 Jace, Vryn's Prodigy
-3 Gatecreeper Vine
-3 Alchemist's Vial
-3 Telling Time
-1 Nissa, Vastwood Seer
-3 Sphinx's Tutelage
-3 Hydrolash
-3 Artificer's Epiphany
-3 Read the Bones
-2 Talent of the Telepath
-2 Languish
-2 Tragic Arrogance
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;主な勝ち筋は《スフィンクスの後見/Sphinx’s Tutelage》置いて《濃霧/Fog》連打。
-《精霊信者の賢人、ニッサ/Nissa, Sage Animist》か《束縛なきテレパス、ジェイス/Jace, Telepath Unbound》の奥義で勝つこともある。なくはない。&lt;/p&gt;
-
-&lt;h2 id=&quot;各カードについて&quot;&gt;各カードについて&lt;/h2&gt;
-
-&lt;p&gt;軽いほうから順に。&lt;/p&gt;
-
-&lt;h3 id=&quot;濃霧fog-4枚&quot;&gt;《濃霧/Fog》 4枚&lt;/h3&gt;
-
-&lt;p&gt;守りの切り札。当然のフル投入。&lt;/p&gt;
-
-&lt;p&gt;他の防御用カードより効果が確実なので、ギリギリまで温存すべき。軽いし。
-この手のカードでしのぎながらクリーチャーを並べさせて、リセット呪文でまとめて流す、を繰り返さないと勝てない。&lt;/p&gt;
-
-&lt;p&gt;赤が入ってるデッキ相手なら、ライフが10を切らないように早めに使う。リセットを待ってる間に火力連打で死ぬので。手札が少なくても《チャンドラの灯の目覚め/Chandra’s Ignition》がある。逆に《ムウォンヴーリーの酸苔/Mwonvuli Acid-Moss》や《ニッサの巡礼/Nissa’s Pilgrimage》などを見たら温存。リセットを優先していいと思う。《ガイアの復讐者/Gaea’s Revenge》トップデッキに合わせられないと死ぬので。&lt;/p&gt;
-
-&lt;h3 id=&quot;ヴリンの神童ジェイスjace-vryns-prodigy-1枚&quot;&gt;《ヴリンの神童、ジェイス/Jace, Vryn’s Prodigy》 1枚&lt;/h3&gt;
-
-&lt;p&gt;勝ち手段ナンバー3。&lt;/p&gt;
-
-&lt;p&gt;相手の腐ってる除去が飛んでくるのでまず生き残れないものの、それならそれで相手の2ターン目・3ターン目を潰したってことで結果オーライ。最低ブロッカーにはなってくれるし。
-序盤、相手の赤マナ起きてる時に出すと《焦熱の結末/Fiery Conclusion》や《双雷弾/Twin Bolt》ですぐ死ぬ。その場合、次ターンの行動を少しでも縛るために、優先度を下げてる。&lt;/p&gt;
-
-&lt;p&gt;うっかり変身すると神。&lt;/p&gt;
-
-&lt;h3 id=&quot;門を這う蔦gatecreeper-vine-3枚&quot;&gt;《門を這う蔦/Gatecreeper Vine》 3枚&lt;/h3&gt;
-
-&lt;p&gt;このデッキのやりたいことは、まず3ターン目に《スフィンクスの後見/Sphinx’s Tutelage》の設置。それ以降は《濃霧/Fog》を構えながらドロースペル連射、適宜《衰滅/Languish》または《悲劇的な傲慢/Tragic Arrogance》。つまり、3ターン目の3マナを用意しつつ色マナを安定させることは超重要。&lt;/p&gt;
-
-&lt;p&gt;ただし、2T目に出せた時やダブルシンボルを揃えられるときは強いものの、それ以外の局面ではあまり引きたくないので1枚減らしている。&lt;/p&gt;
-
-&lt;p&gt;戦場に出た後について、0/2防衛クリーチャーに待っている運命は以下の様な感じ。&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;チャンプブロックで本体へのダメージを2点軽減しながら死ぬ&lt;/li&gt;
-  &lt;li&gt;リセット呪文に巻き込まれて死ぬ&lt;/li&gt;
-  &lt;li&gt;適当な除去を打たれて死ぬ&lt;/li&gt;
-  &lt;li&gt;飛行クリーチャーの群れに無視される&lt;/li&gt;
-  &lt;li&gt;《秘儀術師の掌握/Grasp of the Hieromancer》で毎ターンタップされる&lt;/li&gt;
-  &lt;li&gt;《残酷な蘇生/Cruel Revival》でアドバンテージ取られながら死ぬ&lt;/li&gt;
-  &lt;li&gt;《霊気への抑留/Anchor to the AEther》でライブラリーの一番上に戻される。実質的にドロー1回スキップ&lt;/li&gt;
-  &lt;li&gt;《反逆の行動/Act of Treason》で寝返って《猛火のヘルハウンド/Blazing Hellhound》なんかの餌になって死ぬ&lt;/li&gt;
-  &lt;li&gt;《野性の本能/Wild Instincts》で格闘して死ぬ (相手クリーチャー1体が+2/+2される)&lt;/li&gt;
-  &lt;li&gt;魔巧を達成した《残虐無道の猛火/Ravaging Blaze》でプレイヤーごと死ぬ (最悪)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;どう考えてもチャンプブロックで死ぬのが一番良いので、相手のパワー2のクリーチャーの前にどんどん砕け散るべき。
-ただ、《ガイアの復讐者/Gaea’s Revenge》が入ってそうなデッキなら、それに合わせて生かしておくことも考えていいと思う。&lt;/p&gt;
-
-&lt;h3 id=&quot;錬金術師の薬瓶alchemists-vial-3枚&quot;&gt;《錬金術師の薬瓶/Alchemist’s Vial》 3枚&lt;/h3&gt;
-
-&lt;p&gt;後見誘発要員その1。&lt;/p&gt;
-
-&lt;p&gt;このデッキ唯一のアーティファクト。2ターン目のアクションとして。《工匠の天啓/Artificer’s Epiphany》で手札が増えるようになる。&lt;/p&gt;
-
-&lt;p&gt;《巨大戦車/Juggernaut》に《伝染性渇血症/Infectious Bloodlust》がついて7/4速攻！みたいな状況に対応できるのも非常にグッド。&lt;/p&gt;
-
-&lt;p&gt;《タイタンの力/Titan’s Strength》などの強化呪文に対応できず、複数枚あると《悲劇的な傲慢/Tragic Arrogance》で流れてしまうのが玉に瑕。&lt;/p&gt;
-
-&lt;h3 id=&quot;時間の把握telling-time-3枚&quot;&gt;《時間の把握/Telling Time》 3枚&lt;/h3&gt;
-
-&lt;p&gt;序盤・中盤・終盤いつ引いても嬉しい。フル投入。&lt;/p&gt;
-
-&lt;p&gt;他の2マナのカードと比べて守りの役にはほぼ立たないが、ダブルマリガンしたハンドから《スフィンクスの後見/Sphinx’s Tutelage》を探したり、手札のリセット呪文に合わせて土地を探したりとやることは多い。
-デッキにたくさん入ってる土地をボトムに送れるのは超重要。&lt;/p&gt;
-
-&lt;p&gt;2ターン目に使うなら《錬金術師の薬瓶/Alchemist’s Vial》より優先してる。&lt;/p&gt;
-
-&lt;h3 id=&quot;巨森の予見者ニッサnissa-vastwood-seer-1枚&quot;&gt;《巨森の予見者、ニッサ/Nissa, Vastwood Seer》 1枚&lt;/h3&gt;
-
-&lt;p&gt;勝ち手段ナンバー2。&lt;/p&gt;
-
-&lt;p&gt;相手のデッキにソーサリー除去が溜まってるはずなので、7T目以降に出して即変身させるのが基本。攻撃を通す必要もなく、毎ターンアドバンテージが取れる強さは異常。&lt;/p&gt;
-
-&lt;h3 id=&quot;スフィンクスの後見sphinxs-tutelage-3枚&quot;&gt;《スフィンクスの後見/Sphinx’s Tutelage》 3枚&lt;/h3&gt;
-
-&lt;p&gt;勝ち手段ナンバー1。目一杯積んだ。
-サイドボードからエンチャント除去が入ったりしない環境なので安心感がある。&lt;/p&gt;
-
-&lt;p&gt;序盤の手札に3枚揃ったりすると死ねるが、1枚も来ないとまず勝てないので、初手にないときはトリプルマリガンくらいはしてる。&lt;/p&gt;
-
-&lt;p&gt;終盤には相手のデッキをほぼ確認できるので、「カウンターは《計算された放逐/Calculated Dismissal》しか入ってなさそう」とか読めるのがグッド。&lt;/p&gt;
-
-&lt;p&gt;緑相手だと、これを出した後全力でドローして《再利用の賢者/Reclamation Sage》を落とさないとまずい。&lt;/p&gt;
-
-&lt;h3 id=&quot;水撃hydrolash-3枚&quot;&gt;《水撃/Hydrolash》 3枚&lt;/h3&gt;
-
-&lt;p&gt;後見誘発要員その2。&lt;/p&gt;
-
-&lt;p&gt;ソプターやエルフのような、横に並べるデッキに対して劇的に効く。そうでなくてもライフ2点分は効く。3枚フル投入。&lt;/p&gt;
-
-&lt;p&gt;《飛行機械の諜報網/Thopter Spy Network》や《ジェスの盗人/Jhessian Thief》・《墓刃の匪賊/Graveblade Marauder》の誘発を防げるところが偉い。&lt;/p&gt;
-
-&lt;h3 id=&quot;工匠の天啓artificers-epiphany-4枚&quot;&gt;《工匠の天啓/Artificer’s Epiphany》 4枚&lt;/h3&gt;
-
-&lt;p&gt;後見誘発要員その3。フル投入。&lt;/p&gt;
-
-&lt;p&gt;インスタント・タイミングで複数枚引ける呪文の中で一番軽いのでこの位置。捨てるカードについては、引いてから考える方針。&lt;/p&gt;
-
-&lt;h3 id=&quot;骨読みread-the-bones-3枚&quot;&gt;《骨読み/Read the Bones》 3枚&lt;/h3&gt;
-
-&lt;p&gt;後見誘発要員その4。&lt;/p&gt;
-
-&lt;p&gt;《時間の把握/Telling Time》とほぼ同じ役割をはたす上に《スフィンクスの後見/Sphinx’s Tutelage》を誘発させられるのは素敵。
-3T目に《スフィンクスの後見/Sphinx’s Tutelage》出してから、4T目、5T目に使いたい。&lt;/p&gt;
-
-&lt;p&gt;フル投入していない理由は以下の2つ。&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;相手の火力が怖くて枚数があまり使えなかったりする。&lt;/li&gt;
-  &lt;li&gt;《スフィンクスの後見/Sphinx’s Tutelage》と色が重なっておらず、《スフィンクスの後見/Sphinx’s Tutelage》後の4T目に使えないことがある。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;テレパスの才能talent-of-the-telepath-2枚&quot;&gt;《テレパスの才能/Talent of the Telepath》 2枚&lt;/h3&gt;
-
-&lt;p&gt;問題児枠。&lt;/p&gt;
-
-&lt;p&gt;例えば《スフィンクスの後見/Sphinx’s Tutelage》がある状態で《霊感/Inspiration》を使うと、4マナ2ドローで相手のライブラリーを4枚(+α)削れる。
-一方でこのカードは《スフィンクスの後見/Sphinx’s Tutelage》抜きで使えて、ライブラリーを削る枚数が3枚多い。除去とかドロースペルがめくれると美味しすぎる。&lt;/p&gt;
-
-&lt;p&gt;魔巧を達成するまで待つか、除去がめくれた時のことを考えて相手のクリーチャーが出るのを待つか、唱えるかどうか迷うことはよくある。往々にして何もめくれないんだけど。&lt;/p&gt;
-
-&lt;p&gt;《スフィンクスの後見/Sphinx’s Tutelage》デッキ同士のゲームで、うっかり相手の《テレパスの才能/Talent of the Telepath》がめくれると宇宙。&lt;/p&gt;
-
-&lt;h3 id=&quot;衰滅languish-2枚&quot;&gt;《衰滅/Languish》 2枚&lt;/h3&gt;
-
-&lt;p&gt;リセットその1。フル投入。&lt;/p&gt;
-
-&lt;p&gt;除去はリセット4枚だけなので、できるだけ温存したいところ。
-ただし相手のプレインズウォーカーを見かけたら即発射。
-《燃え盛る炎、チャンドラ/Chandra, Roaring Flame》とか出たら、その時点でゲーム終了です。&lt;/p&gt;
-
-&lt;h3 id=&quot;悲劇的な傲慢tragic-arrogance-2枚&quot;&gt;《悲劇的な傲慢/Tragic Arrogance》 2枚&lt;/h3&gt;
-
-&lt;p&gt;リセットその2。フル投入。&lt;/p&gt;
-
-&lt;p&gt;これだけのために白を足してる。《衰滅/Languish》の射程外のカードはこれで仕留めるほかないので仕方ない。
-白や赤のオーラを中心にしたデッキや、緑のタフネスが高いデッキに対応できる、このデッキ唯一の除去。&lt;/p&gt;
-
-&lt;p&gt;元のサイズで《衰滅/Languish》の射程外になるクリーチャーは以下のとおり。&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;白
-    &lt;ul&gt;
-      &lt;li&gt;《徴税の大天使/Archangel of Tithes》&lt;/li&gt;
-      &lt;li&gt;《族霊導きの鹿羚羊/Totem-Guide Hartebeest》&lt;/li&gt;
-      &lt;li&gt;《包囲マストドン/Siege Mastodon》&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;青
-    &lt;ul&gt;
-      &lt;li&gt;《高位調停者、アルハマレット/Alhammarret, High Arbiter》&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;黒
-    &lt;ul&gt;
-      &lt;li&gt;《エレボスのタイタン/Erebos’s Titan》&lt;/li&gt;
-      &lt;li&gt;《血の儀式の司祭/Priest of the Blood Rite》のデーモン・トークン&lt;/li&gt;
-      &lt;li&gt;《魂の貯蔵者、コソフェッド/Kothophed, Soul Hoarder》&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;赤
-    &lt;ul&gt;
-      &lt;li&gt;《燃えさし口のヘリオン/Embermaw Hellion》&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;緑
-    &lt;ul&gt;
-      &lt;li&gt;《辺境地の巨人/Outland Colossus》&lt;/li&gt;
-      &lt;li&gt;《森林の怒声吠え/Woodland Bellower》&lt;/li&gt;
-      &lt;li&gt;《ガイアの復讐者/Gaea’s Revenge》&lt;/li&gt;
-      &lt;li&gt;《斧折りの雄鹿/Axebane Stag》&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;無色
-    &lt;ul&gt;
-      &lt;li&gt;《メレティスの守護者/Guardians of Meletis》&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;この辺のカードが戦場に出てしまったら《悲劇的な傲慢/Tragic Arrogance》で落とすほかない。
-黒の3枚と、緑の《斧折りの雄鹿/Axebane Stag》を除く3枚はよく見るカード。
-《高位調停者、アルハマレット/Alhammarret, High Arbiter》と《燃えさし口のヘリオン/Embermaw Hellion》も残しておくと死ねる。&lt;/p&gt;
-
-&lt;p&gt;《悲劇的な傲慢/Tragic Arrogance》の前に《衰滅/Languish》を使ってしまうと結局デカブツが落とせなくなって死ぬ。&lt;/p&gt;
-
-&lt;h3 id=&quot;土地27枚&quot;&gt;土地27枚&lt;/h3&gt;
-
-&lt;p&gt;このデッキの要件としては…&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;3ターン目に確実に3マナ出ること → どの状況でもタップインであるギルド門を入れるスペースはない&lt;/li&gt;
-  &lt;li&gt;4色(うち3色はダブルシンボルあり)のカードを唱えられる必要あり → 無色マナしか出ないような土地は入れるスペース無し&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;というわけで、《進化する未開地/Evolving Wilds》4枚、M10ランド6種12枚、基本土地11枚の構成。&lt;/p&gt;
-
-&lt;p&gt;《森/Forest》が多めに入ってるのは《巨森の予見者、ニッサ/Nissa, Vastwood Seer》でサーチが空振りになることを防ぐため。&lt;/p&gt;
-
-&lt;h2 id=&quot;デッキから抜けたカード&quot;&gt;デッキから抜けたカード&lt;/h2&gt;
-
-&lt;h3 id=&quot;各種カウンター&quot;&gt;各種カウンター&lt;/h3&gt;
-
-&lt;p&gt;この環境の確定カウンターは《撤回命令/Countermand》と《骨を灰に/Bone to Ash》の4マナ。
-マストカウンター(《カラデシュの火、チャンドラ/Chandra, Fire of Kaladesh》とか《過去の過ち/Shadows of the Past》とか)に対して、往々にして間に合わない。
-間に合ったところでこっちのほうが多くマナを払ってるし、マナ拘束が重すぎるので抜けた。&lt;/p&gt;
-
-&lt;p&gt;《水撃/Hydrolash》とか《濃霧/Fog》とか、相手ターンにやるべきことは多い。
-《ガイアの復讐者/Gaea’s Revenge》の存在がでかいのも確か。&lt;/p&gt;
-
-&lt;h3 id=&quot;霊感inspiration&quot;&gt;《霊感/Inspiration》&lt;/h3&gt;
-
-&lt;p&gt;カウンターを構えて相手ターンにいろいろやるのではなく、毎ターン確実に土地を置くためにこっちのメインからガンガン動いていく必要があって、インスタントであることに有りがたみは無い。
-そうすると、《時間の把握/Telling Time》や《骨読み/Read the Bones》に比べて重い上に、掘れる枚数が少ないというカード。&lt;/p&gt;
-
-&lt;h3 id=&quot;墓刃の匪賊graveblade-marauder&quot;&gt;《墓刃の匪賊/Graveblade Marauder》&lt;/h3&gt;
-
-&lt;p&gt;赤を相手にしたときの《反逆の行動/Act of Treason》や《裏切りの本能/Traitorous Instinct》が怖すぎるので抜いた。
-序盤に出せれば数ターン稼いでくれるし、《ガイアの復讐者/Gaea’s Revenge》も止まるので、入れなおしてもいいかもしれない。
-緑単相手でもないかぎりこいつが生き延びることはないと思うが…。&lt;/p&gt;
-
-&lt;h3 id=&quot;変位の波displacement-wave&quot;&gt;《変位の波/Displacement Wave》&lt;/h3&gt;
-
-&lt;p&gt;《飛行機械の諜報網/Thopter Spy Network》デッキに刺さるし、プレインズウォーカーも戻せる。
-しかし、クリーチャーについてるオーラとか、自分の《スフィンクスの後見/Sphinx’s Tutelage》まで手札に戻ってしまうのが問題。
-相手の4マナのカードに対して6マナの呪文で一時しのぎをするというのは悲しい。&lt;/p&gt;
-
-&lt;h3 id=&quot;復仇reprisal分散disperse霊気への抑留anchor-to-the-aether&quot;&gt;《復仇/Reprisal》、《分散/Disperse》、《霊気への抑留/Anchor to the AEther》&lt;/h3&gt;
-
-&lt;p&gt;単体除去に割くスペースはない。&lt;/p&gt;</content><category term="[&quot;MTG&quot;, &quot;マジック・デュエルズ&quot;]" /><category term="Magic Duels Origins" /><category term="デッキ" /><category term="白" /><category term="青" /><category term="黒" /><category term="緑" /><category term="白青黒緑" /><category term="《スフィンクスの後見/Sphinx's Tutelage》" /><summary type="html">戦乱のゼンディカー リリース遅延記念</summary></entry></feed>
+&lt;p&gt;引き続き、『幸福のためのマジック』をお楽しみに。&lt;/p&gt;</content><category term="Travis Woo" /><summary type="html">原文</summary></entry></feed>
