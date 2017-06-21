@@ -1,5 +1,5 @@
 ---
-title: "[和訳] 十分時間をかけた"
+title: "[翻訳記事] 十分時間をかけた"
 tags:
   - Adam Prosak
   - Modern Masters 2017
@@ -8,6 +8,8 @@ categories:
   - MTG
   - 翻訳記事
   - 海外公式サイト
+redirect_from:
+  - /2017/03/13/和訳-十分時間をかけた/
 ---
 
 

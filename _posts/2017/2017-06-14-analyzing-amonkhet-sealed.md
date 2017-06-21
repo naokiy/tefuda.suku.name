@@ -1,5 +1,5 @@
 ---
-title: "アモンケット・シールド環境を分析する"
+title: "[翻訳記事] アモンケット・シールド環境を分析する"
 tags:
   - Zen Takahashi
   - アモンケット
@@ -11,6 +11,8 @@ categories:
   - MTG
   - 翻訳記事
   - mtgmintcard
+redirect_from:
+  - /2017/06/14/アモンケット-シールド環境を分析する/
 ---
 
 ## 原文

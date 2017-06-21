@@ -1,11 +1,13 @@
 ---
-title: "機会費用の力"
+title: "[翻訳記事] 機会費用の力"
 tags:
   - Travis Woo
 categories:
   - MTG
   - 翻訳記事
   - Channel Fireball
+redirect_from:
+  - /2015/10/14/機会費用の力/
 ---
 
 

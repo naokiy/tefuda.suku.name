@@ -1,5 +1,5 @@
 ---
-title: "アモンケット・シールドの鍵"
+title: "[翻訳記事] アモンケット・シールドの鍵"
 tags:
   - Brian DeMars
   - アモンケット
@@ -11,6 +11,8 @@ categories:
   - MTG
   - 翻訳記事
   - Channel Fireball
+redirect_from:
+  - /2017/06/13/アモンケット-シールドの鍵/
 ---
 
 ## 原文
