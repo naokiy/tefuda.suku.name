@@ -1,4 +1,224 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://tefuda.suku.name/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://tefuda.suku.name/feed.xml" rel="self" type="application/atom+xml" /><link href="http://tefuda.suku.name/" rel="alternate" type="text/html" /><updated>2017-06-21T22:07:30+09:00</updated><id>http://tefuda.suku.name//</id><title type="html">手札少なめ</title><subtitle>tefuda.suku.name</subtitle><entry><title type="html">MTG象限理論とは何か・そしてそれが働かないときにどうすべきか</title><link href="http://tefuda.suku.name/2017/06/21/MTG%E8%B1%A1%E9%99%90%E7%90%86%E8%AB%96%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B-%E3%81%9D%E3%81%97%E3%81%A6%E3%81%9D%E3%82%8C%E3%81%8C%E5%83%8D%E3%81%8B%E3%81%AA%E3%81%84%E3%81%A8%E3%81%8D%E3%81%AB%E3%81%A9%E3%81%86%E3%81%99%E3%81%B9%E3%81%8D%E3%81%8B/" rel="alternate" type="text/html" title="MTG象限理論とは何か・そしてそれが働かないときにどうすべきか" /><published>2017-06-21T00:00:00+09:00</published><updated>2017-06-21T00:00:00+09:00</updated><id>http://tefuda.suku.name/2017/06/21/MTG%E8%B1%A1%E9%99%90%E7%90%86%E8%AB%96%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%E3%83%BB%E3%81%9D%E3%81%97%E3%81%A6%E3%81%9D%E3%82%8C%E3%81%8C%E5%83%8D%E3%81%8B%E3%81%AA%E3%81%84%E3%81%A8%E3%81%8D%E3%81%AB%E3%81%A9%E3%81%86%E3%81%99%E3%81%B9%E3%81%8D%E3%81%8B</id><content type="html" xml:base="http://tefuda.suku.name/2017/06/21/MTG%E8%B1%A1%E9%99%90%E7%90%86%E8%AB%96%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B-%E3%81%9D%E3%81%97%E3%81%A6%E3%81%9D%E3%82%8C%E3%81%8C%E5%83%8D%E3%81%8B%E3%81%AA%E3%81%84%E3%81%A8%E3%81%8D%E3%81%AB%E3%81%A9%E3%81%86%E3%81%99%E3%81%B9%E3%81%8D%E3%81%8B/">&lt;h2 id=&quot;原文&quot;&gt;原文&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://tefuda.suku.name/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://tefuda.suku.name/feed.xml" rel="self" type="application/atom+xml" /><link href="http://tefuda.suku.name/" rel="alternate" type="text/html" /><updated>2017-06-22T02:43:41+09:00</updated><id>http://tefuda.suku.name//</id><title type="html">手札少なめ</title><subtitle>tefuda.suku.name</subtitle><entry><title type="html">アモンケット・シールド講座</title><link href="http://tefuda.suku.name/2017/06/22/%E3%82%A2%E3%83%A2%E3%83%B3%E3%82%B1%E3%83%83%E3%83%88-%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E8%AC%9B%E5%BA%A7/" rel="alternate" type="text/html" title="アモンケット・シールド講座" /><published>2017-06-22T00:00:00+09:00</published><updated>2017-06-22T00:00:00+09:00</updated><id>http://tefuda.suku.name/2017/06/22/%E3%82%A2%E3%83%A2%E3%83%B3%E3%82%B1%E3%83%83%E3%83%88%E3%83%BB%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E8%AC%9B%E5%BA%A7</id><content type="html" xml:base="http://tefuda.suku.name/2017/06/22/%E3%82%A2%E3%83%A2%E3%83%B3%E3%82%B1%E3%83%83%E3%83%88-%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E8%AC%9B%E5%BA%A7/">&lt;h2 id=&quot;原文&quot;&gt;原文&lt;/h2&gt;
+
+&lt;p&gt;この文章は&lt;a href=&quot;http://articles.mtgcardmarket.com/&quot;&gt;MTG Card Market&lt;/a&gt;に掲載された&lt;a href=&quot;http://articles.mtgcardmarket.com/amonkhet-sealed-lessons/&quot;&gt;Amonkhet Sealed Lessons&lt;/a&gt;の和訳である。原文の掲載は2017年5月2日だった。&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;お帰りなさい。アモンケットはリリースされて、先週末はGP北京の準備のため、私はリミテッドに時間を費やした。
+このリミテッド・フォーマットはとても楽しく、そしてとても奥が深い。
+この記事では、私が得た教訓をいくつか見ていくことにする。
+私がプレイしてきたのはおもにシールド戦だが、多くの事柄はドラフトにも当てはまるだろう。&lt;/p&gt;
+
+&lt;h2 id=&quot;アモンケットにおける断片&quot;&gt;アモンケットにおける”断片”&lt;/h2&gt;
+
+&lt;p&gt;アモンケットはまったくもって多色推しのセットではない。にもかかわらず、環境には3色以上のデッキが驚くほど存在する。
+《進化する未開地/Evolving Wilds》以外にマナを補正する土地のサイクルがないにもかかわらず、これは事実だ。
+おそらく環境にあるデッキの半分以上が、3色以上で構成されている。&lt;/p&gt;
+
+&lt;p&gt;マナ補正のために使えるカードのほとんどは緑だ。
+《楽園の贈り物/Gift of Paradise》は極めて悪いカードに見えるが、加速カードとランプ戦略との組み合わせは十分プレイアブルだといえる。
+《オアシュラの耕作者/Oashra Cultivator》は遅いが、ブロックが可能であるし、3色目へのアクセスも可能にする。
+このように、マナ補正カードは素晴らしくも奥深くもないが、まあいくらかは存在するわけだ。&lt;/p&gt;
+
+&lt;p&gt;《オアシュラの耕作者/Oashra Cultivator》のような加速カードをデッキに入れる場合、それに見合うだけの報酬を用意しておくべきだ。
+このセットには極めて巨大なアンコモンやレア・神話レアのボムがあり、極めて有効なタッチ色にできる。
+例えば《潰滅甲虫/Decimator Beetle》・《激情の試練/Trial of Zeal》・《造反の代弁者、サムト/Samut, Voice of Dissent》そして神々はあなたのデッキを本当に強くするだろう。&lt;/p&gt;
+
+&lt;p&gt;ここで重要なのは、色をタッチして使うカードはマナカーブに沿ってプレイする必要はなく、唱えられれば直ちに強烈なインパクトを与えられるものにすべきということだ。
+色をタッチすることはデッキ内のマナの一貫性を弱めるだけでなく、唱えられないときにそのカードを引き込んでしまうというリスクを抱える原因になる。
+そのリスクは最低限に抑えるには、ゲームのどの段階でも強力なカードだけをタッチすることだ。
+例えば、《山/Mountain》をトップデッキすることで《感電/Electrify》や《蓋世の誉れ/Deem Worthy》をプレイできるなら、それでもまだ良いだろう。&lt;/p&gt;
+
+&lt;p&gt;私はまず3色のデッキを避けようとするだろう。
+デッキのパワーに差がつくときにだけ、色をタッチして数枚のカードを入れることにする。
+除去や後半戦で勝つためのカードがあなたの2色デッキに不足している場合、色をタッチしてそれを補うのがよいだろう。&lt;/p&gt;
+
+&lt;h2 id=&quot;サイクリング&quot;&gt;サイクリング&lt;/h2&gt;
+
+&lt;p&gt;以前に述べたことだが、サイクリングは偉大だ。
+《主張/Lay Claim》や《イフニルの魔神/Archfiend of Ifnir》のようなカードはリミテッドでは極めて強力なボムだが、2マナぶんの色拘束がそのカードがそれらをタッチする時の足枷になるだろう。
+しかし、ここに色が不要なサイクリングが加わることで方程式は大きく変わる。
+2ターン目、青マナが出ない状態で《主張/Lay Claim》を引いても、あなたはただそれをサイクリングできる。
+あなたのデッキにこれらのカードを入れる機会費用は、サイクリングがない場合と比べて極めて小さい。
+《微光鱗のドレイク/Shimmerscale Drake》は十分なフライヤーを持たないデッキにおいて、素晴らしいタッチ用のカードになる。
+《苦しめる一射/Stinging Shot》のような強力だが狭いカードでさえ、相手がフライヤーを持っていないときに役に立つのだからメインデッキから入れておくことができる。&lt;/p&gt;
+
+&lt;h2 id=&quot;土地&quot;&gt;土地&lt;/h2&gt;
+
+&lt;p&gt;このセットで《進化する未開地/Evolving Wilds》はコモンなので、殆どのシールド・プールで1枚か2枚手に入るだろう。
+それ以上に、我々は《呪われた者の揺り籠/Cradle of the Accursed》や《絡みつく砂丘/Grasping Dunes》のような無色の砂漠を手にすることになる。
+土地からもう少しだけ力を引き出すために、あなたはこれらをデッキに入れる欲求に駆られるかもしれない。でもこれは罠だ。
+これらの土地はいずれも、マナ・ベースを乱すほどの価値はない。その効果はあまり強くないのだ。&lt;/p&gt;
+
+&lt;p&gt;《色彩の断崖/Painted Bluffs》は5色のマナ補正ができる良いカードに見えるかもしれないが、経験上、これもプレイアブルでない。
+マナの総量を下げてまで、色補正をする価値はない。
+《ゆらめく岩屋/Shimmering Grotto》は決してプレイアブルになることのなかったカードだし、それはここでも続いている。&lt;/p&gt;
+
+&lt;p&gt;レアのサイクリング土地についても忘れてはいけない。
+もし青黒デッキを使っているなら、《異臭の池/Fetid Pools》は素晴らしい。
+しかし、私は青や黒を使っているならいつでも、《異臭の池/Fetid Pools》を使うだろう。
+機能的にはこのカードは《汚染されたぬかるみ/Polluted Mire》になるし、私は自分の黒のデッキに可能であればいくらでも《汚染されたぬかるみ/Polluted Mire》を入れるだろう。&lt;/p&gt;
+
+&lt;p&gt;青黒デッキにおける《まばらな木立ち/Scattered Groves》についてはどうか?
+ここでは《汚染されたぬかるみ/Polluted Mire》の代わりに《枯渇地帯/Blasted Landscape》が手に入るわけだ。
+私はシールドでもドラフトでも、ほとんどすべてのデッキに色の合わないサイクリング2色土地を入れるだろう。
+この環境は超高速なわけではないので、ゲームの後半で土地を他のカードに入れ替えられることは、極めて強力だ。
+あなたもこの機会を逃すべきではない。
+もしサイクリングによって誘発する能力がデッキに含まれているならなお良い。&lt;/p&gt;
+
+&lt;p&gt;《絡みつく砂丘/Grasping Dunes》が全く無価値だと言ったにも関わらず、色の合ってないサイクリング・ランドを入れるといったことに驚くかもしれない。
+これらはマナベースに関してはどちらも同じ働きをする。しかし、報酬の差は巨大だ。
+《絡みつく砂丘/Grasping Dunes》の効果はカード1枚分に匹敵することがない。それは弱く、対戦相手のカード1枚分と交換がとれることはめったにない。
+しかしサイクリング土地は状況や対戦相手が何をプレイしているかに依らず、常にカード1枚と交換できる。
+これは雲泥の差だ。&lt;/p&gt;
+
+&lt;h2 id=&quot;デッキには15枚のクリーチャーを含むべきだ&quot;&gt;『デッキには15枚のクリーチャーを含むべきだ』&lt;/h2&gt;
+
+&lt;p&gt;各フォーマットにおいて人々が使う典型的なリミテッド・デッキに、クリーチャーが何体含まれているかは興味深い。
+アモンケットにおいて、私は自身の殆どのデッキに10～12枚のクリーチャーしか入ってないことに気がついた。
+14枚か15枚になるのは、たまにだ。
+少ないようにみえるかもしれないが、このフォーマットでは呪文が強力なので、これでもうまくいく。
+クリーチャーが10枚しかなくとも、私は黒・青・緑のカルトーシュを使うだろう。
+これらのエンチャントはすぐに価値を発揮するし、小さいクリーチャーにつけても効果があるので、1対2交換されないように気をつけてプレイすべきだ。&lt;/p&gt;
+
+&lt;p&gt;もちろん、より多くのクリーチャーを見つけることができれば、緑と白の碑は輝いて見えるようになる。
+これらは13枚以下のクリーチャーとプレイするにはやや大雑把だが、17枚もクリーチャーがあれば素晴らしいものになる。
+他3枚の碑はプレイアブルでないので忘れよう。&lt;/p&gt;
+
+&lt;h2 id=&quot;ながいたびがはじまる&quot;&gt;ながいたびがはじまる&lt;/h2&gt;
+
+&lt;p&gt;新しいリミテッド環境が登場したときにはいつでも、それがどれだけ高速かについて相反する意見を聞くだろう。
+私の経験で言えば、アモンケットは遅い。カラデシュに比べ遥かに遅いことは確実だ。
+クリーチャーは自分で大きくなることはないし、盤面の脅威に対する良い回答もある。
+不朽によって序盤でクリーチャーを交換でき後半で戦場に戻せるようになるので、攻撃的な立ち上がりを押さえ込むことができる。&lt;/p&gt;
+
+&lt;p&gt;ここでの教訓はシールド戦では長期戦の準備が要るということだ。
+黒赤で良いマナカーブと除去を持つデッキは良いデッキだろう。しかし後半戦への備えがなければ躓くことになる。
+4マナ・5マナのクリーチャーの多くは時間稼ぎをするうえで非常に有効だ。
+ディスカード・シナジーを持つ黒赤デッキや、ボムやタッチされたフライヤーは非常によく見えるようになるだろう。&lt;/p&gt;
+
+&lt;p&gt;あなたがビートダウン戦略をしているときでさえ、対戦相手のドローのほうが速かったり、ライフを詰めきれないような状態になることがあるだろう。
+あなたのデッキが後半戦を勝ち切るための方法を見つけておく必要がある。
+《投げ飛ばし/Fling》のようなカードでさえ、あなたに驚くほどの時間を与えることができる。&lt;/p&gt;
+
+&lt;h2 id=&quot;まとめ&quot;&gt;まとめ&lt;/h2&gt;
+
+&lt;p&gt;今日はここまで。この週末はリミテッドのGPのために北京に行く予定だ。
+あなたがGPリッチモンドに参加するなら、幸運を祈る。もしそうでないなら、MOでシールドやドラフトを試してほしい。
+このフォーマットは非常に楽しく、ほとんどすべてのことが可能なのだ。
+また次回。&lt;/p&gt;</content><category term="Justin Robb" /><category term="アモンケット" /><category term="Sealed" /><category term="Limited" /><category term="Sealed (AKH)" /><category term="Limited (AKH)" /><summary type="html">原文
+
+この文章はMTG Card Marketに掲載されたAmonkhet Sealed Lessonsの和訳である。原文の掲載は2017年5月2日だった。
+
+
+
+
+
+お帰りなさい。アモンケットはリリースされて、先週末はGP北京の準備のため、私はリミテッドに時間を費やした。
+このリミテッド・フォーマットはとても楽しく、そしてとても奥が深い。
+この記事では、私が得た教訓をいくつか見ていくことにする。
+私がプレイしてきたのはおもにシールド戦だが、多くの事柄はドラフトにも当てはまるだろう。
+
+アモンケットにおける”断片”
+
+アモンケットはまったくもって多色推しのセットではない。にもかかわらず、環境には3色以上のデッキが驚くほど存在する。
+《進化する未開地/Evolving Wilds》以外にマナを補正する土地のサイクルがないにもかかわらず、これは事実だ。
+おそらく環境にあるデッキの半分以上が、3色以上で構成されている。
+
+マナ補正のために使えるカードのほとんどは緑だ。
+《楽園の贈り物/Gift of Paradise》は極めて悪いカードに見えるが、加速カードとランプ戦略との組み合わせは十分プレイアブルだといえる。
+《オアシュラの耕作者/Oashra Cultivator》は遅いが、ブロックが可能であるし、3色目へのアクセスも可能にする。
+このように、マナ補正カードは素晴らしくも奥深くもないが、まあいくらかは存在するわけだ。
+
+《オアシュラの耕作者/Oashra Cultivator》のような加速カードをデッキに入れる場合、それに見合うだけの報酬を用意しておくべきだ。
+このセットには極めて巨大なアンコモンやレア・神話レアのボムがあり、極めて有効なタッチ色にできる。
+例えば《潰滅甲虫/Decimator Beetle》・《激情の試練/Trial of Zeal》・《造反の代弁者、サムト/Samut, Voice of Dissent》そして神々はあなたのデッキを本当に強くするだろう。
+
+ここで重要なのは、色をタッチして使うカードはマナカーブに沿ってプレイする必要はなく、唱えられれば直ちに強烈なインパクトを与えられるものにすべきということだ。
+色をタッチすることはデッキ内のマナの一貫性を弱めるだけでなく、唱えられないときにそのカードを引き込んでしまうというリスクを抱える原因になる。
+そのリスクは最低限に抑えるには、ゲームのどの段階でも強力なカードだけをタッチすることだ。
+例えば、《山/Mountain》をトップデッキすることで《感電/Electrify》や《蓋世の誉れ/Deem Worthy》をプレイできるなら、それでもまだ良いだろう。
+
+私はまず3色のデッキを避けようとするだろう。
+デッキのパワーに差がつくときにだけ、色をタッチして数枚のカードを入れることにする。
+除去や後半戦で勝つためのカードがあなたの2色デッキに不足している場合、色をタッチしてそれを補うのがよいだろう。
+
+サイクリング
+
+以前に述べたことだが、サイクリングは偉大だ。
+《主張/Lay Claim》や《イフニルの魔神/Archfiend of Ifnir》のようなカードはリミテッドでは極めて強力なボムだが、2マナぶんの色拘束がそのカードがそれらをタッチする時の足枷になるだろう。
+しかし、ここに色が不要なサイクリングが加わることで方程式は大きく変わる。
+2ターン目、青マナが出ない状態で《主張/Lay Claim》を引いても、あなたはただそれをサイクリングできる。
+あなたのデッキにこれらのカードを入れる機会費用は、サイクリングがない場合と比べて極めて小さい。
+《微光鱗のドレイク/Shimmerscale Drake》は十分なフライヤーを持たないデッキにおいて、素晴らしいタッチ用のカードになる。
+《苦しめる一射/Stinging Shot》のような強力だが狭いカードでさえ、相手がフライヤーを持っていないときに役に立つのだからメインデッキから入れておくことができる。
+
+土地
+
+このセットで《進化する未開地/Evolving Wilds》はコモンなので、殆どのシールド・プールで1枚か2枚手に入るだろう。
+それ以上に、我々は《呪われた者の揺り籠/Cradle of the Accursed》や《絡みつく砂丘/Grasping Dunes》のような無色の砂漠を手にすることになる。
+土地からもう少しだけ力を引き出すために、あなたはこれらをデッキに入れる欲求に駆られるかもしれない。でもこれは罠だ。
+これらの土地はいずれも、マナ・ベースを乱すほどの価値はない。その効果はあまり強くないのだ。
+
+《色彩の断崖/Painted Bluffs》は5色のマナ補正ができる良いカードに見えるかもしれないが、経験上、これもプレイアブルでない。
+マナの総量を下げてまで、色補正をする価値はない。
+《ゆらめく岩屋/Shimmering Grotto》は決してプレイアブルになることのなかったカードだし、それはここでも続いている。
+
+レアのサイクリング土地についても忘れてはいけない。
+もし青黒デッキを使っているなら、《異臭の池/Fetid Pools》は素晴らしい。
+しかし、私は青や黒を使っているならいつでも、《異臭の池/Fetid Pools》を使うだろう。
+機能的にはこのカードは《汚染されたぬかるみ/Polluted Mire》になるし、私は自分の黒のデッキに可能であればいくらでも《汚染されたぬかるみ/Polluted Mire》を入れるだろう。
+
+青黒デッキにおける《まばらな木立ち/Scattered Groves》についてはどうか?
+ここでは《汚染されたぬかるみ/Polluted Mire》の代わりに《枯渇地帯/Blasted Landscape》が手に入るわけだ。
+私はシールドでもドラフトでも、ほとんどすべてのデッキに色の合わないサイクリング2色土地を入れるだろう。
+この環境は超高速なわけではないので、ゲームの後半で土地を他のカードに入れ替えられることは、極めて強力だ。
+あなたもこの機会を逃すべきではない。
+もしサイクリングによって誘発する能力がデッキに含まれているならなお良い。
+
+《絡みつく砂丘/Grasping Dunes》が全く無価値だと言ったにも関わらず、色の合ってないサイクリング・ランドを入れるといったことに驚くかもしれない。
+これらはマナベースに関してはどちらも同じ働きをする。しかし、報酬の差は巨大だ。
+《絡みつく砂丘/Grasping Dunes》の効果はカード1枚分に匹敵することがない。それは弱く、対戦相手のカード1枚分と交換がとれることはめったにない。
+しかしサイクリング土地は状況や対戦相手が何をプレイしているかに依らず、常にカード1枚と交換できる。
+これは雲泥の差だ。
+
+『デッキには15枚のクリーチャーを含むべきだ』
+
+各フォーマットにおいて人々が使う典型的なリミテッド・デッキに、クリーチャーが何体含まれているかは興味深い。
+アモンケットにおいて、私は自身の殆どのデッキに10～12枚のクリーチャーしか入ってないことに気がついた。
+14枚か15枚になるのは、たまにだ。
+少ないようにみえるかもしれないが、このフォーマットでは呪文が強力なので、これでもうまくいく。
+クリーチャーが10枚しかなくとも、私は黒・青・緑のカルトーシュを使うだろう。
+これらのエンチャントはすぐに価値を発揮するし、小さいクリーチャーにつけても効果があるので、1対2交換されないように気をつけてプレイすべきだ。
+
+もちろん、より多くのクリーチャーを見つけることができれば、緑と白の碑は輝いて見えるようになる。
+これらは13枚以下のクリーチャーとプレイするにはやや大雑把だが、17枚もクリーチャーがあれば素晴らしいものになる。
+他3枚の碑はプレイアブルでないので忘れよう。
+
+ながいたびがはじまる
+
+新しいリミテッド環境が登場したときにはいつでも、それがどれだけ高速かについて相反する意見を聞くだろう。
+私の経験で言えば、アモンケットは遅い。カラデシュに比べ遥かに遅いことは確実だ。
+クリーチャーは自分で大きくなることはないし、盤面の脅威に対する良い回答もある。
+不朽によって序盤でクリーチャーを交換でき後半で戦場に戻せるようになるので、攻撃的な立ち上がりを押さえ込むことができる。
+
+ここでの教訓はシールド戦では長期戦の準備が要るということだ。
+黒赤で良いマナカーブと除去を持つデッキは良いデッキだろう。しかし後半戦への備えがなければ躓くことになる。
+4マナ・5マナのクリーチャーの多くは時間稼ぎをするうえで非常に有効だ。
+ディスカード・シナジーを持つ黒赤デッキや、ボムやタッチされたフライヤーは非常によく見えるようになるだろう。
+
+あなたがビートダウン戦略をしているときでさえ、対戦相手のドローのほうが速かったり、ライフを詰めきれないような状態になることがあるだろう。
+あなたのデッキが後半戦を勝ち切るための方法を見つけておく必要がある。
+《投げ飛ばし/Fling》のようなカードでさえ、あなたに驚くほどの時間を与えることができる。
+
+まとめ
+
+今日はここまで。この週末はリミテッドのGPのために北京に行く予定だ。
+あなたがGPリッチモンドに参加するなら、幸運を祈る。もしそうでないなら、MOでシールドやドラフトを試してほしい。
+このフォーマットは非常に楽しく、ほとんどすべてのことが可能なのだ。
+また次回。</summary></entry><entry><title type="html">MTG象限理論とは何か・そしてそれが働かないときにどうすべきか</title><link href="http://tefuda.suku.name/2017/06/21/MTG%E8%B1%A1%E9%99%90%E7%90%86%E8%AB%96%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B-%E3%81%9D%E3%81%97%E3%81%A6%E3%81%9D%E3%82%8C%E3%81%8C%E5%83%8D%E3%81%8B%E3%81%AA%E3%81%84%E3%81%A8%E3%81%8D%E3%81%AB%E3%81%A9%E3%81%86%E3%81%99%E3%81%B9%E3%81%8D%E3%81%8B/" rel="alternate" type="text/html" title="MTG象限理論とは何か・そしてそれが働かないときにどうすべきか" /><published>2017-06-21T00:00:00+09:00</published><updated>2017-06-21T00:00:00+09:00</updated><id>http://tefuda.suku.name/2017/06/21/MTG%E8%B1%A1%E9%99%90%E7%90%86%E8%AB%96%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%E3%83%BB%E3%81%9D%E3%81%97%E3%81%A6%E3%81%9D%E3%82%8C%E3%81%8C%E5%83%8D%E3%81%8B%E3%81%AA%E3%81%84%E3%81%A8%E3%81%8D%E3%81%AB%E3%81%A9%E3%81%86%E3%81%99%E3%81%B9%E3%81%8D%E3%81%8B</id><content type="html" xml:base="http://tefuda.suku.name/2017/06/21/MTG%E8%B1%A1%E9%99%90%E7%90%86%E8%AB%96%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B-%E3%81%9D%E3%81%97%E3%81%A6%E3%81%9D%E3%82%8C%E3%81%8C%E5%83%8D%E3%81%8B%E3%81%AA%E3%81%84%E3%81%A8%E3%81%8D%E3%81%AB%E3%81%A9%E3%81%86%E3%81%99%E3%81%B9%E3%81%8D%E3%81%8B/">&lt;h2 id=&quot;原文&quot;&gt;原文&lt;/h2&gt;
 
 &lt;p&gt;この文章は&lt;a href=&quot;http://www.manaleak.com/mtguk/&quot;&gt;manaleak.com&lt;/a&gt;に掲載された&lt;a href=&quot;http://www.manaleak.com/mtguk/2017/06/what-is-mtg-quadrant-theory-and-what-do-you-do-when-it-doesnt-work/&quot;&gt;What Is MTG Quadrant Theory, And What Do You Do When It Doesn’t Work? &lt;/a&gt;の和訳である。原文の掲載は2017年6月だった。&lt;/p&gt;
 
@@ -2716,446 +2936,4 @@ GPミルウォーキーの前にプレイすることをおすすめする。そ
 
 神話レア20枚レア22枚というこの構成からわかることは、このゲームはレアだけで決まるわけではないという優しい事実である。
 
-ハズレ枠扱いした《新緑の機械巨人/Verdurous Gearhulk》が「色があってるから」という理由でしれっと入ってるのがむかつく。</summary></entry><entry><title type="html">MO - Friendly Sealed League - KLDx2 AERx4 - 1回目 第1ステージ</title><link href="http://tefuda.suku.name/2017/01/28/MO-Friendly-Sealed-League-KLDx2-AERx4-1%E5%9B%9E%E7%9B%AE-%E7%AC%AC1%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8/" rel="alternate" type="text/html" title="MO - Friendly Sealed League - KLDx2 AERx4 - 1回目 第1ステージ" /><published>2017-01-28T00:00:00+09:00</published><updated>2017-01-28T00:00:00+09:00</updated><id>http://tefuda.suku.name/2017/01/28/MO%20-%20Friendly%20Sealed%20League%20-%20KLDx2%20AERx4%20-%201%E5%9B%9E%E7%9B%AE%20%E7%AC%AC1%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8</id><content type="html" xml:base="http://tefuda.suku.name/2017/01/28/MO-Friendly-Sealed-League-KLDx2-AERx4-1%E5%9B%9E%E7%9B%AE-%E7%AC%AC1%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8/">&lt;h2 id=&quot;概要&quot;&gt;概要&lt;/h2&gt;
-
-&lt;p&gt;MOでリミテッド遊んでる。ただ漫然とプレイするのでなく、あとから見直すために記録をつけてみることにした。&lt;/p&gt;
-
-&lt;p&gt;霊気紛争リリース後のFriendly Sealed League、第1回目 第1ステージ。&lt;/p&gt;
-
-&lt;p&gt;本当は霊気紛争のプレリリースから記録をとろうかと思ったが、なかったのでFriendly Sealed Leagueから。&lt;/p&gt;
-
-&lt;p&gt;プレリリースがないとなると、Just For FunとFriendly何とかしか遊ばない気がする。&lt;/p&gt;
-
-&lt;!-- more --&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;プールとデッキ&quot;&gt;プールとデッキ&lt;/h2&gt;
-
-&lt;p&gt;Friendly Sealed Leagueは全9戦。
-3戦ずつステージに分けられており、第1ステージではカラデシュ2パック、霊気紛争4パックからデッキを作る。
-第2ステージでは霊気紛争1パックが、第3ステージではカラデシュ1パックが追加される。&lt;/p&gt;
-
-&lt;p&gt;まずは第一ステージのプールから。&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&quot;language-mtg-pool&quot;&gt;2 Alley Evasion
-1 Audacious Infiltrator
-1 Conviction
-1 Countless Gears Renegade
-1 Pressure Point
-1 Restoration Specialist
-1 Caught in the Brights
-1 Glint-Sleeve Artisan
-1 Solemn Recruit
-1 Aetherstorm Roc
-1 Inspired Charge
-1 Dawnfeather Eagle
-1 Consulate Crackdown
-1 Exquisite Archangel
-1 Aether Meltdown
-1 Negate
-1 Metallic Rebuke
-1 Leave in the Dust
-1 Dispersal Technician
-1 Hightide Hermit
-1 Tezzeret's Ambition
-1 Gearseeker Serpent
-1 Fatal Push
-1 Gonti's Machinations
-1 Gifted Aetherborn
-1 Cruel Finality
-1 Renegade's Getaway
-1 Vengeful Rebel
-3 Night Market Aeronaut
-1 Daring Demolition
-1 Diabolic Tutor
-1 Ambitious Aetherborn
-1 Dukhara Scavenger
-2 Fen Hauler
-1 Built to Smash
-1 Aether Chaser
-1 Destructive Tampering
-1 Embraal Gear-Smasher
-1 Hungry Flames
-1 Hijack
-1 Siege Modification
-1 Chandra's Revolution
-1 Demolish
-1 Scrapper Champion
-2 Sweatworks Brawler
-1 Wayward Giant
-1 Release the Gremlins
-1 Highspire Infusion
-2 Natural Obsolescence
-1 Scrounging Bandar
-1 Servant of the Conduit
-1 Appetite for the Unnatural
-1 Silkweaver Elite
-1 Aether Herder
-1 Creeping Mold
-1 Arborback Stomper
-1 Cowl Prowler
-1 Maverick Thopterist
-1 Depala, Pilot Exemplar
-1 Aether Hub
-3 Forest
-2 Island
-1 Swamp
-1 Ornithopter
-1 Augmenting Automaton
-1 Implement of Ferocity
-1 Universal Solvent
-1 Aegis Automaton
-1 Eager Construct
-1 Sky Skiff
-1 Verdant Automaton
-1 Consulate Turret
-1 Daredevil Dragster
-1 Renegade Freighter
-1 Workshop Assistant
-1 Crackdown Construct
-1 Dukhara Peafowl
-2 Prizefighter Construct
-1 Reservoir Walker
-1 Self-Assembler
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;レアは以下の通り。&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;《生真面目な補充兵/Solemn Recruit》&lt;/li&gt;
-  &lt;li&gt;《霊気嵐のロック/Aetherstorm Roc》&lt;/li&gt;
-  &lt;li&gt;《領事府の弾圧/Consulate Crackdown》&lt;/li&gt;
-  &lt;li&gt;《極上の大天使/Exquisite Archangel》&lt;/li&gt;
-  &lt;li&gt;《グレムリン解放/Release the Gremlins》&lt;/li&gt;
-  &lt;li&gt;《模範操縦士、デパラ/Depala, Pilot Exemplar》&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;なんとレアがすべて白と赤に固まっており、デッキの色は確定。&lt;/p&gt;
-
-&lt;p&gt;で、できたデッキがこれ。第3戦目時点。&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&quot;language-mtg-deck&quot;&gt;9 Plains
-1 Aetherstorm Roc
-1 Solemn Recruit
-1 Release the Gremlins
-1 Depala, Pilot Exemplar
-1 Dawnfeather Eagle
-1 Daredevil Dragster
-1 Siege Modification
-1 Scrapper Champion
-1 Hungry Flames
-1 Renegade Freighter
-1 Chandra's Revolution
-1 Aether Chaser
-1 Conviction
-1 Countless Gears Renegade
-1 Glint-Sleeve Artisan
-1 Wayward Giant
-1 Caught in the Brights
-2 Sweatworks Brawler
-1 Built to Smash
-1 Restoration Specialist
-7 Mountain
-1 Aether Hub
-2 Alley Evasion
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&quot;1回戦-緑白-2-1&quot;&gt;1回戦 緑白 2-1&lt;/h2&gt;
-
-&lt;p&gt;この時点では《路地への回避/Alley Evasion》が入っていなかった。&lt;/p&gt;
-
-&lt;p&gt;代わりに《攻城化改造/Siege Modification》のために《航空艇/Sky Skiff》が入っていたのと、クリーチャーにダメージ飛ばせると勘違いしていたため《領事府の砲塔/Consulate Turret》をいれてしまっていた。&lt;/p&gt;
-
-&lt;h3 id=&quot;1ゲーム目-後手-負け&quot;&gt;1ゲーム目 後手 負け&lt;/h3&gt;
-
-&lt;p&gt;相手1T目《活性機構/Animation Module》、2T目《僧帽地帯のドルイド/Druid of the Cowl》から3T目《亢進するアイベックス/Thriving Ibex》。&lt;/p&gt;
-
-&lt;p&gt;この《亢進するアイベックス/Thriving Ibex》が育っていくのを止められず、7/9にまで膨れ上がって負け。&lt;/p&gt;
-
-&lt;p&gt;このゲームで《領事府の砲塔/Consulate Turret》がクリーチャーにダメージを飛ばせないことに気づく。&lt;/p&gt;
-
-&lt;h3 id=&quot;2ゲーム目-先手-勝ち&quot;&gt;2ゲーム目 先手 勝ち&lt;/h3&gt;
-
-&lt;p&gt;2T目《航空艇/Sky Skiff》、3T目《無謀者の競走車/Daredevil Dragster》で殴り始め、《航空艇/Sky Skiff》に《攻城化改造/Siege Modification》つけて勝ち。&lt;/p&gt;
-
-&lt;h3 id=&quot;3ゲーム目-後手-勝ち&quot;&gt;3ゲーム目 後手 勝ち&lt;/h3&gt;
-
-&lt;p&gt;火力で焼きながら《光袖会の職工/Glint-Sleeve Artisan》や 《霊気追跡者/Aether Chaser》を横に並べていき、《暁羽の鷲/Dawnfeather Eagle》で強化して殴る。&lt;/p&gt;
-
-&lt;p&gt;ブロッカーの霊気装置と飛行機械を《グレムリン解放/Release the Gremlins》して勝ち。&lt;/p&gt;
-
-&lt;h2 id=&quot;2回戦-緑白赤-1-2&quot;&gt;2回戦 緑白赤 1-2&lt;/h2&gt;
-
-&lt;h3 id=&quot;1ゲーム目-後手-勝ち&quot;&gt;1ゲーム目 後手 勝ち&lt;/h3&gt;
-
-&lt;p&gt;相手1マリガン。&lt;/p&gt;
-
-&lt;p&gt;相手が 《結束への呼びかけ/Call for Unity》を出すが、これ、相手ターンでないと紛争が誘発しないのね。&lt;/p&gt;
-
-&lt;p&gt;紛争を誘発させないように自分ターンで《チャンドラの革命/Chandra’s Revolution》《飲み込む炎/Hungry Flames》で相手クリーチャーを焼き、適当にクリーチャーを交換していく。&lt;/p&gt;
-
-&lt;p&gt;《暁羽の鷲/Dawnfeather Eagle》で勝ち。&lt;/p&gt;
-
-&lt;h3 id=&quot;2ゲーム目-後手-負け&quot;&gt;2ゲーム目 後手 負け&lt;/h3&gt;
-
-&lt;p&gt;《山/Mountain》3枚・《平地/Plains》2枚・《無謀者の競走車/Daredevil Dragster》・《暁羽の鷲/Dawnfeather Eagle》という初手をマリガンしたら、次は土地1枚だった。ダブルマリガン。&lt;/p&gt;
-
-&lt;p&gt;相手1T目《領事府の弩級艦/Consulate Dreadnought》、これが6T目から《鉄装破壊車/Irontread Crusher》経由で動き出してしまう。止められず負け。&lt;/p&gt;
-
-&lt;h3 id=&quot;3ゲーム目-先手-負け&quot;&gt;3ゲーム目 先手 負け&lt;/h3&gt;
-
-&lt;p&gt;相手1マリガン。&lt;/p&gt;
-
-&lt;p&gt;機体メタのためにサイドから《破砕/Demolish》を追加した。&lt;/p&gt;
-
-&lt;p&gt;今度はアーティファクトを出さない相手に対し、手札に《領事府の弾圧/Consulate Crackdown》《グレムリン解放/Release the Gremlins》《破砕/Demolish》が腐って負け。&lt;/p&gt;
-
-&lt;p&gt;何事もやり過ぎはよくない。&lt;/p&gt;
-
-&lt;h2 id=&quot;3回戦-赤白黒-2-0&quot;&gt;3回戦 赤白黒 2-0&lt;/h2&gt;
-
-&lt;h3 id=&quot;1ゲーム目-先手-勝ち&quot;&gt;1ゲーム目 先手 勝ち&lt;/h3&gt;
-
-&lt;p&gt;相手1マリガン。&lt;/p&gt;
-
-&lt;p&gt;2T目《修復専門家/Restoration Specialist》、3T目《生真面目な補充兵/Solemn Recruit》。&lt;/p&gt;
-
-&lt;p&gt;相手3T目、2T目に出した《霊気追跡者/Aether Chaser》に対して《巨人の光景/Giant Spectacle》をエンチャントし、4/2・威迫・先制攻撃で殴ってくる。&lt;/p&gt;
-
-&lt;p&gt;これを《チャンドラの革命/Chandra’s Revolution》で焼く。&lt;/p&gt;
-
-&lt;p&gt;《路地への回避/Alley Evasion》、《修復専門家/Restoration Specialist》で紛争達成し、《生真面目な補充兵/Solemn Recruit》を強化して殴って勝ち。&lt;/p&gt;
-
-&lt;p&gt;アドバンテージ失ってる気がする。《修復専門家/Restoration Specialist》で戻すカードとかないし…。&lt;/p&gt;
-
-&lt;h3 id=&quot;2ゲーム目-後手-勝ち&quot;&gt;2ゲーム目 後手 勝ち&lt;/h3&gt;
-
-&lt;p&gt;相手4マリガン。&lt;/p&gt;
-
-&lt;p&gt;2T目《精緻会の改革派/Countless Gears Renegade》・3T目《模範操縦士、デパラ/Depala, Pilot Exemplar》・4T目《光袖会の職工/Glint-Sleeve Artisan》と並べ、強化されたドワーフで押し切る。&lt;/p&gt;
-
-&lt;h2 id=&quot;感想&quot;&gt;感想&lt;/h2&gt;
-
-&lt;p&gt;火力が優秀、というか数が多いという印象。ちょっとでかいやつが出てくるとどうにもならん。&lt;/p&gt;</content><category term="Sealed" /><category term="Limited" /><summary type="html">概要
-
-MOでリミテッド遊んでる。ただ漫然とプレイするのでなく、あとから見直すために記録をつけてみることにした。
-
-霊気紛争リリース後のFriendly Sealed League、第1回目 第1ステージ。
-
-本当は霊気紛争のプレリリースから記録をとろうかと思ったが、なかったのでFriendly Sealed Leagueから。
-
-プレリリースがないとなると、Just For FunとFriendly何とかしか遊ばない気がする。
-
-
-
-
-
-プールとデッキ
-
-Friendly Sealed Leagueは全9戦。
-3戦ずつステージに分けられており、第1ステージではカラデシュ2パック、霊気紛争4パックからデッキを作る。
-第2ステージでは霊気紛争1パックが、第3ステージではカラデシュ1パックが追加される。
-
-まずは第一ステージのプールから。
-
-2 Alley Evasion
-1 Audacious Infiltrator
-1 Conviction
-1 Countless Gears Renegade
-1 Pressure Point
-1 Restoration Specialist
-1 Caught in the Brights
-1 Glint-Sleeve Artisan
-1 Solemn Recruit
-1 Aetherstorm Roc
-1 Inspired Charge
-1 Dawnfeather Eagle
-1 Consulate Crackdown
-1 Exquisite Archangel
-1 Aether Meltdown
-1 Negate
-1 Metallic Rebuke
-1 Leave in the Dust
-1 Dispersal Technician
-1 Hightide Hermit
-1 Tezzeret's Ambition
-1 Gearseeker Serpent
-1 Fatal Push
-1 Gonti's Machinations
-1 Gifted Aetherborn
-1 Cruel Finality
-1 Renegade's Getaway
-1 Vengeful Rebel
-3 Night Market Aeronaut
-1 Daring Demolition
-1 Diabolic Tutor
-1 Ambitious Aetherborn
-1 Dukhara Scavenger
-2 Fen Hauler
-1 Built to Smash
-1 Aether Chaser
-1 Destructive Tampering
-1 Embraal Gear-Smasher
-1 Hungry Flames
-1 Hijack
-1 Siege Modification
-1 Chandra's Revolution
-1 Demolish
-1 Scrapper Champion
-2 Sweatworks Brawler
-1 Wayward Giant
-1 Release the Gremlins
-1 Highspire Infusion
-2 Natural Obsolescence
-1 Scrounging Bandar
-1 Servant of the Conduit
-1 Appetite for the Unnatural
-1 Silkweaver Elite
-1 Aether Herder
-1 Creeping Mold
-1 Arborback Stomper
-1 Cowl Prowler
-1 Maverick Thopterist
-1 Depala, Pilot Exemplar
-1 Aether Hub
-3 Forest
-2 Island
-1 Swamp
-1 Ornithopter
-1 Augmenting Automaton
-1 Implement of Ferocity
-1 Universal Solvent
-1 Aegis Automaton
-1 Eager Construct
-1 Sky Skiff
-1 Verdant Automaton
-1 Consulate Turret
-1 Daredevil Dragster
-1 Renegade Freighter
-1 Workshop Assistant
-1 Crackdown Construct
-1 Dukhara Peafowl
-2 Prizefighter Construct
-1 Reservoir Walker
-1 Self-Assembler
-
-
-レアは以下の通り。
-
-
-  《生真面目な補充兵/Solemn Recruit》
-  《霊気嵐のロック/Aetherstorm Roc》
-  《領事府の弾圧/Consulate Crackdown》
-  《極上の大天使/Exquisite Archangel》
-  《グレムリン解放/Release the Gremlins》
-  《模範操縦士、デパラ/Depala, Pilot Exemplar》
-
-
-なんとレアがすべて白と赤に固まっており、デッキの色は確定。
-
-で、できたデッキがこれ。第3戦目時点。
-
-9 Plains
-1 Aetherstorm Roc
-1 Solemn Recruit
-1 Release the Gremlins
-1 Depala, Pilot Exemplar
-1 Dawnfeather Eagle
-1 Daredevil Dragster
-1 Siege Modification
-1 Scrapper Champion
-1 Hungry Flames
-1 Renegade Freighter
-1 Chandra's Revolution
-1 Aether Chaser
-1 Conviction
-1 Countless Gears Renegade
-1 Glint-Sleeve Artisan
-1 Wayward Giant
-1 Caught in the Brights
-2 Sweatworks Brawler
-1 Built to Smash
-1 Restoration Specialist
-7 Mountain
-1 Aether Hub
-2 Alley Evasion
-
-
-1回戦 緑白 2-1
-
-この時点では《路地への回避/Alley Evasion》が入っていなかった。
-
-代わりに《攻城化改造/Siege Modification》のために《航空艇/Sky Skiff》が入っていたのと、クリーチャーにダメージ飛ばせると勘違いしていたため《領事府の砲塔/Consulate Turret》をいれてしまっていた。
-
-1ゲーム目 後手 負け
-
-相手1T目《活性機構/Animation Module》、2T目《僧帽地帯のドルイド/Druid of the Cowl》から3T目《亢進するアイベックス/Thriving Ibex》。
-
-この《亢進するアイベックス/Thriving Ibex》が育っていくのを止められず、7/9にまで膨れ上がって負け。
-
-このゲームで《領事府の砲塔/Consulate Turret》がクリーチャーにダメージを飛ばせないことに気づく。
-
-2ゲーム目 先手 勝ち
-
-2T目《航空艇/Sky Skiff》、3T目《無謀者の競走車/Daredevil Dragster》で殴り始め、《航空艇/Sky Skiff》に《攻城化改造/Siege Modification》つけて勝ち。
-
-3ゲーム目 後手 勝ち
-
-火力で焼きながら《光袖会の職工/Glint-Sleeve Artisan》や 《霊気追跡者/Aether Chaser》を横に並べていき、《暁羽の鷲/Dawnfeather Eagle》で強化して殴る。
-
-ブロッカーの霊気装置と飛行機械を《グレムリン解放/Release the Gremlins》して勝ち。
-
-2回戦 緑白赤 1-2
-
-1ゲーム目 後手 勝ち
-
-相手1マリガン。
-
-相手が 《結束への呼びかけ/Call for Unity》を出すが、これ、相手ターンでないと紛争が誘発しないのね。
-
-紛争を誘発させないように自分ターンで《チャンドラの革命/Chandra’s Revolution》《飲み込む炎/Hungry Flames》で相手クリーチャーを焼き、適当にクリーチャーを交換していく。
-
-《暁羽の鷲/Dawnfeather Eagle》で勝ち。
-
-2ゲーム目 後手 負け
-
-《山/Mountain》3枚・《平地/Plains》2枚・《無謀者の競走車/Daredevil Dragster》・《暁羽の鷲/Dawnfeather Eagle》という初手をマリガンしたら、次は土地1枚だった。ダブルマリガン。
-
-相手1T目《領事府の弩級艦/Consulate Dreadnought》、これが6T目から《鉄装破壊車/Irontread Crusher》経由で動き出してしまう。止められず負け。
-
-3ゲーム目 先手 負け
-
-相手1マリガン。
-
-機体メタのためにサイドから《破砕/Demolish》を追加した。
-
-今度はアーティファクトを出さない相手に対し、手札に《領事府の弾圧/Consulate Crackdown》《グレムリン解放/Release the Gremlins》《破砕/Demolish》が腐って負け。
-
-何事もやり過ぎはよくない。
-
-3回戦 赤白黒 2-0
-
-1ゲーム目 先手 勝ち
-
-相手1マリガン。
-
-2T目《修復専門家/Restoration Specialist》、3T目《生真面目な補充兵/Solemn Recruit》。
-
-相手3T目、2T目に出した《霊気追跡者/Aether Chaser》に対して《巨人の光景/Giant Spectacle》をエンチャントし、4/2・威迫・先制攻撃で殴ってくる。
-
-これを《チャンドラの革命/Chandra’s Revolution》で焼く。
-
-《路地への回避/Alley Evasion》、《修復専門家/Restoration Specialist》で紛争達成し、《生真面目な補充兵/Solemn Recruit》を強化して殴って勝ち。
-
-アドバンテージ失ってる気がする。《修復専門家/Restoration Specialist》で戻すカードとかないし…。
-
-2ゲーム目 後手 勝ち
-
-相手4マリガン。
-
-2T目《精緻会の改革派/Countless Gears Renegade》・3T目《模範操縦士、デパラ/Depala, Pilot Exemplar》・4T目《光袖会の職工/Glint-Sleeve Artisan》と並べ、強化されたドワーフで押し切る。
-
-感想
-
-火力が優秀、というか数が多いという印象。ちょっとでかいやつが出てくるとどうにもならん。</summary></entry></feed>
+ハズレ枠扱いした《新緑の機械巨人/Verdurous Gearhulk》が「色があってるから」という理由でしれっと入ってるのがむかつく。</summary></entry></feed>
