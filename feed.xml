@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://tefuda.suku.name/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://tefuda.suku.name/feed.xml" rel="self" type="application/atom+xml" /><link href="http://tefuda.suku.name/" rel="alternate" type="text/html" /><updated>2017-06-21T21:23:34+09:00</updated><id>http://tefuda.suku.name//</id><title type="html">手札少なめ</title><subtitle>tefuda.suku.name</subtitle><entry><title type="html">MTG象限理論とは何か・そしてそれが働かないときにどうすべきか</title><link href="http://tefuda.suku.name/2017/06/21/MTG%E8%B1%A1%E9%99%90%E7%90%86%E8%AB%96%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B-%E3%81%9D%E3%81%97%E3%81%A6%E3%81%9D%E3%82%8C%E3%81%8C%E5%83%8D%E3%81%8B%E3%81%AA%E3%81%84%E3%81%A8%E3%81%8D%E3%81%AB%E3%81%A9%E3%81%86%E3%81%99%E3%81%B9%E3%81%8D%E3%81%8B/" rel="alternate" type="text/html" title="MTG象限理論とは何か・そしてそれが働かないときにどうすべきか" /><published>2017-06-21T00:00:00+09:00</published><updated>2017-06-21T00:00:00+09:00</updated><id>http://tefuda.suku.name/2017/06/21/MTG%E8%B1%A1%E9%99%90%E7%90%86%E8%AB%96%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%E3%83%BB%E3%81%9D%E3%81%97%E3%81%A6%E3%81%9D%E3%82%8C%E3%81%8C%E5%83%8D%E3%81%8B%E3%81%AA%E3%81%84%E3%81%A8%E3%81%8D%E3%81%AB%E3%81%A9%E3%81%86%E3%81%99%E3%81%B9%E3%81%8D%E3%81%8B</id><content type="html" xml:base="http://tefuda.suku.name/2017/06/21/MTG%E8%B1%A1%E9%99%90%E7%90%86%E8%AB%96%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B-%E3%81%9D%E3%81%97%E3%81%A6%E3%81%9D%E3%82%8C%E3%81%8C%E5%83%8D%E3%81%8B%E3%81%AA%E3%81%84%E3%81%A8%E3%81%8D%E3%81%AB%E3%81%A9%E3%81%86%E3%81%99%E3%81%B9%E3%81%8D%E3%81%8B/">&lt;h2 id=&quot;原文&quot;&gt;原文&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://tefuda.suku.name/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://tefuda.suku.name/feed.xml" rel="self" type="application/atom+xml" /><link href="http://tefuda.suku.name/" rel="alternate" type="text/html" /><updated>2017-06-21T21:40:28+09:00</updated><id>http://tefuda.suku.name//</id><title type="html">手札少なめ</title><subtitle>tefuda.suku.name</subtitle><entry><title type="html">MTG象限理論とは何か・そしてそれが働かないときにどうすべきか</title><link href="http://tefuda.suku.name/2017/06/21/MTG%E8%B1%A1%E9%99%90%E7%90%86%E8%AB%96%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B-%E3%81%9D%E3%81%97%E3%81%A6%E3%81%9D%E3%82%8C%E3%81%8C%E5%83%8D%E3%81%8B%E3%81%AA%E3%81%84%E3%81%A8%E3%81%8D%E3%81%AB%E3%81%A9%E3%81%86%E3%81%99%E3%81%B9%E3%81%8D%E3%81%8B/" rel="alternate" type="text/html" title="MTG象限理論とは何か・そしてそれが働かないときにどうすべきか" /><published>2017-06-21T00:00:00+09:00</published><updated>2017-06-21T00:00:00+09:00</updated><id>http://tefuda.suku.name/2017/06/21/MTG%E8%B1%A1%E9%99%90%E7%90%86%E8%AB%96%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%E3%83%BB%E3%81%9D%E3%81%97%E3%81%A6%E3%81%9D%E3%82%8C%E3%81%8C%E5%83%8D%E3%81%8B%E3%81%AA%E3%81%84%E3%81%A8%E3%81%8D%E3%81%AB%E3%81%A9%E3%81%86%E3%81%99%E3%81%B9%E3%81%8D%E3%81%8B</id><content type="html" xml:base="http://tefuda.suku.name/2017/06/21/MTG%E8%B1%A1%E9%99%90%E7%90%86%E8%AB%96%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B-%E3%81%9D%E3%81%97%E3%81%A6%E3%81%9D%E3%82%8C%E3%81%8C%E5%83%8D%E3%81%8B%E3%81%AA%E3%81%84%E3%81%A8%E3%81%8D%E3%81%AB%E3%81%A9%E3%81%86%E3%81%99%E3%81%B9%E3%81%8D%E3%81%8B/">&lt;h2 id=&quot;原文&quot;&gt;原文&lt;/h2&gt;
 
 &lt;p&gt;この文章は&lt;a href=&quot;http://www.manaleak.com/mtguk/&quot;&gt;manaleak.com&lt;/a&gt;に掲載された&lt;a href=&quot;http://www.manaleak.com/mtguk/2017/06/what-is-mtg-quadrant-theory-and-what-do-you-do-when-it-doesnt-work/&quot;&gt;What Is MTG Quadrant Theory, And What Do You Do When It Doesn’t Work? &lt;/a&gt;の和訳である。原文の掲載は2017年6月だった。&lt;/p&gt;
 
@@ -226,17 +226,17 @@ MTGで新しいセットが発表されるたび、カードの質やピック�
 さたに、象限理論では満点のはずのカードが実際には低いピック順になるケースも確認した。
 それでは、先程取り上げた「良い」カードをもう一度見てみよう。&lt;/p&gt;
 
-&lt;p&gt;《蟻走感/Crawling Sensation》は、準備するだけの時間の猶予がある_環境_において、_昂揚_メカニズムやセルフ・ミルの《墓碑のゴーレム/Epitaph Golem》デッキと良いシナジーを発揮する。&lt;/p&gt;
+&lt;p&gt;《蟻走感/Crawling Sensation》は、準備するだけの時間の猶予がある &lt;em&gt;環境&lt;/em&gt; において、昂揚メカニズムやセルフ・ミルの《墓碑のゴーレム/Epitaph Golem》デッキと良い &lt;em&gt;シナジー&lt;/em&gt; を発揮する。&lt;/p&gt;
 
-&lt;p&gt;《革新の時代/Era of Innovation》はエネルギーを生み出すカードが多い_環境_において、エネルギー戦略と_シナジー_がある。&lt;/p&gt;
+&lt;p&gt;《革新の時代/Era of Innovation》はエネルギーを生み出すカードが多い &lt;em&gt;環境&lt;/em&gt; において、エネルギー戦略と &lt;em&gt;シナジー&lt;/em&gt; がある。&lt;/p&gt;
 
-&lt;p&gt;《這い寄る刃/Slither Blade》は装備品やオーラ、パンプアップ呪文のたくさん入った超攻撃的デッキで_シナジー_があり、序盤の猛攻を推奨するような_環境_で強力だ。&lt;/p&gt;
+&lt;p&gt;《這い寄る刃/Slither Blade》は装備品やオーラ、パンプアップ呪文のたくさん入った超攻撃的デッキで &lt;em&gt;シナジー&lt;/em&gt; があり、序盤の猛攻を推奨するような &lt;em&gt;環境&lt;/em&gt; で強力だ。&lt;/p&gt;
 
-&lt;p&gt;《死の頭巾のコブラ/Death-Hood Cobra》は、モダンマスターズ2017の緑で推奨されているトークン戦略と_シナジー_がない。
-また、この_環境_は遅く、カードアドバンテージが重要になるフォーマットである。
+&lt;p&gt;《死の頭巾のコブラ/Death-Hood Cobra》は、モダンマスターズ2017の緑で推奨されているトークン戦略と &lt;em&gt;シナジー&lt;/em&gt; がない。
+また、この &lt;em&gt;環境&lt;/em&gt; は遅く、カードアドバンテージが重要になるフォーマットである。
 つまり、《死の頭巾のコブラ/Death-Hood Cobra》は安価であり、強力なクリーチャーと1対1交換が取れるものの、そこまで効果的でない。&lt;/p&gt;
 
-&lt;p&gt;次に、《幻影の天使/Illusory Angel》についてだが、このカードは絶対的に_シナジー_を必要としている。
+&lt;p&gt;次に、《幻影の天使/Illusory Angel》についてだが、このカードは絶対的に &lt;em&gt;シナジー&lt;/em&gt; を必要としている。
 このカードは他の呪文を唱えていないと唱えることができないのだ。&lt;/p&gt;
 
 &lt;p&gt;ここで、2つの単語が繰り返し出てきたことに気づいたのではないだろうか?&lt;/p&gt;
@@ -516,17 +516,17 @@ WinningLosing
 さたに、象限理論では満点のはずのカードが実際には低いピック順になるケースも確認した。
 それでは、先程取り上げた「良い」カードをもう一度見てみよう。
 
-《蟻走感/Crawling Sensation》は、準備するだけの時間の猶予がある_環境_において、_昂揚_メカニズムやセルフ・ミルの《墓碑のゴーレム/Epitaph Golem》デッキと良いシナジーを発揮する。
+《蟻走感/Crawling Sensation》は、準備するだけの時間の猶予がある 環境 において、昂揚メカニズムやセルフ・ミルの《墓碑のゴーレム/Epitaph Golem》デッキと良い シナジー を発揮する。
 
-《革新の時代/Era of Innovation》はエネルギーを生み出すカードが多い_環境_において、エネルギー戦略と_シナジー_がある。
+《革新の時代/Era of Innovation》はエネルギーを生み出すカードが多い 環境 において、エネルギー戦略と シナジー がある。
 
-《這い寄る刃/Slither Blade》は装備品やオーラ、パンプアップ呪文のたくさん入った超攻撃的デッキで_シナジー_があり、序盤の猛攻を推奨するような_環境_で強力だ。
+《這い寄る刃/Slither Blade》は装備品やオーラ、パンプアップ呪文のたくさん入った超攻撃的デッキで シナジー があり、序盤の猛攻を推奨するような 環境 で強力だ。
 
-《死の頭巾のコブラ/Death-Hood Cobra》は、モダンマスターズ2017の緑で推奨されているトークン戦略と_シナジー_がない。
-また、この_環境_は遅く、カードアドバンテージが重要になるフォーマットである。
+《死の頭巾のコブラ/Death-Hood Cobra》は、モダンマスターズ2017の緑で推奨されているトークン戦略と シナジー がない。
+また、この 環境 は遅く、カードアドバンテージが重要になるフォーマットである。
 つまり、《死の頭巾のコブラ/Death-Hood Cobra》は安価であり、強力なクリーチャーと1対1交換が取れるものの、そこまで効果的でない。
 
-次に、《幻影の天使/Illusory Angel》についてだが、このカードは絶対的に_シナジー_を必要としている。
+次に、《幻影の天使/Illusory Angel》についてだが、このカードは絶対的に シナジー を必要としている。
 このカードは他の呪文を唱えていないと唱えることができないのだ。
 
 ここで、2つの単語が繰り返し出てきたことに気づいたのではないだろうか?
