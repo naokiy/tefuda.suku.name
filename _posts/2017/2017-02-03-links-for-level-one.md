@@ -6,7 +6,7 @@ tags:
   - Reid Duke
 categories:
   - MTG
-  - 公式サイト
+  - 海外公式サイト
   - Level One
 ---
 

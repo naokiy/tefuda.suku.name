@@ -1,10 +1,10 @@
 ---
 title: "[翻訳記事] カラデシュにおけるシールド戦略"
 tags:
-  - シールド
-  - リミテッド
-  - シールド (KRD)
-  - リミテッド (KRD)
+  - Sealed
+  - Limited
+  - Sealed (KRD)
+  - Limited (KRD)
   - Brian DeMars
 categories:
   - MTG

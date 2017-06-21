@@ -2,6 +2,7 @@
 title: "[翻訳記事] 機会費用の力"
 tags:
   - Travis Woo
+  - 理論
 categories:
   - MTG
   - 翻訳記事
