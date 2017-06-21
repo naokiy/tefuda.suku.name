@@ -1,5 +1,5 @@
 ---
-title: "アモンケット・シールド講座"
+title: "[翻訳記事] アモンケット・シールド講座"
 tags:
   - Justin Robb
   - アモンケット
@@ -11,6 +11,8 @@ categories:
   - MTG
   - 翻訳記事
   - MTG Card Market
+redirect_from:
+  - /2017/06/22/アモンケット-シールド講座/
 ---
 
 ## 原文
