@@ -4,7 +4,7 @@ tags:
   - リンク集
   - Mike Flores
   - Reid Duke
-categories:
+category:
   - MTG
   - 海外公式サイト
   - Level One

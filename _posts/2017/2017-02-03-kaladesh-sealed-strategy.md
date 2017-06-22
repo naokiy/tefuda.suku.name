@@ -6,7 +6,7 @@ tags:
   - Sealed (KRD)
   - Limited (KRD)
   - Brian DeMars
-categories:
+category:
   - MTG
   - 翻訳記事
   - Channel Fireball

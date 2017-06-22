@@ -4,7 +4,7 @@ tags:
   - Adam Prosak
   - Modern Masters 2017
   - 《滅び/Damnation》
-categories:
+category:
   - MTG
   - 翻訳記事
   - 海外公式サイト

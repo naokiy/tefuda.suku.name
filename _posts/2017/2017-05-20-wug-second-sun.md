@@ -8,7 +8,7 @@ tags:
   - Standard (BFZ/AKH)
   - Standard
   - 《副陽の接近/Approach of the Second Sun》
-categories:
+category:
   - MTG
 ---
 
