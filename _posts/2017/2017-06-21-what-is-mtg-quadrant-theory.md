@@ -5,7 +5,7 @@ tags:
   - 理論
   - Draft
   - Limited
-categories:
+category:
   - MTG
   - 翻訳記事
   - manaleak.com

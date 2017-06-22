@@ -2,7 +2,8 @@
 title: "[翻訳記事] 機会費用の力"
 tags:
   - Travis Woo
-categories:
+  - 理論
+category:
   - MTG
   - 翻訳記事
   - Channel Fireball

@@ -3,7 +3,7 @@ title: "MO - Friendly Sealed League - KLDx2 AERx4 - 1回目 第1ステージ"
 tags:
   - Sealed
   - Limited
-categories:
+category:
   - MTG
   - 参加記録
   - Magic Online

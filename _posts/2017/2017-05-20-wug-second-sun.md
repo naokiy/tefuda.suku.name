@@ -5,10 +5,10 @@ tags:
   - 白
   - 青
   - 緑
-  - スタンダード (BFZ/AKH)
-  - スタンダード
+  - Standard (BFZ/AKH)
+  - Standard
   - 《副陽の接近/Approach of the Second Sun》
-categories:
+category:
   - MTG
 ---
 

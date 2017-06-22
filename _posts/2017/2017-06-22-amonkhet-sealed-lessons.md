@@ -7,7 +7,7 @@ tags:
   - Limited
   - Sealed (AKH)
   - Limited (AKH)
-categories:
+category:
   - MTG
   - 翻訳記事
   - MTG Card Market
