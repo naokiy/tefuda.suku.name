@@ -1,4 +1,227 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.4">Jekyll</generator><link href="http://tefuda.suku.name/feed.xml" rel="self" type="application/atom+xml" /><link href="http://tefuda.suku.name/" rel="alternate" type="text/html" /><updated>2017-06-22T22:05:30+09:00</updated><id>http://tefuda.suku.name/</id><title type="html">手札少なめ</title><subtitle>tefuda.suku.name</subtitle><entry><title type="html">[翻訳記事] アモンケット・シールド講座</title><link href="http://tefuda.suku.name/2017/06/22/%E7%BF%BB%E8%A8%B3%E8%A8%98%E4%BA%8B-%E3%82%A2%E3%83%A2%E3%83%B3%E3%82%B1%E3%83%83%E3%83%88-%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E8%AC%9B%E5%BA%A7/" rel="alternate" type="text/html" title="[翻訳記事] アモンケット・シールド講座" /><published>2017-06-22T00:00:00+09:00</published><updated>2017-06-22T00:00:00+09:00</updated><id>http://tefuda.suku.name/2017/06/22/%5B%E7%BF%BB%E8%A8%B3%E8%A8%98%E4%BA%8B%5D%20%E3%82%A2%E3%83%A2%E3%83%B3%E3%82%B1%E3%83%83%E3%83%88%E3%83%BB%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E8%AC%9B%E5%BA%A7</id><content type="html" xml:base="http://tefuda.suku.name/2017/06/22/%E7%BF%BB%E8%A8%B3%E8%A8%98%E4%BA%8B-%E3%82%A2%E3%83%A2%E3%83%B3%E3%82%B1%E3%83%83%E3%83%88-%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E8%AC%9B%E5%BA%A7/">&lt;h2 id=&quot;原文&quot;&gt;原文&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.4">Jekyll</generator><link href="http://tefuda.suku.name/feed.xml" rel="self" type="application/atom+xml" /><link href="http://tefuda.suku.name/" rel="alternate" type="text/html" /><updated>2017-06-23T22:28:44+09:00</updated><id>http://tefuda.suku.name/</id><title type="html">手札少なめ</title><subtitle>tefuda.suku.name</subtitle><entry><title type="html">[翻訳記事] プロツアー国内予選からわかる! アモンケット・シールド環境4大ひみつ</title><link href="http://tefuda.suku.name/2017/06/23/%E7%BF%BB%E8%A8%B3%E8%A8%98%E4%BA%8B-%E3%83%97%E3%83%AD%E3%83%84%E3%82%A2%E3%83%BC%E5%9B%BD%E5%86%85%E4%BA%88%E9%81%B8%E3%81%8B%E3%82%89%E3%82%8F%E3%81%8B%E3%82%8B!-%E3%82%A2%E3%83%A2%E3%83%B3%E3%82%B1%E3%83%83%E3%83%88-%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E7%92%B0%E5%A2%834%E5%A4%A7%E3%81%B2%E3%81%BF%E3%81%A4/" rel="alternate" type="text/html" title="[翻訳記事] プロツアー国内予選からわかる! アモンケット・シールド環境4大ひみつ" /><published>2017-06-23T00:00:00+09:00</published><updated>2017-06-23T00:00:00+09:00</updated><id>http://tefuda.suku.name/2017/06/23/%5B%E7%BF%BB%E8%A8%B3%E8%A8%98%E4%BA%8B%5D%20%E3%83%97%E3%83%AD%E3%83%84%E3%82%A2%E3%83%BC%E5%9B%BD%E5%86%85%E4%BA%88%E9%81%B8%E3%81%8B%E3%82%89%E3%82%8F%E3%81%8B%E3%82%8B!%20%E3%82%A2%E3%83%A2%E3%83%B3%E3%82%B1%E3%83%83%E3%83%88%E3%83%BB%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E7%92%B0%E5%A2%834%E5%A4%A7%E3%81%B2%E3%81%BF%E3%81%A4</id><content type="html" xml:base="http://tefuda.suku.name/2017/06/23/%E7%BF%BB%E8%A8%B3%E8%A8%98%E4%BA%8B-%E3%83%97%E3%83%AD%E3%83%84%E3%82%A2%E3%83%BC%E5%9B%BD%E5%86%85%E4%BA%88%E9%81%B8%E3%81%8B%E3%82%89%E3%82%8F%E3%81%8B%E3%82%8B!-%E3%82%A2%E3%83%A2%E3%83%B3%E3%82%B1%E3%83%83%E3%83%88-%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E7%92%B0%E5%A2%834%E5%A4%A7%E3%81%B2%E3%81%BF%E3%81%A4/">&lt;h2 id=&quot;原文&quot;&gt;原文&lt;/h2&gt;
+
+&lt;p&gt;この文章は&lt;a href=&quot;http://www.mtgmintcard.com/&quot;&gt;mtgmintcard&lt;/a&gt;に掲載された&lt;a href=&quot;http://www.mtgmintcard.com/articles/writers/chapman-sim/4-amonkhet-sealed-tips-from-one-rptq-experience&quot;&gt;4 Amonkhet Sealed Tips from one RPTQ Experience &lt;/a&gt;の和訳である。原文の掲載は2017年6月16日だった。&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;プロツアー国内予選の経験から得られたアモンケットシールド環境4つのtips&quot;&gt;プロツアー国内予選の経験から得られた、アモンケット・シールド環境4つのTips&lt;/h2&gt;
+
+&lt;p&gt;先週末、私はクアラルンプールで行われたプロツアー国内予選に出場した。
+私はそこでスイスラウンドで4-0-2を獲り、トップ8になることができた。
+トップ8になった後、私はGP京都とプロツアー破滅の刻の取材を行う予定があったために、知人相手にIDしたのである。
+プロツアーイクサランへの招待を延期してもらえたかもしれないが、その知人が出場するほうが良いと考えたのだ。&lt;/p&gt;
+
+&lt;p&gt;しかし、先週末話題に上がったのは、なぜ私がトップ8という予告ホームランを打つことができたかだ。
+私はいくつかの国から来た多くの知人に、このフォーマットに非常に自信があるということを伝えていた。
+自慢だと受け取られていないことを祈るが、”楽勝”とか”無問題”とか冗談交じりで言っていたのである。
+リミテッドにこそ私の強みがあるので、内心を語ることは恥ずかしくなかった。
+そして、信頼できる友人に自分の感情を隠す必要もなかったのだ。&lt;/p&gt;
+
+&lt;p&gt;私のシールド・デッキは非常に良いとよべるものではなかったし、これについては友人たちも同感だった。
+あなた自身でも判断できるかもしれない。以下に示すものが、2回のIDをするまで、4-0していた私のデッキである。&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-mtg-deck&quot;&gt;1 Oashra Cultivator
+1 Initiate's Companion
+1 Kefnet the Mindful
+1 Trial of Strength
+1 Defiant Greatmaw
+1 Weaver of Currents
+2 Emberhorn Minotaur
+1 Aven Initiate
+1 Quarry Hauler
+1 Shimmerscale Drake
+1 Glyph Keeper
+1 Scaled Behemoth
+1 Shefet Monitor
+1 Magma Spray
+1 Dissenter's Deliverance
+1 Stinging Shot
+2 Cartouche of Knowledge
+1 Tormenting Voice
+2 Cartouche of Strength
+1 Hieroglyphic Illumination
+1 Trial of Knowledge
+1 Sheltered Thicket
+1 Evolving Wilds
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;たしかにこれはかなり乱雑に見えるが、私自身のカード選択の幾つかを説明できる内容になっている。
+そして、Magic Onlineで今週末行われるプロツアー国内予選に参加する人へのヒントをいくつか提示しよう。&lt;/p&gt;
+
+&lt;h2 id=&quot;tip-その1--シールドデッキでもっとも重要なカードは通常進化する未開地evolving-wildsである&quot;&gt;Tip その1 : シールド・デッキでもっとも重要なカードは、通常《進化する未開地/Evolving Wilds》である&lt;/h2&gt;
+
+&lt;p&gt;世間の人々とは違い、私がシールド・デッキを組む際には、まず《進化する未開地/Evolving Wilds》をはじめとしたマナ補正カードを探すところから始める。
+アモンケットにおいても例外ではない。
+《進化する未開地/Evolving Wilds》が極めて重要だという理由は2つある。&lt;/p&gt;
+
+&lt;p&gt;まず、それは極めて低いコストでデッキパワーの向上を可能にするからだ。
+もしあなたのプールから、《感電/Electrify》や《最後の報賞/Final Reward》、あるいは《強制的永眠/Compulsory Rest》のようなカードが出たとする。
+1枚の《進化する未開地/Evolving Wilds》と、それに対応する《山/Mountain》・《沼/Swamp》・《平地/Plains》1枚は、考慮する価値がある。&lt;/p&gt;
+
+&lt;p&gt;これはデッキを構築する上で最も一貫性のある方法ではないだろうし、唱えるためのマナがない状態でタッチされたカードを引いてしまうことがある。
+しかし、想像してほしい。《栄光をもたらすもの/Glorybringer》への対策が1枚増えるのだ!
+シールドにおいては通常爆弾レアをベースにデッキを構築することになるので、これは大きな違いになる。
+除去呪文を3枚にすることをやめ、4枚・5枚にすることは非常に大きな違いだ。
+このことは1枚や2枚の色の合わないカードを使うために3色目をタッチすることが珍しくない理由である。&lt;/p&gt;
+
+&lt;p&gt;2番目の理由は、このカードがデッキ構築の数学的問題を打破するからである。
+土地が17枚では多すぎる、でも16枚では少なすぎる…。そう感じたとき、16枚の土地と1枚の《進化する未開地/Evolving Wilds》がまさにジャストフィットする。&lt;/p&gt;
+
+&lt;h2 id=&quot;tip-その2--1枚でなく3枚タッチしよう&quot;&gt;Tip その2 : 1枚でなく3枚タッチしよう&lt;/h2&gt;
+
+&lt;p&gt;これは極めて直感に反することだが、私はいつもうまくいっている。&lt;/p&gt;
+
+&lt;p&gt;個人的に、私の好きな動きはもうほんの少しだけ色をタッチすることだ。
+もし私が3枚の赤のカードをタッチするなら、1枚の《進化する未開地/Evolving Wilds》と2枚の《山/Mountain》を入れるだろう。
+そして、他2色のために7枚ずつの基本土地を加えておく。
+しかし、タッチする赤のカードが1枚だけなら、私は1枚の《進化する未開地/Evolving Wilds》と1枚の《山/Mountain》を入れるだろう。&lt;/p&gt;
+
+&lt;p&gt;違いは、デッキ内の赤マナのソースが3枚であるか2枚であるかだ。
+もしあなたが1枚しか赤のカードをタッチしていないなら、《山/Mountain》2枚でゲームを始めることはまずないだろう。
+しかし、カードを3枚タッチしているなら、2枚の《山/Mountain》をプレイすることは正当だ。&lt;/p&gt;
+
+&lt;p&gt;このバランスは非常にデリケートで、体感するには微妙すぎるのだが、タッチするカードを1枚から3枚に増やすと、あなたは色不足に陥りやすくなってしまう。
+だが、それは犠牲にしても良いものだと指摘しておきたい。
+この問題を軽減するために私がよく行うのは、メインの色で色拘束が2つ以上あるカードを切り捨てることだ。&lt;/p&gt;
+
+&lt;p&gt;例えば、もし私のデッキが青緑タッチ赤だとして、私はマナコストに(青)(青)や(緑)(緑)を含むカード、そしてそのかわりになるカードを見つけるだろう。
+忘れないでほしいのは、これはすべてリスクの緩和のためにやるということだ。
+気がついたかもしれないが、私はデッキに、(青)(青)が必要なカードと(緑)(緑)が必要なカードをそれぞれ1枚ずつしか使っていない(《象形の守り手/Glyph Keeper》と《鱗ビヒモス/Scaled Behemoth》)。
+たしかに、これらのカードは極めて強力であり、私が青や緑をやるなら確実にプレイするだろう。
+しかし、強力だと感じているにも関わらず、《古代ガニ/Ancient Crab》はデッキに入れていない。&lt;/p&gt;
+
+&lt;p&gt;私のポイントは、もし《Giant Turtle》(使用可能だとして)と《古代ガニ/Ancient Crab》を比較したとき、私はタフネス1点を犠牲にしてでも、(青)(青)が必要なカードを切り捨てるということだ。(訳注: ここの《Giant Turtle》((1)(緑)(緑))は《角海亀/Horned Turtle》((2)(青))の誤りだと思われる)
+このように、(青)(青)や(緑)(緑)を必要とするカードを他の選択肢に交換するなどの細部の調整を行うことで、カラー・スクリューの危険性は減り、色をタッチする余裕が生まれるだろう。&lt;/p&gt;
+
+&lt;p&gt;私のデッキには《進化する未開地/Evolving Wilds》に加え、《隠れた茂み/Sheltered Thicket》・《オアシュラの耕作者/Oashra Cultivator》そして《シェフェトのオオトカゲ/Shefet Monitor》が入っていた。
+これにより、代償をほとんど支払うことなく、3色目のタッチが可能になっている。
+これらのカードは2色デッキでも結局プレイするものだろう。なので、3色目のタッチに使うときも大した犠牲は必要なかったのだ。&lt;/p&gt;
+
+&lt;h1 id=&quot;tip-その3--サイクリングとカードの選択を行いアドバンテージを得よう&quot;&gt;Tip その3 : サイクリングとカードの選択を行い、アドバンテージを得よう&lt;/h1&gt;
+
+&lt;p&gt;私のシールド・プールにおいては、5色すべてを見ても1マナのクリーチャーは3枚だけ、2マナのクリーチャーは4枚だけしかなかった。
+GP神戸の優勝者であるJoe Sohはこれを見て、私がこの問題に悩まされていることにすぐに気がついた。
+第5ラウンドの終わりに、私がスタンディングのトップに勃っているのを見た彼は、非常に驚いたと伝えてきた。&lt;/p&gt;
+
+&lt;p&gt;通常、あなたはたくさんの2マナクリーチャーをプレイして、相手に圧倒されないようにすることを望むだろう。
+とくにアモンケット環境においては督励のために攻撃を押し通しやすく、さらにカルトーシュをつける先の肉が必要でもあるからだ。&lt;/p&gt;
+
+&lt;p&gt;でも時には、そのような1マナ・2マナのクリーチャーが手にはいらないこともある……。&lt;/p&gt;
+
+&lt;p&gt;しかし問題はない!&lt;/p&gt;
+
+&lt;p&gt;私は《知識の試練/Trial of Knowledge》と《活力の試練/Trial of Strength》をデッキに入れていたので、《知識のカルトーシュ/Cartouche of Knowledge》と《活力のカルトーシュ/Cartouche of Strength》はぜひとも唱えたいカードだった。
+もし、このコンボを引き出すことができれば、おそらく勝利できるだろう。&lt;/p&gt;
+
+&lt;p&gt;しかし、1マナ・2マナのクリーチャーの不足は深刻な問題だった。
+結局私は、《オアシュラの耕作者/Oashra Cultivator》と《修練者の相棒/Initiate’s Companion》しか入れていないが、これはそれしか選べるものがなかったためだ。
+私は、《聖なる猫/Sacred Cat》・《突風歩き/Gust Walker》・2枚の《絶妙なタイミング/Impeccable Timing》と2枚の《結束のカルトーシュ/Cartouche of Solidarity》のために白をタッチすることも考えた。
+しかし、私が選んだのは別の道だ。&lt;/p&gt;
+
+&lt;p&gt;2マナのクリーチャーを叩きつける代わりに、サイクリングしまくり、カードを選択しまくることにしたのだ!&lt;/p&gt;
+
+&lt;p&gt;序盤にとれるアクションの欠乏を補うため、私は《造反者の解放/Dissenter’s Deliverance》と《苦しめる一射/Stinging Shot》を投入した。これは実際に素晴らしいカードだ。
+《権威の殿堂/Edifice of Authority》や《オケチラの碑/Oketra’s Monument》はちょくちょく見るカードであるし、《苦しめる一射/Stinging Shot》は誰もプレイしようとしないが実際には素晴らしいカードだ。
+どちらのカードもサイクリングを持っているので、素晴らしいシナジーも期待できる。
+あなたのデッキにもっとクリーチャーや呪文を追加したい場合、これらのカードは「土地0.5枚分を削る」ことを赦してくれるだろう。&lt;/p&gt;
+
+&lt;p&gt;さらに、私のデッキには素晴らしいカードが数枚入っていて、ちょっとしたコンボデッキにもなっていた。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ボム
+    &lt;ul&gt;
+      &lt;li&gt;《周到の神ケフネト/Kefnet the Mindful》&lt;/li&gt;
+      &lt;li&gt;《象形の守り手/Glyph Keeper》&lt;/li&gt;
+      &lt;li&gt;《鱗ビヒモス/Scaled Behemoth》&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;コンボ / シナジー
+    &lt;ul&gt;
+      &lt;li&gt;《オアシュラの耕作者/Oashra Cultivator》 + 《好戦的な巨口/Defiant Greatmaw》&lt;/li&gt;
+      &lt;li&gt;《鱗ビヒモス/Scaled Behemoth》 + 各種カルトーシュ&lt;/li&gt;
+      &lt;li&gt;《水流織り/Weaver of Currents》 + 《鱗ビヒモス/Scaled Behemoth》&lt;/li&gt;
+      &lt;li&gt;《好戦的な巨口/Defiant Greatmaw》 + 《採石場の運び屋/Quarry Hauler》&lt;/li&gt;
+      &lt;li&gt;《周到の神ケフネト/Kefnet the Mindful》 + 《隠れた茂み/Sheltered Thicket》 (サイクリングする)&lt;/li&gt;
+      &lt;li&gt;《苦しめる声/Tormenting Voice》 + 不朽クリーチャー&lt;/li&gt;
+      &lt;li&gt;《修練者の相棒/Initiate’s Companion》 + 《活力のカルトーシュ/Cartouche of Strength》 (一種のマナ加速)&lt;/li&gt;
+      &lt;li&gt;試練なんでも + カルトーシュなんでも&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;上記の通り、これらの単体のカードやカードの相互作用は極めて強力だ。
+アモンケットのキーになるメカニズムはサイクリングである。このツールを最大限に活用すべきでない理由は、わたしにはわからない。&lt;/p&gt;
+
+&lt;p&gt;2ターン目《修練者の相棒/Initiate’s Companion》+3ターン目《活力のカルトーシュ/Cartouche of Strength》で勝てたゲームもある。
+3ターン目《水流織り/Weaver of Currents》+4ターン目《鱗ビヒモス/Scaled Behemoth》で勝てたゲームもある。
+《オアシュラの耕作者/Oashra Cultivator》と《好戦的な巨口/Defiant Greatmaw》を組み合わせて3ターン目に4/5クリーチャーを出したりもした。&lt;/p&gt;
+
+&lt;p&gt;これらのシナジーの存在により、サイクリングとカードの選択はより重要なものとなる。
+これはブースタードラフトではなくシールド戦なのだ。
+より強力なことを行うために、いくらかの時間と息継ぎをする空間が残されているのだ。&lt;/p&gt;
+
+&lt;p&gt;《知識のカルトーシュ/Cartouche of Knowledge》もサイクリングカードとして数えられる。
+私は《苦しめる声/Tormenting Voice》のタッチにまで手を染めることにした。
+これはひどいプレイに聞こえるかもしれないが、まさに自分自身がやりたかったことだ。
+自分のデッキにボムはあまり入っていないので、私はとにかく手札を濾過したかったのだ。
+たしかに唱えるためのマナが揃わないことが合ったのも認めよう。
+しかしもし唱えることができれば、このカードは確実に私を後押ししてくれた。
+土地カード1枚を捨てて強力なカードを掘り出してくれたのだ。
+もし必要であれば、また《苦しめる声/Tormenting Voice》をタッチするだろう。
+実際に役に立つってところをぜひ確かめてほしい。&lt;/p&gt;
+
+&lt;h2 id=&quot;tip-その4--脅威の塊であるかのように影響力あるカードをプレイせよ&quot;&gt;Tip その4 : 脅威の塊であるかのように、影響力あるカードをプレイせよ&lt;/h2&gt;
+
+&lt;p&gt;これはほとんどのシールド環境に適用できるルールだ。
+私がプレイしたいカードは、いつ引いても影響力のあるカードだということだ。&lt;/p&gt;
+
+&lt;p&gt;1つの良い例は《選定の司祭/Anointer Priest》だ。
+私の知人のひとりは、ボロスアグロを組むため7枚の2マナクリーチャーを採用していて、そのうち2枚が《選定の司祭/Anointer Priest》だった。
+しかし実際のところ、《選定の司祭/Anointer Priest》は2ターン目に引いても10ターン目に引いても、何の影響力もなかった。&lt;/p&gt;
+
+&lt;p&gt;《苦刃の戦士/Bitterblade Warrior》・《アン一門の壊し屋/Ahn-Crop Crasher》・《突風歩き/Gust Walker》のような督励持ちクリーチャーはどこにでもいて、そいつらは《選定の司祭/Anointer Priest》を無視する。
+仮に普及できたとしても、ライフ回復能力はその肉体とどうようにささやかなものだ。
+このカードにはまるで影響力がなく、ほとんどの場合、対戦相手はそれをただ無視できる。&lt;/p&gt;
+
+&lt;p&gt;影響力がいつだってあるカードを私は使いたい。
+インパクトをいつでも持っているカードを私は使いたい。
+ありきたりなカードを使うのは好きではない。色をタッチすると決めている場合は特にそうだ。
+2枚の《燃えさし角のミノタウルス/Emberhorn Minotaur》(環境で最強の4マナコモンクリーチャー)は、デッキの色を2色に限定し、《古代ガニ/Ancient Crab》・《刻み角/Manglehorn》・《飛びかかるチーター/Pouncing Cheetah》・《ヘクマの歩哨/Hekma Sentinels》のような埋め合わせのカードを使うよりもずっと良い。
+これらの埋め合わせカードは影響力がそれほどなく、しばしば無視されてしまうことになる、
+つまり、あなたの対戦相手はもっと影響力のあるカードのために除去を温存できるということだ。&lt;/p&gt;
+
+&lt;p&gt;私のデッキはタダの束に見えるかもしれないが、実際には脅威の塊だ。&lt;/p&gt;
+
+&lt;p&gt;マナ補正のためだけに入っている《オアシュラの耕作者/Oashra Cultivator》を除いて、あなたは私のどのカードも無視できないだろう。
+《修練者の相棒/Initiate’s Companion》はパワーが3あり、警戒かマナ加速を行うことができる。これは10ターン目に引いてもゴミにはならない。
+実際、私のデッキには10ターン目に引いてごみになるカードは1枚も入っていない。
+《水流織り/Weaver of Currents》は3ターン目に引いても6ターン目に引いても非常に強力だ。
+なぜなら、《エイヴンの修練者/Aven Initiate》と《象形の守り手/Glyph Keeper》がマナを要求するからである。&lt;/p&gt;
+
+&lt;p&gt;とまあこのように、脅威の塊を作るように私はデッキを作り上げた。
+影響力のあるカードをプレイすれば、対戦相手はその全てに対処しなくてはいけなくなる。
+いくつかを無視できる状況にくらべ、そこにはボトルネックが生じやすくなるだろう。&lt;/p&gt;
+
+&lt;p&gt;これは私がシールド戦でアグロデッキを好まない理由でもある。
+マナ・カーブに沿っているから、という理由で入れたバニラの《灰色熊/Grizzly Bears》は、終盤でドローした時には本当に酷い。&lt;/p&gt;
+
+&lt;h2 id=&quot;まとめ&quot;&gt;まとめ&lt;/h2&gt;
+
+&lt;p&gt;さて、私のシールド・プールには良いカードがいくらかあったが、総じてそれほど素晴らしいものではなかった。
+あなたは、自分のカード・プールがどのように機能するかを理解する必要がある。そしてそれは限られた時間で行うには簡単ではない。
+また、サイドボードプランを練ることも必要だし、デッキを交換したい場合に備えて2つ目・3つ目のデッキを作り、スリーブに入れておくことも大事だ。
+時折、特定のマッチアップへのサポートのため、4色までデッキの色を増やすこともしなければいけないこともあるだろう。
+あなたができることのリストはどんどん増えていく。&lt;/p&gt;
+
+&lt;p&gt;誰もが独自の流儀を持ち、独自のプレイスタイルを持っている。しかしそれらのイデオロギーは地雷だ。
+私はそれらのイデオロギーが全員に有効であることを保証できない。
+なぜならそれらのデッキは調整し、操ることが簡単でないからである。&lt;/p&gt;
+
+&lt;p&gt;シールド・デッキは生涯に渡って行う学習経験である。私はここで挙げたTipsがいつかあなたを助けることを望んでいる。
+読んでくれてありがとう。
+そして、プロツアー破滅の刻に出場する、我が兄弟Ipank Aziz Riphatの幸運を祈る!&lt;/p&gt;</content><author><name></name></author><category term="[&quot;MTG&quot;, &quot;翻訳記事&quot;, &quot;mtgmintcard&quot;]" /><category term="Chapman Sim" /><category term="アモンケット" /><category term="Sealed" /><category term="Limited" /><category term="Sealed (AKH)" /><category term="Limited (AKH)" /><summary type="html">原文 この文章はmtgmintcardに掲載された4 Amonkhet Sealed Tips from one RPTQ Experience の和訳である。原文の掲載は2017年6月16日だった。 プロツアー国内予選の経験から得られた、アモンケット・シールド環境4つのTips 先週末、私はクアラルンプールで行われたプロツアー国内予選に出場した。 私はそこでスイスラウンドで4-0-2を獲り、トップ8になることができた。 トップ8になった後、私はGP京都とプロツアー破滅の刻の取材を行う予定があったために、知人相手にIDしたのである。 プロツアーイクサランへの招待を延期してもらえたかもしれないが、その知人が出場するほうが良いと考えたのだ。 しかし、先週末話題に上がったのは、なぜ私がトップ8という予告ホームランを打つことができたかだ。 私はいくつかの国から来た多くの知人に、このフォーマットに非常に自信があるということを伝えていた。 自慢だと受け取られていないことを祈るが、”楽勝”とか”無問題”とか冗談交じりで言っていたのである。 リミテッドにこそ私の強みがあるので、内心を語ることは恥ずかしくなかった。 そして、信頼できる友人に自分の感情を隠す必要もなかったのだ。 私のシールド・デッキは非常に良いとよべるものではなかったし、これについては友人たちも同感だった。 あなた自身でも判断できるかもしれない。以下に示すものが、2回のIDをするまで、4-0していた私のデッキである。 1 Oashra Cultivator 1 Initiate's Companion 1 Kefnet the Mindful 1 Trial of Strength 1 Defiant Greatmaw 1 Weaver of Currents 2 Emberhorn Minotaur 1 Aven Initiate 1 Quarry Hauler 1 Shimmerscale Drake 1 Glyph Keeper 1 Scaled Behemoth 1 Shefet Monitor 1 Magma Spray 1 Dissenter's Deliverance 1 Stinging Shot 2 Cartouche of Knowledge 1 Tormenting Voice 2 Cartouche of Strength 1 Hieroglyphic Illumination 1 Trial of Knowledge 1 Sheltered Thicket 1 Evolving Wilds たしかにこれはかなり乱雑に見えるが、私自身のカード選択の幾つかを説明できる内容になっている。 そして、Magic Onlineで今週末行われるプロツアー国内予選に参加する人へのヒントをいくつか提示しよう。 Tip その1 : シールド・デッキでもっとも重要なカードは、通常《進化する未開地/Evolving Wilds》である 世間の人々とは違い、私がシールド・デッキを組む際には、まず《進化する未開地/Evolving Wilds》をはじめとしたマナ補正カードを探すところから始める。 アモンケットにおいても例外ではない。 《進化する未開地/Evolving Wilds》が極めて重要だという理由は2つある。 まず、それは極めて低いコストでデッキパワーの向上を可能にするからだ。 もしあなたのプールから、《感電/Electrify》や《最後の報賞/Final Reward》、あるいは《強制的永眠/Compulsory Rest》のようなカードが出たとする。 1枚の《進化する未開地/Evolving Wilds》と、それに対応する《山/Mountain》・《沼/Swamp》・《平地/Plains》1枚は、考慮する価値がある。 これはデッキを構築する上で最も一貫性のある方法ではないだろうし、唱えるためのマナがない状態でタッチされたカードを引いてしまうことがある。 しかし、想像してほしい。《栄光をもたらすもの/Glorybringer》への対策が1枚増えるのだ! シールドにおいては通常爆弾レアをベースにデッキを構築することになるので、これは大きな違いになる。 除去呪文を3枚にすることをやめ、4枚・5枚にすることは非常に大きな違いだ。 このことは1枚や2枚の色の合わないカードを使うために3色目をタッチすることが珍しくない理由である。 2番目の理由は、このカードがデッキ構築の数学的問題を打破するからである。 土地が17枚では多すぎる、でも16枚では少なすぎる…。そう感じたとき、16枚の土地と1枚の《進化する未開地/Evolving Wilds》がまさにジャストフィットする。 Tip その2 : 1枚でなく3枚タッチしよう これは極めて直感に反することだが、私はいつもうまくいっている。 個人的に、私の好きな動きはもうほんの少しだけ色をタッチすることだ。 もし私が3枚の赤のカードをタッチするなら、1枚の《進化する未開地/Evolving Wilds》と2枚の《山/Mountain》を入れるだろう。 そして、他2色のために7枚ずつの基本土地を加えておく。 しかし、タッチする赤のカードが1枚だけなら、私は1枚の《進化する未開地/Evolving Wilds》と1枚の《山/Mountain》を入れるだろう。 違いは、デッキ内の赤マナのソースが3枚であるか2枚であるかだ。 もしあなたが1枚しか赤のカードをタッチしていないなら、《山/Mountain》2枚でゲームを始めることはまずないだろう。 しかし、カードを3枚タッチしているなら、2枚の《山/Mountain》をプレイすることは正当だ。 このバランスは非常にデリケートで、体感するには微妙すぎるのだが、タッチするカードを1枚から3枚に増やすと、あなたは色不足に陥りやすくなってしまう。 だが、それは犠牲にしても良いものだと指摘しておきたい。 この問題を軽減するために私がよく行うのは、メインの色で色拘束が2つ以上あるカードを切り捨てることだ。 例えば、もし私のデッキが青緑タッチ赤だとして、私はマナコストに(青)(青)や(緑)(緑)を含むカード、そしてそのかわりになるカードを見つけるだろう。 忘れないでほしいのは、これはすべてリスクの緩和のためにやるということだ。 気がついたかもしれないが、私はデッキに、(青)(青)が必要なカードと(緑)(緑)が必要なカードをそれぞれ1枚ずつしか使っていない(《象形の守り手/Glyph Keeper》と《鱗ビヒモス/Scaled Behemoth》)。 たしかに、これらのカードは極めて強力であり、私が青や緑をやるなら確実にプレイするだろう。 しかし、強力だと感じているにも関わらず、《古代ガニ/Ancient Crab》はデッキに入れていない。 私のポイントは、もし《Giant Turtle》(使用可能だとして)と《古代ガニ/Ancient Crab》を比較したとき、私はタフネス1点を犠牲にしてでも、(青)(青)が必要なカードを切り捨てるということだ。(訳注: ここの《Giant Turtle》((1)(緑)(緑))は《角海亀/Horned Turtle》((2)(青))の誤りだと思われる) このように、(青)(青)や(緑)(緑)を必要とするカードを他の選択肢に交換するなどの細部の調整を行うことで、カラー・スクリューの危険性は減り、色をタッチする余裕が生まれるだろう。 私のデッキには《進化する未開地/Evolving Wilds》に加え、《隠れた茂み/Sheltered Thicket》・《オアシュラの耕作者/Oashra Cultivator》そして《シェフェトのオオトカゲ/Shefet Monitor》が入っていた。 これにより、代償をほとんど支払うことなく、3色目のタッチが可能になっている。 これらのカードは2色デッキでも結局プレイするものだろう。なので、3色目のタッチに使うときも大した犠牲は必要なかったのだ。 Tip その3 : サイクリングとカードの選択を行い、アドバンテージを得よう 私のシールド・プールにおいては、5色すべてを見ても1マナのクリーチャーは3枚だけ、2マナのクリーチャーは4枚だけしかなかった。 GP神戸の優勝者であるJoe Sohはこれを見て、私がこの問題に悩まされていることにすぐに気がついた。 第5ラウンドの終わりに、私がスタンディングのトップに勃っているのを見た彼は、非常に驚いたと伝えてきた。 通常、あなたはたくさんの2マナクリーチャーをプレイして、相手に圧倒されないようにすることを望むだろう。 とくにアモンケット環境においては督励のために攻撃を押し通しやすく、さらにカルトーシュをつける先の肉が必要でもあるからだ。 でも時には、そのような1マナ・2マナのクリーチャーが手にはいらないこともある……。 しかし問題はない! 私は《知識の試練/Trial of Knowledge》と《活力の試練/Trial of Strength》をデッキに入れていたので、《知識のカルトーシュ/Cartouche of Knowledge》と《活力のカルトーシュ/Cartouche of Strength》はぜひとも唱えたいカードだった。 もし、このコンボを引き出すことができれば、おそらく勝利できるだろう。 しかし、1マナ・2マナのクリーチャーの不足は深刻な問題だった。 結局私は、《オアシュラの耕作者/Oashra Cultivator》と《修練者の相棒/Initiate’s Companion》しか入れていないが、これはそれしか選べるものがなかったためだ。 私は、《聖なる猫/Sacred Cat》・《突風歩き/Gust Walker》・2枚の《絶妙なタイミング/Impeccable Timing》と2枚の《結束のカルトーシュ/Cartouche of Solidarity》のために白をタッチすることも考えた。 しかし、私が選んだのは別の道だ。 2マナのクリーチャーを叩きつける代わりに、サイクリングしまくり、カードを選択しまくることにしたのだ! 序盤にとれるアクションの欠乏を補うため、私は《造反者の解放/Dissenter’s Deliverance》と《苦しめる一射/Stinging Shot》を投入した。これは実際に素晴らしいカードだ。 《権威の殿堂/Edifice of Authority》や《オケチラの碑/Oketra’s Monument》はちょくちょく見るカードであるし、《苦しめる一射/Stinging Shot》は誰もプレイしようとしないが実際には素晴らしいカードだ。 どちらのカードもサイクリングを持っているので、素晴らしいシナジーも期待できる。 あなたのデッキにもっとクリーチャーや呪文を追加したい場合、これらのカードは「土地0.5枚分を削る」ことを赦してくれるだろう。 さらに、私のデッキには素晴らしいカードが数枚入っていて、ちょっとしたコンボデッキにもなっていた。 ボム 《周到の神ケフネト/Kefnet the Mindful》 《象形の守り手/Glyph Keeper》 《鱗ビヒモス/Scaled Behemoth》 コンボ / シナジー 《オアシュラの耕作者/Oashra Cultivator》 + 《好戦的な巨口/Defiant Greatmaw》 《鱗ビヒモス/Scaled Behemoth》 + 各種カルトーシュ 《水流織り/Weaver of Currents》 + 《鱗ビヒモス/Scaled Behemoth》 《好戦的な巨口/Defiant Greatmaw》 + 《採石場の運び屋/Quarry Hauler》 《周到の神ケフネト/Kefnet the Mindful》 + 《隠れた茂み/Sheltered Thicket》 (サイクリングする) 《苦しめる声/Tormenting Voice》 + 不朽クリーチャー 《修練者の相棒/Initiate’s Companion》 + 《活力のカルトーシュ/Cartouche of Strength》 (一種のマナ加速) 試練なんでも + カルトーシュなんでも 上記の通り、これらの単体のカードやカードの相互作用は極めて強力だ。 アモンケットのキーになるメカニズムはサイクリングである。このツールを最大限に活用すべきでない理由は、わたしにはわからない。 2ターン目《修練者の相棒/Initiate’s Companion》+3ターン目《活力のカルトーシュ/Cartouche of Strength》で勝てたゲームもある。 3ターン目《水流織り/Weaver of Currents》+4ターン目《鱗ビヒモス/Scaled Behemoth》で勝てたゲームもある。 《オアシュラの耕作者/Oashra Cultivator》と《好戦的な巨口/Defiant Greatmaw》を組み合わせて3ターン目に4/5クリーチャーを出したりもした。 これらのシナジーの存在により、サイクリングとカードの選択はより重要なものとなる。 これはブースタードラフトではなくシールド戦なのだ。 より強力なことを行うために、いくらかの時間と息継ぎをする空間が残されているのだ。 《知識のカルトーシュ/Cartouche of Knowledge》もサイクリングカードとして数えられる。 私は《苦しめる声/Tormenting Voice》のタッチにまで手を染めることにした。 これはひどいプレイに聞こえるかもしれないが、まさに自分自身がやりたかったことだ。 自分のデッキにボムはあまり入っていないので、私はとにかく手札を濾過したかったのだ。 たしかに唱えるためのマナが揃わないことが合ったのも認めよう。 しかしもし唱えることができれば、このカードは確実に私を後押ししてくれた。 土地カード1枚を捨てて強力なカードを掘り出してくれたのだ。 もし必要であれば、また《苦しめる声/Tormenting Voice》をタッチするだろう。 実際に役に立つってところをぜひ確かめてほしい。 Tip その4 : 脅威の塊であるかのように、影響力あるカードをプレイせよ これはほとんどのシールド環境に適用できるルールだ。 私がプレイしたいカードは、いつ引いても影響力のあるカードだということだ。 1つの良い例は《選定の司祭/Anointer Priest》だ。 私の知人のひとりは、ボロスアグロを組むため7枚の2マナクリーチャーを採用していて、そのうち2枚が《選定の司祭/Anointer Priest》だった。 しかし実際のところ、《選定の司祭/Anointer Priest》は2ターン目に引いても10ターン目に引いても、何の影響力もなかった。 《苦刃の戦士/Bitterblade Warrior》・《アン一門の壊し屋/Ahn-Crop Crasher》・《突風歩き/Gust Walker》のような督励持ちクリーチャーはどこにでもいて、そいつらは《選定の司祭/Anointer Priest》を無視する。 仮に普及できたとしても、ライフ回復能力はその肉体とどうようにささやかなものだ。 このカードにはまるで影響力がなく、ほとんどの場合、対戦相手はそれをただ無視できる。 影響力がいつだってあるカードを私は使いたい。 インパクトをいつでも持っているカードを私は使いたい。 ありきたりなカードを使うのは好きではない。色をタッチすると決めている場合は特にそうだ。 2枚の《燃えさし角のミノタウルス/Emberhorn Minotaur》(環境で最強の4マナコモンクリーチャー)は、デッキの色を2色に限定し、《古代ガニ/Ancient Crab》・《刻み角/Manglehorn》・《飛びかかるチーター/Pouncing Cheetah》・《ヘクマの歩哨/Hekma Sentinels》のような埋め合わせのカードを使うよりもずっと良い。 これらの埋め合わせカードは影響力がそれほどなく、しばしば無視されてしまうことになる、 つまり、あなたの対戦相手はもっと影響力のあるカードのために除去を温存できるということだ。 私のデッキはタダの束に見えるかもしれないが、実際には脅威の塊だ。 マナ補正のためだけに入っている《オアシュラの耕作者/Oashra Cultivator》を除いて、あなたは私のどのカードも無視できないだろう。 《修練者の相棒/Initiate’s Companion》はパワーが3あり、警戒かマナ加速を行うことができる。これは10ターン目に引いてもゴミにはならない。 実際、私のデッキには10ターン目に引いてごみになるカードは1枚も入っていない。 《水流織り/Weaver of Currents》は3ターン目に引いても6ターン目に引いても非常に強力だ。 なぜなら、《エイヴンの修練者/Aven Initiate》と《象形の守り手/Glyph Keeper》がマナを要求するからである。 とまあこのように、脅威の塊を作るように私はデッキを作り上げた。 影響力のあるカードをプレイすれば、対戦相手はその全てに対処しなくてはいけなくなる。 いくつかを無視できる状況にくらべ、そこにはボトルネックが生じやすくなるだろう。 これは私がシールド戦でアグロデッキを好まない理由でもある。 マナ・カーブに沿っているから、という理由で入れたバニラの《灰色熊/Grizzly Bears》は、終盤でドローした時には本当に酷い。 まとめ さて、私のシールド・プールには良いカードがいくらかあったが、総じてそれほど素晴らしいものではなかった。 あなたは、自分のカード・プールがどのように機能するかを理解する必要がある。そしてそれは限られた時間で行うには簡単ではない。 また、サイドボードプランを練ることも必要だし、デッキを交換したい場合に備えて2つ目・3つ目のデッキを作り、スリーブに入れておくことも大事だ。 時折、特定のマッチアップへのサポートのため、4色までデッキの色を増やすこともしなければいけないこともあるだろう。 あなたができることのリストはどんどん増えていく。 誰もが独自の流儀を持ち、独自のプレイスタイルを持っている。しかしそれらのイデオロギーは地雷だ。 私はそれらのイデオロギーが全員に有効であることを保証できない。 なぜならそれらのデッキは調整し、操ることが簡単でないからである。 シールド・デッキは生涯に渡って行う学習経験である。私はここで挙げたTipsがいつかあなたを助けることを望んでいる。 読んでくれてありがとう。 そして、プロツアー破滅の刻に出場する、我が兄弟Ipank Aziz Riphatの幸運を祈る!</summary></entry><entry><title type="html">[翻訳記事] アモンケット・シールド講座</title><link href="http://tefuda.suku.name/2017/06/22/%E7%BF%BB%E8%A8%B3%E8%A8%98%E4%BA%8B-%E3%82%A2%E3%83%A2%E3%83%B3%E3%82%B1%E3%83%83%E3%83%88-%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E8%AC%9B%E5%BA%A7/" rel="alternate" type="text/html" title="[翻訳記事] アモンケット・シールド講座" /><published>2017-06-22T00:00:00+09:00</published><updated>2017-06-22T00:00:00+09:00</updated><id>http://tefuda.suku.name/2017/06/22/%5B%E7%BF%BB%E8%A8%B3%E8%A8%98%E4%BA%8B%5D%20%E3%82%A2%E3%83%A2%E3%83%B3%E3%82%B1%E3%83%83%E3%83%88%E3%83%BB%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E8%AC%9B%E5%BA%A7</id><content type="html" xml:base="http://tefuda.suku.name/2017/06/22/%E7%BF%BB%E8%A8%B3%E8%A8%98%E4%BA%8B-%E3%82%A2%E3%83%A2%E3%83%B3%E3%82%B1%E3%83%83%E3%83%88-%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89%E8%AC%9B%E5%BA%A7/">&lt;h2 id=&quot;原文&quot;&gt;原文&lt;/h2&gt;
 
 &lt;p&gt;この文章は&lt;a href=&quot;http://articles.mtgcardmarket.com/&quot;&gt;MTG Card Market&lt;/a&gt;に掲載された&lt;a href=&quot;http://articles.mtgcardmarket.com/amonkhet-sealed-lessons/&quot;&gt;Amonkhet Sealed Lessons&lt;/a&gt;の和訳である。原文の掲載は2017年5月2日だった。&lt;/p&gt;
 
@@ -1381,151 +1604,4 @@ MTGで新しいセットが発表されるたび、カードの質やピック�
 もう1つのやり方がコンバットトリックであり、強力なレアのぶつけ合いから抜け出すことができ、1-2交換を取ることができる。&lt;/p&gt;
 
 &lt;p&gt;私はシールドフォーマットを大いに楽しんだ。
-GPミルウォーキーの前にプレイすることをおすすめする。そこには、たくさんの学びとたくさんの楽しみがあるのだ。&lt;/p&gt;</content><author><name></name></author><category term="[&quot;MTG&quot;, &quot;翻訳記事&quot;, &quot;Channel Fireball&quot;]" /><category term="Sealed" /><category term="Limited" /><category term="Sealed (KRD)" /><category term="Limited (KRD)" /><category term="Brian DeMars" /><summary type="html">原文 この文章はChannel Fireballに掲載されたKaladesh Sealed Strategiesの和訳である。原文の掲載は2016年12月2日だった。 霊気紛争後のシールド戦に関する記事を読みたかったのだが、特に見当たらなかったので、少し古い記事を訳した。 殆どの人は知らないことだが、私は自分のことを根っからのリミテッドプレイヤーだと考えている。 殆どの人は私のことをエターナル環境と結びつけるが、私はいつだって、他の何よりもドラフトを多くプレイしてきたのだ。 私は自身の目標として、イベントの準備のためにMagic Onlineをより有効に活用することを定めた。 構築のためのカードは十分に揃っていない。しかし、ミルウォーキーGPで行われるカラデシュ・シールドの準備のために、多くのエネルギーを割いたのだ。 私は通常シールドを練習しない。なぜならば、シールドにおいてもっとも重要なのはパックから何がでるかであり、それは全くコントロール不能だからである。 妬みに聞こえるかもしれないが、Cクラスのカードプールで100%の構築をするよりも、A+クラスのカードプールで75%の構築をするほうがまだ強いのである。 もう1つ付け加えれば、実際のところ素晴らしいカードプールから構築を行うのは簡単で、下手なデッキを作るほうが難しい。 「見ろよ！強力な赤のレア3枚に、強力な緑のレア2枚だ！見ろよ！赤と緑は他にもカードがたっぷり有るぞ！」 何やったらこんなのに勝てるんですかね？ これまでの2週間、何度かシールドリーグをプレイして、私はこのフォーマットがどのようなものかを深く理解することができたと思う。 正しいデッキ構築にいかに近づくかについて、重要な観察がいくつか得られた。 「よい」シールドプールと「素晴らしい」シールドプールの間には大きな差がある カラデシュには十分な公平さがあり、本当に酷いシールドプールを引き当てるのは難しい。 殆どのコモンとアンコモンは一貫したパワーレベルを持つので、殆どのデッキは同等の強さに感じられる。 しかし、よいデッキと素晴らしいデッキの間は何光年も離れている。 標準より強力なカードの平均密度をいかに高めるか、そのためにやるべきことはたくさんあるのだ。 カラデシュにはMasterpiecesが存在する。 つまり、ランダムに選ばれた幾つかのデッキは、他の追随を許さない理不尽なカードを持っているということだ。 例えば《太陽の指輪/Sol Ring》や《饗宴と飢餓の剣/Sword of Feast and Famine》である。 シールドで《太陽の指輪/Sol Ring》と対戦したことがあるか? 俺はある。糞だ。 よいレアの存在は非常に重要だ。 もし幸運にも1枚か2枚入手できたなら、トーナメントは非常に簡単になるだろう。 このようなカードは、他のカードではできないような方法でゲームに大きな影響を与えるだろう。 レアなしでも素晴らしいプールになることはあるが、公平に言って、いくつかの強力な神話レアを持っているものこそ最高のプールだ。 私は「爆弾神話レアは強いぞ」というのが都市伝説でない事を知っている。 しかし、そのような爆弾神話だけでなく、いくつかの強力なレアや最高級のコモン・アンコモンでもデッキをぐっと良くすることができる。 よし、「神話やマスターピースが出るように祈る」以外の戦術の時間だ。 攻撃的であれ 引き分け狙いのために壁でいっぱいのデッキを作りたくなるシールド・フォーマットがいくつかある。しかし、カラデシュはそれらとは違う。 カラデシュのカードは攻撃するためのものだ。ほとんどのクリーチャーはパワーがタフネスより高く、ブロックより攻撃に適している。 これまで作ったベストなデッキの殆どは攻撃的なものだった。攻撃的であることが良い理由は3つある。 攻撃的な戦略を妨害できるほどタフネスの高いブロッカーがいない 攻撃を通す役に立つ、強力なコンバット・トリックが多い 機体システムがブロックを困難にしている レアを除けば、防御的なプレイヤーに大量のアドバンテージをもたらすことのできるカードは、カラデシュにない。 《製造機構/Fabrication Module》はシールドでは強力なカードで、着実なアドバンテージをもたらす。 コントロール向けのようにも思えるが、このカードでさえ+1/+1カウンターを用いてアドバンテージを生み出すので、あなたを攻撃に向かわせるだろう。 素晴らしいシールド・デッキ これまで私が作ったデッキをいくつか紹介したい。 このシールド・デッキの様々な面を説明する上で、これらのデッキは役に立つだろう。 これまで私が作った中で最強のデッキは赤白機体であり、簡単に無敗を達成できた。 このデッキはこの色における最高のコモン・アンコモンの集合であり、3枚の強力なレアさえある。 1 Aether Hub 8 Plains 7 Mountain 1 Inventor's Apprentice 1 Toolcraft Exemplar 1 Veteran Motorist 3 Glint-Sleeve Artisan 1 Gearshift Ace 2 Aviary Mechanic 1 Depala, Pilot Exemplar 1 Snare Thopter 1 Propeller Pioneer 2 Thriving Grubs 1 Built to Smash 1 Built to Last 1 Harnessed Lightning 1 Sky Skiff 1 Welding Sparks 2 Renegade Freighter 1 Fleetwheel Cruiser 2 Inventor's Goggles 《改革派の貨物車/Renegade Freighter》はカラデシュで最も壊れたコモンだ。かなりの数のレアより強い。 このカードは戦闘でただ巨大であり、除去やコンバット・トリック無しで打倒するのは困難である。 2枚出てきて興奮した。 ぱっと見ただけだとこのデッキは「よいカード」の集まりにしか見えないかもしれない。事実、ほとんどのカードが「よいカード」だ。 しかし、潜在的に多くのシナジーが存在している。 2マナ・3マナのドワーフから《模範操縦士、デパラ/Depala, Pilot Exemplar》に繋いでビートダウンすることもできる。 他に強力なシナジーを持つカードとして私をひきつけたのは、《発明者のゴーグル/Inventor’s Goggles》だ。 このデッキには十分な工匠クリーチャーが含まれている。これにより、このカードはその効果を遺憾なく発揮し、ゲームを速やかに壊してしまう。 1T目《発明者のゴーグル/Inventor’s Goggles》・2T目《格納庫の整備士/Aviary Mechanic》で装備がタダだ。 私の2マナ3/4の前で、せいぜい頑張れ、ということである。 《模範的な造り手/Toolcraft Exemplar》や《発明者の見習い/Inventor’s Apprentice》と《発明者のゴーグル/Inventor’s Goggles》の組み合わせも非常に強力だ。 これらのカードは戦場に軽量なアーティファクトを必要とするのだ。 《発明者のゴーグル/Inventor’s Goggles》は、ゲームの終盤にもクリーチャーを大きくすることができる。これはダメ押しに非常に有効だ。 素晴らしいデッキは良いカードを高い濃度で含んでいるものだ。そしてそれだけでなく、全体を統一するシナジーがあることも、素晴らしいデッキの条件である。 注意してもらいたいのは、私は、赤白が特に素晴らしい色の組み合わせだと考えているわけではないということだ。適切なカードがあればどの色でもゲームを支配することができる。 良いシールド・デッキ 先程の赤白機体は6分で組み上げたものだ。次に紹介するデッキは、完成までに長い時間をかけたものである。 1 Aether Hub 8 Forest 7 Swamp 1 Scrapheap Scrounger 1 Narnam Cobra 1 Thriving Rats 1 Longtusk Cub 1 Prakhata Pillar-Bug 1 Thriving Rhino 1 Arborback Stomper 1 Multiform Wonder 2 Peema Outrider 1 Lawless Broker 1 Fretwork Colony 1 Attune with Aether 2 Larger Than Life 2 Die Young 1 Subtle Strike 2 Hunt the Weak 1 Ornamental Courage 1 Nature's Way 2 Snare Thopter この緑黒デッキで最も注意をひくのは、強いレアが欠落していることだ。 《水辺の虎/Riparian Tiger》よりわずかに良い、という理由だけで《多用途な逸品/Multiform Wonder》まで使うはめになった。 ……長いテキスト、僅かな魅力……。 ここで1点とくに記しておきたいことがある。緑黒こそカラデシュ環境のシールドで最高の組み合わせだろうということだ。 緑と黒はプールに奥行きがあり、エネルギーと+1/+1カウンターというシナジーを共有している。 コンバットトリックはエライ! 緑黒のデッキを紹介した流れで、コンバットトリックについての議論に入りたい。私はこのデッキでX-1することができた。 予想以上の成績だが、これはデッキのテーマをコンバットトリック中心にしたところが大きい。 《気宇壮大/Larger Than Life》 ソーサリーはコンバットトリックになりえるだろうか? このカードは対戦相手の意表を突くことができ、戦闘で派手な効果を発揮した。 だから先程の問いには「Yes」と答えたい。 私はこのカードをデッキに2枚投入した。理由は、このデッキのパワーが低いと考えたためで、可能な限り早く戦闘で押し切ってしまいたかったからだ。 赤いデッキで火力を投入し、射程圏を長くするのに近い。 《飾りの勇気/Ornamental Courage》 複数のシールドリーグを通じて、《飾りの勇気/Ornamental Courage》は私を魅了した。 高速なアグロデッキ同士のミラーでは、すべてのクリーチャーとすべてのマナが極めて重要である。 従って、番狂わせを起こすことができる1マナのカードというのは重要なのだ。 特に注目すべきは《弱者狩り/Hunt the Weak》に対する相性の良さである。 対戦相手が3/3のクリーチャーを4/4にして、あなたのクリーチャーを喰らおうとしているところを想像してほしい。 《飾りの勇気/Ornamental Courage》は突如現れ、対戦相手はクリーチャーと呪文の両方を喪うのだ。 まとめ カラデシュのシールドで覚えておくべきは、環境が高速で攻撃的だということだ。 基本的なカードの殆どは同じようなパワーレベルだが、ごく一部のカードは段違いに強い。 もう1つのやり方がコンバットトリックであり、強力なレアのぶつけ合いから抜け出すことができ、1-2交換を取ることができる。 私はシールドフォーマットを大いに楽しんだ。 GPミルウォーキーの前にプレイすることをおすすめする。そこには、たくさんの学びとたくさんの楽しみがあるのだ。</summary></entry><entry><title type="html">どうにか踏み倒せないか</title><link href="http://tefuda.suku.name/2017/02/01/%E3%81%A9%E3%81%86%E3%81%AB%E3%81%8B%E8%B8%8F%E3%81%BF%E5%80%92%E3%81%9B%E3%81%AA%E3%81%84%E3%81%8B/" rel="alternate" type="text/html" title="どうにか踏み倒せないか" /><published>2017-02-01T00:00:00+09:00</published><updated>2017-02-01T00:00:00+09:00</updated><id>http://tefuda.suku.name/2017/02/01/%E3%81%A9%E3%81%86%E3%81%AB%E3%81%8B%E8%B8%8F%E3%81%BF%E5%80%92%E3%81%9B%E3%81%AA%E3%81%84%E3%81%8B</id><content type="html" xml:base="http://tefuda.suku.name/2017/02/01/%E3%81%A9%E3%81%86%E3%81%AB%E3%81%8B%E8%B8%8F%E3%81%BF%E5%80%92%E3%81%9B%E3%81%AA%E3%81%84%E3%81%8B/">&lt;h2 id=&quot;概要&quot;&gt;概要&lt;/h2&gt;
-
-&lt;p&gt;カラデシュまでのスタンダードでは《向こう見ずな実験/Madcap Experiment》を軸にしたデッキを使っていた。
-霊気紛争で《不屈の独創力/Indomitable Creativity》が加わったので、この2枚をともに使ったデッキができないかと思案中。
-難しそうである。&lt;/p&gt;
-
-&lt;!-- more --&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;向こう見ずな実験で何を釣りたいのかという話&quot;&gt;向こう見ずな実験で何を釣りたいのかという話&lt;/h2&gt;
-
-&lt;p&gt;《向こう見ずな実験/Madcap Experiment》で釣ってこれるのはアーティファクトのみだが、現状のスタンダードに1枚でゲームを決めることができるようなアーティファクトはあるだろうか?&lt;/p&gt;
-
-&lt;p&gt;2T目に《突沸の器/Vessel of Volatility》が置ければ、3T目《向こう見ずな実験/Madcap Experiment》できる。3T目に戦場に出すことを考えると、5マナより重いアーティファクトが出せれば、ライフと手札の損失に見合った効果といえるんじゃないかと思う。&lt;/p&gt;
-
-&lt;p&gt;とりあえず5マナ以上でレア・神話レアであるアーティファクトを見ていくことにする。計12枚見つかった。以下がその一覧である。&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;11マナ
-    &lt;ul&gt;
-      &lt;li&gt;《金属製の巨像/Metalwork Colossus》&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;6マナ
-    &lt;ul&gt;
-      &lt;li&gt;《ゴンティの霊気心臓/Gonti’s Aether Heart》&lt;/li&gt;
-      &lt;li&gt;《次元橋/Planar Bridge》&lt;/li&gt;
-      &lt;li&gt;《奔流の機械巨人/Torrential Gearhulk》&lt;/li&gt;
-      &lt;li&gt;《害悪の機械巨人/Noxious Gearhulk》&lt;/li&gt;
-      &lt;li&gt;《焼却の機械巨人/Combustible Gearhulk》&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;5マナ
-    &lt;ul&gt;
-      &lt;li&gt;《領事の旗艦、スカイソブリン/Skysovereign, Consul Flagship》&lt;/li&gt;
-      &lt;li&gt;《タミヨウの日誌/Tamiyo’s Journal》&lt;/li&gt;
-      &lt;li&gt;《パラドックス装置/Paradox Engine》&lt;/li&gt;
-      &lt;li&gt;《多用途な逸品/Multiform Wonder》&lt;/li&gt;
-      &lt;li&gt;《激変の機械巨人/Cataclysmic Gearhulk》&lt;/li&gt;
-      &lt;li&gt;《新緑の機械巨人/Verdurous Gearhulk》&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;翻って《不屈の独創力/Indomitable Creativity》はタネが必要なため、3T目に撃つのは相当厳しい。事実上無理じゃないかと思う。となると最速4T目である。タネを含めカードを2枚使って、4T目に5マナのカードを出しても嬉しくない。つまり、上記《向こう見ずな実験/Madcap Experiment》のためのリストのうち、5マナであるカードはハズレだ。&lt;/p&gt;
-
-&lt;p&gt;更に言えば墓地にインスタントのないときにソーサリータイミングで出て来る《奔流の機械巨人/Torrential Gearhulk》とかバニラでしかないのでこれもどうか。《ゴンティの霊気心臓/Gonti’s Aether Heart》はエネルギーが貯まる構成でないと活きないのではないか。&lt;/p&gt;
-
-&lt;p&gt;となると《焼却の機械巨人/Combustible Gearhulk》・《害悪の機械巨人/Noxious Gearhulk》・《次元橋/Planar Bridge》・《金属製の巨像/Metalwork Colossus》を目一杯入れたデッキだろうか。悪い予感しかしない。《次元橋/Planar Bridge》は伝説だし。&lt;/p&gt;
-
-&lt;h2 id=&quot;不屈の独創力indomitable-creativityのタネの話&quot;&gt;《不屈の独創力/Indomitable Creativity》のタネの話&lt;/h2&gt;
-
-&lt;p&gt;《不屈の独創力/Indomitable Creativity》を自分で使うにはクリーチャーかアーティファクトが必要だ。ハズレの確率を減らすため、タネにはクリーチャーになるカードかトークンを使いたい。&lt;/p&gt;
-
-&lt;p&gt;3マナ以下でトークンを生成できる、アーティファクトでも土地でもないカードは……おっ、30枚もある。&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;1マナ
-    &lt;ul&gt;
-      &lt;li&gt;《未知との対決/Confront the Unknown》 (クリーチャーを対象に取る)&lt;/li&gt;
-      &lt;li&gt;《異世界の発露/Otherworldly Outburst》 (クリーチャーを対象に取る。条件付)&lt;/li&gt;
-      &lt;li&gt;《腕っぷし/Strength of Arms》 (クリーチャーを対象に取る。条件付)&lt;/li&gt;
-      &lt;li&gt;《よろめく帰還/Shamble Back》 (墓地のクリーチャー・カードを対象に取る。条件付)&lt;/li&gt;
-      &lt;li&gt;《墓の収穫/Graf Harvest》 (起動型能力で生成。起動コストが重い)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;2マナ
-    &lt;ul&gt;
-      &lt;li&gt;《血統の呼び出し/Call the Bloodline》 (起動型能力で生成)&lt;/li&gt;
-      &lt;li&gt;《回答の強要/Press for Answers》 (クリーチャーを対象に取る)&lt;/li&gt;
-      &lt;li&gt;《継続する調査/Ongoing Investigation》 (サボタージュ納涼または起動型能力で生成)&lt;/li&gt;
-      &lt;li&gt;《忘られじ/Not Forgotten》 (墓地のカードを対象に取る)&lt;/li&gt;
-      &lt;li&gt;《邪悪の暴露/Expose Evil》 (クリーチャーを最大2体対象に取る)&lt;/li&gt;
-      &lt;li&gt;《ジェイスの精査/Jace’s Scrutiny》 (クリーチャーを対象に取る)&lt;/li&gt;
-      &lt;li&gt;《秘密の備蓄品/Hidden Stockpile》 (紛争達成時に生成)&lt;/li&gt;
-      &lt;li&gt;《霊気装置の展示/Servo Exhibition》&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;3マナ
-    &lt;ul&gt;
-      &lt;li&gt;《サヒーリ・ライ/Saheeli Rai》 (コピートークンを生成)&lt;/li&gt;
-      &lt;li&gt;《ゼンディカーの代弁者、ニッサ/Nissa, Voice of Zendikar》&lt;/li&gt;
-      &lt;li&gt;《改革派の逃亡/Renegade’s Getaway》 (クリーチャーを対象に取る)&lt;/li&gt;
-      &lt;li&gt;《難解な干渉/Abstruse Interference》 (呪文を対象に取る)&lt;/li&gt;
-      &lt;li&gt;《今夜を生き延びる/Survive the Night》 (クリーチャーを対象に取る)&lt;/li&gt;
-      &lt;li&gt;《蟻走感/Crawling Sensation》 (アップキープに条件付きで生成)&lt;/li&gt;
-      &lt;li&gt;《リリアナの誓い/Oath of Liliana》 (終了ステップに条件付きで生成)&lt;/li&gt;
-      &lt;li&gt;《墓の出産/Grave Birthing》 (対戦相手を対象に取る)&lt;/li&gt;
-      &lt;li&gt;《末裔の呼び出し/Call the Scions》&lt;/li&gt;
-      &lt;li&gt;《束の間の記憶/Fleeting Memories》&lt;/li&gt;
-      &lt;li&gt;《最後の望み、リリアナ/Liliana, the Last Hope》 (奥義)&lt;/li&gt;
-      &lt;li&gt;《聖トラフトの祈祷/Invocation of Saint Traft》 (オーラ。攻撃が必要で戦闘中のみ)&lt;/li&gt;
-      &lt;li&gt;《根から絶つ/Root Out》 (アーティファクトかエンチャントを対象に取る)&lt;/li&gt;
-      &lt;li&gt;《ギデオンの誓い/Oath of Gideon》&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Xマナ
-    &lt;ul&gt;
-      &lt;li&gt;《闇の救済/Dark Salvation》 (クリーチャーを最大1体対象に取る)&lt;/li&gt;
-      &lt;li&gt;《グレムリン解放/Release the Gremlins》 (アーティファクトを対象に取る)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;……というわけで、3T目までに条件無しでトークンが出せそうなのは以下の7枚。&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;《邪悪の暴露/Expose Evil》&lt;/li&gt;
-  &lt;li&gt;《霊気装置の展示/Servo Exhibition》&lt;/li&gt;
-  &lt;li&gt;《ゼンディカーの代弁者、ニッサ/Nissa, Voice of Zendikar》&lt;/li&gt;
-  &lt;li&gt;《末裔の呼び出し/Call the Scions》&lt;/li&gt;
-  &lt;li&gt;《束の間の記憶/Fleeting Memories》&lt;/li&gt;
-  &lt;li&gt;《ギデオンの誓い/Oath of Gideon》&lt;/li&gt;
-  &lt;li&gt;《闇の救済/Dark Salvation》&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;最強は《ゼンディカーの代弁者、ニッサ/Nissa, Voice of Zendikar》なんだけど、&lt;del&gt;高いので&lt;/del&gt;色拘束の観点から外す。残りで役に立ちそうなのは一応マナ加速になる《末裔の呼び出し/Call the Scions》、あるいは《ギデオンの誓い/Oath of Gideon》だろうか。&lt;/p&gt;
-
-&lt;p&gt;とりあえず適当に突っ込んでみたのがこれ。&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&quot;language-mtg-deck&quot;&gt;4 Combustible Gearhulk
-4 Noxious Gearhulk
-4 Madcap Experiment
-4 Indomitable Creativity
-4 Call the Scions
-4 Vessel of Volatility
-4 Game Trail
-2 Panharmonicon
-4 Chandra, Torch of Defiance
-4 Mountain
-3 Forest
-3 Swamp
-4 Cinder Glade
-4 Smoldering Marsh
-4 Verdurous Gearhulk
-4 Foreboding Ruins
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;雑ゥ!&lt;/p&gt;
-
-&lt;p&gt;《突沸の器/Vessel of Volatility》《末裔の呼び出し/Call the Scions》《反逆の先導者、チャンドラ/Chandra, Torch of Defiance》の3種のマナ加速、あるいは《向こう見ずな実験/Madcap Experiment》《不屈の独創力/Indomitable Creativity》から各種機械巨人をブッパするデッキになった。&lt;/p&gt;
-
-&lt;p&gt;はっきり言って弱い。&lt;/p&gt;
-
-&lt;p&gt;神話レア20枚レア22枚というこの構成からわかることは、このゲームはレアだけで決まるわけではないという優しい事実である。&lt;/p&gt;
-
-&lt;p&gt;ハズレ枠扱いした《新緑の機械巨人/Verdurous Gearhulk》が「色があってるから」という理由でしれっと入ってるのがむかつく。&lt;/p&gt;</content><author><name></name></author><category term="[&quot;MTG&quot;, &quot;カード考察&quot;]" /><category term="Standard (BFZ/AER)" /><category term="Standard" /><category term="《向こう見ずな実験/Madcap Experiment》" /><category term="《不屈の独創力/Indomitable Creativity》" /><category term="《異界の進化/Eldritch Evolution》" /><summary type="html">概要 カラデシュまでのスタンダードでは《向こう見ずな実験/Madcap Experiment》を軸にしたデッキを使っていた。 霊気紛争で《不屈の独創力/Indomitable Creativity》が加わったので、この2枚をともに使ったデッキができないかと思案中。 難しそうである。 向こう見ずな実験で何を釣りたいのかという話 《向こう見ずな実験/Madcap Experiment》で釣ってこれるのはアーティファクトのみだが、現状のスタンダードに1枚でゲームを決めることができるようなアーティファクトはあるだろうか? 2T目に《突沸の器/Vessel of Volatility》が置ければ、3T目《向こう見ずな実験/Madcap Experiment》できる。3T目に戦場に出すことを考えると、5マナより重いアーティファクトが出せれば、ライフと手札の損失に見合った効果といえるんじゃないかと思う。 とりあえず5マナ以上でレア・神話レアであるアーティファクトを見ていくことにする。計12枚見つかった。以下がその一覧である。 11マナ 《金属製の巨像/Metalwork Colossus》 6マナ 《ゴンティの霊気心臓/Gonti’s Aether Heart》 《次元橋/Planar Bridge》 《奔流の機械巨人/Torrential Gearhulk》 《害悪の機械巨人/Noxious Gearhulk》 《焼却の機械巨人/Combustible Gearhulk》 5マナ 《領事の旗艦、スカイソブリン/Skysovereign, Consul Flagship》 《タミヨウの日誌/Tamiyo’s Journal》 《パラドックス装置/Paradox Engine》 《多用途な逸品/Multiform Wonder》 《激変の機械巨人/Cataclysmic Gearhulk》 《新緑の機械巨人/Verdurous Gearhulk》 翻って《不屈の独創力/Indomitable Creativity》はタネが必要なため、3T目に撃つのは相当厳しい。事実上無理じゃないかと思う。となると最速4T目である。タネを含めカードを2枚使って、4T目に5マナのカードを出しても嬉しくない。つまり、上記《向こう見ずな実験/Madcap Experiment》のためのリストのうち、5マナであるカードはハズレだ。 更に言えば墓地にインスタントのないときにソーサリータイミングで出て来る《奔流の機械巨人/Torrential Gearhulk》とかバニラでしかないのでこれもどうか。《ゴンティの霊気心臓/Gonti’s Aether Heart》はエネルギーが貯まる構成でないと活きないのではないか。 となると《焼却の機械巨人/Combustible Gearhulk》・《害悪の機械巨人/Noxious Gearhulk》・《次元橋/Planar Bridge》・《金属製の巨像/Metalwork Colossus》を目一杯入れたデッキだろうか。悪い予感しかしない。《次元橋/Planar Bridge》は伝説だし。 《不屈の独創力/Indomitable Creativity》のタネの話 《不屈の独創力/Indomitable Creativity》を自分で使うにはクリーチャーかアーティファクトが必要だ。ハズレの確率を減らすため、タネにはクリーチャーになるカードかトークンを使いたい。 3マナ以下でトークンを生成できる、アーティファクトでも土地でもないカードは……おっ、30枚もある。 1マナ 《未知との対決/Confront the Unknown》 (クリーチャーを対象に取る) 《異世界の発露/Otherworldly Outburst》 (クリーチャーを対象に取る。条件付) 《腕っぷし/Strength of Arms》 (クリーチャーを対象に取る。条件付) 《よろめく帰還/Shamble Back》 (墓地のクリーチャー・カードを対象に取る。条件付) 《墓の収穫/Graf Harvest》 (起動型能力で生成。起動コストが重い) 2マナ 《血統の呼び出し/Call the Bloodline》 (起動型能力で生成) 《回答の強要/Press for Answers》 (クリーチャーを対象に取る) 《継続する調査/Ongoing Investigation》 (サボタージュ納涼または起動型能力で生成) 《忘られじ/Not Forgotten》 (墓地のカードを対象に取る) 《邪悪の暴露/Expose Evil》 (クリーチャーを最大2体対象に取る) 《ジェイスの精査/Jace’s Scrutiny》 (クリーチャーを対象に取る) 《秘密の備蓄品/Hidden Stockpile》 (紛争達成時に生成) 《霊気装置の展示/Servo Exhibition》 3マナ 《サヒーリ・ライ/Saheeli Rai》 (コピートークンを生成) 《ゼンディカーの代弁者、ニッサ/Nissa, Voice of Zendikar》 《改革派の逃亡/Renegade’s Getaway》 (クリーチャーを対象に取る) 《難解な干渉/Abstruse Interference》 (呪文を対象に取る) 《今夜を生き延びる/Survive the Night》 (クリーチャーを対象に取る) 《蟻走感/Crawling Sensation》 (アップキープに条件付きで生成) 《リリアナの誓い/Oath of Liliana》 (終了ステップに条件付きで生成) 《墓の出産/Grave Birthing》 (対戦相手を対象に取る) 《末裔の呼び出し/Call the Scions》 《束の間の記憶/Fleeting Memories》 《最後の望み、リリアナ/Liliana, the Last Hope》 (奥義) 《聖トラフトの祈祷/Invocation of Saint Traft》 (オーラ。攻撃が必要で戦闘中のみ) 《根から絶つ/Root Out》 (アーティファクトかエンチャントを対象に取る) 《ギデオンの誓い/Oath of Gideon》 Xマナ 《闇の救済/Dark Salvation》 (クリーチャーを最大1体対象に取る) 《グレムリン解放/Release the Gremlins》 (アーティファクトを対象に取る) ……というわけで、3T目までに条件無しでトークンが出せそうなのは以下の7枚。 《邪悪の暴露/Expose Evil》 《霊気装置の展示/Servo Exhibition》 《ゼンディカーの代弁者、ニッサ/Nissa, Voice of Zendikar》 《末裔の呼び出し/Call the Scions》 《束の間の記憶/Fleeting Memories》 《ギデオンの誓い/Oath of Gideon》 《闇の救済/Dark Salvation》 最強は《ゼンディカーの代弁者、ニッサ/Nissa, Voice of Zendikar》なんだけど、高いので色拘束の観点から外す。残りで役に立ちそうなのは一応マナ加速になる《末裔の呼び出し/Call the Scions》、あるいは《ギデオンの誓い/Oath of Gideon》だろうか。 とりあえず適当に突っ込んでみたのがこれ。 4 Combustible Gearhulk 4 Noxious Gearhulk 4 Madcap Experiment 4 Indomitable Creativity 4 Call the Scions 4 Vessel of Volatility 4 Game Trail 2 Panharmonicon 4 Chandra, Torch of Defiance 4 Mountain 3 Forest 3 Swamp 4 Cinder Glade 4 Smoldering Marsh 4 Verdurous Gearhulk 4 Foreboding Ruins 雑ゥ! 《突沸の器/Vessel of Volatility》《末裔の呼び出し/Call the Scions》《反逆の先導者、チャンドラ/Chandra, Torch of Defiance》の3種のマナ加速、あるいは《向こう見ずな実験/Madcap Experiment》《不屈の独創力/Indomitable Creativity》から各種機械巨人をブッパするデッキになった。 はっきり言って弱い。 神話レア20枚レア22枚というこの構成からわかることは、このゲームはレアだけで決まるわけではないという優しい事実である。 ハズレ枠扱いした《新緑の機械巨人/Verdurous Gearhulk》が「色があってるから」という理由でしれっと入ってるのがむかつく。</summary></entry></feed>
+GPミルウォーキーの前にプレイすることをおすすめする。そこには、たくさんの学びとたくさんの楽しみがあるのだ。&lt;/p&gt;</content><author><name></name></author><category term="[&quot;MTG&quot;, &quot;翻訳記事&quot;, &quot;Channel Fireball&quot;]" /><category term="Sealed" /><category term="Limited" /><category term="Sealed (KRD)" /><category term="Limited (KRD)" /><category term="Brian DeMars" /><summary type="html">原文 この文章はChannel Fireballに掲載されたKaladesh Sealed Strategiesの和訳である。原文の掲載は2016年12月2日だった。 霊気紛争後のシールド戦に関する記事を読みたかったのだが、特に見当たらなかったので、少し古い記事を訳した。 殆どの人は知らないことだが、私は自分のことを根っからのリミテッドプレイヤーだと考えている。 殆どの人は私のことをエターナル環境と結びつけるが、私はいつだって、他の何よりもドラフトを多くプレイしてきたのだ。 私は自身の目標として、イベントの準備のためにMagic Onlineをより有効に活用することを定めた。 構築のためのカードは十分に揃っていない。しかし、ミルウォーキーGPで行われるカラデシュ・シールドの準備のために、多くのエネルギーを割いたのだ。 私は通常シールドを練習しない。なぜならば、シールドにおいてもっとも重要なのはパックから何がでるかであり、それは全くコントロール不能だからである。 妬みに聞こえるかもしれないが、Cクラスのカードプールで100%の構築をするよりも、A+クラスのカードプールで75%の構築をするほうがまだ強いのである。 もう1つ付け加えれば、実際のところ素晴らしいカードプールから構築を行うのは簡単で、下手なデッキを作るほうが難しい。 「見ろよ！強力な赤のレア3枚に、強力な緑のレア2枚だ！見ろよ！赤と緑は他にもカードがたっぷり有るぞ！」 何やったらこんなのに勝てるんですかね？ これまでの2週間、何度かシールドリーグをプレイして、私はこのフォーマットがどのようなものかを深く理解することができたと思う。 正しいデッキ構築にいかに近づくかについて、重要な観察がいくつか得られた。 「よい」シールドプールと「素晴らしい」シールドプールの間には大きな差がある カラデシュには十分な公平さがあり、本当に酷いシールドプールを引き当てるのは難しい。 殆どのコモンとアンコモンは一貫したパワーレベルを持つので、殆どのデッキは同等の強さに感じられる。 しかし、よいデッキと素晴らしいデッキの間は何光年も離れている。 標準より強力なカードの平均密度をいかに高めるか、そのためにやるべきことはたくさんあるのだ。 カラデシュにはMasterpiecesが存在する。 つまり、ランダムに選ばれた幾つかのデッキは、他の追随を許さない理不尽なカードを持っているということだ。 例えば《太陽の指輪/Sol Ring》や《饗宴と飢餓の剣/Sword of Feast and Famine》である。 シールドで《太陽の指輪/Sol Ring》と対戦したことがあるか? 俺はある。糞だ。 よいレアの存在は非常に重要だ。 もし幸運にも1枚か2枚入手できたなら、トーナメントは非常に簡単になるだろう。 このようなカードは、他のカードではできないような方法でゲームに大きな影響を与えるだろう。 レアなしでも素晴らしいプールになることはあるが、公平に言って、いくつかの強力な神話レアを持っているものこそ最高のプールだ。 私は「爆弾神話レアは強いぞ」というのが都市伝説でない事を知っている。 しかし、そのような爆弾神話だけでなく、いくつかの強力なレアや最高級のコモン・アンコモンでもデッキをぐっと良くすることができる。 よし、「神話やマスターピースが出るように祈る」以外の戦術の時間だ。 攻撃的であれ 引き分け狙いのために壁でいっぱいのデッキを作りたくなるシールド・フォーマットがいくつかある。しかし、カラデシュはそれらとは違う。 カラデシュのカードは攻撃するためのものだ。ほとんどのクリーチャーはパワーがタフネスより高く、ブロックより攻撃に適している。 これまで作ったベストなデッキの殆どは攻撃的なものだった。攻撃的であることが良い理由は3つある。 攻撃的な戦略を妨害できるほどタフネスの高いブロッカーがいない 攻撃を通す役に立つ、強力なコンバット・トリックが多い 機体システムがブロックを困難にしている レアを除けば、防御的なプレイヤーに大量のアドバンテージをもたらすことのできるカードは、カラデシュにない。 《製造機構/Fabrication Module》はシールドでは強力なカードで、着実なアドバンテージをもたらす。 コントロール向けのようにも思えるが、このカードでさえ+1/+1カウンターを用いてアドバンテージを生み出すので、あなたを攻撃に向かわせるだろう。 素晴らしいシールド・デッキ これまで私が作ったデッキをいくつか紹介したい。 このシールド・デッキの様々な面を説明する上で、これらのデッキは役に立つだろう。 これまで私が作った中で最強のデッキは赤白機体であり、簡単に無敗を達成できた。 このデッキはこの色における最高のコモン・アンコモンの集合であり、3枚の強力なレアさえある。 1 Aether Hub 8 Plains 7 Mountain 1 Inventor's Apprentice 1 Toolcraft Exemplar 1 Veteran Motorist 3 Glint-Sleeve Artisan 1 Gearshift Ace 2 Aviary Mechanic 1 Depala, Pilot Exemplar 1 Snare Thopter 1 Propeller Pioneer 2 Thriving Grubs 1 Built to Smash 1 Built to Last 1 Harnessed Lightning 1 Sky Skiff 1 Welding Sparks 2 Renegade Freighter 1 Fleetwheel Cruiser 2 Inventor's Goggles 《改革派の貨物車/Renegade Freighter》はカラデシュで最も壊れたコモンだ。かなりの数のレアより強い。 このカードは戦闘でただ巨大であり、除去やコンバット・トリック無しで打倒するのは困難である。 2枚出てきて興奮した。 ぱっと見ただけだとこのデッキは「よいカード」の集まりにしか見えないかもしれない。事実、ほとんどのカードが「よいカード」だ。 しかし、潜在的に多くのシナジーが存在している。 2マナ・3マナのドワーフから《模範操縦士、デパラ/Depala, Pilot Exemplar》に繋いでビートダウンすることもできる。 他に強力なシナジーを持つカードとして私をひきつけたのは、《発明者のゴーグル/Inventor’s Goggles》だ。 このデッキには十分な工匠クリーチャーが含まれている。これにより、このカードはその効果を遺憾なく発揮し、ゲームを速やかに壊してしまう。 1T目《発明者のゴーグル/Inventor’s Goggles》・2T目《格納庫の整備士/Aviary Mechanic》で装備がタダだ。 私の2マナ3/4の前で、せいぜい頑張れ、ということである。 《模範的な造り手/Toolcraft Exemplar》や《発明者の見習い/Inventor’s Apprentice》と《発明者のゴーグル/Inventor’s Goggles》の組み合わせも非常に強力だ。 これらのカードは戦場に軽量なアーティファクトを必要とするのだ。 《発明者のゴーグル/Inventor’s Goggles》は、ゲームの終盤にもクリーチャーを大きくすることができる。これはダメ押しに非常に有効だ。 素晴らしいデッキは良いカードを高い濃度で含んでいるものだ。そしてそれだけでなく、全体を統一するシナジーがあることも、素晴らしいデッキの条件である。 注意してもらいたいのは、私は、赤白が特に素晴らしい色の組み合わせだと考えているわけではないということだ。適切なカードがあればどの色でもゲームを支配することができる。 良いシールド・デッキ 先程の赤白機体は6分で組み上げたものだ。次に紹介するデッキは、完成までに長い時間をかけたものである。 1 Aether Hub 8 Forest 7 Swamp 1 Scrapheap Scrounger 1 Narnam Cobra 1 Thriving Rats 1 Longtusk Cub 1 Prakhata Pillar-Bug 1 Thriving Rhino 1 Arborback Stomper 1 Multiform Wonder 2 Peema Outrider 1 Lawless Broker 1 Fretwork Colony 1 Attune with Aether 2 Larger Than Life 2 Die Young 1 Subtle Strike 2 Hunt the Weak 1 Ornamental Courage 1 Nature's Way 2 Snare Thopter この緑黒デッキで最も注意をひくのは、強いレアが欠落していることだ。 《水辺の虎/Riparian Tiger》よりわずかに良い、という理由だけで《多用途な逸品/Multiform Wonder》まで使うはめになった。 ……長いテキスト、僅かな魅力……。 ここで1点とくに記しておきたいことがある。緑黒こそカラデシュ環境のシールドで最高の組み合わせだろうということだ。 緑と黒はプールに奥行きがあり、エネルギーと+1/+1カウンターというシナジーを共有している。 コンバットトリックはエライ! 緑黒のデッキを紹介した流れで、コンバットトリックについての議論に入りたい。私はこのデッキでX-1することができた。 予想以上の成績だが、これはデッキのテーマをコンバットトリック中心にしたところが大きい。 《気宇壮大/Larger Than Life》 ソーサリーはコンバットトリックになりえるだろうか? このカードは対戦相手の意表を突くことができ、戦闘で派手な効果を発揮した。 だから先程の問いには「Yes」と答えたい。 私はこのカードをデッキに2枚投入した。理由は、このデッキのパワーが低いと考えたためで、可能な限り早く戦闘で押し切ってしまいたかったからだ。 赤いデッキで火力を投入し、射程圏を長くするのに近い。 《飾りの勇気/Ornamental Courage》 複数のシールドリーグを通じて、《飾りの勇気/Ornamental Courage》は私を魅了した。 高速なアグロデッキ同士のミラーでは、すべてのクリーチャーとすべてのマナが極めて重要である。 従って、番狂わせを起こすことができる1マナのカードというのは重要なのだ。 特に注目すべきは《弱者狩り/Hunt the Weak》に対する相性の良さである。 対戦相手が3/3のクリーチャーを4/4にして、あなたのクリーチャーを喰らおうとしているところを想像してほしい。 《飾りの勇気/Ornamental Courage》は突如現れ、対戦相手はクリーチャーと呪文の両方を喪うのだ。 まとめ カラデシュのシールドで覚えておくべきは、環境が高速で攻撃的だということだ。 基本的なカードの殆どは同じようなパワーレベルだが、ごく一部のカードは段違いに強い。 もう1つのやり方がコンバットトリックであり、強力なレアのぶつけ合いから抜け出すことができ、1-2交換を取ることができる。 私はシールドフォーマットを大いに楽しんだ。 GPミルウォーキーの前にプレイすることをおすすめする。そこには、たくさんの学びとたくさんの楽しみがあるのだ。</summary></entry></feed>
