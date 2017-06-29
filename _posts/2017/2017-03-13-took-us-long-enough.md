@@ -15,7 +15,7 @@ redirect_from:
 
 ## 原文
 
-この文章は[海外公式サイト](http://www.channelfireball.com/)に掲載された[Took Us Long Enough](http://magic.wizards.com/en/articles/archive/card-preview/took-us-long-enough-2017-02-27)の和訳である。原文の掲載は2017年2月27日だった。
+この文章は[海外公式サイト](http://magic.wizards.com/)に掲載された[Took Us Long Enough](http://magic.wizards.com/en/articles/archive/card-preview/took-us-long-enough-2017-02-27)の和訳である。原文の掲載は2017年2月27日だった。
 
 モダマス2017の《滅び/Damnation》プレビュー記事。
 
