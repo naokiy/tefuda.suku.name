@@ -14,6 +14,11 @@ category:
 
 この文章は[海外公式サイト (DailyMTG)](http://magic.wizards.com/)に掲載されていた[Card Advantage](http://magic.wizards.com/en/articles/archive/level-one/card-advantage-2014-02-14)の和訳である。原文の掲載は2014年2月10日だった。
 
+初心者向け記事であるLevel One、Mike Flores氏版の第3回。
+
+  * 前回: [[翻訳記事] 複数の戦略]({{ site.baseurl }}{% link _posts/2017/2017-07-03-strategies.md %})
+  * 次回: [[翻訳記事] The Deck]({{ site.baseurl }}{% link _posts/2017/2017-07-05-the-deck.md %})
+
 <!-- more -->
 
 ----
