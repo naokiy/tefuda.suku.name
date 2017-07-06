@@ -13,6 +13,11 @@ category:
 
 この文章は[海外公式サイト (DailyMTG)](http://magic.wizards.com/)に掲載されていた[Strategies](http://web.archive.org/web/20140723071613/http://archive.wizards.com/Magic/magazine/article.aspx?x=mtg/daily/lo/285)の和訳である(リンク先は Internet Archive)。原文の掲載は2014年2月3日だった。
 
+初心者向け記事であるLevel One、Mike Flores氏版の第2回。
+
+  * 前回: [[翻訳記事] 戦略]({{ site.baseurl }}{% link _posts/2017/2017-06-30-strategy.md %})
+  * 次回: [[翻訳記事] カード・アドバンテージ]({{ site.baseurl }}{% link _posts/2017/2017-07-04-card-advantage.md %})
+
 <!-- more -->
 
 ----
