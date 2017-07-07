@@ -4,6 +4,7 @@ tags:
   - Luis Scott-Vargas
   - 破滅の刻
   - 点数表
+  - 白
   - Sealed
   - Draft
   - Limited
