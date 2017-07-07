@@ -1,4 +1,294 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.4">Jekyll</generator><link href="http://tefuda.suku.name/feed.xml" rel="self" type="application/atom+xml" /><link href="http://tefuda.suku.name/" rel="alternate" type="text/html" /><updated>2017-07-06T21:28:27+09:00</updated><id>http://tefuda.suku.name/</id><title type="html">手札少なめ</title><subtitle>tefuda.suku.name</subtitle><entry><title type="html">[翻訳記事] The Deck</title><link href="http://tefuda.suku.name/2017/07/05/%E7%BF%BB%E8%A8%B3%E8%A8%98%E4%BA%8B-The-Deck/" rel="alternate" type="text/html" title="[翻訳記事] The Deck" /><published>2017-07-05T00:00:00+09:00</published><updated>2017-07-05T00:00:00+09:00</updated><id>http://tefuda.suku.name/2017/07/05/%5B%E7%BF%BB%E8%A8%B3%E8%A8%98%E4%BA%8B%5D%20The%20Deck</id><content type="html" xml:base="http://tefuda.suku.name/2017/07/05/%E7%BF%BB%E8%A8%B3%E8%A8%98%E4%BA%8B-The-Deck/">&lt;h2 id=&quot;原文&quot;&gt;原文&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.4">Jekyll</generator><link href="http://tefuda.suku.name/feed.xml" rel="self" type="application/atom+xml" /><link href="http://tefuda.suku.name/" rel="alternate" type="text/html" /><updated>2017-07-07T15:42:44+09:00</updated><id>http://tefuda.suku.name/</id><title type="html">手札少なめ</title><subtitle>tefuda.suku.name</subtitle><entry><title type="html">[翻訳記事] 破滅の刻・リミテッドレビュー (白)</title><link href="http://tefuda.suku.name/2017/07/07/%E7%BF%BB%E8%A8%B3%E8%A8%98%E4%BA%8B-%E7%A0%B4%E6%BB%85%E3%81%AE%E5%88%BB-%E3%83%AA%E3%83%9F%E3%83%86%E3%83%83%E3%83%89%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC-(%E7%99%BD)/" rel="alternate" type="text/html" title="[翻訳記事] 破滅の刻・リミテッドレビュー (白)" /><published>2017-07-07T00:00:00+09:00</published><updated>2017-07-07T00:00:00+09:00</updated><id>http://tefuda.suku.name/2017/07/07/%5B%E7%BF%BB%E8%A8%B3%E8%A8%98%E4%BA%8B%5D%20%E7%A0%B4%E6%BB%85%E3%81%AE%E5%88%BB%E3%83%BB%E3%83%AA%E3%83%9F%E3%83%86%E3%83%83%E3%83%89%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%20(%E7%99%BD)</id><content type="html" xml:base="http://tefuda.suku.name/2017/07/07/%E7%BF%BB%E8%A8%B3%E8%A8%98%E4%BA%8B-%E7%A0%B4%E6%BB%85%E3%81%AE%E5%88%BB-%E3%83%AA%E3%83%9F%E3%83%86%E3%83%83%E3%83%89%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC-(%E7%99%BD)/">&lt;h2 id=&quot;原文&quot;&gt;原文&lt;/h2&gt;
+
+&lt;p&gt;この文章は&lt;a href=&quot;http://www.channelfireball.com/&quot;&gt;Channel Fireball&lt;/a&gt;に掲載された&lt;a href=&quot;https://www.channelfireball.com/articles/hour-of-devastation-limited-set-review-white/&quot;&gt;Hour of Devastation Limited Set Review: White&lt;/a&gt;の和訳である。原文の掲載は2017年7月3日だった。&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;まずは点数表を見てみよう。
+点数に反映されていない多くの要因があり、それぞれのカードについて書いた内容のほうがあてになることに注意。&lt;/p&gt;
+
+&lt;h2 id=&quot;点数について&quot;&gt;点数について&lt;/h2&gt;
+
+&lt;p&gt;《群れネズミ/Pack Rat》や《梅澤の十手/Umezawa’s Jitte》のようなカードを扱う枠は無くした。殿堂入りだ。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;5.0&lt;/strong&gt; : ベスト・オブ・ベスト。(《害悪の機械巨人/Noxious Gearhulk》・《新緑の機械巨人/Verdurous Gearhulk》・《霊気圏の収集艇/Aethersphere Harvester》)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;4.5&lt;/strong&gt; : ものすごいボムだが、倒せないほどではない。(《暴走急行/Untethered Express》・《艱苦の伝令/Herald of Anguish》・《つむじ風製造機/Whirlermaker》)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;4.0&lt;/strong&gt; : 良いレア、あるいは一線級のアンコモン。 (《改革派の貨物車/Renegade Freighter》・《巻きつき蛇/Winding Constrictor》・《飛行機械による拘束/Thopter Arrest》)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;3.5&lt;/strong&gt; : 一線級のコモン、または手堅いアンコモン。 (《溶接の火花/Welding Sparks》・《予言のプリズム/Prophetic Prism》・《霊気追跡者/Aether Chaser》・《果敢な爆破/Daring Demolition》)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;3.0&lt;/strong&gt; : いつも良い働きをする、プレイアブルなカード。 (《暁羽の鷲/Dawnfeather Eagle》・《たかり猫猿/Scrounging Bandar》・《ドゥーンドの調査員/Dhund Operative》)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;2.5&lt;/strong&gt; : 手堅くプレイ可能。切り捨てられるのはまれ。 (《むら気な巨人/Wayward Giant》・《置き去り/Leave in the Dust》・《精緻会の改革派/Countless Gears Renegade》)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;2.0&lt;/strong&gt; : 良い穴埋めカード。半数は切り捨てられる。 (《砦のマストドン/Bastion Mastodon》・《悪意器具/Implement of Malice》・《高峰の注入/Highspire Infusion》)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;1.5&lt;/strong&gt; : 穴埋めカード。大体は切り捨てられる。 (《改革派の逃亡/Renegade’s Getaway》・《歩行貯蔵器/Reservoir Walker》・《警戒自動機械/Watchful Automaton》)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;1.0&lt;/strong&gt; : 悪い穴埋めカード。ほとんど切り捨てられる。 (《鉄覆いの革命家/Ironclad Revolutionary》・《正確な一撃/Precise Strike》)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;0.5&lt;/strong&gt; : 極めてプレイアブルでないカード、またはサイドボード要員。 (《撃墜/Take Down》・《自然廃退/Natural Obsolescence》)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;0.0&lt;/strong&gt; : 完全にプレイアブルでないカード。 (《秘密の回収/Secret Salvage》・《ゴンティの策謀/Gonti’s Machinations》・その他完全に駄目なカード)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;英雄的行動act-of-heroismコモン&quot;&gt;《英雄的行動/Act of Heroism》(コモン)&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;2.0点&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;1対2交換が取れる可能性が、私にとっての「大体プレイする」枠にこのカードを押し上げている。
+2マナで+2/+2の修整が入るのが期待通りで、さらに2つのメリットがあるので、有効に働くだろう。&lt;/p&gt;
+
+&lt;h2 id=&quot;典雅な襲撃者adorned-pouncerレア&quot;&gt;《典雅な襲撃者/Adorned Pouncer》(レア)&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;3.5点&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;このカードは、(事実上)2マナ2/1であり、5マナ4/4二段攻撃でもある。
+1枚のカードでこの両方の役割をはたすのは非常識だ。
+名前に典雅とついているが、着飾らせる必要があるわけではない。
+しかし、なにかオーラをつけることができれば、恐ろしい脅威になるだろう。&lt;/p&gt;
+
+&lt;h2 id=&quot;糾弾の天使angel-of-condemnationレア&quot;&gt;《糾弾の天使/Angel of Condemnation》(レア)&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;4.5点&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;私は名前を見ただけで4.5～5.0点をつけていただろう。そしてテキストにもその通りのことが書いてある。
+フレーバー的にはこいつは《糾弾/Condemn》を唱えるべきなんだろうが、メカニズム的には何の関連性もない。
+4マナで3/3飛行警戒。これだけで既に素晴らしいのに、2つの非常に関連した能力がついてきている。
+あなたがマナを残したままターンを終えるなら、対戦相手は非常に打破しにくい状況になるだろう。
+あなたは最初の能力で何かを明滅させることができるし、そうでなければ1ターンこの天使を使えなくなる代わりに2番目の能力を起動できる。
+これはまさにボムで、他に何を持っているかに関係なく、ほぼ間違いなくこのカードを選ぶべきだ。&lt;/p&gt;
+
+&lt;h2 id=&quot;王神の天使angel-of-the-god-pharaohアンコモン&quot;&gt;《王神の天使/Angel of the God-Pharaoh》(アンコモン)&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;3.0点&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;アモンケット環境の速度を考えれば、サイクリングのコストは私が思っていたより割高であった。
+しかし、《有翼の番人/Winged Shepherd》がデッキに入らないことはまれだった。
+私は《王神の天使/Angel of the God-Pharaoh》もおおよそ同じだと思っている。
+サイクリング・コストはやや重いが、そのぶんパワーとタフネスが高い。
+4/4飛行は偉大なるフィニッシャーであり、これを捨てて他の何かに交換できるのは素晴らしい柔軟性だ。&lt;/p&gt;
+
+&lt;h2 id=&quot;尽きぬ希望のエイヴンaven-of-enduring-hopeコモン&quot;&gt;《尽きぬ希望のエイヴン/Aven of Enduring Hope》(コモン)&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;3.0点&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;コモンで2番目に大きなフライヤーは、白に後半での打撃力を与える。
+そして3点のライフが、その遅さの穴埋めになるだろう。
+このカードは過去に《慈悲の天使/Angel of Mercy》と呼ばれる爆弾アンコモンであった。
+フォーマットは今やもっとパワフルになっているが、このカードが見た目通りに良いカードであることを期待する。&lt;/p&gt;
+
+&lt;h2 id=&quot;冠毛の陽馬crested-sunmare神話レア&quot;&gt;《冠毛の陽馬/Crested Sunmare》(神話レア)&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;3.5点&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;ライフゲインするカードをデッキに加えないと何もしないので、このカードの効果は微々たるものになるだろう。
+しかし、5マナで5/5というサイズは悪いものでは決してない。
+「貰い物のあらを探すな(Don’t look a gift horse in the mouth)」という諺の通りで、厳密に構築の中心に据えるよりも堅実なカードとして扱うべきカードである。&lt;/p&gt;
+
+&lt;h2 id=&quot;不屈のエイヴンdauntless-aven-コモン&quot;&gt;《不屈のエイヴン/Dauntless Aven》 (コモン)&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;3.0点&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;3マナ2/1飛行のカードは私がいつも使う類のものだ。そして督励持ちのクリーチャーが多いなら、さらに良いものになる。
+私は白がまだ極めて攻撃であると想定している。
+このカードは毎ターン2点のダメージを稼ぎ出すだけでなく、同時にあなたが選んだ督励持ちクリーチャーのスーパーチャージャーになることもできる。&lt;/p&gt;
+
+&lt;h2 id=&quot;砂漠の拘留deserts-hold-アンコモン&quot;&gt;《砂漠の拘留/Desert’s Hold》 (アンコモン)&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;3.0点&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;《拘引/Arrest》に3ライフがつくとどうなる? 民事没収になるのか?
+実際のところ民事没収は逮捕(Arrest)がなくても起こりうるだろう。……私はそんな事態になることはしないが。
+いずれにせよこれは砂漠がなくても良いカードだ。私は、白いデッキであれば何であれ、1枚はデッキに入れるだろう。&lt;/p&gt;
+
+&lt;h2 id=&quot;廃却するミイラdisposal-mummy-コモン&quot;&gt;《廃却するミイラ/Disposal Mummy》 (コモン)&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;1.5点&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;永遠を持つクリーチャーを追放できるのは良い能力だ。しかし、それのために3マナ2/3をプレイしたいとは思わない。
+マナ・カーブを埋めるカードが必要な場合、または永遠単デッキを相手にしている場合はこのカードを使おう。
+そうでない場合はサイドボードへ。&lt;/p&gt;
+
+&lt;h2 id=&quot;目を開いた者デジェルdjeru-with-eyes-open-レア&quot;&gt;《目を開いた者、デジェル/Djeru, With Eyes Open》 (レア)&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;1.0点&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;もしきわめて幸運なら: 3.5点&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;探してくるプレインズウォーカーがいないなら、このカードはほとんどプレイアブルではない。
+最近なら、5マナあれば4/3のクリーチャーよりも良いものが手に入る。
+もしプレインズウォーカーがいるなら、既にプレインズウォーカーを戦場に出していた場合でも、このカードは素晴らしいものになる。
+あなたのデッキの中で最高のカードを探してくるチューターとして1対2交換ができ、更にそれを守れるのは病的に強い。
+あなたに必要なものは、レアと神話レアを手に入れることだ。&lt;/p&gt;
+
+&lt;h2 id=&quot;デジェルの拒絶djerus-renunciation-コモン&quot;&gt;《デジェルの拒絶/Djeru’s Renunciation》 (コモン)&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;1.5点&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;状況を選ぶカードに軽量なサイクリングコストがついている、というのは古典的だ。
+そしてこのカードは攻撃的なデッキならどんなデッキでもうまくいく。
+この効果が必要になるときには非常に素晴らしいカードだ。そうでないときには(大部分がこっちだろう)サイクリングに回すことができる。
+私がこのカードに興奮することはないだろう。しかし、ビートダウンデッキに入れたり、カードが足りないときに穴埋めに使用するのは私の好みだ。&lt;/p&gt;
+
+&lt;h2 id=&quot;従順な召使いdutiful-servants-コモン&quot;&gt;《従順な召使い/Dutiful Servants》 (コモン)&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;1.0点&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;3マナ2/4バージョンのほうがずっと好きだ。
+コスト対サイズ比がよくない。
+ほかのカードを探したほうが良いと思う。&lt;/p&gt;
+
+&lt;h2 id=&quot;ギデオンの敗北gideons-defeat-アンコモン&quot;&gt;《ギデオンの敗北/Gideon’s Defeat》 (アンコモン)&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;3.5点&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;あくまでサイドボード用のカードだということに注意。しかし強力な1枚だ。
+私はこれをメインデッキに入れない。
+にも関わらず高い点数をつけたのは、サイドボードから投入したときにあまりに強力だからである。
+私は早い順目でもこのカードをピックしたい。
+仮に半数以下のマッチアップでしか役に立たないとしても、この効果は良いものだ。&lt;/p&gt;
+
+&lt;h2 id=&quot;王神の信者god-pharaohs-faithful-コモン&quot;&gt;《王神の信者/God-Pharaoh’s Faithful》 (コモン)&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;0.5点&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;あなたのデッキを動作させるためにライフゲインが必要だという場合を除けば、このカードの与えるインパクトは極めて小さい。&lt;/p&gt;
+
+&lt;h2 id=&quot;啓示の刻hour-of-revelation-レア&quot;&gt;《啓示の刻/Hour of Revelation》 (レア)&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;1.5点&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;私は6マナの全体除去が好きではない。
+それは安定して唱えることがあまりに難しいからである。
+《啓示の刻/Hour of Revelation》は時折3マナで唱えられるようになるが、それは非常にまれなので、結局は《次元の浄化/Planar Cleansing》の再版のようにしか見えない。
+そして《次元の浄化/Planar Cleansing》は決して良いカードではなかった。&lt;/p&gt;
+
+&lt;h2 id=&quot;ミイラの大王mummy-paramountコモン&quot;&gt;《ミイラの大王/Mummy Paramount》(コモン)&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;2.0点&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;もし破滅の刻環境がアモンケット環境と似ているなら、2マナ2/2はそれだけで見る価値がある。
+さらにゾンビ・アグロ・デッキなら、更に少しだけ良くなる。
+「攻撃的なデッキで」「8体以上のゾンビを含む」ことが最重要(paramount)だが、もしそうなら、これは非常に良いカードだろう。&lt;/p&gt;
+
+&lt;h2 id=&quot;オケチラの報復者oketras-avenger-コモン&quot;&gt;《オケチラの報復者/Oketra’s Avenger》 (コモン)&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;3.0点&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;おっいいぞ、効率的にブロックしにくい、2マナパワー3がもう1枚出てきた。
+こういうのがもっと欲しかったんだ。
+《Oketra’s Avenger》はビートダウンの最高の一員になるだろう。
+そして、新環境において白いアグロ・デッキを行う理由を非常に強くするのではないか。&lt;/p&gt;
+
+&lt;h2 id=&quot;オケチラ最後の慈悲oketras-last-mercy-レア&quot;&gt;《オケチラ最後の慈悲/Oketra’s Last Mercy》 (レア)&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;1.5点&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;それで、純粋にライフを得るだけの呪文でどれだけのライフを得れば良いといえるのだろうか?
+このカードは最大で19点回復することができ、それだけで十分かもしれない。
+しかし私の推測において、ほとんどのマッチアップでこのカードはまだ悪い。
+極めて緊迫したライフレースになっている場合や、超速攻デッキに対してコントロール・デッキで使う場合など、狭い状況でだけ価値があるカードだ。
+カードの評価を下げているのは決して冗談ではない。しかし、どちらも大量のライフを得ているわけではないのだが、このカードは良い仕事をしているように思う。
+土地がアンタップしなくなることは、後続の動きを大きく阻害することになり残念だ。
+私は今のところこのカードが嫌いだが、意見は喜んで修正するだろう。
+(私は自分のレーティングに自身が持てない。これは奇妙なことだ。)&lt;/p&gt;
+
+&lt;h2 id=&quot;圧倒的輝きoverwhelming-splendor-神話レア&quot;&gt;《圧倒的輝き/Overwhelming Splendor》 (神話レア)&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;1.5点&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;これは最も効率的なカードではないかもしれない。
+しかし、この8マナのフィニッシャーを見たとき、私は直ちに興味を持った。
+このカードは相手のクリーチャーを酷いものに変えてしまう。
+長期戦を仕掛け、《圧倒的輝き/Overwhelming Splendor》を叩きつけることは試す価値があるかもしれない。
+《サンドワームの収斂/Sandwurm Convergence》よりは悪いカードに見えるが、それでも試す価値はあるだろう。
+8マナは重い。このカードは本当に専用のデッキを必要とする。だから、あまり高い期待は持っていない。&lt;/p&gt;
+
+&lt;h2 id=&quot;砂爆破sandblast-コモン&quot;&gt;《砂爆破/Sandblast》 (コモン)&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;2.5点&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;このカードはほぼすべてのクリーチャーを殺せるだけのダメージを与える。私はデッキに入れるだろう。
+対戦相手のブロックは既に成立した後なので、アグロデッキではそれほど良くないだろう。
+しかし、殆どの場合で1枚は使用することになるんじゃないかと予想している。&lt;/p&gt;
+
+&lt;h2 id=&quot;救済の恩寵saving-grace-アンコモン&quot;&gt;《救済の恩寵/Saving Grace》 (アンコモン)&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;2.5点&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;奇妙なカードがもう1枚。
+戦闘に参加しているクリーチャーが2体だけなら、+0/+3修整を与えるパーマネントは、たとえそれが何かを殺す役に立たなくとも手堅いと言える。
+これをプレイすることで、2つの戦闘に勝利することができるのだ。
+しかし、このカードには欠点がある。戦闘がある程度大きくなると、クリーチャーを救うことができなくなるのだ。
+更に複雑なのは、このカードが《濃霧/Fog》のように働くことだ。最弱のクリーチャーを強化することで、1ターンだけあなた自身を守ることができる。
+これらのことを踏まえると、良いカードのように思える。
+役に立ってほしいときにいつでも役立つとは限らないが、状況が許せば炸裂するカードだ。&lt;/p&gt;
+
+&lt;h2 id=&quot;厳粛solemnity-レア&quot;&gt;《厳粛/Solemnity》 (レア)&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;0.0点&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;構築ではナンセンスなことがたくさんできるだと理解しているが、いかんせんリミテッドでは狭すぎる。&lt;/p&gt;
+
+&lt;h2 id=&quot;孤高のラクダsolitary-camel-コモン&quot;&gt;《孤高のラクダ/Solitary Camel》 (コモン)&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;1.5点 / 2.5点&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;1枚でも砂漠があるなら、これは3マナの割に良いカードになる。
+このカードは砂漠なしでは無能なカードで、4枚以上の砂漠がデッキに入っているならいいカードだろう。&lt;/p&gt;
+
+&lt;h2 id=&quot;不動の歩哨steadfast-sentinel-コモン&quot;&gt;《不動の歩哨/Steadfast Sentinel》 (コモン)&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;2.5点&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;4マナクリーチャーのために空けておくスペースには限りがある。
+しかし、このカードはあなたのマナ・カーブを埋めるには良いカードだろう。
+何度かこのクリーチャーには死んでもらいたい。
+4/4の永遠衆になる道が残されているため、恐れることなく攻撃に参加することが可能なカードだ。&lt;/p&gt;
+
+&lt;h2 id=&quot;結束に仕える者steward-of-solidarity-アンコモン&quot;&gt;《結束に仕える者/Steward of Solidarity》 (アンコモン)&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;3.5点&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;2マナ2/2で1/1を生み出すクリーチャーは、たとえそれが1ターンおきであっても素晴らしい。
+視界良好なら攻撃に参加でき、そうでなければ軍勢を生み出す。
+どんなデッキにも加わる素晴らしいカードだ。&lt;/p&gt;
+
+&lt;h2 id=&quot;陽光鞭の勇者sunscourge-champion-アンコモン&quot;&gt;《陽光鞭の勇者/Sunscourge Champion》 (アンコモン)&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;3.5点&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;手札を1枚捨てるというコストはかかるものの、2/3の次に4/4そして合計6点のライフを得ることができる。
+これは手堅い取引で、見逃したくない。
+アグロよりもミッドレンジやコントロールでわずかに強いカードだが、いずれにせよ私は喜んでプレイするだろう。&lt;/p&gt;
+
+&lt;h2 id=&quot;型破りな戦術unconventional-tactics-アンコモン&quot;&gt;《型破りな戦術/Unconventional Tactics》 (アンコモン)&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;1.0点 / 3.0点&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;私は本当にこのカードが好きだ。
+このカードはゾンビデッキ以外では悪いが、もしゾンビが5体以上集まるなら、このカードは凶悪な勝利条件をもたらすだろう。
+そしてゾンビを5体集めるのはそこまで難しくなさそうだ。
+すべてのゾンビが最低5点の回避不能なダメージになるのは洒落になっていない。
+このカードはゾンビデッキに一見勝ち目のないところからの逆転劇を多く与えてくれるだろう。&lt;/p&gt;
+
+&lt;h2 id=&quot;信義の侍臣vizier-of-the-true-アンコモン&quot;&gt;《信義の侍臣/Vizier of the True》 (アンコモン)&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;3.0点&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;私は本当にブロクされたくなかったので、このカードは本当に助かる。
+ビートダウンデッキにおいて、このカードはブロックを不可能にしてしまうだろう。
+4ターン目にこれをプレイし、他のクリーチャーで督励しながら攻撃する。
+そして次のターンにはこのカードで督励しながら攻撃するのだ。
+このようなカードがあるのを見ると、ビートダウンデッキがどこにも消えてしまわないようにみえる。&lt;/p&gt;
+
+&lt;h2 id=&quot;白のコモンベスト3&quot;&gt;白のコモンベスト3&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;《オケチラの報復者/Oketra’s Avenger》&lt;/li&gt;
+  &lt;li&gt;《不屈のエイヴン/Dauntless Aven》&lt;/li&gt;
+  &lt;li&gt;《尽きぬ希望のエイヴン/Aven of Enduring Hope》&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;今回白のコモン除去は素晴らしいものでなかった。しかし《砂爆破/Sandblast》はプレイアブルである。
+白のベストコモンはすべてクリーチャーであり、うち2枚がアグレッシブなビートダウン向けカード、もう1枚がマナカーブの頂点として良いカードだ。
+リストの他2枚と比べれば、私は《尽きぬ希望のエイヴン/Aven of Enduring Hope》をパスすることが多いだろう。&lt;/p&gt;</content><author><name></name></author><category term="[&quot;MTG&quot;, &quot;翻訳記事&quot;, &quot;Channel Fireball&quot;]" /><category term="Luis Scott-Vargas" /><category term="破滅の刻" /><category term="点数表" /><category term="Sealed" /><category term="Draft" /><category term="Limited" /><category term="Sealed (AKH/HOU)" /><category term="Draft (AKH/HOU)" /><category term="Limited (AKH/HOU)" /><summary type="html">原文 この文章はChannel Fireballに掲載されたHour of Devastation Limited Set Review: Whiteの和訳である。原文の掲載は2017年7月3日だった。 まずは点数表を見てみよう。 点数に反映されていない多くの要因があり、それぞれのカードについて書いた内容のほうがあてになることに注意。 点数について 《群れネズミ/Pack Rat》や《梅澤の十手/Umezawa’s Jitte》のようなカードを扱う枠は無くした。殿堂入りだ。 5.0 : ベスト・オブ・ベスト。(《害悪の機械巨人/Noxious Gearhulk》・《新緑の機械巨人/Verdurous Gearhulk》・《霊気圏の収集艇/Aethersphere Harvester》) 4.5 : ものすごいボムだが、倒せないほどではない。(《暴走急行/Untethered Express》・《艱苦の伝令/Herald of Anguish》・《つむじ風製造機/Whirlermaker》) 4.0 : 良いレア、あるいは一線級のアンコモン。 (《改革派の貨物車/Renegade Freighter》・《巻きつき蛇/Winding Constrictor》・《飛行機械による拘束/Thopter Arrest》) 3.5 : 一線級のコモン、または手堅いアンコモン。 (《溶接の火花/Welding Sparks》・《予言のプリズム/Prophetic Prism》・《霊気追跡者/Aether Chaser》・《果敢な爆破/Daring Demolition》) 3.0 : いつも良い働きをする、プレイアブルなカード。 (《暁羽の鷲/Dawnfeather Eagle》・《たかり猫猿/Scrounging Bandar》・《ドゥーンドの調査員/Dhund Operative》) 2.5 : 手堅くプレイ可能。切り捨てられるのはまれ。 (《むら気な巨人/Wayward Giant》・《置き去り/Leave in the Dust》・《精緻会の改革派/Countless Gears Renegade》) 2.0 : 良い穴埋めカード。半数は切り捨てられる。 (《砦のマストドン/Bastion Mastodon》・《悪意器具/Implement of Malice》・《高峰の注入/Highspire Infusion》) 1.5 : 穴埋めカード。大体は切り捨てられる。 (《改革派の逃亡/Renegade’s Getaway》・《歩行貯蔵器/Reservoir Walker》・《警戒自動機械/Watchful Automaton》) 1.0 : 悪い穴埋めカード。ほとんど切り捨てられる。 (《鉄覆いの革命家/Ironclad Revolutionary》・《正確な一撃/Precise Strike》) 0.5 : 極めてプレイアブルでないカード、またはサイドボード要員。 (《撃墜/Take Down》・《自然廃退/Natural Obsolescence》) 0.0 : 完全にプレイアブルでないカード。 (《秘密の回収/Secret Salvage》・《ゴンティの策謀/Gonti’s Machinations》・その他完全に駄目なカード) 《英雄的行動/Act of Heroism》(コモン) 2.0点 1対2交換が取れる可能性が、私にとっての「大体プレイする」枠にこのカードを押し上げている。 2マナで+2/+2の修整が入るのが期待通りで、さらに2つのメリットがあるので、有効に働くだろう。 《典雅な襲撃者/Adorned Pouncer》(レア) 3.5点 このカードは、(事実上)2マナ2/1であり、5マナ4/4二段攻撃でもある。 1枚のカードでこの両方の役割をはたすのは非常識だ。 名前に典雅とついているが、着飾らせる必要があるわけではない。 しかし、なにかオーラをつけることができれば、恐ろしい脅威になるだろう。 《糾弾の天使/Angel of Condemnation》(レア) 4.5点 私は名前を見ただけで4.5～5.0点をつけていただろう。そしてテキストにもその通りのことが書いてある。 フレーバー的にはこいつは《糾弾/Condemn》を唱えるべきなんだろうが、メカニズム的には何の関連性もない。 4マナで3/3飛行警戒。これだけで既に素晴らしいのに、2つの非常に関連した能力がついてきている。 あなたがマナを残したままターンを終えるなら、対戦相手は非常に打破しにくい状況になるだろう。 あなたは最初の能力で何かを明滅させることができるし、そうでなければ1ターンこの天使を使えなくなる代わりに2番目の能力を起動できる。 これはまさにボムで、他に何を持っているかに関係なく、ほぼ間違いなくこのカードを選ぶべきだ。 《王神の天使/Angel of the God-Pharaoh》(アンコモン) 3.0点 アモンケット環境の速度を考えれば、サイクリングのコストは私が思っていたより割高であった。 しかし、《有翼の番人/Winged Shepherd》がデッキに入らないことはまれだった。 私は《王神の天使/Angel of the God-Pharaoh》もおおよそ同じだと思っている。 サイクリング・コストはやや重いが、そのぶんパワーとタフネスが高い。 4/4飛行は偉大なるフィニッシャーであり、これを捨てて他の何かに交換できるのは素晴らしい柔軟性だ。 《尽きぬ希望のエイヴン/Aven of Enduring Hope》(コモン) 3.0点 コモンで2番目に大きなフライヤーは、白に後半での打撃力を与える。 そして3点のライフが、その遅さの穴埋めになるだろう。 このカードは過去に《慈悲の天使/Angel of Mercy》と呼ばれる爆弾アンコモンであった。 フォーマットは今やもっとパワフルになっているが、このカードが見た目通りに良いカードであることを期待する。 《冠毛の陽馬/Crested Sunmare》(神話レア) 3.5点 ライフゲインするカードをデッキに加えないと何もしないので、このカードの効果は微々たるものになるだろう。 しかし、5マナで5/5というサイズは悪いものでは決してない。 「貰い物のあらを探すな(Don’t look a gift horse in the mouth)」という諺の通りで、厳密に構築の中心に据えるよりも堅実なカードとして扱うべきカードである。 《不屈のエイヴン/Dauntless Aven》 (コモン) 3.0点 3マナ2/1飛行のカードは私がいつも使う類のものだ。そして督励持ちのクリーチャーが多いなら、さらに良いものになる。 私は白がまだ極めて攻撃であると想定している。 このカードは毎ターン2点のダメージを稼ぎ出すだけでなく、同時にあなたが選んだ督励持ちクリーチャーのスーパーチャージャーになることもできる。 《砂漠の拘留/Desert’s Hold》 (アンコモン) 3.0点 《拘引/Arrest》に3ライフがつくとどうなる? 民事没収になるのか? 実際のところ民事没収は逮捕(Arrest)がなくても起こりうるだろう。……私はそんな事態になることはしないが。 いずれにせよこれは砂漠がなくても良いカードだ。私は、白いデッキであれば何であれ、1枚はデッキに入れるだろう。 《廃却するミイラ/Disposal Mummy》 (コモン) 1.5点 永遠を持つクリーチャーを追放できるのは良い能力だ。しかし、それのために3マナ2/3をプレイしたいとは思わない。 マナ・カーブを埋めるカードが必要な場合、または永遠単デッキを相手にしている場合はこのカードを使おう。 そうでない場合はサイドボードへ。 《目を開いた者、デジェル/Djeru, With Eyes Open》 (レア) 1.0点 もしきわめて幸運なら: 3.5点 探してくるプレインズウォーカーがいないなら、このカードはほとんどプレイアブルではない。 最近なら、5マナあれば4/3のクリーチャーよりも良いものが手に入る。 もしプレインズウォーカーがいるなら、既にプレインズウォーカーを戦場に出していた場合でも、このカードは素晴らしいものになる。 あなたのデッキの中で最高のカードを探してくるチューターとして1対2交換ができ、更にそれを守れるのは病的に強い。 あなたに必要なものは、レアと神話レアを手に入れることだ。 《デジェルの拒絶/Djeru’s Renunciation》 (コモン) 1.5点 状況を選ぶカードに軽量なサイクリングコストがついている、というのは古典的だ。 そしてこのカードは攻撃的なデッキならどんなデッキでもうまくいく。 この効果が必要になるときには非常に素晴らしいカードだ。そうでないときには(大部分がこっちだろう)サイクリングに回すことができる。 私がこのカードに興奮することはないだろう。しかし、ビートダウンデッキに入れたり、カードが足りないときに穴埋めに使用するのは私の好みだ。 《従順な召使い/Dutiful Servants》 (コモン) 1.0点 3マナ2/4バージョンのほうがずっと好きだ。 コスト対サイズ比がよくない。 ほかのカードを探したほうが良いと思う。 《ギデオンの敗北/Gideon’s Defeat》 (アンコモン) 3.5点 あくまでサイドボード用のカードだということに注意。しかし強力な1枚だ。 私はこれをメインデッキに入れない。 にも関わらず高い点数をつけたのは、サイドボードから投入したときにあまりに強力だからである。 私は早い順目でもこのカードをピックしたい。 仮に半数以下のマッチアップでしか役に立たないとしても、この効果は良いものだ。 《王神の信者/God-Pharaoh’s Faithful》 (コモン) 0.5点 あなたのデッキを動作させるためにライフゲインが必要だという場合を除けば、このカードの与えるインパクトは極めて小さい。 《啓示の刻/Hour of Revelation》 (レア) 1.5点 私は6マナの全体除去が好きではない。 それは安定して唱えることがあまりに難しいからである。 《啓示の刻/Hour of Revelation》は時折3マナで唱えられるようになるが、それは非常にまれなので、結局は《次元の浄化/Planar Cleansing》の再版のようにしか見えない。 そして《次元の浄化/Planar Cleansing》は決して良いカードではなかった。 《ミイラの大王/Mummy Paramount》(コモン) 2.0点 もし破滅の刻環境がアモンケット環境と似ているなら、2マナ2/2はそれだけで見る価値がある。 さらにゾンビ・アグロ・デッキなら、更に少しだけ良くなる。 「攻撃的なデッキで」「8体以上のゾンビを含む」ことが最重要(paramount)だが、もしそうなら、これは非常に良いカードだろう。 《オケチラの報復者/Oketra’s Avenger》 (コモン) 3.0点 おっいいぞ、効率的にブロックしにくい、2マナパワー3がもう1枚出てきた。 こういうのがもっと欲しかったんだ。 《Oketra’s Avenger》はビートダウンの最高の一員になるだろう。 そして、新環境において白いアグロ・デッキを行う理由を非常に強くするのではないか。 《オケチラ最後の慈悲/Oketra’s Last Mercy》 (レア) 1.5点 それで、純粋にライフを得るだけの呪文でどれだけのライフを得れば良いといえるのだろうか? このカードは最大で19点回復することができ、それだけで十分かもしれない。 しかし私の推測において、ほとんどのマッチアップでこのカードはまだ悪い。 極めて緊迫したライフレースになっている場合や、超速攻デッキに対してコントロール・デッキで使う場合など、狭い状況でだけ価値があるカードだ。 カードの評価を下げているのは決して冗談ではない。しかし、どちらも大量のライフを得ているわけではないのだが、このカードは良い仕事をしているように思う。 土地がアンタップしなくなることは、後続の動きを大きく阻害することになり残念だ。 私は今のところこのカードが嫌いだが、意見は喜んで修正するだろう。 (私は自分のレーティングに自身が持てない。これは奇妙なことだ。) 《圧倒的輝き/Overwhelming Splendor》 (神話レア) 1.5点 これは最も効率的なカードではないかもしれない。 しかし、この8マナのフィニッシャーを見たとき、私は直ちに興味を持った。 このカードは相手のクリーチャーを酷いものに変えてしまう。 長期戦を仕掛け、《圧倒的輝き/Overwhelming Splendor》を叩きつけることは試す価値があるかもしれない。 《サンドワームの収斂/Sandwurm Convergence》よりは悪いカードに見えるが、それでも試す価値はあるだろう。 8マナは重い。このカードは本当に専用のデッキを必要とする。だから、あまり高い期待は持っていない。 《砂爆破/Sandblast》 (コモン) 2.5点 このカードはほぼすべてのクリーチャーを殺せるだけのダメージを与える。私はデッキに入れるだろう。 対戦相手のブロックは既に成立した後なので、アグロデッキではそれほど良くないだろう。 しかし、殆どの場合で1枚は使用することになるんじゃないかと予想している。 《救済の恩寵/Saving Grace》 (アンコモン) 2.5点 奇妙なカードがもう1枚。 戦闘に参加しているクリーチャーが2体だけなら、+0/+3修整を与えるパーマネントは、たとえそれが何かを殺す役に立たなくとも手堅いと言える。 これをプレイすることで、2つの戦闘に勝利することができるのだ。 しかし、このカードには欠点がある。戦闘がある程度大きくなると、クリーチャーを救うことができなくなるのだ。 更に複雑なのは、このカードが《濃霧/Fog》のように働くことだ。最弱のクリーチャーを強化することで、1ターンだけあなた自身を守ることができる。 これらのことを踏まえると、良いカードのように思える。 役に立ってほしいときにいつでも役立つとは限らないが、状況が許せば炸裂するカードだ。 《厳粛/Solemnity》 (レア) 0.0点 構築ではナンセンスなことがたくさんできるだと理解しているが、いかんせんリミテッドでは狭すぎる。 《孤高のラクダ/Solitary Camel》 (コモン) 1.5点 / 2.5点 1枚でも砂漠があるなら、これは3マナの割に良いカードになる。 このカードは砂漠なしでは無能なカードで、4枚以上の砂漠がデッキに入っているならいいカードだろう。 《不動の歩哨/Steadfast Sentinel》 (コモン) 2.5点 4マナクリーチャーのために空けておくスペースには限りがある。 しかし、このカードはあなたのマナ・カーブを埋めるには良いカードだろう。 何度かこのクリーチャーには死んでもらいたい。 4/4の永遠衆になる道が残されているため、恐れることなく攻撃に参加することが可能なカードだ。 《結束に仕える者/Steward of Solidarity》 (アンコモン) 3.5点 2マナ2/2で1/1を生み出すクリーチャーは、たとえそれが1ターンおきであっても素晴らしい。 視界良好なら攻撃に参加でき、そうでなければ軍勢を生み出す。 どんなデッキにも加わる素晴らしいカードだ。 《陽光鞭の勇者/Sunscourge Champion》 (アンコモン) 3.5点 手札を1枚捨てるというコストはかかるものの、2/3の次に4/4そして合計6点のライフを得ることができる。 これは手堅い取引で、見逃したくない。 アグロよりもミッドレンジやコントロールでわずかに強いカードだが、いずれにせよ私は喜んでプレイするだろう。 《型破りな戦術/Unconventional Tactics》 (アンコモン) 1.0点 / 3.0点 私は本当にこのカードが好きだ。 このカードはゾンビデッキ以外では悪いが、もしゾンビが5体以上集まるなら、このカードは凶悪な勝利条件をもたらすだろう。 そしてゾンビを5体集めるのはそこまで難しくなさそうだ。 すべてのゾンビが最低5点の回避不能なダメージになるのは洒落になっていない。 このカードはゾンビデッキに一見勝ち目のないところからの逆転劇を多く与えてくれるだろう。 《信義の侍臣/Vizier of the True》 (アンコモン) 3.0点 私は本当にブロクされたくなかったので、このカードは本当に助かる。 ビートダウンデッキにおいて、このカードはブロックを不可能にしてしまうだろう。 4ターン目にこれをプレイし、他のクリーチャーで督励しながら攻撃する。 そして次のターンにはこのカードで督励しながら攻撃するのだ。 このようなカードがあるのを見ると、ビートダウンデッキがどこにも消えてしまわないようにみえる。 白のコモンベスト3 《オケチラの報復者/Oketra’s Avenger》 《不屈のエイヴン/Dauntless Aven》 《尽きぬ希望のエイヴン/Aven of Enduring Hope》 今回白のコモン除去は素晴らしいものでなかった。しかし《砂爆破/Sandblast》はプレイアブルである。 白のベストコモンはすべてクリーチャーであり、うち2枚がアグレッシブなビートダウン向けカード、もう1枚がマナカーブの頂点として良いカードだ。 リストの他2枚と比べれば、私は《尽きぬ希望のエイヴン/Aven of Enduring Hope》をパスすることが多いだろう。</summary></entry><entry><title type="html">[翻訳記事] The Deck</title><link href="http://tefuda.suku.name/2017/07/05/%E7%BF%BB%E8%A8%B3%E8%A8%98%E4%BA%8B-The-Deck/" rel="alternate" type="text/html" title="[翻訳記事] The Deck" /><published>2017-07-05T00:00:00+09:00</published><updated>2017-07-05T00:00:00+09:00</updated><id>http://tefuda.suku.name/2017/07/05/%5B%E7%BF%BB%E8%A8%B3%E8%A8%98%E4%BA%8B%5D%20The%20Deck</id><content type="html" xml:base="http://tefuda.suku.name/2017/07/05/%E7%BF%BB%E8%A8%B3%E8%A8%98%E4%BA%8B-The-Deck/">&lt;h2 id=&quot;原文&quot;&gt;原文&lt;/h2&gt;
 
 &lt;p&gt;この文章は&lt;a href=&quot;http://magic.wizards.com/&quot;&gt;海外公式サイト (DailyMTG)&lt;/a&gt;に掲載されていた&lt;a href=&quot;http://magic.wizards.com/en/articles/archive/level-one/deck-2014-02-17&quot;&gt;The Deck&lt;/a&gt;の和訳である。原文の掲載は2014年2月17日だった。&lt;/p&gt;
 
@@ -2057,61 +2347,4 @@ MTGで新しいセットが発表されるたび、カードの質やピック�
 
 &lt;p&gt;シールドをプレイする場合には、上記のような乱暴なレアや神話レアを開封し、素晴らしいx-0のデッキを組んでほしい。&lt;/p&gt;
 
-&lt;p&gt;幸運を祈ります。砂漠を楽しんでください。&lt;/p&gt;</content><author><name></name></author><category term="[&quot;MTG&quot;, &quot;翻訳記事&quot;, &quot;Channel Fireball&quot;]" /><category term="Brian DeMars" /><category term="アモンケット" /><category term="Sealed" /><category term="Limited" /><category term="Sealed (AKH)" /><category term="Limited (AKH)" /><summary type="html">原文 この文章はChannel Fireballに掲載されたKeys to Amonkhet Sealedの和訳である。原文の掲載は2017年5月3日だった。 グランプリ・リッチモンドまであと2日に迫った今こそ、我々のシールド・スキルを磨けあげるに最適な時だ。 私はこのイベントに夢中で、リミテッド(ドラフトとシールド)の学習と上達に多大な努力をしてきた。 シールドとドラフトはどちらもリミテッドなので、同じようなスキルが問われることになる。 しかし2つのフォーマットはそれぞれ独自の趣がある。 わかりやすくいうと、シールドのほうがドラフトより遅くて単調なゲームになりがちだ。 これはアモンケット環境に特有の傾向ではない。シールドとドラフトはどのセットでも同様だろう。 その理由はこうだ。6パックを剥いてデッキを作るとき、シナジーを持つカードが十分にそろうかは当然コントロールできない。 ドラフトにおいては低コストのクリーチャーと強力な呪文を優先してピックできるが、シールドではパックから出てきたカードだけが頼りになる。 とはいえ、このフォーマットについても、いくらかの一般化を行うことが可能だ。 そして、(プールの強さにかかわらず)あなたが構築すべきデッキの種類を知ることができるのだ。 プレイに関する制約 シールドにおいては、最終的にどのようなデッキを使えるかについて大きな制約が2つある。 マナ アーキタイプ (アグロ・ミッドレンジ・コントロール) まずマナは、シールド・デッキでどの色を何色使えるかを決定する。 通常、アグレッシブなデッキでは2色で8枚ずつ16枚の土地が理想的だと私は学習した。 一方で例外についてもこの後で取り上げる。 どの色をプレイするか決めたら、次にどのようなデッキを組むのか決める必要がある。 アグレッシブなものか、ミッドレンジか、それともコントロールか。 これについてあなたの裁量はそれほど大きくない。なぜならプールの中で最高のカードをプレイすることになりだろうから。 しかし、最後の3～4枚のカードを決定する上で、最大のシナジーを持つものを選びたいだろう。 アモンケットのマナ・ベース まず通常は、他の色より弱いという理由で、1色か2色を除外することができるだろう。 ある色がプレイアブルであるというためには、2色デッキで役に立つカードが9枚以上ほしいところだ。 私は通常、よいマナ補正カードがない場合はデッキを2色で組むことにしている。 小回りの効かないマナベースで3色デッキを組むと厄介なことになる。例えば《沼/Swamp》6枚、《森/Forest》6枚、《島/Island》5枚、のような。 私は、メインの色については、最低でも信頼できるマナ・ソースを8枚入れるようにしている。 このセットでは多くのカードがサイクリングを持っている。これは通常より土地の枚数を減らす強いインセンティブになる。 通常のシールド・デッキではマナ・カーブは通常より高く、17～18枚の土地がデッキに必要になるだろう。 アモンケットでは、土地は16枚でいいと私は感じている。非常にアグレッシブなデッキなら15枚でもいいくらいだ。 シールド線では盤面や状況が膠着状態になりやすい。そこで、マナ・フラッドを起こし、呪文を使い果たしてしまうことこそ憂慮すべき事態だ。 特筆すべき事としてアモンケットにはアンコモンの2色土地が存在せず、マナ補正カードはそれほど多くない。 しかし、コモンには良いマナ補正カードが3枚あり、それらは3色目のプレイを比較的簡単にできるだろう。 ミッドレンジの大地 Magix Onlineで7回シールドリーグに参加した経験上、私はこの環境は非常にミッドレンジ的だと考える。 殆どのプールには、アグロデッキを組めるだけの攻撃用カードが足りず、純粋にコントロールを組めるほどのコントロール用カードも足りないためだ。 殆どのプールで、あなたはマナカーブの下の方と上の方を混ぜて、真ん中あたりのデッキを組むことになるだろう。 大まかな見積もりは次のようになる。 ミッドレンジ: 50% アグロ: 25% コントロール: 25% 上記の雑な推測に基づくと、スマートな立ち位置は、コントロールに変化するミッドレンジか、純粋なコントロールということになるだろう。 シールドで本当に良いカードがいくつかある。 《巨大百足/Colossapede》 《遺棄地の恐怖/Horror of the Broken Lands》 《川蛇/River Serpent》 5/5は偉大である。それらは他のあらゆるものを蹂躙でき、あなたの要塞を維持することを可能にする。 私は、プールから出てきた巨大クリーチャーは可能な限り使用したい。 しかし、アグロデッキが最適解になることがある。 なぜならこのフォーマットは遅く、殆どのデッキは1ゲーム目の暴力的なビートダウンに対処できないためである。 (殆どのデッキはコントロールのミラーに備えて巨大なクリーチャーを抱えてしまっている。) もし私のプールで最強のデッキがオール・インのアグロ・デッキなら、私は全く躊躇せずそれを使うだろう。 さて、ミッドレンジとコントロールについて話をしよう。これら2つのデッキが最終的に盤面を作ることになるのだ。 アモンケットのシールドをざっと見て、重要な観察が2つある。 通常よりフライヤーが少ない 地上にタフネス4のクリーチャーが多い これら2つの事実は地上の膠着状態を生み出す。膠着状態が長く続くと、非常に稀だが厄介な展開につながり兼ねない。 あなたはこの膠着状態に備える必要がある。 地上が膠着状態に陥ると、ブロックや、返しのターンでの攻撃が強くなる。 そのため誰も積極的に攻撃しなくなり、状況の回答を求めるためにカードを引きつづけることになる。 このような状況では、除去・フライヤー・コンバットトリックが有効だ。 これらのカードを十分な枚数入れていることを確認するようにしよう。 アモンケットで地上の膠着を打破する 頻繁に地上が膠着することを理解できたので、それを脱して勝ちに行く方法を検討しよう。 まず、フライヤーは素晴らしい。 《エイヴンの修練者/Aven Initiate》 《有翼の番人/Winged Shepherd》 《ター一門の精鋭/Tah-Crop Elite》 フライヤーは数が少ないので、それぞれのフライヤーは影響が大きい。これらを除去できる呪文を温存しておくようにしよう。 勝利のための最高の方法の1つは、巨大クリーチャーに《知識のカルトーシュ/Cartouche of Knowledge》をつけて送り出すことだ。 これは実際に確実なプランと言える。 私は、ドラフトでの青は好まないが、シールドでは青をプレイするのは大好きだ。そこには遅いカードアドバンテージ呪文とフライヤーがいるからである。 レアのご褒美 このセットのレアは本当位ぶっ壊れで、デッキの色にあった良いカードを引くことができればどれほど素晴らしいかと思う。 シールド・デッキではレアの影響は特に大きい。6マナ6/6トランプル不朽持ちと、6マナ6/6バニラの違いは歴然だ。 リミテッドプレイヤーの立場から、サイクリング2色土地がアンコモンだったら良かったと書いておきたい。 シールド・デッキでは幾つかのレアを持つことが非常に重要になってきている。 もしあなたが2つもサイクリング2色土地を引いて、あなたが引かなかった爆弾レアが強力な能力を発揮していれば、ますますフラストレーションが貯まるだろう。 今回の記事での苦情: シールド環境のために、爆弾レアと《没収/Dispossess》の間のギャップを少なくする必要があるように感じる。 アモンケットのレア・神話レア トップ5 《死の権威、リリアナ/Liliana, Death’s Majesty》 《賞罰の天使/Angel of Sanctions》 《栄光をもたらすもの/Glorybringer》 《サンドワームの収斂/Sandwurm Convergence》 《明日からの引き寄せ/Pull from Tomorrow》 私はこれらのカードに勝ったことがないし、これらのカードを唱えた後で負けたこともない。 リッチモンドが楽しみだ！ぜひともこういったレアを2枚とか引いて、一緒に走らせてみたい。 シールドをプレイする場合には、上記のような乱暴なレアや神話レアを開封し、素晴らしいx-0のデッキを組んでほしい。</summary></entry><entry><title type="html">緑白青《副陽の接近/Approach of the Second Sun》デッキ</title><link href="http://tefuda.suku.name/2017/05/20/%E7%B7%91%E7%99%BD%E9%9D%92-%E5%89%AF%E9%99%BD%E3%81%AE%E6%8E%A5%E8%BF%91-Approach-of-the-Second-Sun-%E3%83%87%E3%83%83%E3%82%AD/" rel="alternate" type="text/html" title="緑白青《副陽の接近/Approach of the Second Sun》デッキ" /><published>2017-05-20T00:00:00+09:00</published><updated>2017-05-20T00:00:00+09:00</updated><id>http://tefuda.suku.name/2017/05/20/%E7%B7%91%E7%99%BD%E9%9D%92%E3%80%8A%E5%89%AF%E9%99%BD%E3%81%AE%E6%8E%A5%E8%BF%91/Approach%20of%20the%20Second%20Sun%E3%80%8B%E3%83%87%E3%83%83%E3%82%AD</id><content type="html" xml:base="http://tefuda.suku.name/2017/05/20/%E7%B7%91%E7%99%BD%E9%9D%92-%E5%89%AF%E9%99%BD%E3%81%AE%E6%8E%A5%E8%BF%91-Approach-of-the-Second-Sun-%E3%83%87%E3%83%83%E3%82%AD/">&lt;h2 id=&quot;副陽の接近approach-of-the-second-sunを2連打して勝ちたい&quot;&gt;《副陽の接近/Approach of the Second Sun》を2連打して勝ちたい&lt;/h2&gt;
-
-&lt;p&gt;MOでアモンケットのシールド戦をしていたらレア6枚中《副陽の接近/Approach of the Second Sun》が2枚というトラブルが発生。それほど感触が悪くなかったのでスタンダードでも組んでみた。&lt;/p&gt;
-
-&lt;!-- more --&gt;
-
-&lt;h2 id=&quot;デッキ&quot;&gt;デッキ&lt;/h2&gt;
-
-&lt;pre&gt;&lt;code class=&quot;language-mtg-deck&quot;&gt;4 Primal Druid
-3 Shefet Monitor
-4 Pieces of the Puzzle
-4 Evolving Wilds
-4 Approach of the Second Sun
-4 Spring/Mind
-4 Commencement of Festivities
-4 Haze of Pollen
-7 Forest
-5 Island
-3 Plains
-3 Pull from Tomorrow
-3 Splendid Reclamation
-4 Scattered Groves
-4 Irrigated Farmland
-
-4 Negate
-4 Failure/Comply
-4 Drake Haven
-3 Fumigate
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;序盤は《原初のドルイド/Primal Druid》・《開拓/Spring》・《シェフェトのオオトカゲ/Shefet Monitor》・《見事な再生/Splendid Reclamation》で土地を伸ばし、後半で《副陽の接近/Approach of the Second Sun》を2回唱えるだけという非常にわかりやすいデッキ。&lt;/p&gt;
-
-&lt;p&gt;《パズルの欠片/Pieces of the Puzzle》は以下の4つの役割を果たしてくれるナイスガイ。&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;墓地に土地を置く
-    &lt;ul&gt;
-      &lt;li&gt;《見事な再生/Splendid Reclamation》でマナ加速へ&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;《花粉のもや/Haze of Pollen》・《祝祭の開幕/Commencement of Festivities》を探してくる&lt;/li&gt;
-  &lt;li&gt;《副陽の接近/Approach of the Second Sun》を探してくる&lt;/li&gt;
-  &lt;li&gt;ライブラリの上から7枚目に積まれた《副陽の接近/Approach of the Second Sun》を手札に来やすくする&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;とくに、《副陽の接近/Approach of the Second Sun》を唱えた次のターン、ドローと《パズルの欠片/Pieces of the Puzzle》で6枚ライブラリーを削れると、その次のドローは《副陽の接近/Approach of the Second Sun》なのでこれを唱えれば勝利できる。このとき2枚めの《副陽の接近/Approach of the Second Sun》は引いたターンに即唱えることになるので、ハンデスが効かないのもえらい。&lt;/p&gt;
-
-&lt;p&gt;サイドは……うん。全然考えてないですね……。サイクリングを持つ・手札を捨てるカードが以下の18枚あるので、なんとなく《ドレイクの安息地/Drake Haven》を入れてみたものの、なんか役に立つ気はしない。&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;4 x 《花粉のもや/Haze of Pollen》&lt;/li&gt;
-  &lt;li&gt;3 x 《シェフェトのオオトカゲ/Shefet Monitor》&lt;/li&gt;
-  &lt;li&gt;4 x 《まばらな木立ち/Scattered Groves》&lt;/li&gt;
-  &lt;li&gt;4 x 《灌漑農地/Irrigated Farmland》&lt;/li&gt;
-  &lt;li&gt;3 x 《明日からの引き寄せ/Pull from Tomorrow》&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;打ち消し呪文相手には2回目の《副陽の接近/Approach of the Second Sun》が通るかどうかが勝負なので、《払拭/Dispel》を入れるのが正しいのかも。&lt;/p&gt;</content><author><name></name></author><category term="[&quot;MTG&quot;]" /><category term="デッキ" /><category term="白" /><category term="青" /><category term="緑" /><category term="Standard (BFZ/AKH)" /><category term="Standard" /><category term="《副陽の接近/Approach of the Second Sun》" /><summary type="html">《副陽の接近/Approach of the Second Sun》を2連打して勝ちたい MOでアモンケットのシールド戦をしていたらレア6枚中《副陽の接近/Approach of the Second Sun》が2枚というトラブルが発生。それほど感触が悪くなかったのでスタンダードでも組んでみた。 デッキ 4 Primal Druid 3 Shefet Monitor 4 Pieces of the Puzzle 4 Evolving Wilds 4 Approach of the Second Sun 4 Spring/Mind 4 Commencement of Festivities 4 Haze of Pollen 7 Forest 5 Island 3 Plains 3 Pull from Tomorrow 3 Splendid Reclamation 4 Scattered Groves 4 Irrigated Farmland 4 Negate 4 Failure/Comply 4 Drake Haven 3 Fumigate 序盤は《原初のドルイド/Primal Druid》・《開拓/Spring》・《シェフェトのオオトカゲ/Shefet Monitor》・《見事な再生/Splendid Reclamation》で土地を伸ばし、後半で《副陽の接近/Approach of the Second Sun》を2回唱えるだけという非常にわかりやすいデッキ。 《パズルの欠片/Pieces of the Puzzle》は以下の4つの役割を果たしてくれるナイスガイ。 墓地に土地を置く 《見事な再生/Splendid Reclamation》でマナ加速へ 《花粉のもや/Haze of Pollen》・《祝祭の開幕/Commencement of Festivities》を探してくる 《副陽の接近/Approach of the Second Sun》を探してくる ライブラリの上から7枚目に積まれた《副陽の接近/Approach of the Second Sun》を手札に来やすくする とくに、《副陽の接近/Approach of the Second Sun》を唱えた次のターン、ドローと《パズルの欠片/Pieces of the Puzzle》で6枚ライブラリーを削れると、その次のドローは《副陽の接近/Approach of the Second Sun》なのでこれを唱えれば勝利できる。このとき2枚めの《副陽の接近/Approach of the Second Sun》は引いたターンに即唱えることになるので、ハンデスが効かないのもえらい。 サイドは……うん。全然考えてないですね……。サイクリングを持つ・手札を捨てるカードが以下の18枚あるので、なんとなく《ドレイクの安息地/Drake Haven》を入れてみたものの、なんか役に立つ気はしない。 4 x 《花粉のもや/Haze of Pollen》 3 x 《シェフェトのオオトカゲ/Shefet Monitor》 4 x 《まばらな木立ち/Scattered Groves》 4 x 《灌漑農地/Irrigated Farmland》 3 x 《明日からの引き寄せ/Pull from Tomorrow》 打ち消し呪文相手には2回目の《副陽の接近/Approach of the Second Sun》が通るかどうかが勝負なので、《払拭/Dispel》を入れるのが正しいのかも。</summary></entry></feed>
+&lt;p&gt;幸運を祈ります。砂漠を楽しんでください。&lt;/p&gt;</content><author><name></name></author><category term="[&quot;MTG&quot;, &quot;翻訳記事&quot;, &quot;Channel Fireball&quot;]" /><category term="Brian DeMars" /><category term="アモンケット" /><category term="Sealed" /><category term="Limited" /><category term="Sealed (AKH)" /><category term="Limited (AKH)" /><summary type="html">原文 この文章はChannel Fireballに掲載されたKeys to Amonkhet Sealedの和訳である。原文の掲載は2017年5月3日だった。 グランプリ・リッチモンドまであと2日に迫った今こそ、我々のシールド・スキルを磨けあげるに最適な時だ。 私はこのイベントに夢中で、リミテッド(ドラフトとシールド)の学習と上達に多大な努力をしてきた。 シールドとドラフトはどちらもリミテッドなので、同じようなスキルが問われることになる。 しかし2つのフォーマットはそれぞれ独自の趣がある。 わかりやすくいうと、シールドのほうがドラフトより遅くて単調なゲームになりがちだ。 これはアモンケット環境に特有の傾向ではない。シールドとドラフトはどのセットでも同様だろう。 その理由はこうだ。6パックを剥いてデッキを作るとき、シナジーを持つカードが十分にそろうかは当然コントロールできない。 ドラフトにおいては低コストのクリーチャーと強力な呪文を優先してピックできるが、シールドではパックから出てきたカードだけが頼りになる。 とはいえ、このフォーマットについても、いくらかの一般化を行うことが可能だ。 そして、(プールの強さにかかわらず)あなたが構築すべきデッキの種類を知ることができるのだ。 プレイに関する制約 シールドにおいては、最終的にどのようなデッキを使えるかについて大きな制約が2つある。 マナ アーキタイプ (アグロ・ミッドレンジ・コントロール) まずマナは、シールド・デッキでどの色を何色使えるかを決定する。 通常、アグレッシブなデッキでは2色で8枚ずつ16枚の土地が理想的だと私は学習した。 一方で例外についてもこの後で取り上げる。 どの色をプレイするか決めたら、次にどのようなデッキを組むのか決める必要がある。 アグレッシブなものか、ミッドレンジか、それともコントロールか。 これについてあなたの裁量はそれほど大きくない。なぜならプールの中で最高のカードをプレイすることになりだろうから。 しかし、最後の3～4枚のカードを決定する上で、最大のシナジーを持つものを選びたいだろう。 アモンケットのマナ・ベース まず通常は、他の色より弱いという理由で、1色か2色を除外することができるだろう。 ある色がプレイアブルであるというためには、2色デッキで役に立つカードが9枚以上ほしいところだ。 私は通常、よいマナ補正カードがない場合はデッキを2色で組むことにしている。 小回りの効かないマナベースで3色デッキを組むと厄介なことになる。例えば《沼/Swamp》6枚、《森/Forest》6枚、《島/Island》5枚、のような。 私は、メインの色については、最低でも信頼できるマナ・ソースを8枚入れるようにしている。 このセットでは多くのカードがサイクリングを持っている。これは通常より土地の枚数を減らす強いインセンティブになる。 通常のシールド・デッキではマナ・カーブは通常より高く、17～18枚の土地がデッキに必要になるだろう。 アモンケットでは、土地は16枚でいいと私は感じている。非常にアグレッシブなデッキなら15枚でもいいくらいだ。 シールド線では盤面や状況が膠着状態になりやすい。そこで、マナ・フラッドを起こし、呪文を使い果たしてしまうことこそ憂慮すべき事態だ。 特筆すべき事としてアモンケットにはアンコモンの2色土地が存在せず、マナ補正カードはそれほど多くない。 しかし、コモンには良いマナ補正カードが3枚あり、それらは3色目のプレイを比較的簡単にできるだろう。 ミッドレンジの大地 Magix Onlineで7回シールドリーグに参加した経験上、私はこの環境は非常にミッドレンジ的だと考える。 殆どのプールには、アグロデッキを組めるだけの攻撃用カードが足りず、純粋にコントロールを組めるほどのコントロール用カードも足りないためだ。 殆どのプールで、あなたはマナカーブの下の方と上の方を混ぜて、真ん中あたりのデッキを組むことになるだろう。 大まかな見積もりは次のようになる。 ミッドレンジ: 50% アグロ: 25% コントロール: 25% 上記の雑な推測に基づくと、スマートな立ち位置は、コントロールに変化するミッドレンジか、純粋なコントロールということになるだろう。 シールドで本当に良いカードがいくつかある。 《巨大百足/Colossapede》 《遺棄地の恐怖/Horror of the Broken Lands》 《川蛇/River Serpent》 5/5は偉大である。それらは他のあらゆるものを蹂躙でき、あなたの要塞を維持することを可能にする。 私は、プールから出てきた巨大クリーチャーは可能な限り使用したい。 しかし、アグロデッキが最適解になることがある。 なぜならこのフォーマットは遅く、殆どのデッキは1ゲーム目の暴力的なビートダウンに対処できないためである。 (殆どのデッキはコントロールのミラーに備えて巨大なクリーチャーを抱えてしまっている。) もし私のプールで最強のデッキがオール・インのアグロ・デッキなら、私は全く躊躇せずそれを使うだろう。 さて、ミッドレンジとコントロールについて話をしよう。これら2つのデッキが最終的に盤面を作ることになるのだ。 アモンケットのシールドをざっと見て、重要な観察が2つある。 通常よりフライヤーが少ない 地上にタフネス4のクリーチャーが多い これら2つの事実は地上の膠着状態を生み出す。膠着状態が長く続くと、非常に稀だが厄介な展開につながり兼ねない。 あなたはこの膠着状態に備える必要がある。 地上が膠着状態に陥ると、ブロックや、返しのターンでの攻撃が強くなる。 そのため誰も積極的に攻撃しなくなり、状況の回答を求めるためにカードを引きつづけることになる。 このような状況では、除去・フライヤー・コンバットトリックが有効だ。 これらのカードを十分な枚数入れていることを確認するようにしよう。 アモンケットで地上の膠着を打破する 頻繁に地上が膠着することを理解できたので、それを脱して勝ちに行く方法を検討しよう。 まず、フライヤーは素晴らしい。 《エイヴンの修練者/Aven Initiate》 《有翼の番人/Winged Shepherd》 《ター一門の精鋭/Tah-Crop Elite》 フライヤーは数が少ないので、それぞれのフライヤーは影響が大きい。これらを除去できる呪文を温存しておくようにしよう。 勝利のための最高の方法の1つは、巨大クリーチャーに《知識のカルトーシュ/Cartouche of Knowledge》をつけて送り出すことだ。 これは実際に確実なプランと言える。 私は、ドラフトでの青は好まないが、シールドでは青をプレイするのは大好きだ。そこには遅いカードアドバンテージ呪文とフライヤーがいるからである。 レアのご褒美 このセットのレアは本当位ぶっ壊れで、デッキの色にあった良いカードを引くことができればどれほど素晴らしいかと思う。 シールド・デッキではレアの影響は特に大きい。6マナ6/6トランプル不朽持ちと、6マナ6/6バニラの違いは歴然だ。 リミテッドプレイヤーの立場から、サイクリング2色土地がアンコモンだったら良かったと書いておきたい。 シールド・デッキでは幾つかのレアを持つことが非常に重要になってきている。 もしあなたが2つもサイクリング2色土地を引いて、あなたが引かなかった爆弾レアが強力な能力を発揮していれば、ますますフラストレーションが貯まるだろう。 今回の記事での苦情: シールド環境のために、爆弾レアと《没収/Dispossess》の間のギャップを少なくする必要があるように感じる。 アモンケットのレア・神話レア トップ5 《死の権威、リリアナ/Liliana, Death’s Majesty》 《賞罰の天使/Angel of Sanctions》 《栄光をもたらすもの/Glorybringer》 《サンドワームの収斂/Sandwurm Convergence》 《明日からの引き寄せ/Pull from Tomorrow》 私はこれらのカードに勝ったことがないし、これらのカードを唱えた後で負けたこともない。 リッチモンドが楽しみだ！ぜひともこういったレアを2枚とか引いて、一緒に走らせてみたい。 シールドをプレイする場合には、上記のような乱暴なレアや神話レアを開封し、素晴らしいx-0のデッキを組んでほしい。</summary></entry></feed>
