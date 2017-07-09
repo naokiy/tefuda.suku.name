@@ -152,7 +152,7 @@ MTGのゲームの仕組みを見てみよう。そこに基本的な制限は2�
 4 Abeyance
 4 Flood Plain
 7 Plains
-10 Islands
+10 Island
 3 Mind Stone
 2 Quicksand
 ```
