@@ -141,7 +141,7 @@ MTGのゲームの仕組みを見てみよう。そこに基本的な制限は2�
 4 Man-o'-War
 2 Ophidian
 2 Floodgate
-2 Hazerider Drakes
+2 Hazerider Drake
 2 Impulse
 4 Dissipate
 2 Desertion
