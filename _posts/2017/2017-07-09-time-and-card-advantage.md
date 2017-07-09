@@ -129,7 +129,7 @@ MTGのゲームの仕組みを見てみよう。そこに基本的な制限は2�
 1 Knight of the Mists
 2 Serrated Biskelion
 3 Rainbow Efreet
-2 Suq'ata Firewalker
+2 Suq'Ata Firewalker
 4 Undo
 2 Dream Tides
 ```
