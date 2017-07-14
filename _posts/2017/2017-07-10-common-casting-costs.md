@@ -16,6 +16,7 @@ category:
 初心者向け記事であるLevel One、Mike Flores氏版の第5回。
 
   * 前回: [[翻訳記事] The Deck]({{ site.baseurl }}{% link _posts/2017/2017-07-05-the-deck.md %})
+  * 次回: [[翻訳記事] 上位互換]({{ site.baseurl }}{% link _posts/2017/2017-07-14-strictly-superior.md %})
 
 ある点数のマナでできることって普通は何なのか、という内容だが、今日のスタンダード環境に当てはまらない部分はかなり多い。とくに、公式サイトによると、1マナのマナ・クリーチャーや4マナの無条件全体除去は作成しない方針になっているとのこと。これについては公式サイトの記事、『[スタンダードのパワー・レベル](http://mtg-jp.com/reading/translated/ld/0016442/)』([原文](http://magic.wizards.com/en/articles/archive/latest-developments/standard-power-level-2016-02-05))を参照。
 
