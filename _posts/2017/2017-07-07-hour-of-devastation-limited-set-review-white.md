@@ -5,10 +5,8 @@ tags:
   - 破滅の刻
   - 点数表
   - 白
-  - Sealed
   - Draft
   - Limited
-  - Sealed (AKH/HOU)
   - Draft (AKH/HOU)
   - Limited (AKH/HOU)
 category:
@@ -19,7 +17,18 @@ category:
 
 ## 原文
 
-この文章は[Channel Fireball](http://www.channelfireball.com/)に掲載された[Hour of Devastation Limited Set Review: White](https://www.channelfireball.com/articles/hour-of-devastation-limited-set-review-white/)の和訳である。原文の掲載は2017年7月3日だった。
+この文章は[Channel Fireball](http://www.channelfireball.com/)に掲載された[Hour of Devastation Limited Set Review: White](https://www.channelfireball.com/articles/hour-of-devastation-limited-set-review-white/)の和訳である。原文の掲載は2017年7月3日だった。著者はLuis Scott-Vargas(LSV)。
+
+  * 破滅の刻リミテッドレビュー by LSV
+    * 白 (これ)
+    * [青]({{ site.baseurl }}{% link _posts/2017/2017-07-21-hour-of-devastation-limited-set-review-blue.md %})
+    * 黒 (未訳)
+    * 赤 (未訳)
+    * 緑 (未訳)
+    * 多色・無色 (未訳)
+
+
+リミテッドレビューとあるが、実際にはドラフトに重きが置かれていると思われる。
 
 <!-- more -->
 
@@ -289,7 +298,7 @@ category:
 
 **3.0点**
 
-私は本当にブロクされたくなかったので、このカードは本当に助かる。
+私はブロックされるのが本当に嫌なので、このカードは本当に助かる。
 ビートダウンデッキにおいて、このカードはブロックを不可能にしてしまうだろう。
 4ターン目にこれをプレイし、他のクリーチャーで督励しながら攻撃する。
 そして次のターンにはこのカードで督励しながら攻撃するのだ。
