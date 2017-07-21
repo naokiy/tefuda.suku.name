@@ -1,10 +1,10 @@
 ---
-title: "[翻訳記事] 破滅の刻・リミテッドレビュー (青)"
+title: "[翻訳記事] 破滅の刻・リミテッドレビュー (黒)"
 tags:
   - Luis Scott-Vargas
   - 破滅の刻
   - 点数表
-  - 青
+  - 黒
   - Draft
   - Limited
   - Draft (AKH/HOU)
