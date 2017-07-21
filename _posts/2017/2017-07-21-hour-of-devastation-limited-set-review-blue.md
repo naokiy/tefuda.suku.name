@@ -13,6 +13,7 @@ category:
   - MTG
   - 翻訳記事
   - Channel Fireball
+date: 2017-07-21 00:00:00
 ---
 
 ## 原文
@@ -22,7 +23,7 @@ category:
   * 破滅の刻リミテッドレビュー by LSV
     * [白]({{ site.baseurl }}{% link _posts/2017/2017-07-07-hour-of-devastation-limited-set-review-white.md %})
     * 青 (これ)
-    * 黒 (未訳)
+    * [黒]({{ site.baseurl }}{% link _posts/2017/2017-07-21-hour-of-devastation-limited-set-review-black.md %})
     * 赤 (未訳)
     * 緑 (未訳)
     * 多色・無色 (未訳)
@@ -155,7 +156,7 @@ category:
 **4.0点**
 
 このカードとアンタップ状態の土地が揃ってる状態は、対戦相手にとって不吉だ。
-たとえ《不吉なスフィンクス/Ominous Sphinx》が絡まない場合でも、対戦相手は自身を持って戦闘できなくなるだろう。
+たとえ《不吉なスフィンクス/Ominous Sphinx》が絡まない場合でも、対戦相手は確信を持って戦闘できなくなるだろう。
 そしてその間、あなたは4/4飛行を使って彼を打ちのめす。
 サイクリング持ちカードがなくても強力なカードだし、サイクリング持ちカードを何枚かピックするのはさほど難しくないだろう。
 
