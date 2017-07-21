@@ -24,13 +24,15 @@ date: 2017-07-21 00:00:00
     * [白]({{ site.baseurl }}{% link _posts/2017/2017-07-07-hour-of-devastation-limited-set-review-white.md %})
     * 青 (これ)
     * [黒]({{ site.baseurl }}{% link _posts/2017/2017-07-21-hour-of-devastation-limited-set-review-black.md %})
-    * 赤 (未訳)
+    * [赤]({{ site.baseurl }}{% link _posts/2017/2017-07-21-hour-of-devastation-limited-set-review-red.md %})
     * 緑 (未訳)
     * 多色・無色 (未訳)
 
 リミテッドレビューとあるが、実際にはドラフトに重きが置かれていると思われる。
 
 <!-- more -->
+
+以下訳文。
 
 ----
 

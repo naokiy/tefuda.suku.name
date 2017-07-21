@@ -18,13 +18,13 @@ date: 2017-07-21 00:01:00
 
 ## 原文
 
-この文章は[Channel Fireball](http://www.channelfireball.com/)に掲載された[Hour of Devastation Limited Set Review: black](https://www.channelfireball.com/articles/hour-of-devastation-limited-set-review-black/)の和訳である。原文の掲載は2017年7月5日だった。著者はLuis Scott-Vargas(LSV)。
+この文章は[Channel Fireball](http://www.channelfireball.com/)に掲載された[Hour of Devastation Limited Set Review: Black](https://www.channelfireball.com/articles/hour-of-devastation-limited-set-review-black/)の和訳である。原文の掲載は2017年7月5日だった。著者はLuis Scott-Vargas(LSV)。
 
   * 破滅の刻リミテッドレビュー by LSV
     * [白]({{ site.baseurl }}{% link _posts/2017/2017-07-07-hour-of-devastation-limited-set-review-white.md %})
     * [青]({{ site.baseurl }}{% link _posts/2017/2017-07-21-hour-of-devastation-limited-set-review-blue.md %})
     * 黒 (これ)
-    * 赤 (未訳)
+    * [赤]({{ site.baseurl }}{% link _posts/2017/2017-07-21-hour-of-devastation-limited-set-review-red.md %})
     * 緑 (未訳)
     * 多色・無色 (未訳)
 
@@ -33,6 +33,8 @@ date: 2017-07-21 00:01:00
 シールドで遊んでみた感じ、私の《スカラベの責め苦/Torment of Scarabs》に対する評価はもっとずっと高いんだけど、ドラフトだと違うのかも。速い環境には不向きだろうし。
 
 <!-- more -->
+
+以下訳文。
 
 ----
 
@@ -75,7 +77,7 @@ date: 2017-07-21 00:01:00
 対戦相手に唱えられる呪文がほとんどなくなるような超終盤戦においても、このカードは強い。
 基本的に、このカードが本当に弱いのは対戦相手に沢山のマナがあり沢山の呪文が唱えられるようなときだけだ。
 その欠点はたいてい、このカードが活躍する時の強さに比べれば些細なものである。
-加えて、もし相手がチャンプブロクを選択するなら、加虐で毎ターン3点削ることができる。これも極めて魅力的だ。
+加えて、もし相手がチャンプブロックを選択するなら、加虐で毎ターン3点削ることができる。これも極めて魅力的だ。
 
 ## 《黙示録の悪魔/Apocalypse Demon》 (レア)
 
