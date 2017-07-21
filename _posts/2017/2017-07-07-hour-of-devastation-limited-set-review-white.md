@@ -23,7 +23,7 @@ category:
     * 白 (これ)
     * [青]({{ site.baseurl }}{% link _posts/2017/2017-07-21-hour-of-devastation-limited-set-review-blue.md %})
     * [黒]({{ site.baseurl }}{% link _posts/2017/2017-07-21-hour-of-devastation-limited-set-review-black.md %})
-    * 赤 (未訳)
+    * [赤]({{ site.baseurl }}{% link _posts/2017/2017-07-21-hour-of-devastation-limited-set-review-red.md %})
     * 緑 (未訳)
     * 多色・無色 (未訳)
 
@@ -31,6 +31,8 @@ category:
 リミテッドレビューとあるが、実際にはドラフトに重きが置かれていると思われる。
 
 <!-- more -->
+
+以下訳文。
 
 ----
 
