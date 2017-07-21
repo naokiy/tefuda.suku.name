@@ -13,7 +13,7 @@ category:
   - MTG
   - 翻訳記事
   - Channel Fireball
-date: 2017-07-22 00:02:00
+date: 2017-07-21 00:02:00
 ---
 
 ## 原文
