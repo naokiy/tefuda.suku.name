@@ -25,35 +25,16 @@ date: 2017-07-21 00:00:00
     * 青 (これ)
     * [黒]({{ site.baseurl }}{% link _posts/2017/2017-07-21-hour-of-devastation-limited-set-review-black.md %})
     * [赤]({{ site.baseurl }}{% link _posts/2017/2017-07-21-hour-of-devastation-limited-set-review-red.md %})
-    * 緑 (未訳)
+    * [緑]({{ site.baseurl }}{% link _posts/2017/2017-07-24-hour-of-devastation-limited-set-review-green.md %})
     * 多色・無色 (未訳)
 
 リミテッドレビューとあるが、実際にはドラフトに重きが置かれていると思われる。
 
 <!-- more -->
 
-以下訳文。
+以下訳文。点数表は省略。[白]({{ site.baseurl }}{% link _posts/2017/2017-07-07-hour-of-devastation-limited-set-review-white.md %})の記事を見てほしい。
 
 ----
-
-まずは点数表を見てみよう。
-点数に反映されていない多くの要因があり、それぞれのカードについて書いた内容のほうがあてになることに注意。
-
-## 点数について
-
-《群れネズミ/Pack Rat》や《梅澤の十手/Umezawa's Jitte》のようなカードを扱う枠は無くした。殿堂入りだ。
-
-  * **5.0** : ベスト・オブ・ベスト。(《害悪の機械巨人/Noxious Gearhulk》・《新緑の機械巨人/Verdurous Gearhulk》・《霊気圏の収集艇/Aethersphere Harvester》)
-  * **4.5** : ものすごいボムだが、倒せないほどではない。(《暴走急行/Untethered Express》・《艱苦の伝令/Herald of Anguish》・《つむじ風製造機/Whirlermaker》)
-  * **4.0** : 良いレア、あるいは一線級のアンコモン。 (《改革派の貨物車/Renegade Freighter》・《巻きつき蛇/Winding Constrictor》・《飛行機械による拘束/Thopter Arrest》)
-  * **3.5** : 一線級のコモン、または手堅いアンコモン。 (《溶接の火花/Welding Sparks》・《予言のプリズム/Prophetic Prism》・《霊気追跡者/Aether Chaser》・《果敢な爆破/Daring Demolition》)
-  * **3.0** : いつも良い働きをする、プレイアブルなカード。 (《暁羽の鷲/Dawnfeather Eagle》・《たかり猫猿/Scrounging Bandar》・《ドゥーンドの調査員/Dhund Operative》)
-  * **2.5** : 手堅くプレイ可能。切り捨てられるのはまれ。 (《むら気な巨人/Wayward Giant》・《置き去り/Leave in the Dust》・《精緻会の改革派/Countless Gears Renegade》)
-  * **2.0** : 良い穴埋めカード。半数は切り捨てられる。 (《砦のマストドン/Bastion Mastodon》・《悪意器具/Implement of Malice》・《高峰の注入/Highspire Infusion》)
-  * **1.5** : 穴埋めカード。大体は切り捨てられる。 (《改革派の逃亡/Renegade's Getaway》・《歩行貯蔵器/Reservoir Walker》・《警戒自動機械/Watchful Automaton》)
-  * **1.0** : 悪い穴埋めカード。ほとんど切り捨てられる。 (《鉄覆いの革命家/Ironclad Revolutionary》・《正確な一撃/Precise Strike》)
-  * **0.5** : 極めてプレイアブルでないカード、またはサイドボード要員。 (《撃墜/Take Down》・《自然廃退/Natural Obsolescence》)
-  * **0.0** : 完全にプレイアブルでないカード。 (《秘密の回収/Secret Salvage》・《ゴンティの策謀/Gonti's Machinations》・その他完全に駄目なカード)
 
 ## 《空からの導き手/Aerial Guide》 (コモン)
 
