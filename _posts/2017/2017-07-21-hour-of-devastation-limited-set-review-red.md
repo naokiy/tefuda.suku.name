@@ -18,14 +18,14 @@ date: 2017-07-21 00:02:00
 
 ## 原文
 
-この文章は[Channel Fireball](http://www.channelfireball.com/)に掲載された[Hour of Devastation Limited Set Review: Red](https://www.channelfireball.com/articles/hour-of-devastation-limited-set-review-black/)の和訳である。原文の掲載は2017年7月5日だった。著者はLuis Scott-Vargas(LSV)。
+この文章は[Channel Fireball](http://www.channelfireball.com/)に掲載された[Hour of Devastation Limited Set Review: Red](https://www.channelfireball.com/articles/hour-of-devastation-limited-set-review-black/)の和訳である。原文の掲載は2017年7月6日だった。著者はLuis Scott-Vargas(LSV)。
 
   * 破滅の刻リミテッドレビュー by LSV
     * [白]({{ site.baseurl }}{% link _posts/2017/2017-07-07-hour-of-devastation-limited-set-review-white.md %})
     * [青]({{ site.baseurl }}{% link _posts/2017/2017-07-21-hour-of-devastation-limited-set-review-blue.md %})
     * [黒]({{ site.baseurl }}{% link _posts/2017/2017-07-21-hour-of-devastation-limited-set-review-black.md %})
     * 赤 (これ)
-    * 緑 (未訳)
+    * [緑]({{ site.baseurl }}{% link _posts/2017/2017-07-24-hour-of-devastation-limited-set-review-green.md %})
     * 多色・無色 (未訳)
 
 リミテッドレビューとあるが、実際にはドラフトに重きが置かれていると思われる。というか、赤の回から煽りが変わっている。
@@ -38,7 +38,7 @@ date: 2017-07-21 00:02:00
 
 <!-- more -->
 
-以下訳文。
+以下訳文。点数表は省略。[白]({{ site.baseurl }}{% link _posts/2017/2017-07-07-hour-of-devastation-limited-set-review-white.md %})の記事を見てほしい。
 
 ----
 

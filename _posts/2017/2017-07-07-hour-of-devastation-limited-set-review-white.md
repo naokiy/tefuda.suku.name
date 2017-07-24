@@ -24,7 +24,7 @@ category:
     * [青]({{ site.baseurl }}{% link _posts/2017/2017-07-21-hour-of-devastation-limited-set-review-blue.md %})
     * [黒]({{ site.baseurl }}{% link _posts/2017/2017-07-21-hour-of-devastation-limited-set-review-black.md %})
     * [赤]({{ site.baseurl }}{% link _posts/2017/2017-07-21-hour-of-devastation-limited-set-review-red.md %})
-    * 緑 (未訳)
+    * [緑]({{ site.baseurl }}{% link _posts/2017/2017-07-24-hour-of-devastation-limited-set-review-green.md %})
     * 多色・無色 (未訳)
 
 
