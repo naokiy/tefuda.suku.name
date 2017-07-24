@@ -1,4 +1,397 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.4">Jekyll</generator><link href="http://tefuda.suku.name/feed.xml" rel="self" type="application/atom+xml" /><link href="http://tefuda.suku.name/" rel="alternate" type="text/html" /><updated>2017-07-25T01:18:40+09:00</updated><id>http://tefuda.suku.name/</id><title type="html">手札少なめ</title><subtitle>tefuda.suku.name</subtitle><entry><title type="html">[翻訳記事] LSV氏のリミテッドレビューで過大評価されているカード・過小評価されているカード</title><link href="http://tefuda.suku.name/2017/07/25/%E7%BF%BB%E8%A8%B3%E8%A8%98%E4%BA%8B-LSV%E6%B0%8F%E3%81%AE%E3%83%AA%E3%83%9F%E3%83%86%E3%83%83%E3%83%89%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%A7%E9%81%8E%E5%A4%A7%E8%A9%95%E4%BE%A1%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%82%AB%E3%83%BC%E3%83%89-%E9%81%8E%E5%B0%8F%E8%A9%95%E4%BE%A1%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%82%AB%E3%83%BC%E3%83%89/" rel="alternate" type="text/html" title="[翻訳記事] LSV氏のリミテッドレビューで過大評価されているカード・過小評価されているカード" /><published>2017-07-25T09:00:00+09:00</published><updated>2017-07-25T09:00:00+09:00</updated><id>http://tefuda.suku.name/2017/07/25/%5B%E7%BF%BB%E8%A8%B3%E8%A8%98%E4%BA%8B%5D%20LSV%E6%B0%8F%E3%81%AE%E3%83%AA%E3%83%9F%E3%83%86%E3%83%83%E3%83%89%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%A7%E9%81%8E%E5%A4%A7%E8%A9%95%E4%BE%A1%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%82%AB%E3%83%BC%E3%83%89%E3%83%BB%E9%81%8E%E5%B0%8F%E8%A9%95%E4%BE%A1%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%82%AB%E3%83%BC%E3%83%89</id><content type="html" xml:base="http://tefuda.suku.name/2017/07/25/%E7%BF%BB%E8%A8%B3%E8%A8%98%E4%BA%8B-LSV%E6%B0%8F%E3%81%AE%E3%83%AA%E3%83%9F%E3%83%86%E3%83%83%E3%83%89%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%A7%E9%81%8E%E5%A4%A7%E8%A9%95%E4%BE%A1%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%82%AB%E3%83%BC%E3%83%89-%E9%81%8E%E5%B0%8F%E8%A9%95%E4%BE%A1%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%82%AB%E3%83%BC%E3%83%89/">&lt;h2 id=&quot;原文&quot;&gt;原文&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.4">Jekyll</generator><link href="http://tefuda.suku.name/feed.xml" rel="self" type="application/atom+xml" /><link href="http://tefuda.suku.name/" rel="alternate" type="text/html" /><updated>2017-07-25T05:19:05+09:00</updated><id>http://tefuda.suku.name/</id><title type="html">手札少なめ</title><subtitle>tefuda.suku.name</subtitle><entry><title type="html">[翻訳記事] 上位互換</title><link href="http://tefuda.suku.name/2017/07/25/%E7%BF%BB%E8%A8%B3%E8%A8%98%E4%BA%8B-%E4%B8%8A%E4%BD%8D%E4%BA%92%E6%8F%9B/" rel="alternate" type="text/html" title="[翻訳記事] 上位互換" /><published>2017-07-25T09:01:00+09:00</published><updated>2017-07-25T09:01:00+09:00</updated><id>http://tefuda.suku.name/2017/07/25/%5B%E7%BF%BB%E8%A8%B3%E8%A8%98%E4%BA%8B%5D%20%E4%B8%8A%E4%BD%8D%E4%BA%92%E6%8F%9B</id><content type="html" xml:base="http://tefuda.suku.name/2017/07/25/%E7%BF%BB%E8%A8%B3%E8%A8%98%E4%BA%8B-%E4%B8%8A%E4%BD%8D%E4%BA%92%E6%8F%9B/">&lt;h2 id=&quot;原文&quot;&gt;原文&lt;/h2&gt;
+
+&lt;p&gt;この文章は&lt;a href=&quot;http://magic.wizards.com/&quot;&gt;海外公式サイト (DailyMTG)&lt;/a&gt;に掲載されていた&lt;a href=&quot;http://magic.wizards.com/en/articles/archive/level-one/common-casting-costs-2014-02-24&quot;&gt;(Common) Casting Costs&lt;/a&gt;の和訳である。原文の掲載は2014年2月24日だった。&lt;/p&gt;
+
+&lt;p&gt;初心者向け記事であるLevel One、Mike Flores氏版の第6回。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;前回: &lt;a href=&quot;/2017/07/10/%E7%BF%BB%E8%A8%B3%E8%A8%98%E4%BA%8B-%E4%B8%80%E8%88%AC%E7%9A%84%E3%81%AA%E3%82%B3%E3%82%B9%E3%83%88/&quot;&gt;[翻訳記事] 一般的なコスト&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;以下訳文。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;以下のカードはどちらが良いカードだろうか。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Lightning Bolt / 稲妻&lt;/strong&gt; (赤)&lt;br /&gt;
+インスタント&lt;br /&gt;
+クリーチャー1体かプレイヤー1人を対象とする。稲妻はそれに3点のダメージを与える。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Tidings / 連絡&lt;/strong&gt; (3)(青)(青)&lt;br /&gt;
+ソーサリー&lt;br /&gt;
+カードを4枚引く。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;殆どの人はおそらく《稲妻/Lightning Bolt》だと答えるんじゃないかと思う。
+そして、実践の結果の殆どが、それが間違いでないことを示している。
+しかし、《連絡/Tidings》は今日のスタンダードの原動力の役割を果たしている。
+幾つかの特定の制約下において、《稲妻/Lightning Bolt》よりも《連絡/Tidings》を引きたいときが1度や2度ある。このことは認めることができるだろう。&lt;/p&gt;
+
+&lt;p&gt;では、この2枚はどうだろう。どちらがより良いカードだろう。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Savannah Lions / サバンナ・ライオン&lt;/strong&gt; (白)&lt;br /&gt;
+クリーチャー - 猫(Cat)&lt;br /&gt;
+2/1&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Jackal Pup / ジャッカルの仔&lt;/strong&gt; (赤)&lt;br /&gt;
+クリーチャー - ジャッカル(Jackal)&lt;br /&gt;
+ジャッカルの仔にダメージが与えられるたび、それはあなたにそのダメージに等しい点数のダメージを与える。&lt;br /&gt;
+2/1&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;新しいプレイヤーはとくに、デメリットのない白の2/1クリーチャーに魅力を感じるのではないか。
+驚くべきことに、実戦においてはかなり長い間、ほほすべてのフォーマットにおいて《ジャッカルの仔/Jackal Pup》は《サバンナ・ライオン/Savannah Lions》よりも良い成績を残している。
+白にはその2/1の攻撃を通すためのサポートカードがほとんどなく、一方で赤はライフが減るという欠点をあまり気にすることは(少なくとも気にする必要は)なかったのだ。
+《ジャッカルの仔/Jackal Pup》には悲惨なデメリットがついていたが、赤に豊富にある安価な火力呪文が攻撃を通す手助けになった。
+一方で、《サバンナ・ライオン/Savannah Lions》は先制攻撃持ちの2/2クリーチャーや、あるいは単純に大きいクリーチャーの前に立ちすくみ、引きこもるしかなかった。&lt;/p&gt;
+
+&lt;p&gt;《連絡/Tidings》よりも《稲妻/Lightning Bolt》が &lt;strong&gt;常に&lt;/strong&gt; 優れているとはいえないように、《サバンナ・ライオン/Savannah Lions》と《ジャッカルの仔/Jackal Pup》のどちらが &lt;strong&gt;常に&lt;/strong&gt; 良いかというということも決めることはできない。&lt;/p&gt;
+
+&lt;p&gt;あなたが自身のアイデアをまとめ、より効率的な自身のデッキを作るにあたって、ある概念が役に立つだろう。
+その概念があれば、あるカードが他のカードよりも &lt;strong&gt;常に&lt;/strong&gt; 優れているのかどうかの基準を認識することができる。もちろん優れたカードを使うべきだ。
+この概念を &lt;strong&gt;上位互換&lt;/strong&gt; と呼ぶ。&lt;/p&gt;
+
+&lt;p&gt;前回、&lt;a href=&quot;/2017/07/10/%E7%BF%BB%E8%A8%B3%E8%A8%98%E4%BA%8B-%E4%B8%80%E8%88%AC%E7%9A%84%E3%81%AA%E3%82%B3%E3%82%B9%E3%83%88/&quot;&gt;一般的なコスト&lt;/a&gt;で述べた、《灰色オーガ/Gray Ogre》の嫌な思い出に立ち返ろう。
+《灰色オーガ/Gray Ogre》が嫌なカードの選択である理由の1つは、同じコストならもっと他に良い選択肢があるからだ、と我々は議論した。
+これは上位互換のよくある1つのパターンである。&lt;/p&gt;
+
+&lt;h2 id=&quot;同じコストでより価値が高いカード&quot;&gt;同じコストでより価値が高いカード&lt;/h2&gt;
+
+&lt;p&gt;少し前に、デメリットのない《サバンナ・ライオン/Savannah Lions》と比べて《ジャッカルの仔/Jackal Pup》のほうが大抵は効果的であることを述べた。これは、犬(や猟犬)が猫よりも強いからだろうか? 違う。(訳注: 現在《ジャッカルの仔/Jackal Pup》のクリーチャー・タイプはジャッカルだが、この記事が書かれた当時は猟犬だった。)
+これは、これらのカードを取り巻く他のカードの問題だ。
+片方の色は、クリーチャーの質こそ劣っていたが、戦場に出ているものを押し返し、攻撃を押し通すだけの十分なサポートカードを持っていたのだ。
+では、歴史の砂をふるい分け、1998年の人気者と2013年モデルを比べてみたらどうだろう。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Firedrinker Satyr / 火飲みのサテュロス&lt;/strong&gt; (赤)&lt;br /&gt;
+クリーチャー - サテュロス(Satyr) シャーマン(Shaman)&lt;br /&gt;
+火飲みのサテュロスにダメージが与えられるたび、これはその点数に等しい点数のダメージをあなたに与える。 &lt;br /&gt;
+(1)(赤): 火飲みのサテュロスはターン終了時まで+1/+0の修整を受けるとともにあなたに1点のダメージを与える。&lt;br /&gt;
+2/1&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;《火飲みのサテュロス/Firedrinker Satyr》は《ジャッカルの仔/Jackal Pup》とまったく同じコストで、《ジャッカルの仔/Jackal Pup》とまったく同じ効果……にちょっとしたオマケがついてくる。
+《火飲みのサテュロス/Firedrinker Satyr》を使えば、2ターン目に2ダメージ与えるだけでなく、後半のターンには3点以上のダメージを狙うこともできる。
+自分も多少ダメージを食らうかもしれないが、《火飲みのサテュロス/Firedrinker Satyr》を相手のより大きなクリーチャーと交換することも可能だ。&lt;/p&gt;
+
+&lt;p&gt;一方で《ジャッカルの仔/Jackal Pup》はどうか。それは悲惨で、通常非効率的なチャンプ・ブロッカーにしかならないだろう。&lt;/p&gt;
+
+&lt;p&gt;《ジャッカルの仔/Jackal Pup》に対して、《火飲みのサテュロス/Firedrinker Satyr》はパンプアップ能力という追加の価値を持っている。これは、上位互換のありふれた形態の1つだ。&lt;/p&gt;
+
+&lt;p&gt;《火飲みのサテュロス/Firedrinker Satyr》はほぼ常に《ジャッカルの仔/Jackal Pup》より良いといえる。&lt;/p&gt;
+
+&lt;p&gt;《先兵の精鋭/Elite Vanguard》は2010年版の《サバンナ・ライオン/Savannah Lions》であり、見た目がちょっとかっこいいだけにすぎない。
+しかし2013年版である《万神殿の兵士/Soldier of the Pantheon》は、《先兵の精鋭/Elite Vanguard》を周回遅れにしてしまうほど優れている。
+《万神殿の兵士/Soldier of the Pantheon》はほぼすべての点で《先兵の精鋭/Elite Vanguard》と共通している。コスト・サイズ・そして人間であることも含めて。しかし毎ターン何の損失もなしに、テーロスの定番は《アゾリウスの魔除け/Azorius Charm》を避け、《慈善獣/Alms Beast》を押さえ込むことができる!&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;《万神殿の兵士/Soldier of the Pantheon》は《先兵の精鋭/Elite Vanguard》の上位互換だ。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;一般的な話をすれば、デッキを作るときは上位互換のカードを選ぶべきだ。これは「常にそうすべきだ」という話ではない。これについては次回「冗長性」についての記事で触れよう。しかし、単にあるカードが他のカードより良いかどうか判断するのは全く難しいタスクではない。「他のカード」はたいていあまり良くないカードだからだ。先週のことを覚えているだろうか。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;《躁の蛮人/Manic Vandal》は《灰色オーガ/Gray Ogre》の上位互換だ。&lt;/li&gt;
+  &lt;li&gt;《スークアタの槍騎兵/Suq’Ata Lancer》は《灰色オーガ/Gray Ogre》の上位互換だ。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;まあ確かに、《躁の蛮人/Manic Vandal》を戦場に出したとき、あなた自身のアーティファクトを破壊しなければならない場合があることは認めよう。しかしその事実は、《躁の蛮人/Manic Vandal》が機能するときにはそいつが非常に素晴らしいクリーチャーだという事実を曲げはしない。一方で《灰色オーガ/Gray Ogre》はあなたがプレイできるほぼすべてのカードよりも常に悪い。&lt;/p&gt;
+
+&lt;p&gt;すなわち、もし《スークアタの槍騎兵/Suq’Ata Lancer》をデッキに入れられるとしたら、《スークアタの槍騎兵/Suq’Ata Lancer》でなく《灰色オーガ/Gray Ogre》を使うなんて理由は見つけるほうが難しいということだ。&lt;/p&gt;
+
+&lt;p&gt;能力なしでは魅力のないクリーチャーに能力を追加すると、驚くほどの結果をもたらすことがある……。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;《従者/Squire》 → 《石鍛冶の神秘家/Stoneforge Mystic》&lt;/li&gt;
+  &lt;li&gt;《Balduvian Bears》 → 《野生の雑種犬/Wild Mongrel》&lt;/li&gt;
+  &lt;li&gt;《モンスのゴブリン略奪隊/Mons’s Goblin Raiders》 → 《渋面の溶岩使い/Grim Lavamancer》&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;しかし、繰り返し言うが、これらの「素晴らしいカードは酷いカードより良い」パターンというのは、「あるカードが他のカードより優れている」一般的なケースのごく一部にすぎない。&lt;/p&gt;
+
+&lt;p&gt;このカードはどうだろう。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Shatter / 粉砕&lt;/strong&gt; (1)(赤)&lt;br /&gt;
+インスタント&lt;br /&gt;
+アーティファクト1つを対象とし、それを破壊する。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;プロツアーの黎明期において、赤白のプレイヤー (赤と白の両方のマナを安定して生み出せるプレイヤー) は「5枚目の《解呪/Disenchant》」として《粉砕/Shatter》を使用していた。(これについても、来週の「冗長性」についての記事で再度取り上げる。)
+もちろん、一般的に《解呪/Disenchant》は《粉砕/Shatter》よりも優先して採用されるべきカードだ。しかし赤と白のマナを両方とも生み出すことができ、アーティファクトを壊せるカードが5枚以上ほしいのであれば………繰り返すが赤と白両方のカードを使えるのなら……《神への捧げ物/Divine Offering》を選んでも良いんじゃないか?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Divine Offering / 神への捧げ物&lt;/strong&gt; (1)(白)&lt;br /&gt;
+インスタント&lt;br /&gt;
+アーティファクト1つを対象とし、それを破壊する。あなたは、その点数で見たマナ・コストに等しい点数のライフを得る。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;この疑問の答えは、あなたがこのカードに出くわしたときに明らかになるだろう。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Gloom / 憂鬱&lt;/strong&gt; (2)(黒)&lt;br /&gt;
+エンチャント&lt;br /&gt;
+白の呪文は、それを唱えるためのコストが(3)多くなる。&lt;br /&gt;
+白のエンチャントの起動型能力は、それを起動するためのコストが(3)多くなる。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;《神への捧げ物/Divine Offering》には大きなメリットがあるが手札で立ち往生してしまう。しかし《粉砕/Shatter》なら唱えることができるのだ!&lt;/p&gt;
+
+&lt;p&gt;ここでのポイントは、書いてあることからはわかりにくいのだが、《粉砕/Shatter》はほぼいつでも(1)(赤)で唱えられるカードだということだ。&lt;/p&gt;
+
+&lt;p&gt;ここがデッキ・デザイナーにとっての素晴らしいシグナルになる!&lt;/p&gt;
+
+&lt;p&gt;もし《粉砕/Shatter》が(《灰色オーガ/Gray Ogre》と違い)一貫して「十分に良い」カードだとして、明らかに追加の価値を得られるカードを見つけたら、(十分プレイアブルな)《粉砕/Shatter》よりも良いカードを見つけたと言えるだろう。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Ancient Grudge / 古えの遺恨&lt;/strong&gt; (1)(赤)&lt;br /&gt;
+インスタント&lt;br /&gt;
+アーティファクト1つを対象とし、それを破壊する。&lt;br /&gt;
+フラッシュバック(緑) (あなたはあなたの墓地にあるこのカードを、そのフラッシュバック・コストで唱えてもよい。その後それを追放する。)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Smash to Smithereens / 粉々&lt;/strong&gt; (1)(赤)&lt;br /&gt;
+インスタント&lt;br /&gt;
+アーティファクト1つを対象とし、それを破壊する。粉々は、そのアーティファクトのコントローラーに3点のダメージを与える。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Wear / 摩耗&lt;/strong&gt; (1)(赤)&lt;br /&gt;
+インスタント&lt;br /&gt;
+アーティファクト1つを対象とし、それを破壊する。&lt;br /&gt;
+融合 (あなたはこのカードの片方の半分または両方の半分をあなたの手札から唱えてもよい。)&lt;br /&gt;
+&lt;strong&gt;Tear / 損耗&lt;/strong&gt; (白)&lt;br /&gt;
+インスタント&lt;br /&gt;
+エンチャント1つを対象とし、それを破壊する。&lt;br /&gt;
+融合 (あなたはこのカードの片方の半分または両方の半分をあなたの手札から唱えてもよい。)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;これらのカードはすべて《粉砕/Shatter》よりも良い。なぜなら《火飲みのサテュロス/Firedrinker Satyr》のように、同じカードで元のカードより高い効果を発揮するからだ。&lt;/p&gt;
+
+&lt;p&gt;これらの事柄から、MTGには単純に素晴らしいカードがいくつもあることに気づいただろう!&lt;/p&gt;
+
+&lt;p&gt;《古えの遺恨/Ancient Grudge》は通常は《粉砕/Shatter》と同じカードだ。しかし、後半に(緑)を支払うと、追加の《粉砕/Shatter》を唱えることができる! 《古えの遺恨/Ancient Grudge》は複数の拡張されたフォーマットにおいて文字通り最高のカードだ。《金属モックス/Chrome Mox》や《等時の王笏/Isochron Scepter》のようなカードを何枚も出すプレイヤーがいる場合は特にそうだ。&lt;/p&gt;
+
+&lt;p&gt;《粉々/Smash to Smithereens》も《粉砕/Shatter》と同じことをしてくれる。しかし、《粉々/Smash to Smithereens》は赤の「バーン」テーマと驚異的なシナジーを発揮する。なぜなら《粉々/Smash to Smithereens》は《溶岩の撃ち込み/Lava Spike》と同じ効果を、全くの追加コストなしで発揮することができるからだ。正しいデッキ構築として、《古えの遺恨/Ancient Grudge》や《摩耗+損耗/Wear+Tear》のようなカードアドバンテージよりも、《粉々/Smash to Smithereens》を選ぶプレイヤーを目にすることができるかもしれない。&lt;/p&gt;
+
+&lt;p&gt;上で挙げた他の選択肢と同様に、《摩耗+損耗/Wear+Tear》も《粉砕/Shatter》と同じことができる。しかし時には、このカードを使ってエンチャントを破壊することも可能だ。そしてさらに、時には1対2交換をすることができる。(さらなる選択肢やさらなる価値を与えてくれるというわけだ。) 《摩耗+損耗/Wear+Tear》は現在(訳注: 2014年3月)のスタンダードで利用可能だが……何人かのミッドレンジ使いはこれが禁止されるのを待ち望んでいるだろうな! 《エレボスの鞭/Whip of Erebos》と《地下世界の人脈/Underworld Connections》を同じターンに破壊されたことはあるか? 《拘留の宝球/Detention Sphere》と《漸増爆弾/Ratchet Bomb》は? 《摩耗+損耗/Wear+Tear》自体が爆弾のように思えてくるだろう!&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;《英雄の破滅/Hero’s Downfall》は《殺害/Murder》の上位互換だ。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;最新の基本セットにおいて、黒い単体除去の枠は《殺害/Murder》から《破滅の刃/Doom Blade》に再度置き換えられた。&lt;/p&gt;
+
+&lt;p&gt;《殺害/Murder》は《破滅の刃/Doom Blade》ほど人気にはなれなかったし、それほどプレイされていなかった。&lt;/p&gt;
+
+&lt;p&gt;一方で、殺害と同じコストの《英雄の破滅/Hero’s Downfall》はとても広く使われている。クリーチャー &lt;strong&gt;だけではなく&lt;/strong&gt; プレインズウォーカーも殺せるという追加の柔軟性が、このカードをトップに押し上げているのだ。&lt;/p&gt;
+
+&lt;h2 id=&quot;同じような効果でよりコストが低いカード&quot;&gt;同じような効果でよりコストが低いカード&lt;/h2&gt;
+
+&lt;p&gt;あるカードが他のカードの上位互換になるもう1つのパターンは、同じまたはより大きな効果を、より低いコストや制限のより緩いコストで得られる場合だ。&lt;/p&gt;
+
+&lt;p&gt;さて、次の2枚はどちらが良いカードだろう。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Counterspell / 対抗呪文&lt;/strong&gt; (青)(青)&lt;br /&gt;
+インスタント&lt;br /&gt;
+呪文1つを対象とし、それを打ち消す。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Dissipate / 雲散霧消&lt;/strong&gt; (1)(青)(青)&lt;br /&gt;
+インスタント&lt;br /&gt;
+呪文1つを対象とし、それを打ち消す。その呪文がこれにより打ち消された場合、それをオーナーの墓地に置く代わりに追放する。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;ほとんどのプレイヤーは《対抗呪文/Counterspell》を選ぶんじゃないか。しかし答えはそう単純ではない。いくつかの場合、《雲散霧消/Dissipate》のほうが役立つ場合がある。たとえばフラッシュバック持ちのカードや、フェニックスの類を相手にして長期戦をやる場合などだ。その場合、《対抗呪文/Counterspell》は十分な仕事を果たせないだろう。&lt;/p&gt;
+
+&lt;p&gt;とはいえ、答えを出すのが簡単な組み合わせもある。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;《対抗呪文/Counterspell》は《取り消し/Cancel》の上位互換だ。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;《対抗呪文/Counterspell》は《取り消し/Cancel》よりも良い。なぜなら、同じ効果でよりコストが低いからだ。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;《雲散霧消/Dissipate》は《取り消し/Cancel》の上位互換だ。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;《石鍛冶の神秘家/Stoneforge Mystic》が《従者/Squire》よりも良いように、《雲散霧消/Dissipate》は《取り消し/Cancel》と同じコストで、さらに強力な効果をもたらしてくれる。&lt;/p&gt;
+
+&lt;p&gt;バーン・カードには似たような関係にあるものが多い。&lt;/p&gt;
+
+&lt;p&gt;例えば……。&lt;/p&gt;
+
+&lt;p&gt;《稲妻/Lightning Bolt》と《火葬/Incinerate》の間に &lt;strong&gt;明確な&lt;/strong&gt; 上下関係はない。効果は《火葬/Incinerate》のほうが強力だからだ。しかし……。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;《稲妻/Lightning Bolt》は《稲妻の一撃/Lightning Strike》の上位互換だ。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;《稲妻/Lightning Bolt》と《稲妻の一撃/Lightning Strike》は全く同じ効果を持っている。しかし、《稲妻/Lightning Bolt》はコストが半分だ。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;《火葬/Incinerate》は《稲妻の一撃/Lightning Strike》の上位互換だ。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;《火葬/Incinerate》と《稲妻の一撃/Lightning Strike》はマナ・コストが同じだ。しかし、《火葬/Incinerate》のほうがある種のクリーチャーに対して強力で、より柔軟性がある。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;《稲妻の一撃/Lightning Strike》は《火山の鎚/Volcanic Hammer》の上位互換だ。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;《火山の鎚/Volcanic Hammer》は《稲妻の一撃/Lightning Strike》よりも柔軟性が低い。3枚のカードは全く同じ効果なのだが、1枚は《稲妻/Lightning Bolt》の2倍のコストが掛かり、しかも自分のメイン・フェイズにしか唱えられない。 &lt;em&gt;ショックなことに、その《火山の鎚/Volcanic Hammer》でさえ完全にプレイアブルなMTGのカードなんだけどな!&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;色をまたいだ場合のアドバンテージは明確でない&quot;&gt;色をまたいだ場合のアドバンテージは明確でない&lt;/h2&gt;
+
+&lt;p&gt;(あるいは、ほとんどの場合、まったくアドバンテージはない。)&lt;/p&gt;
+
+&lt;p&gt;ここで述べるのは、《サバンナ・ライオン/Savannah Lions》と《ジャッカルの仔/Jackal Pup》、《粉砕/Shatter》と《神への捧げ物/Divine Offering》、それぞれの事例で挙げたことの繰り返しになる。単に、色が違えば、強みや弱みも違うのだ。従って一見弱いカードであっても、他の色にある「より強い」バージョンよりも、より望ましく・より効果的で・より成功する可能性がある。&lt;/p&gt;
+
+&lt;p&gt;《灰色熊/Grizzly Bears》に興奮するプレイヤーは少ないだろう。ただし、殆どのプレイヤーは《灰色熊/Grizzly Bears》は《鉄爪のオーク/Ironclaw Orcs》より強力だということを知っている。&lt;/p&gt;
+
+&lt;p&gt;まとめてみようか。マナ・コストは(ほぼ)同一だ。パワー・タフネスも同じ。《灰色熊/Grizzly Bears》はまったくのバニラだが、《鉄爪のオーク/Ironclaw Orcs》には防御に欠点がある。&lt;/p&gt;
+
+&lt;p&gt;では実際にどうか。《灰色熊/Grizzly Bears》は競技的な構築戦においてまったく1ドルも稼ぐことができなかった。一方、《鉄爪のオーク/Ironclaw Orcs》は長年に渡り多くのフォーマットで、何百ドル・何千ドルという賞金を間違いなく稼いできた。&lt;/p&gt;
+
+&lt;p&gt;集合的な経験から、個人的な色の好み、似ていない効果まで、あらゆる実践的な事柄を我々は議論することができる。しかし、それらを「厳密に」議論することができるとは限らない。&lt;/p&gt;
+
+&lt;p&gt;「上位互換」なのか、「大抵はよい」のか、それとも他の何かなのか?&lt;/p&gt;
+
+&lt;p&gt;ここでは上位互換に当たる場合とそうでない場合をそれぞれ見ていこう。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;上位互換でない: 《島/Island》と《涙の川/River of Tears》&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;《涙の川/River of Tears》では様々なことができる。他の2色土地と違ってアンタップ状態で戦場に出るし、あなたにダメージを与えることもない。では1ターン目に《祖先の幻視/Ancestral Vision》を待機できるだろうか?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;上位互換でない: 《テューンの戦僧/War Priest of Thune》と《古の法の神/Kami of Ancient Law》&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;すべての指標が《テューンの戦僧/War Priest of Thune》が良いと叫んでいる。結局のところ《古の法の神/Kami of Ancient Law》は1対1交換ができるに過ぎないが、《テューンの戦僧/War Priest of Thune》は相手のエンチャントを壊した上で攻撃に回ることができるのだ。しかし、《古の法の神/Kami of Ancient Law》は効果を発揮するまで唱えるのを待つ必要がないので、より柔軟性が高いといえる。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;上位互換でない: 《青サビ/Verdigris》と《ヴィリジアンのシャーマン/Viridian Shaman》&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;他の選択肢があるのに、わざわざ重くて柔軟性の低い《青サビ/Verdigris》を選ぶプレイヤーを見つけるのは難しいだろう。しかし、同じコストである《ヴィリジアンのシャーマン/Viridian Shaman》が持っているアドバンテージ (2/2のボディ) でさえ、厳密なものではない。《青サビ/Verdigris》はインスタントであり、他の(2)(緑)で唱えられるカードと違った形で盤面に干渉する。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;上位互換でない: 《ギタクシア派の調査/Gitaxian Probe》と《のぞき見/Peek》&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;《ギタクシア派の調査/Gitaxian Probe》はマナ不要で唱えられるにもかかわらず、ソーサリーとインスタントの違いはその使用法に興味深い分断を生み出す。先週行われたプロツアー神々の軍勢で、両方のカードがトップ8のデッキに含まれていた。Alkioは《瞬唱の魔道士/Snapcaster Mage》との相性のために《のぞき見/Peek》を採用し、Dickmannは《タルモゴイフ/Tarmogoyf》を巨大化させるためにソーサリーを必要としていたのだ。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;UR Twin - Anssi Alkio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-mtg-deck&quot;&gt;4 Deceiver Exarch
+1 Kiki-Jiki, Mirror Breaker
+2 Pestermite
+4 Snapcaster Mage
+1 Spellskite
+2 Vendilion Clique
+4 Serum Visions
+2 Cryptic Command
+1 Dispel
+2 Electrolyze
+1 Izzet Charm
+4 Lightning Bolt
+1 Peek
+3 Remand
+1 Spell Snare
+4 Splinter Twin
+1 Desolate Lighthouse
+5 Island
+3 Misty Rainforest
+2 Mountain
+4 Scalding Tarn
+3 Steam Vents
+1 Stomping Ground
+3 Sulfur Falls
+1 Tectonic Edge
+
+1 Dispel
+3 Ancient Grudge
+2 Batterskull
+2 Blood Moon
+2 Flame Slash
+2 Grim Lavamancer
+2 Relic of Progenitus
+1 Threads of Disloyalty
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Tarmo-Twin - Patrick Dickmann&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-mtg-deck&quot;&gt;3 Deceiver Exarch
+3 Pestermite
+2 Scavenging Ooze
+4 Snapcaster Mage
+4 Tarmogoyf
+2 Flame Slash
+2 Gitaxian Probe
+4 Serum Visions
+2 Cryptic Command
+1 Electrolyze
+4 Lightning Bolt
+4 Remand
+4 Splinter Twin
+1 Breeding Pool
+1 Forest
+2 Hinterland Harbor
+2 Island
+4 Misty Rainforest
+1 Mountain
+4 Scalding Tarn
+3 Steam Vents
+1 Stomping Ground
+2 Sulfur Falls
+
+1 Scavenging Ooze
+2 Ancient Grudge
+2 Anger of the Gods
+1 Batterskull
+1 Combust
+1 Counterflux
+1 Dismember
+1 Dispel
+1 Engineered Explosives
+1 Nature's Claim
+1 Negate
+1 Spellskite
+1 Sword of Feast and Famine
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;ひょっとしたら予想外かもしれないが、以下が厳格な例だ。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;《氷河の城砦/Glacial Fortress》は《沿岸の塔/Coastal Tower》の上位互換&lt;/li&gt;
+  &lt;li&gt;《溶岩爪の辺境/Lavaclaw Reaches》は《アーボーグの火山/Urborg Volcano》の上位互換&lt;/li&gt;
+  &lt;li&gt;《Scrubland》は《神無き祭殿/Godless Shrine》の上位互換&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;既に気づいているかもしれないが、例えば現在のスタンダードのような比較的狭いフォーマットにおいて、純粋な上位互換はそれほど多くない。それ故に、この手の選別を行う能力は、より広いカードプールを見たりより大きなフォーマットをプレイするときにのみ発揮されることになるだろう。
+従って《エルフェイムの宮殿/Elfhame Palace》と《活発な野生林/Stirring Wildwood》や《陽花弁の木立ち/Sunpetal Grove》のように、実際には競合していないカードを同じ文脈で比較しようというのは、いささかアンフェアだったかもしれない。
+しかし、上位互換の概念について理解する力は、新しいカードを評価する上で役に立つ。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://web.archive.org/web/20141129021637/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/277b&quot;&gt;私のTom Martellへのインタビュー&lt;/a&gt; (訳注: リンク先はInternet Archive)を読めば、過去の知識やパフォーマンスをモデル化することが現在や未来における能力を高めるための近道だと、トップ・プレイヤーが考えていることがわかるだろう。だから、もしあなたがこれまでプレイされてきたカードの上位互換であるカードを見つけた場合(たとえば《粉砕/Shatter》の強化版とか)、新カードの評価において鋭い感覚(あるいは少なくとも手がかり)を与えてくれることだろう。&lt;/p&gt;
+
+&lt;p&gt;愛をこめて。&lt;/p&gt;
+
+&lt;p&gt;Mike&lt;/p&gt;</content><author><name></name></author><category term="[&quot;MTG&quot;, &quot;翻訳記事&quot;, &quot;海外公式サイト&quot;, &quot;Level One&quot;]" /><category term="Mike Flores" /><summary type="html">原文 この文章は海外公式サイト (DailyMTG)に掲載されていた(Common) Casting Costsの和訳である。原文の掲載は2014年2月24日だった。 初心者向け記事であるLevel One、Mike Flores氏版の第6回。 前回: [翻訳記事] 一般的なコスト 以下訳文。 以下のカードはどちらが良いカードだろうか。 Lightning Bolt / 稲妻 (赤) インスタント クリーチャー1体かプレイヤー1人を対象とする。稲妻はそれに3点のダメージを与える。 Tidings / 連絡 (3)(青)(青) ソーサリー カードを4枚引く。 殆どの人はおそらく《稲妻/Lightning Bolt》だと答えるんじゃないかと思う。 そして、実践の結果の殆どが、それが間違いでないことを示している。 しかし、《連絡/Tidings》は今日のスタンダードの原動力の役割を果たしている。 幾つかの特定の制約下において、《稲妻/Lightning Bolt》よりも《連絡/Tidings》を引きたいときが1度や2度ある。このことは認めることができるだろう。 では、この2枚はどうだろう。どちらがより良いカードだろう。 Savannah Lions / サバンナ・ライオン (白) クリーチャー - 猫(Cat) 2/1 Jackal Pup / ジャッカルの仔 (赤) クリーチャー - ジャッカル(Jackal) ジャッカルの仔にダメージが与えられるたび、それはあなたにそのダメージに等しい点数のダメージを与える。 2/1 新しいプレイヤーはとくに、デメリットのない白の2/1クリーチャーに魅力を感じるのではないか。 驚くべきことに、実戦においてはかなり長い間、ほほすべてのフォーマットにおいて《ジャッカルの仔/Jackal Pup》は《サバンナ・ライオン/Savannah Lions》よりも良い成績を残している。 白にはその2/1の攻撃を通すためのサポートカードがほとんどなく、一方で赤はライフが減るという欠点をあまり気にすることは(少なくとも気にする必要は)なかったのだ。 《ジャッカルの仔/Jackal Pup》には悲惨なデメリットがついていたが、赤に豊富にある安価な火力呪文が攻撃を通す手助けになった。 一方で、《サバンナ・ライオン/Savannah Lions》は先制攻撃持ちの2/2クリーチャーや、あるいは単純に大きいクリーチャーの前に立ちすくみ、引きこもるしかなかった。 《連絡/Tidings》よりも《稲妻/Lightning Bolt》が 常に 優れているとはいえないように、《サバンナ・ライオン/Savannah Lions》と《ジャッカルの仔/Jackal Pup》のどちらが 常に 良いかというということも決めることはできない。 あなたが自身のアイデアをまとめ、より効率的な自身のデッキを作るにあたって、ある概念が役に立つだろう。 その概念があれば、あるカードが他のカードよりも 常に 優れているのかどうかの基準を認識することができる。もちろん優れたカードを使うべきだ。 この概念を 上位互換 と呼ぶ。 前回、一般的なコストで述べた、《灰色オーガ/Gray Ogre》の嫌な思い出に立ち返ろう。 《灰色オーガ/Gray Ogre》が嫌なカードの選択である理由の1つは、同じコストならもっと他に良い選択肢があるからだ、と我々は議論した。 これは上位互換のよくある1つのパターンである。 同じコストでより価値が高いカード 少し前に、デメリットのない《サバンナ・ライオン/Savannah Lions》と比べて《ジャッカルの仔/Jackal Pup》のほうが大抵は効果的であることを述べた。これは、犬(や猟犬)が猫よりも強いからだろうか? 違う。(訳注: 現在《ジャッカルの仔/Jackal Pup》のクリーチャー・タイプはジャッカルだが、この記事が書かれた当時は猟犬だった。) これは、これらのカードを取り巻く他のカードの問題だ。 片方の色は、クリーチャーの質こそ劣っていたが、戦場に出ているものを押し返し、攻撃を押し通すだけの十分なサポートカードを持っていたのだ。 では、歴史の砂をふるい分け、1998年の人気者と2013年モデルを比べてみたらどうだろう。 Firedrinker Satyr / 火飲みのサテュロス (赤) クリーチャー - サテュロス(Satyr) シャーマン(Shaman) 火飲みのサテュロスにダメージが与えられるたび、これはその点数に等しい点数のダメージをあなたに与える。 (1)(赤): 火飲みのサテュロスはターン終了時まで+1/+0の修整を受けるとともにあなたに1点のダメージを与える。 2/1 《火飲みのサテュロス/Firedrinker Satyr》は《ジャッカルの仔/Jackal Pup》とまったく同じコストで、《ジャッカルの仔/Jackal Pup》とまったく同じ効果……にちょっとしたオマケがついてくる。 《火飲みのサテュロス/Firedrinker Satyr》を使えば、2ターン目に2ダメージ与えるだけでなく、後半のターンには3点以上のダメージを狙うこともできる。 自分も多少ダメージを食らうかもしれないが、《火飲みのサテュロス/Firedrinker Satyr》を相手のより大きなクリーチャーと交換することも可能だ。 一方で《ジャッカルの仔/Jackal Pup》はどうか。それは悲惨で、通常非効率的なチャンプ・ブロッカーにしかならないだろう。 《ジャッカルの仔/Jackal Pup》に対して、《火飲みのサテュロス/Firedrinker Satyr》はパンプアップ能力という追加の価値を持っている。これは、上位互換のありふれた形態の1つだ。 《火飲みのサテュロス/Firedrinker Satyr》はほぼ常に《ジャッカルの仔/Jackal Pup》より良いといえる。 《先兵の精鋭/Elite Vanguard》は2010年版の《サバンナ・ライオン/Savannah Lions》であり、見た目がちょっとかっこいいだけにすぎない。 しかし2013年版である《万神殿の兵士/Soldier of the Pantheon》は、《先兵の精鋭/Elite Vanguard》を周回遅れにしてしまうほど優れている。 《万神殿の兵士/Soldier of the Pantheon》はほぼすべての点で《先兵の精鋭/Elite Vanguard》と共通している。コスト・サイズ・そして人間であることも含めて。しかし毎ターン何の損失もなしに、テーロスの定番は《アゾリウスの魔除け/Azorius Charm》を避け、《慈善獣/Alms Beast》を押さえ込むことができる! 《万神殿の兵士/Soldier of the Pantheon》は《先兵の精鋭/Elite Vanguard》の上位互換だ。 一般的な話をすれば、デッキを作るときは上位互換のカードを選ぶべきだ。これは「常にそうすべきだ」という話ではない。これについては次回「冗長性」についての記事で触れよう。しかし、単にあるカードが他のカードより良いかどうか判断するのは全く難しいタスクではない。「他のカード」はたいていあまり良くないカードだからだ。先週のことを覚えているだろうか。 《躁の蛮人/Manic Vandal》は《灰色オーガ/Gray Ogre》の上位互換だ。 《スークアタの槍騎兵/Suq’Ata Lancer》は《灰色オーガ/Gray Ogre》の上位互換だ。 まあ確かに、《躁の蛮人/Manic Vandal》を戦場に出したとき、あなた自身のアーティファクトを破壊しなければならない場合があることは認めよう。しかしその事実は、《躁の蛮人/Manic Vandal》が機能するときにはそいつが非常に素晴らしいクリーチャーだという事実を曲げはしない。一方で《灰色オーガ/Gray Ogre》はあなたがプレイできるほぼすべてのカードよりも常に悪い。 すなわち、もし《スークアタの槍騎兵/Suq’Ata Lancer》をデッキに入れられるとしたら、《スークアタの槍騎兵/Suq’Ata Lancer》でなく《灰色オーガ/Gray Ogre》を使うなんて理由は見つけるほうが難しいということだ。 能力なしでは魅力のないクリーチャーに能力を追加すると、驚くほどの結果をもたらすことがある……。 《従者/Squire》 → 《石鍛冶の神秘家/Stoneforge Mystic》 《Balduvian Bears》 → 《野生の雑種犬/Wild Mongrel》 《モンスのゴブリン略奪隊/Mons’s Goblin Raiders》 → 《渋面の溶岩使い/Grim Lavamancer》 しかし、繰り返し言うが、これらの「素晴らしいカードは酷いカードより良い」パターンというのは、「あるカードが他のカードより優れている」一般的なケースのごく一部にすぎない。 このカードはどうだろう。 Shatter / 粉砕 (1)(赤) インスタント アーティファクト1つを対象とし、それを破壊する。 プロツアーの黎明期において、赤白のプレイヤー (赤と白の両方のマナを安定して生み出せるプレイヤー) は「5枚目の《解呪/Disenchant》」として《粉砕/Shatter》を使用していた。(これについても、来週の「冗長性」についての記事で再度取り上げる。) もちろん、一般的に《解呪/Disenchant》は《粉砕/Shatter》よりも優先して採用されるべきカードだ。しかし赤と白のマナを両方とも生み出すことができ、アーティファクトを壊せるカードが5枚以上ほしいのであれば………繰り返すが赤と白両方のカードを使えるのなら……《神への捧げ物/Divine Offering》を選んでも良いんじゃないか? Divine Offering / 神への捧げ物 (1)(白) インスタント アーティファクト1つを対象とし、それを破壊する。あなたは、その点数で見たマナ・コストに等しい点数のライフを得る。 この疑問の答えは、あなたがこのカードに出くわしたときに明らかになるだろう。 Gloom / 憂鬱 (2)(黒) エンチャント 白の呪文は、それを唱えるためのコストが(3)多くなる。 白のエンチャントの起動型能力は、それを起動するためのコストが(3)多くなる。 《神への捧げ物/Divine Offering》には大きなメリットがあるが手札で立ち往生してしまう。しかし《粉砕/Shatter》なら唱えることができるのだ! ここでのポイントは、書いてあることからはわかりにくいのだが、《粉砕/Shatter》はほぼいつでも(1)(赤)で唱えられるカードだということだ。 ここがデッキ・デザイナーにとっての素晴らしいシグナルになる! もし《粉砕/Shatter》が(《灰色オーガ/Gray Ogre》と違い)一貫して「十分に良い」カードだとして、明らかに追加の価値を得られるカードを見つけたら、(十分プレイアブルな)《粉砕/Shatter》よりも良いカードを見つけたと言えるだろう。 Ancient Grudge / 古えの遺恨 (1)(赤) インスタント アーティファクト1つを対象とし、それを破壊する。 フラッシュバック(緑) (あなたはあなたの墓地にあるこのカードを、そのフラッシュバック・コストで唱えてもよい。その後それを追放する。) Smash to Smithereens / 粉々 (1)(赤) インスタント アーティファクト1つを対象とし、それを破壊する。粉々は、そのアーティファクトのコントローラーに3点のダメージを与える。 Wear / 摩耗 (1)(赤) インスタント アーティファクト1つを対象とし、それを破壊する。 融合 (あなたはこのカードの片方の半分または両方の半分をあなたの手札から唱えてもよい。) Tear / 損耗 (白) インスタント エンチャント1つを対象とし、それを破壊する。 融合 (あなたはこのカードの片方の半分または両方の半分をあなたの手札から唱えてもよい。) これらのカードはすべて《粉砕/Shatter》よりも良い。なぜなら《火飲みのサテュロス/Firedrinker Satyr》のように、同じカードで元のカードより高い効果を発揮するからだ。 これらの事柄から、MTGには単純に素晴らしいカードがいくつもあることに気づいただろう! 《古えの遺恨/Ancient Grudge》は通常は《粉砕/Shatter》と同じカードだ。しかし、後半に(緑)を支払うと、追加の《粉砕/Shatter》を唱えることができる! 《古えの遺恨/Ancient Grudge》は複数の拡張されたフォーマットにおいて文字通り最高のカードだ。《金属モックス/Chrome Mox》や《等時の王笏/Isochron Scepter》のようなカードを何枚も出すプレイヤーがいる場合は特にそうだ。 《粉々/Smash to Smithereens》も《粉砕/Shatter》と同じことをしてくれる。しかし、《粉々/Smash to Smithereens》は赤の「バーン」テーマと驚異的なシナジーを発揮する。なぜなら《粉々/Smash to Smithereens》は《溶岩の撃ち込み/Lava Spike》と同じ効果を、全くの追加コストなしで発揮することができるからだ。正しいデッキ構築として、《古えの遺恨/Ancient Grudge》や《摩耗+損耗/Wear+Tear》のようなカードアドバンテージよりも、《粉々/Smash to Smithereens》を選ぶプレイヤーを目にすることができるかもしれない。 上で挙げた他の選択肢と同様に、《摩耗+損耗/Wear+Tear》も《粉砕/Shatter》と同じことができる。しかし時には、このカードを使ってエンチャントを破壊することも可能だ。そしてさらに、時には1対2交換をすることができる。(さらなる選択肢やさらなる価値を与えてくれるというわけだ。) 《摩耗+損耗/Wear+Tear》は現在(訳注: 2014年3月)のスタンダードで利用可能だが……何人かのミッドレンジ使いはこれが禁止されるのを待ち望んでいるだろうな! 《エレボスの鞭/Whip of Erebos》と《地下世界の人脈/Underworld Connections》を同じターンに破壊されたことはあるか? 《拘留の宝球/Detention Sphere》と《漸増爆弾/Ratchet Bomb》は? 《摩耗+損耗/Wear+Tear》自体が爆弾のように思えてくるだろう! 《英雄の破滅/Hero’s Downfall》は《殺害/Murder》の上位互換だ。 最新の基本セットにおいて、黒い単体除去の枠は《殺害/Murder》から《破滅の刃/Doom Blade》に再度置き換えられた。 《殺害/Murder》は《破滅の刃/Doom Blade》ほど人気にはなれなかったし、それほどプレイされていなかった。 一方で、殺害と同じコストの《英雄の破滅/Hero’s Downfall》はとても広く使われている。クリーチャー だけではなく プレインズウォーカーも殺せるという追加の柔軟性が、このカードをトップに押し上げているのだ。 同じような効果でよりコストが低いカード あるカードが他のカードの上位互換になるもう1つのパターンは、同じまたはより大きな効果を、より低いコストや制限のより緩いコストで得られる場合だ。 さて、次の2枚はどちらが良いカードだろう。 Counterspell / 対抗呪文 (青)(青) インスタント 呪文1つを対象とし、それを打ち消す。 Dissipate / 雲散霧消 (1)(青)(青) インスタント 呪文1つを対象とし、それを打ち消す。その呪文がこれにより打ち消された場合、それをオーナーの墓地に置く代わりに追放する。 ほとんどのプレイヤーは《対抗呪文/Counterspell》を選ぶんじゃないか。しかし答えはそう単純ではない。いくつかの場合、《雲散霧消/Dissipate》のほうが役立つ場合がある。たとえばフラッシュバック持ちのカードや、フェニックスの類を相手にして長期戦をやる場合などだ。その場合、《対抗呪文/Counterspell》は十分な仕事を果たせないだろう。 とはいえ、答えを出すのが簡単な組み合わせもある。 《対抗呪文/Counterspell》は《取り消し/Cancel》の上位互換だ。 《対抗呪文/Counterspell》は《取り消し/Cancel》よりも良い。なぜなら、同じ効果でよりコストが低いからだ。 《雲散霧消/Dissipate》は《取り消し/Cancel》の上位互換だ。 《石鍛冶の神秘家/Stoneforge Mystic》が《従者/Squire》よりも良いように、《雲散霧消/Dissipate》は《取り消し/Cancel》と同じコストで、さらに強力な効果をもたらしてくれる。 バーン・カードには似たような関係にあるものが多い。 例えば……。 《稲妻/Lightning Bolt》と《火葬/Incinerate》の間に 明確な 上下関係はない。効果は《火葬/Incinerate》のほうが強力だからだ。しかし……。 《稲妻/Lightning Bolt》は《稲妻の一撃/Lightning Strike》の上位互換だ。 《稲妻/Lightning Bolt》と《稲妻の一撃/Lightning Strike》は全く同じ効果を持っている。しかし、《稲妻/Lightning Bolt》はコストが半分だ。 《火葬/Incinerate》は《稲妻の一撃/Lightning Strike》の上位互換だ。 《火葬/Incinerate》と《稲妻の一撃/Lightning Strike》はマナ・コストが同じだ。しかし、《火葬/Incinerate》のほうがある種のクリーチャーに対して強力で、より柔軟性がある。 《稲妻の一撃/Lightning Strike》は《火山の鎚/Volcanic Hammer》の上位互換だ。 《火山の鎚/Volcanic Hammer》は《稲妻の一撃/Lightning Strike》よりも柔軟性が低い。3枚のカードは全く同じ効果なのだが、1枚は《稲妻/Lightning Bolt》の2倍のコストが掛かり、しかも自分のメイン・フェイズにしか唱えられない。 ショックなことに、その《火山の鎚/Volcanic Hammer》でさえ完全にプレイアブルなMTGのカードなんだけどな! 色をまたいだ場合のアドバンテージは明確でない (あるいは、ほとんどの場合、まったくアドバンテージはない。) ここで述べるのは、《サバンナ・ライオン/Savannah Lions》と《ジャッカルの仔/Jackal Pup》、《粉砕/Shatter》と《神への捧げ物/Divine Offering》、それぞれの事例で挙げたことの繰り返しになる。単に、色が違えば、強みや弱みも違うのだ。従って一見弱いカードであっても、他の色にある「より強い」バージョンよりも、より望ましく・より効果的で・より成功する可能性がある。 《灰色熊/Grizzly Bears》に興奮するプレイヤーは少ないだろう。ただし、殆どのプレイヤーは《灰色熊/Grizzly Bears》は《鉄爪のオーク/Ironclaw Orcs》より強力だということを知っている。 まとめてみようか。マナ・コストは(ほぼ)同一だ。パワー・タフネスも同じ。《灰色熊/Grizzly Bears》はまったくのバニラだが、《鉄爪のオーク/Ironclaw Orcs》には防御に欠点がある。 では実際にどうか。《灰色熊/Grizzly Bears》は競技的な構築戦においてまったく1ドルも稼ぐことができなかった。一方、《鉄爪のオーク/Ironclaw Orcs》は長年に渡り多くのフォーマットで、何百ドル・何千ドルという賞金を間違いなく稼いできた。 集合的な経験から、個人的な色の好み、似ていない効果まで、あらゆる実践的な事柄を我々は議論することができる。しかし、それらを「厳密に」議論することができるとは限らない。 「上位互換」なのか、「大抵はよい」のか、それとも他の何かなのか? ここでは上位互換に当たる場合とそうでない場合をそれぞれ見ていこう。 上位互換でない: 《島/Island》と《涙の川/River of Tears》 《涙の川/River of Tears》では様々なことができる。他の2色土地と違ってアンタップ状態で戦場に出るし、あなたにダメージを与えることもない。では1ターン目に《祖先の幻視/Ancestral Vision》を待機できるだろうか? 上位互換でない: 《テューンの戦僧/War Priest of Thune》と《古の法の神/Kami of Ancient Law》 すべての指標が《テューンの戦僧/War Priest of Thune》が良いと叫んでいる。結局のところ《古の法の神/Kami of Ancient Law》は1対1交換ができるに過ぎないが、《テューンの戦僧/War Priest of Thune》は相手のエンチャントを壊した上で攻撃に回ることができるのだ。しかし、《古の法の神/Kami of Ancient Law》は効果を発揮するまで唱えるのを待つ必要がないので、より柔軟性が高いといえる。 上位互換でない: 《青サビ/Verdigris》と《ヴィリジアンのシャーマン/Viridian Shaman》 他の選択肢があるのに、わざわざ重くて柔軟性の低い《青サビ/Verdigris》を選ぶプレイヤーを見つけるのは難しいだろう。しかし、同じコストである《ヴィリジアンのシャーマン/Viridian Shaman》が持っているアドバンテージ (2/2のボディ) でさえ、厳密なものではない。《青サビ/Verdigris》はインスタントであり、他の(2)(緑)で唱えられるカードと違った形で盤面に干渉する。 上位互換でない: 《ギタクシア派の調査/Gitaxian Probe》と《のぞき見/Peek》 《ギタクシア派の調査/Gitaxian Probe》はマナ不要で唱えられるにもかかわらず、ソーサリーとインスタントの違いはその使用法に興味深い分断を生み出す。先週行われたプロツアー神々の軍勢で、両方のカードがトップ8のデッキに含まれていた。Alkioは《瞬唱の魔道士/Snapcaster Mage》との相性のために《のぞき見/Peek》を採用し、Dickmannは《タルモゴイフ/Tarmogoyf》を巨大化させるためにソーサリーを必要としていたのだ。 UR Twin - Anssi Alkio 4 Deceiver Exarch 1 Kiki-Jiki, Mirror Breaker 2 Pestermite 4 Snapcaster Mage 1 Spellskite 2 Vendilion Clique 4 Serum Visions 2 Cryptic Command 1 Dispel 2 Electrolyze 1 Izzet Charm 4 Lightning Bolt 1 Peek 3 Remand 1 Spell Snare 4 Splinter Twin 1 Desolate Lighthouse 5 Island 3 Misty Rainforest 2 Mountain 4 Scalding Tarn 3 Steam Vents 1 Stomping Ground 3 Sulfur Falls 1 Tectonic Edge 1 Dispel 3 Ancient Grudge 2 Batterskull 2 Blood Moon 2 Flame Slash 2 Grim Lavamancer 2 Relic of Progenitus 1 Threads of Disloyalty Tarmo-Twin - Patrick Dickmann 3 Deceiver Exarch 3 Pestermite 2 Scavenging Ooze 4 Snapcaster Mage 4 Tarmogoyf 2 Flame Slash 2 Gitaxian Probe 4 Serum Visions 2 Cryptic Command 1 Electrolyze 4 Lightning Bolt 4 Remand 4 Splinter Twin 1 Breeding Pool 1 Forest 2 Hinterland Harbor 2 Island 4 Misty Rainforest 1 Mountain 4 Scalding Tarn 3 Steam Vents 1 Stomping Ground 2 Sulfur Falls 1 Scavenging Ooze 2 Ancient Grudge 2 Anger of the Gods 1 Batterskull 1 Combust 1 Counterflux 1 Dismember 1 Dispel 1 Engineered Explosives 1 Nature's Claim 1 Negate 1 Spellskite 1 Sword of Feast and Famine ひょっとしたら予想外かもしれないが、以下が厳格な例だ。 《氷河の城砦/Glacial Fortress》は《沿岸の塔/Coastal Tower》の上位互換 《溶岩爪の辺境/Lavaclaw Reaches》は《アーボーグの火山/Urborg Volcano》の上位互換 《Scrubland》は《神無き祭殿/Godless Shrine》の上位互換 既に気づいているかもしれないが、例えば現在のスタンダードのような比較的狭いフォーマットにおいて、純粋な上位互換はそれほど多くない。それ故に、この手の選別を行う能力は、より広いカードプールを見たりより大きなフォーマットをプレイするときにのみ発揮されることになるだろう。 従って《エルフェイムの宮殿/Elfhame Palace》と《活発な野生林/Stirring Wildwood》や《陽花弁の木立ち/Sunpetal Grove》のように、実際には競合していないカードを同じ文脈で比較しようというのは、いささかアンフェアだったかもしれない。 しかし、上位互換の概念について理解する力は、新しいカードを評価する上で役に立つ。 私のTom Martellへのインタビュー (訳注: リンク先はInternet Archive)を読めば、過去の知識やパフォーマンスをモデル化することが現在や未来における能力を高めるための近道だと、トップ・プレイヤーが考えていることがわかるだろう。だから、もしあなたがこれまでプレイされてきたカードの上位互換であるカードを見つけた場合(たとえば《粉砕/Shatter》の強化版とか)、新カードの評価において鋭い感覚(あるいは少なくとも手がかり)を与えてくれることだろう。 愛をこめて。 Mike</summary></entry><entry><title type="html">[翻訳記事] LSV氏のリミテッドレビューで過大評価されているカード・過小評価されているカード</title><link href="http://tefuda.suku.name/2017/07/25/%E7%BF%BB%E8%A8%B3%E8%A8%98%E4%BA%8B-LSV%E6%B0%8F%E3%81%AE%E3%83%AA%E3%83%9F%E3%83%86%E3%83%83%E3%83%89%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%A7%E9%81%8E%E5%A4%A7%E8%A9%95%E4%BE%A1%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%82%AB%E3%83%BC%E3%83%89-%E9%81%8E%E5%B0%8F%E8%A9%95%E4%BE%A1%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%82%AB%E3%83%BC%E3%83%89/" rel="alternate" type="text/html" title="[翻訳記事] LSV氏のリミテッドレビューで過大評価されているカード・過小評価されているカード" /><published>2017-07-25T09:00:00+09:00</published><updated>2017-07-25T09:00:00+09:00</updated><id>http://tefuda.suku.name/2017/07/25/%5B%E7%BF%BB%E8%A8%B3%E8%A8%98%E4%BA%8B%5D%20LSV%E6%B0%8F%E3%81%AE%E3%83%AA%E3%83%9F%E3%83%86%E3%83%83%E3%83%89%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%A7%E9%81%8E%E5%A4%A7%E8%A9%95%E4%BE%A1%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%82%AB%E3%83%BC%E3%83%89%E3%83%BB%E9%81%8E%E5%B0%8F%E8%A9%95%E4%BE%A1%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%82%AB%E3%83%BC%E3%83%89</id><content type="html" xml:base="http://tefuda.suku.name/2017/07/25/%E7%BF%BB%E8%A8%B3%E8%A8%98%E4%BA%8B-LSV%E6%B0%8F%E3%81%AE%E3%83%AA%E3%83%9F%E3%83%86%E3%83%83%E3%83%89%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%A7%E9%81%8E%E5%A4%A7%E8%A9%95%E4%BE%A1%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%82%AB%E3%83%BC%E3%83%89-%E9%81%8E%E5%B0%8F%E8%A9%95%E4%BE%A1%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%82%AB%E3%83%BC%E3%83%89/">&lt;h2 id=&quot;原文&quot;&gt;原文&lt;/h2&gt;
 
 &lt;p&gt;この文章は&lt;a href=&quot;http://www.channelfireball.com/&quot;&gt;Channel Fireball&lt;/a&gt;に掲載された&lt;a href=&quot;https://www.channelfireball.com/articles/the-most-overrated-underrated-cards-in-lsvs-hour-of-devastation-limited-review/&quot;&gt;The Most Overrated &amp;amp; Underrated Cards in LSV’s Hour of Devastation Limited Review&lt;/a&gt;の和訳である。原文の掲載は2017年7月11日だった。著者はAndrea Mengucci氏。&lt;/p&gt;
 
@@ -732,6 +1125,19 @@ X=4で唱えたとして、デッキから異なる名前の4マナクリーチ�
 
 &lt;p&gt;ミラー・マッチをプレイしている。デッキは60枚すべて《猿人の指導霊/Simian Spirit Guide》と《溶岩の撃ち込み/Lava Spike》の分割カードだ。あなたは先手と後手、どちらを選ぶべきだろうか。そして、その理由は何か。&lt;/p&gt;
 
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Simian Spirit Guide / 猿人の指導霊&lt;/strong&gt; (2)(赤)&lt;br /&gt;
+クリーチャー - 類人猿(Ape) スピリット(Spirit)&lt;br /&gt;
+あなたの手札にある猿人の指導霊を追放する: あなたのマナ・プールに(赤)を加える。&lt;br /&gt;
+2/2&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Lava Spike / 溶岩の撃ち込み&lt;/strong&gt; (赤)&lt;br /&gt;
+ソーサリー - 秘儀(Arcane)&lt;br /&gt;
+プレイヤー1人を対象とする。溶岩の撃ち込みはそのプレイヤーに3点のダメージを与える。&lt;/p&gt;
+&lt;/blockquote&gt;
+
 &lt;p&gt;回答は(訳注: Channel Fireballの)コメント欄に書いてほしい。私も解答をそこに書こう。&lt;/p&gt;
 
 &lt;h2 id=&quot;先手後手の実際のメリット&quot;&gt;先手・後手の実際のメリット&lt;/h2&gt;
@@ -971,7 +1377,7 @@ X=4で唱えたとして、デッキから異なる名前の4マナクリーチ�
   &lt;li&gt;後手を選ぶ。&lt;/li&gt;
   &lt;li&gt;先手が初手7枚をキープした場合、1回マリガンする。あとは可能な限り《猿人の指導霊/Simian Spirit Guide》を出し続ければ、ライブラリーアウトで勝てる。&lt;/li&gt;
   &lt;li&gt;先手がマリガンした場合、初手7枚をキープする。あとは可能な限り《猿人の指導霊/Simian Spirit Guide》を出して殴り続ければ、ライフを削りきって勝てる。&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="[&quot;MTG&quot;, &quot;翻訳記事&quot;, &quot;Channel Fireball&quot;]" /><category term="Nico Bohny" /><category term="理論" /><summary type="html">原文 この文章はChannel Fireballに掲載されたSolving the Very First Decision of the Game: Part 2の和訳である。原文の掲載は2017年7月20日だった。著者はNico Bohny氏。 先手・後手、どちらが有利かという話の第2回。前回はこちら。 以下訳文。 まず、第1回の記事を見逃してしまっている場合、先にそっちを読むことをおすすめする。 では今回も練習問題から始めよう。 ミラー・マッチをプレイしている。デッキは60枚すべて《猿人の指導霊/Simian Spirit Guide》と《溶岩の撃ち込み/Lava Spike》の分割カードだ。あなたは先手と後手、どちらを選ぶべきだろうか。そして、その理由は何か。 回答は(訳注: Channel Fireballの)コメント欄に書いてほしい。私も解答をそこに書こう。 先手・後手の実際のメリット 「そもそもなんでこんなバカげた練習問題をやらなければいけないのか?」とあなたは疑問に思うかもしれない。 理由は、この問題によって、先手後手のメリットの違いがうまい具合に浮き彫りになると考えるからである。 要約すると、これはテンポと追加のリソースとの比較だ。 もし先手を取れば、1ターン早く行動できる。もし後手を選べば、追加のカードを持った状態でゲームを進められる。 では実際に良いのはどちらだろうか? テンポ 先手を取ることで有利になるカードには、主に3つのカテゴリーがある。 これらのカテゴリーについて理解することは、あなた自身がこれらのカードを使用しない場合でも必要だろう。対戦相手がこの手のカードからアドバンテージを得ることを防ぐために必要なのだ。 雪だるま式(Snowball)カード 戦場に出ているだけでアドバンテージがどんどん増えていくカードだ。 この手のカードを放置しておくと、それだけでゲームが決まってしまうだろう。 プレインズウォーカーは典型的な雪だるま式カードであり、他の例としては以下が挙げられる。 《闇の腹心/Dark Confidant》 《巻きつき蛇/Winding Constrictor》 《僧院の導師/Monastery Mentor》 《群れネズミ/Pack Rat》 《影魔道士の浸透者/Shadowmage Infiltrator》 この手のカードはレアリティが高かったり、特定のシナジーが必要だったりするので、リミテッドよりも構築で見かける機会が多いだろう。しかし、他にももう少し弱い雪だるま式カードが存在する。例えば以下のようなカードだ。 《透彫虫の群棲/Fretwork Colony》 《牙長獣の仔/Longtusk Cub》 《オケチラの碑/Oketra’s Monument》 神河ブロックの本殿サイクル 攻撃的なカードや能力 もしあなたの計画がなるべく早く相手をビートダウンしきってしまうことであれば、先手を取るべきだ。 それにより、他の速いデッキとのレースを制しやすくなるし、強力な呪文を使ってくる前に遅いデッキを削りきることもたやすくなる。 MTGには攻撃的なメカニズムがたくさんある。例えば、督励・高名・加虐なんていうのがそうだ。 このようなメカニズムの存在は攻撃する動機になり、すなわち先手を選ぶ理由になる。 コンボ コンボデッキは大抵、1人回しのようなプレイングをすることになる。 対戦相手が何をしてもそれほど気にせず、できるだけ早くコンボを完成させることを考えるべきだ。 コンボを完成させる前に死んでしまっては意味が無いので、可能なかぎり早くゲームを進めねばならない。 もしミラー・マッチであれば、先手プレイヤーは多大なアドバンテージを得ているだろう。 最近《守護フェリダー/Felidar Guardian》と《霊気池の驚異/Aetherworks Marvel》が禁止になったわけだが、先手に有利がつきすぎるのも理由の1つではないかと私は考えている。 リソース MTGにはいくつかのリソースがあるが、カードとライフがもっとも重要だ。 ゲーム開始時に1枚多く手札を得ることには、以下のような特典がある。 マリガン時の保険になる カードを指定せず捨てさせる効果に耐性がつく 毎ターンの選択肢が広がる 色事故やマナ・スクリューの発生を抑制する たくさんの特典があるような気になるが、もしFrank Karstenが正確な数値を算出すれば、実際はそこまで魅力的でないことが明らかになるんじゃないか。(訳注: Frank Karsten氏はChannel FireballでMagic Mathという数学的記事を執筆している人物。) しかし、もしあなたと対戦相手が両方ともテンポをそれほど重視しないのであれば、リソースのアドバンテージを積極的に取りに行くべきだろう。 適切な決定を下すには、マッチアップと、そのマッチアップ中のあなたの立ち位置を評価しなければならない。 すごく簡単に言うと、高速なマッチアップにおいては先手を選ぶべきだし、低速なマッチアップにおいては後手を選ぶべきだ。しかし、これは完全に正しいというわけではない。あなたのアグロ・マッチアップがリソースの交換に終始するのであれば、後手を選ぶのが正しいこともありえる。あなたがコントロールをプレイしている場合でも、相手のデッキのほうがもっと長期戦に特化しているなら、可能な限り早急にゲームを終わらせる努力をすべきだ。この場合、先手を選ぶべきだし、ゲーム・プランも調整する必要がある。ただ、ライフを細かく削り取るようなマッチアップなら、カード1枚の価値はぐっと高くなるだろう。 遅いマッチアップにおけるあなたの立ち位置を明らかにしよう。負けたい場合や、巨大クリーチャーを使いたい場合は先手を取るべきで、削って勝ちたい場合は後手を選ぶべきだ。 経験則から言うと、あなたの回答が対戦相手が持つ脅威よりも軽くて数が多い場合に、追加のリソースの価値が最も大きくなる。例えばドラフトをプレイしていて、10枚の《致命的な一押し/Fatal Push》を持っているデッキで、10枚の《牙長獣の仔/Longtusk Cub》を持っている相手と戦う場合、後手を選ぶべきだ。(デッキの残りのカードによっては変わるかもしれない。) あなたが持っているのが《致命的な一押し/Fatal Push》でなく《不帰+回帰/Never+Return》なら、先手を取るべきだ (アモンケットのドラフトではめったにないことだろうが)。 ハースストーンを旅する Blizzardはバランスの取れたゲームを作ることで有名だ。MTGに似ているハースストーンにおいて、Blizzardが先手後手問題をどのように調整しているかは興味深い。 ハースストーンではプレイヤーAは初手3枚の状態でゲームが始まる。プレイヤーBは初手4枚に、コイン(《水蓮の花びら/Lotus Petal》だ)がある状態でゲームスタートだ。ということは、MTGでも後手に《水蓮の花びら/Lotus Petal》を与えるべきなのだろうか? いや違う。ヒーロー・パワーがマナ・シンク(訳注: マナ・フラッドの影響を軽減するカードのこと)の役割を果たすということもあるが、ハースストーンにおいては毎ターン「無料の土地」が得られる。つまりMTGでいうと毎ターン2枚、土地と呪文をドローしているようなものだ。これにより、後手が追加のカードを得るというアドバンテージは比較的小さくなる。ちょっとわかりやすくしてみようか。 ハースストーンのゲーム進行 プレイヤーA・第1ターン - カード4枚+土地1枚 (合計5枚) プレイヤーB・第1ターン - カード5枚+土地1枚 (合計6枚) プレイヤーA・第2ターン - カード5枚+土地2枚 (合計7枚) プレイヤーB・第2ターン - カード6枚+土地2枚 (合計8枚) プレイヤーA・第3ターン - カード6枚+土地3枚 (合計9枚) プレイヤーB・第3ターン - カード7枚+土地3枚 (合計10枚) つまりハースストーンにおいては、アクティブ・プレイヤーが他のプレイヤーより常に多くのリソースを持つことになる。しかし、プレイヤーAは先に行動できるというアドバンテージがあるので、そこはコインによって補償される。 MTGのゲーム進行 プレイヤーA・第1ターン - カード7枚 プレイヤーB・第1ターン - カード8枚 プレイヤーA・第2ターン - カード8枚 プレイヤーB・第2ターン - カード9枚 見ての通り、プレイヤーAのリソースはプレイヤーBのリソースを上回ることはない。プレイヤーAが先に行動できる代わりに、プレイヤーBにはコインではなく無料の《予言/Divination》が与えられているようなものだ。 理論から実戦へ シールド 私がMTGを始めた頃は、シールドでは後手を選ぶのが常識だった。一般的に除去はクリーチャーよりも強く、従ってシールドのゲームは極めて遅かったのだ。 また、多くのプレイヤーが色をタッチしていた。 現在ではどうか。クリーチャーは強力になっていて、(ブロックしにくいクリーチャーが多い場合はとくに)シールド戦は高速化している。 しかしそれでも、次の2つの場合を除けば後手を選ぶのもありだと私は考える。1つ目が、フォーマットがボム偏重で、デッキに十分な除去が入ってない場合。2つ目が、ブロックがしにくくなるような攻撃向けのキーワード能力(例えば高名・加虐・督励)を持ったカードがたくさんある場合だ。 アモンケット+破滅の刻環境の話をすると、自分が黒で序盤をしのげるなら私は通常後攻を選ぶだろう。督励持ちクリーチャー、とくに赤や白のものを多く持っているなら先手だ。 ドラフト 除去で一杯のデッキででもない限り、ゲーム1では先手を選ぶべきだろう。 ゲーム2での選択はマッチアップに依存する。 ミッドレンジやコントロールのマッチアップで、自分がそれほど攻撃的でないなら、私は後手を選びたい。 対戦相手がボムを持っていてそれに対処する手段がないなら、先手を選んで、そいつがまた暴れだす前に相手を倒したいところだ。 スタンダード 繰り返すが、マッチアップを理解していない場合、決して後手を選んではいけない。 プレインズウォーカーが登場して以来、遅いマッチアップでも後手を選ぶべき場合はごく稀なものになった。 後手を選ぶのが正しい選択だった時期が、スタンダードにも確かにあった。 すべてのミッドレンジの頂点に君臨するジャンドが極めて支配的だった時代だ。 ジャンドはミラー・マッチに向けて調整されており、《朽ちゆくヒル/Putrid Leech》の代わりに《天界の粛清/Celestial Purge》がメインから入っていた。 《荒廃稲妻/Blightning》は先手にとっては致命的な呪文であり、また、《血編み髪のエルフ/Bloodbraid Elf》をまっさらな盤面に出すのも大抵正しいプレイではなかった。これらの点で後手が有利だったのだ。 《白蘭の騎士/Knight of the White Orchid》も強力だったので、私は《白蘭の騎士/Knight of the White Orchid》入りのミッドレンジを使っていた。このデッキについても、ジャンドを相手にするときは後手を選ぶのが正解だった。 最近のスタンダードにおいては、青赤のミラー・マッチにおいては後手が正解なのではないかと思う。もしかすると《奔流の機械巨人/Torrential Gearhulk》入りのマッチアップすべてで後手有利かもしれない。 これらのマッチアップでは土地を置き続けることが勝利への鍵であり、脅威は回答に対して極めて重い。 もし青白デッキが複数の《試練に臨むギデオン/Gideon of the Trials》を使うとしたら、赤青デッキではギデオンに対抗する手段が限られるので、先手を選ぶべきという話になるかもしれない。ただ、青白デッキが現在の形のまま残るのであれば、青いデッキ同士のマッチアップは後手有利だと思う。 後手を選んだ場合や、ドローエンジンを稼働させ始めた場合、ライブラリーアウトで自爆してしまう可能性には気をつけてほしい。その手のカードが大量に入っていない場合でも、《イプヌの細流/Ipnu Rivulet》と《周到の砂漠/Desert of the Mindful》1～2枚の組み合わせは、これらのマッチアップで有効なテクニックではないか。 数ヶ月前では、機体デッキが支配的で、その機体デッキを倒す最高の選択は黒緑《巻きつき蛇/Winding Constrictor》だった。黒緑は4枚の《致命的な一押し/Fatal Push》と4枚の《闇の掌握/Grasp of Darkness》をデッキに入れている。こういった黒緑同士のマッチアップでも、後手でプレイしたい。 より下の環境 モダンは4ターンの環境だと言われる。大体4ターン目に勝負がついてしまうという意味だ。 ヴィンテージやレガシーはより高速な傾向がある。 4ターンキルされる側になるのは御免だ。4ターンキルを妨害し、より早く行動するためには、ダイス・ロールに勝って先手を選ぶべきである。 もちろん例外はどこにでもある。例えばマナレス・ドレッジは常に後手でプレイすべきだ。(つまり逆に、マナレス・ドレッジを相手にするときは自分が後手を選ぶべきだ。) モダンのジェスカイ・コントロールのような青いコントロールや、プレインズウォーカーの少ない《小悪疫/Smallpox》デッキのような細かく削るデッキのミラー・マッチのように、後手を選ぶべきかもしれない場合が他にもあるんじゃないかと思う。 補償能力 前回の記事で「補償/Compensate」という能力を作ってみた。これは最近のリミテッドやスタンダードにおける先手の有利を軽減するためのものだ。 今回は、スタンダードで興味深いものになるだろうレアのサイクルを試しに作ってみた。 (1)(黒) 伝説のクリーチャー - ゾンビ 補償 - ～が戦場に出たとき、あなたはカードを1枚引き、1点のライフを失う。もしあなたが後手であるなら、代わりにあなたはカードを2枚引き、2点のライフを失う。 1/1 (1)(白) 伝説のクリーチャー - 人間 補償 - ～が戦場に出たとき、あなたは警戒を持つ白の1/1の兵士クリーチャー・トークンを1体生成する。もしあなたが後手であるなら、代わりにそのトークンを2体生成する。 1/1 (1)(緑) 伝説のクリーチャー - エルフ 補償 - {T}: あなたのマナ・プールに(緑)を加える。もしあなたが後手であるなら、代わりにあなたのマナ・プールに(緑)(緑)を加える。 1/3 (赤) 伝説のクリーチャー - ゴブリン ～にダメージが与えられるたび、それはあなたにそのダメージに等しい点数のダメージを与える。 補償 - ～は+1/+1カウンターが1個置かれた状態で戦場に出る。 2/1 (1)(青) 伝説のクリーチャー - マーフォーク 補償 - ～が戦場に出たとき、クリーチャー1体を対象とし、それをタップする。そのクリーチャーは、それのコントローラーの次のアンタップ・ステップにアンタップしない。あなたが後手である場合、代わりにそのクリーチャーをそのオーナーの手札に戻す。 2/1 創意工夫せよ この記事を締めくくるにあたり、工夫によって後手有利になるような例を2つ挙げることにする。 ディスカード手段 私はキューブで遊ぶのが好きで、リアニメイトは最も好きなアーキタイプの1つだ。時折私は手札にファッティとリアニメイト呪文を抱えた状態で、そのファッティを捨てる呪文を探すのに苦労する。 解決策は簡単だ。後手を選び、土地を置かずにディスカードステップでファッティを捨てればよい。 これはマナレス・ドレッジのようなものだ。マナレス・ドレッジはマリガンや相手の《思考囲い/Thoughtseize》を避けねばならないが。 迷子 イニストラード+闇の隆盛環境のドラフトをするFNMに参加したとき、友人と対戦することになった。 彼は《森での迷子/Lost in the Woods》デッキ(1枚の《森での迷子/Lost in the Woods》と42枚の《森/Forest》でできている)を使用しており、 一度《森での迷子/Lost in the Woods》が着地してしまうと私の緑白デッキでは対処できなかった。 私はダイス・ロールに勝ち、後手を選んだ。彼は手札をキープし、私は0枚になるまでただマリガンした。そしてライブラリーアウトで私は勝ったのだ。 練習問題の回答 《猿人の指導霊/Simian Spirit Guide》/《溶岩の撃ち込み/Lava Spike》問題について、Channel Fireballのコメント欄に寄せられたTim Broman氏の回答を和訳。Nico Bohny氏いわく「Very nice analysis indeed!」とのこと。 まず、《猿人の指導霊/Simian Spirit Guide》を単なるマナ・ソースとして使用する場合、勝利には14枚のカードが必要になる。14枚に早く達するのは後手なので、この場合後手が勝つ。 先手が勝つとするなら、《猿人の指導霊/Simian Spirit Guide》をクリーチャーとして唱えた場合だろう。ベストなタイミングは1ターン目だ。これには4枚のカードが必要になる。 ライフ十分にある状態であるプレイヤーが《猿人の指導霊/Simian Spirit Guide》を唱えると、その相手も《猿人の指導霊/Simian Spirit Guide》を唱えて対応するしかない。そうでなければ《猿人の指導霊/Simian Spirit Guide》によって6点以上のダメージを受けてしまう。同じ4枚のカードを使用して2回《溶岩の撃ち込み/Lava Spike》を使うよりも高いダメージだ。 結果、《猿人の指導霊/Simian Spirit Guide》は次々に相討ちになる。これによって手札がどんどん消費され、《溶岩の撃ち込み/Lava Spike》で勝利するために必要な14枚が揃うことはなくなる。従って、この戦術をとる場合、後手はライブラリーアウトで負けるだろう。 つまり、先手が初手7枚をキープしたなら、後手はマリガンして手札を6枚に減らさねばならない。こうなると《溶岩の撃ち込み/Lava Spike》での勝利に必要な14枚のカードを先に揃えられるのは先手になる。しかし、先ほど先手が行ったのと同じ戦術を、今度は後手が使用できる。先手は後手が出す《猿人の指導霊/Simian Spirit Guide》を自身の《猿人の指導霊/Simian Spirit Guide》で対処せねばならず、そうしているうちに先にライブラリーアウトで負けてしまう。なぜなら先手が初手7枚をキープしてしまった場合、もうマリガンする機会は回ってこないからだ。 以上により、先手にとって初手7枚をキープすることは必敗のシナリオになる。先手はマリガンし、手札を6枚にしなければいけない。 先手の初手は6枚になる。それに対して後手が初手7枚をキープした場合、先手は先ほどと同じ《猿人の指導霊/Simian Spirit Guide》戦略に入ることができるようになる、かのように見える。しかし後手が1ターン目に2体の《猿人の指導霊/Simian Spirit Guide》を出せるのに対して、先手が2体目の《猿人の指導霊/Simian Spirit Guide》を出せるのは3ターン目だ。従って、1体の攻撃は1回ブロックを免れることになり、攻撃により2点のダメージが通ることになる。このサイクルは4ターン毎に繰り返される。そして、大体40ターン目(ライブラリーアウトが起きるより前)に後手が勝つ。 まとめると、最適な戦術は以下の通りである。 後手を選ぶ。 先手が初手7枚をキープした場合、1回マリガンする。あとは可能な限り《猿人の指導霊/Simian Spirit Guide》を出し続ければ、ライブラリーアウトで勝てる。 先手がマリガンした場合、初手7枚をキープする。あとは可能な限り《猿人の指導霊/Simian Spirit Guide》を出して殴り続ければ、ライフを削りきって勝てる。</summary></entry><entry><title type="html">[翻訳記事] ゲーム最初の難問を解く</title><link href="http://tefuda.suku.name/2017/07/22/%E7%BF%BB%E8%A8%B3%E8%A8%98%E4%BA%8B-%E3%82%B2%E3%83%BC%E3%83%A0%E6%9C%80%E5%88%9D%E3%81%AE%E9%9B%A3%E5%95%8F%E3%82%92%E8%A7%A3%E3%81%8F/" rel="alternate" type="text/html" title="[翻訳記事] ゲーム最初の難問を解く" /><published>2017-07-22T09:00:00+09:00</published><updated>2017-07-22T09:00:00+09:00</updated><id>http://tefuda.suku.name/2017/07/22/%5B%E7%BF%BB%E8%A8%B3%E8%A8%98%E4%BA%8B%5D%20%E3%82%B2%E3%83%BC%E3%83%A0%E6%9C%80%E5%88%9D%E3%81%AE%E9%9B%A3%E5%95%8F%E3%82%92%E8%A7%A3%E3%81%8F</id><content type="html" xml:base="http://tefuda.suku.name/2017/07/22/%E7%BF%BB%E8%A8%B3%E8%A8%98%E4%BA%8B-%E3%82%B2%E3%83%BC%E3%83%A0%E6%9C%80%E5%88%9D%E3%81%AE%E9%9B%A3%E5%95%8F%E3%82%92%E8%A7%A3%E3%81%8F/">&lt;h2 id=&quot;原文&quot;&gt;原文&lt;/h2&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="[&quot;MTG&quot;, &quot;翻訳記事&quot;, &quot;Channel Fireball&quot;]" /><category term="Nico Bohny" /><category term="理論" /><summary type="html">原文 この文章はChannel Fireballに掲載されたSolving the Very First Decision of the Game: Part 2の和訳である。原文の掲載は2017年7月20日だった。著者はNico Bohny氏。 先手・後手、どちらが有利かという話の第2回。前回はこちら。 以下訳文。 まず、第1回の記事を見逃してしまっている場合、先にそっちを読むことをおすすめする。 では今回も練習問題から始めよう。 ミラー・マッチをプレイしている。デッキは60枚すべて《猿人の指導霊/Simian Spirit Guide》と《溶岩の撃ち込み/Lava Spike》の分割カードだ。あなたは先手と後手、どちらを選ぶべきだろうか。そして、その理由は何か。 Simian Spirit Guide / 猿人の指導霊 (2)(赤) クリーチャー - 類人猿(Ape) スピリット(Spirit) あなたの手札にある猿人の指導霊を追放する: あなたのマナ・プールに(赤)を加える。 2/2 Lava Spike / 溶岩の撃ち込み (赤) ソーサリー - 秘儀(Arcane) プレイヤー1人を対象とする。溶岩の撃ち込みはそのプレイヤーに3点のダメージを与える。 回答は(訳注: Channel Fireballの)コメント欄に書いてほしい。私も解答をそこに書こう。 先手・後手の実際のメリット 「そもそもなんでこんなバカげた練習問題をやらなければいけないのか?」とあなたは疑問に思うかもしれない。 理由は、この問題によって、先手後手のメリットの違いがうまい具合に浮き彫りになると考えるからである。 要約すると、これはテンポと追加のリソースとの比較だ。 もし先手を取れば、1ターン早く行動できる。もし後手を選べば、追加のカードを持った状態でゲームを進められる。 では実際に良いのはどちらだろうか? テンポ 先手を取ることで有利になるカードには、主に3つのカテゴリーがある。 これらのカテゴリーについて理解することは、あなた自身がこれらのカードを使用しない場合でも必要だろう。対戦相手がこの手のカードからアドバンテージを得ることを防ぐために必要なのだ。 雪だるま式(Snowball)カード 戦場に出ているだけでアドバンテージがどんどん増えていくカードだ。 この手のカードを放置しておくと、それだけでゲームが決まってしまうだろう。 プレインズウォーカーは典型的な雪だるま式カードであり、他の例としては以下が挙げられる。 《闇の腹心/Dark Confidant》 《巻きつき蛇/Winding Constrictor》 《僧院の導師/Monastery Mentor》 《群れネズミ/Pack Rat》 《影魔道士の浸透者/Shadowmage Infiltrator》 この手のカードはレアリティが高かったり、特定のシナジーが必要だったりするので、リミテッドよりも構築で見かける機会が多いだろう。しかし、他にももう少し弱い雪だるま式カードが存在する。例えば以下のようなカードだ。 《透彫虫の群棲/Fretwork Colony》 《牙長獣の仔/Longtusk Cub》 《オケチラの碑/Oketra’s Monument》 神河ブロックの本殿サイクル 攻撃的なカードや能力 もしあなたの計画がなるべく早く相手をビートダウンしきってしまうことであれば、先手を取るべきだ。 それにより、他の速いデッキとのレースを制しやすくなるし、強力な呪文を使ってくる前に遅いデッキを削りきることもたやすくなる。 MTGには攻撃的なメカニズムがたくさんある。例えば、督励・高名・加虐なんていうのがそうだ。 このようなメカニズムの存在は攻撃する動機になり、すなわち先手を選ぶ理由になる。 コンボ コンボデッキは大抵、1人回しのようなプレイングをすることになる。 対戦相手が何をしてもそれほど気にせず、できるだけ早くコンボを完成させることを考えるべきだ。 コンボを完成させる前に死んでしまっては意味が無いので、可能なかぎり早くゲームを進めねばならない。 もしミラー・マッチであれば、先手プレイヤーは多大なアドバンテージを得ているだろう。 最近《守護フェリダー/Felidar Guardian》と《霊気池の驚異/Aetherworks Marvel》が禁止になったわけだが、先手に有利がつきすぎるのも理由の1つではないかと私は考えている。 リソース MTGにはいくつかのリソースがあるが、カードとライフがもっとも重要だ。 ゲーム開始時に1枚多く手札を得ることには、以下のような特典がある。 マリガン時の保険になる カードを指定せず捨てさせる効果に耐性がつく 毎ターンの選択肢が広がる 色事故やマナ・スクリューの発生を抑制する たくさんの特典があるような気になるが、もしFrank Karstenが正確な数値を算出すれば、実際はそこまで魅力的でないことが明らかになるんじゃないか。(訳注: Frank Karsten氏はChannel FireballでMagic Mathという数学的記事を執筆している人物。) しかし、もしあなたと対戦相手が両方ともテンポをそれほど重視しないのであれば、リソースのアドバンテージを積極的に取りに行くべきだろう。 適切な決定を下すには、マッチアップと、そのマッチアップ中のあなたの立ち位置を評価しなければならない。 すごく簡単に言うと、高速なマッチアップにおいては先手を選ぶべきだし、低速なマッチアップにおいては後手を選ぶべきだ。しかし、これは完全に正しいというわけではない。あなたのアグロ・マッチアップがリソースの交換に終始するのであれば、後手を選ぶのが正しいこともありえる。あなたがコントロールをプレイしている場合でも、相手のデッキのほうがもっと長期戦に特化しているなら、可能な限り早急にゲームを終わらせる努力をすべきだ。この場合、先手を選ぶべきだし、ゲーム・プランも調整する必要がある。ただ、ライフを細かく削り取るようなマッチアップなら、カード1枚の価値はぐっと高くなるだろう。 遅いマッチアップにおけるあなたの立ち位置を明らかにしよう。負けたい場合や、巨大クリーチャーを使いたい場合は先手を取るべきで、削って勝ちたい場合は後手を選ぶべきだ。 経験則から言うと、あなたの回答が対戦相手が持つ脅威よりも軽くて数が多い場合に、追加のリソースの価値が最も大きくなる。例えばドラフトをプレイしていて、10枚の《致命的な一押し/Fatal Push》を持っているデッキで、10枚の《牙長獣の仔/Longtusk Cub》を持っている相手と戦う場合、後手を選ぶべきだ。(デッキの残りのカードによっては変わるかもしれない。) あなたが持っているのが《致命的な一押し/Fatal Push》でなく《不帰+回帰/Never+Return》なら、先手を取るべきだ (アモンケットのドラフトではめったにないことだろうが)。 ハースストーンを旅する Blizzardはバランスの取れたゲームを作ることで有名だ。MTGに似ているハースストーンにおいて、Blizzardが先手後手問題をどのように調整しているかは興味深い。 ハースストーンではプレイヤーAは初手3枚の状態でゲームが始まる。プレイヤーBは初手4枚に、コイン(《水蓮の花びら/Lotus Petal》だ)がある状態でゲームスタートだ。ということは、MTGでも後手に《水蓮の花びら/Lotus Petal》を与えるべきなのだろうか? いや違う。ヒーロー・パワーがマナ・シンク(訳注: マナ・フラッドの影響を軽減するカードのこと)の役割を果たすということもあるが、ハースストーンにおいては毎ターン「無料の土地」が得られる。つまりMTGでいうと毎ターン2枚、土地と呪文をドローしているようなものだ。これにより、後手が追加のカードを得るというアドバンテージは比較的小さくなる。ちょっとわかりやすくしてみようか。 ハースストーンのゲーム進行 プレイヤーA・第1ターン - カード4枚+土地1枚 (合計5枚) プレイヤーB・第1ターン - カード5枚+土地1枚 (合計6枚) プレイヤーA・第2ターン - カード5枚+土地2枚 (合計7枚) プレイヤーB・第2ターン - カード6枚+土地2枚 (合計8枚) プレイヤーA・第3ターン - カード6枚+土地3枚 (合計9枚) プレイヤーB・第3ターン - カード7枚+土地3枚 (合計10枚) つまりハースストーンにおいては、アクティブ・プレイヤーが他のプレイヤーより常に多くのリソースを持つことになる。しかし、プレイヤーAは先に行動できるというアドバンテージがあるので、そこはコインによって補償される。 MTGのゲーム進行 プレイヤーA・第1ターン - カード7枚 プレイヤーB・第1ターン - カード8枚 プレイヤーA・第2ターン - カード8枚 プレイヤーB・第2ターン - カード9枚 見ての通り、プレイヤーAのリソースはプレイヤーBのリソースを上回ることはない。プレイヤーAが先に行動できる代わりに、プレイヤーBにはコインではなく無料の《予言/Divination》が与えられているようなものだ。 理論から実戦へ シールド 私がMTGを始めた頃は、シールドでは後手を選ぶのが常識だった。一般的に除去はクリーチャーよりも強く、従ってシールドのゲームは極めて遅かったのだ。 また、多くのプレイヤーが色をタッチしていた。 現在ではどうか。クリーチャーは強力になっていて、(ブロックしにくいクリーチャーが多い場合はとくに)シールド戦は高速化している。 しかしそれでも、次の2つの場合を除けば後手を選ぶのもありだと私は考える。1つ目が、フォーマットがボム偏重で、デッキに十分な除去が入ってない場合。2つ目が、ブロックがしにくくなるような攻撃向けのキーワード能力(例えば高名・加虐・督励)を持ったカードがたくさんある場合だ。 アモンケット+破滅の刻環境の話をすると、自分が黒で序盤をしのげるなら私は通常後攻を選ぶだろう。督励持ちクリーチャー、とくに赤や白のものを多く持っているなら先手だ。 ドラフト 除去で一杯のデッキででもない限り、ゲーム1では先手を選ぶべきだろう。 ゲーム2での選択はマッチアップに依存する。 ミッドレンジやコントロールのマッチアップで、自分がそれほど攻撃的でないなら、私は後手を選びたい。 対戦相手がボムを持っていてそれに対処する手段がないなら、先手を選んで、そいつがまた暴れだす前に相手を倒したいところだ。 スタンダード 繰り返すが、マッチアップを理解していない場合、決して後手を選んではいけない。 プレインズウォーカーが登場して以来、遅いマッチアップでも後手を選ぶべき場合はごく稀なものになった。 後手を選ぶのが正しい選択だった時期が、スタンダードにも確かにあった。 すべてのミッドレンジの頂点に君臨するジャンドが極めて支配的だった時代だ。 ジャンドはミラー・マッチに向けて調整されており、《朽ちゆくヒル/Putrid Leech》の代わりに《天界の粛清/Celestial Purge》がメインから入っていた。 《荒廃稲妻/Blightning》は先手にとっては致命的な呪文であり、また、《血編み髪のエルフ/Bloodbraid Elf》をまっさらな盤面に出すのも大抵正しいプレイではなかった。これらの点で後手が有利だったのだ。 《白蘭の騎士/Knight of the White Orchid》も強力だったので、私は《白蘭の騎士/Knight of the White Orchid》入りのミッドレンジを使っていた。このデッキについても、ジャンドを相手にするときは後手を選ぶのが正解だった。 最近のスタンダードにおいては、青赤のミラー・マッチにおいては後手が正解なのではないかと思う。もしかすると《奔流の機械巨人/Torrential Gearhulk》入りのマッチアップすべてで後手有利かもしれない。 これらのマッチアップでは土地を置き続けることが勝利への鍵であり、脅威は回答に対して極めて重い。 もし青白デッキが複数の《試練に臨むギデオン/Gideon of the Trials》を使うとしたら、赤青デッキではギデオンに対抗する手段が限られるので、先手を選ぶべきという話になるかもしれない。ただ、青白デッキが現在の形のまま残るのであれば、青いデッキ同士のマッチアップは後手有利だと思う。 後手を選んだ場合や、ドローエンジンを稼働させ始めた場合、ライブラリーアウトで自爆してしまう可能性には気をつけてほしい。その手のカードが大量に入っていない場合でも、《イプヌの細流/Ipnu Rivulet》と《周到の砂漠/Desert of the Mindful》1～2枚の組み合わせは、これらのマッチアップで有効なテクニックではないか。 数ヶ月前では、機体デッキが支配的で、その機体デッキを倒す最高の選択は黒緑《巻きつき蛇/Winding Constrictor》だった。黒緑は4枚の《致命的な一押し/Fatal Push》と4枚の《闇の掌握/Grasp of Darkness》をデッキに入れている。こういった黒緑同士のマッチアップでも、後手でプレイしたい。 より下の環境 モダンは4ターンの環境だと言われる。大体4ターン目に勝負がついてしまうという意味だ。 ヴィンテージやレガシーはより高速な傾向がある。 4ターンキルされる側になるのは御免だ。4ターンキルを妨害し、より早く行動するためには、ダイス・ロールに勝って先手を選ぶべきである。 もちろん例外はどこにでもある。例えばマナレス・ドレッジは常に後手でプレイすべきだ。(つまり逆に、マナレス・ドレッジを相手にするときは自分が後手を選ぶべきだ。) モダンのジェスカイ・コントロールのような青いコントロールや、プレインズウォーカーの少ない《小悪疫/Smallpox》デッキのような細かく削るデッキのミラー・マッチのように、後手を選ぶべきかもしれない場合が他にもあるんじゃないかと思う。 補償能力 前回の記事で「補償/Compensate」という能力を作ってみた。これは最近のリミテッドやスタンダードにおける先手の有利を軽減するためのものだ。 今回は、スタンダードで興味深いものになるだろうレアのサイクルを試しに作ってみた。 (1)(黒) 伝説のクリーチャー - ゾンビ 補償 - ～が戦場に出たとき、あなたはカードを1枚引き、1点のライフを失う。もしあなたが後手であるなら、代わりにあなたはカードを2枚引き、2点のライフを失う。 1/1 (1)(白) 伝説のクリーチャー - 人間 補償 - ～が戦場に出たとき、あなたは警戒を持つ白の1/1の兵士クリーチャー・トークンを1体生成する。もしあなたが後手であるなら、代わりにそのトークンを2体生成する。 1/1 (1)(緑) 伝説のクリーチャー - エルフ 補償 - {T}: あなたのマナ・プールに(緑)を加える。もしあなたが後手であるなら、代わりにあなたのマナ・プールに(緑)(緑)を加える。 1/3 (赤) 伝説のクリーチャー - ゴブリン ～にダメージが与えられるたび、それはあなたにそのダメージに等しい点数のダメージを与える。 補償 - ～は+1/+1カウンターが1個置かれた状態で戦場に出る。 2/1 (1)(青) 伝説のクリーチャー - マーフォーク 補償 - ～が戦場に出たとき、クリーチャー1体を対象とし、それをタップする。そのクリーチャーは、それのコントローラーの次のアンタップ・ステップにアンタップしない。あなたが後手である場合、代わりにそのクリーチャーをそのオーナーの手札に戻す。 2/1 創意工夫せよ この記事を締めくくるにあたり、工夫によって後手有利になるような例を2つ挙げることにする。 ディスカード手段 私はキューブで遊ぶのが好きで、リアニメイトは最も好きなアーキタイプの1つだ。時折私は手札にファッティとリアニメイト呪文を抱えた状態で、そのファッティを捨てる呪文を探すのに苦労する。 解決策は簡単だ。後手を選び、土地を置かずにディスカードステップでファッティを捨てればよい。 これはマナレス・ドレッジのようなものだ。マナレス・ドレッジはマリガンや相手の《思考囲い/Thoughtseize》を避けねばならないが。 迷子 イニストラード+闇の隆盛環境のドラフトをするFNMに参加したとき、友人と対戦することになった。 彼は《森での迷子/Lost in the Woods》デッキ(1枚の《森での迷子/Lost in the Woods》と42枚の《森/Forest》でできている)を使用しており、 一度《森での迷子/Lost in the Woods》が着地してしまうと私の緑白デッキでは対処できなかった。 私はダイス・ロールに勝ち、後手を選んだ。彼は手札をキープし、私は0枚になるまでただマリガンした。そしてライブラリーアウトで私は勝ったのだ。 練習問題の回答 《猿人の指導霊/Simian Spirit Guide》/《溶岩の撃ち込み/Lava Spike》問題について、Channel Fireballのコメント欄に寄せられたTim Broman氏の回答を和訳。Nico Bohny氏いわく「Very nice analysis indeed!」とのこと。 まず、《猿人の指導霊/Simian Spirit Guide》を単なるマナ・ソースとして使用する場合、勝利には14枚のカードが必要になる。14枚に早く達するのは後手なので、この場合後手が勝つ。 先手が勝つとするなら、《猿人の指導霊/Simian Spirit Guide》をクリーチャーとして唱えた場合だろう。ベストなタイミングは1ターン目だ。これには4枚のカードが必要になる。 ライフ十分にある状態であるプレイヤーが《猿人の指導霊/Simian Spirit Guide》を唱えると、その相手も《猿人の指導霊/Simian Spirit Guide》を唱えて対応するしかない。そうでなければ《猿人の指導霊/Simian Spirit Guide》によって6点以上のダメージを受けてしまう。同じ4枚のカードを使用して2回《溶岩の撃ち込み/Lava Spike》を使うよりも高いダメージだ。 結果、《猿人の指導霊/Simian Spirit Guide》は次々に相討ちになる。これによって手札がどんどん消費され、《溶岩の撃ち込み/Lava Spike》で勝利するために必要な14枚が揃うことはなくなる。従って、この戦術をとる場合、後手はライブラリーアウトで負けるだろう。 つまり、先手が初手7枚をキープしたなら、後手はマリガンして手札を6枚に減らさねばならない。こうなると《溶岩の撃ち込み/Lava Spike》での勝利に必要な14枚のカードを先に揃えられるのは先手になる。しかし、先ほど先手が行ったのと同じ戦術を、今度は後手が使用できる。先手は後手が出す《猿人の指導霊/Simian Spirit Guide》を自身の《猿人の指導霊/Simian Spirit Guide》で対処せねばならず、そうしているうちに先にライブラリーアウトで負けてしまう。なぜなら先手が初手7枚をキープしてしまった場合、もうマリガンする機会は回ってこないからだ。 以上により、先手にとって初手7枚をキープすることは必敗のシナリオになる。先手はマリガンし、手札を6枚にしなければいけない。 先手の初手は6枚になる。それに対して後手が初手7枚をキープした場合、先手は先ほどと同じ《猿人の指導霊/Simian Spirit Guide》戦略に入ることができるようになる、かのように見える。しかし後手が1ターン目に2体の《猿人の指導霊/Simian Spirit Guide》を出せるのに対して、先手が2体目の《猿人の指導霊/Simian Spirit Guide》を出せるのは3ターン目だ。従って、1体の攻撃は1回ブロックを免れることになり、攻撃により2点のダメージが通ることになる。このサイクルは4ターン毎に繰り返される。そして、大体40ターン目(ライブラリーアウトが起きるより前)に後手が勝つ。 まとめると、最適な戦術は以下の通りである。 後手を選ぶ。 先手が初手7枚をキープした場合、1回マリガンする。あとは可能な限り《猿人の指導霊/Simian Spirit Guide》を出し続ければ、ライブラリーアウトで勝てる。 先手がマリガンした場合、初手7枚をキープする。あとは可能な限り《猿人の指導霊/Simian Spirit Guide》を出して殴り続ければ、ライフを削りきって勝てる。</summary></entry><entry><title type="html">[翻訳記事] ゲーム最初の難問を解く</title><link href="http://tefuda.suku.name/2017/07/22/%E7%BF%BB%E8%A8%B3%E8%A8%98%E4%BA%8B-%E3%82%B2%E3%83%BC%E3%83%A0%E6%9C%80%E5%88%9D%E3%81%AE%E9%9B%A3%E5%95%8F%E3%82%92%E8%A7%A3%E3%81%8F/" rel="alternate" type="text/html" title="[翻訳記事] ゲーム最初の難問を解く" /><published>2017-07-22T09:00:00+09:00</published><updated>2017-07-22T09:00:00+09:00</updated><id>http://tefuda.suku.name/2017/07/22/%5B%E7%BF%BB%E8%A8%B3%E8%A8%98%E4%BA%8B%5D%20%E3%82%B2%E3%83%BC%E3%83%A0%E6%9C%80%E5%88%9D%E3%81%AE%E9%9B%A3%E5%95%8F%E3%82%92%E8%A7%A3%E3%81%8F</id><content type="html" xml:base="http://tefuda.suku.name/2017/07/22/%E7%BF%BB%E8%A8%B3%E8%A8%98%E4%BA%8B-%E3%82%B2%E3%83%BC%E3%83%A0%E6%9C%80%E5%88%9D%E3%81%AE%E9%9B%A3%E5%95%8F%E3%82%92%E8%A7%A3%E3%81%8F/">&lt;h2 id=&quot;原文&quot;&gt;原文&lt;/h2&gt;
 
 &lt;p&gt;この文章は&lt;a href=&quot;http://www.channelfireball.com/&quot;&gt;Channel Fireball&lt;/a&gt;に掲載された&lt;a href=&quot;https://www.channelfireball.com/articles/solving-the-very-first-decision-of-the-game/&quot;&gt;Solving the Very First Decision of the Game&lt;/a&gt;の和訳である。原文の掲載は2017年7月4日だった。著者はNico Bohny氏。&lt;/p&gt;
 
@@ -1000,7 +1406,7 @@ X=4で唱えたとして、デッキから異なる名前の4マナクリーチ�
 &lt;p&gt;（訳注: 第1問は原文だと《島/Island》と《蒸気の精/Vaporkin》だったが、コメント欄によると誤りとのこと)&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Olivia’s Bloodsworn / オリヴィアの血誓い (1)(黒)&lt;br /&gt;
+  &lt;p&gt;&lt;strong&gt;Olivia’s Bloodsworn / オリヴィアの血誓い&lt;/strong&gt; (1)(黒)&lt;br /&gt;
 クリーチャー - 吸血鬼(Vampire) 兵士(Soldier)&lt;br /&gt;
 飛行 &lt;br /&gt;
 オリヴィアの血誓いではブロックできない。 &lt;br /&gt;
@@ -1009,13 +1415,13 @@ X=4で唱えたとして、デッキから異なる名前の4マナクリーチ�
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Shock / ショック (赤)&lt;br /&gt;
+  &lt;p&gt;&lt;strong&gt;Shock / ショック&lt;/strong&gt; (赤)&lt;br /&gt;
 インスタント&lt;br /&gt;
 クリーチャー1体かプレイヤー1人を対象とする。ショックはそれに2点のダメージを与える。&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Grizzly Bears / 灰色熊 (1)(緑)&lt;br /&gt;
+  &lt;p&gt;&lt;strong&gt;Grizzly Bears / 灰色熊&lt;/strong&gt; (1)(緑)&lt;br /&gt;
 クリーチャー - 熊(Bear)&lt;br /&gt;
 2/2&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1076,7 +1482,7 @@ X=4で唱えたとして、デッキから異なる名前の4マナクリーチ�
 &lt;p&gt;&lt;strong&gt;新能力語・補償(Compensate)&lt;/strong&gt; : もしあなたが後手であれば、あなたは補償を得る。&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;開発部の新たな信仰/Renewed Faith in R&amp;amp;D (2)(白)&lt;br /&gt;
+  &lt;p&gt;&lt;strong&gt;開発部の新たな信仰/Renewed Faith in R&amp;amp;D&lt;/strong&gt; (2)(白)&lt;br /&gt;
 インスタント&lt;br /&gt;
 &lt;em&gt;補償 -&lt;/em&gt; あなたは6点のライフを得る。あなたが後手である場合、代わりにあなたは8点のライフを得る。&lt;br /&gt;
 サイクリング (1)(白)&lt;br /&gt;
@@ -1084,7 +1490,7 @@ X=4で唱えたとして、デッキから異なる名前の4マナクリーチ�
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;常に列の最後にいるもの、悲しいパンダ/Sad Panda, Always Last Bear in the Row (1)(緑)&lt;br /&gt;
+  &lt;p&gt;&lt;strong&gt;常に列の最後にいるもの、悲しいパンダ/Sad Panda, Always Last Bear in the Row&lt;/strong&gt; (1)(緑)&lt;br /&gt;
 伝説のクリーチャー - 熊&lt;br /&gt;
 &lt;em&gt;補償 -&lt;/em&gt; あなたが後手であるかぎり、～は+0/+2の修整を受けるとともに、店のクーポン券を得る。&lt;br /&gt;
 2/2&lt;/p&gt;
@@ -1093,7 +1499,7 @@ X=4で唱えたとして、デッキから異なる名前の4マナクリーチ�
 &lt;p&gt;(訳注: サウスパークネタっぽいがよくわからない。)&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;愉快な警察官/Fun Police Officer (1)(赤)&lt;br /&gt;
+  &lt;p&gt;&lt;strong&gt;愉快な警察官/Fun Police Officer&lt;/strong&gt; (1)(赤)&lt;br /&gt;
 クリーチャー&lt;br /&gt;
 先制攻撃&lt;br /&gt;
 &lt;em&gt;補償 -&lt;/em&gt; あなたが後手であるかぎり、～は速攻を持つ。&lt;br /&gt;
@@ -1101,14 +1507,14 @@ X=4で唱えたとして、デッキから異なる名前の4マナクリーチ�
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;偉大なる取り消しをもう一度/Make Cancel great again (1)(青)(青)&lt;br /&gt;
+  &lt;p&gt;&lt;strong&gt;偉大なる取り消しをもう一度/Make Cancel great again&lt;/strong&gt; (1)(青)(青)&lt;br /&gt;
 インスタント&lt;br /&gt;
 呪文1つを対象とし、それを打ち消す。&lt;br /&gt;
 &lt;em&gt;補償 -&lt;/em&gt; あなたが後手であるかぎり、あなたが～を唱えるためのコストは(1)だけ小さくなる。&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;貪欲なる死のネズミ (1)(黒)&lt;br /&gt;
+  &lt;p&gt;&lt;strong&gt;貪欲なる死のネズミ/Ravenous Rats of Death&lt;/strong&gt; (1)(黒)&lt;br /&gt;
 クリーチャー - ネズミ&lt;br /&gt;
 ～が戦場に出たとき、プレイヤー1人を対象とする。そのプレイヤーは手札を1枚捨てる。&lt;br /&gt;
 &lt;em&gt;補償 -&lt;/em&gt; あなたが後手であるかぎり、～は絆魂と接死を持つ。&lt;br /&gt;
@@ -1187,7 +1593,7 @@ X=4で唱えたとして、デッキから異なる名前の4マナクリーチ�
   &lt;li&gt;MTGと他のカードゲーム、とくにハースストーンとの比較&lt;/li&gt;
   &lt;li&gt;補償能力の別のかたち&lt;/li&gt;
   &lt;li&gt;リミテッドや構築で、後手を選ぶかどうかの判断基準&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="[&quot;MTG&quot;, &quot;翻訳記事&quot;, &quot;Channel Fireball&quot;]" /><category term="Nico Bohny" /><category term="理論" /><summary type="html">原文 この文章はChannel Fireballに掲載されたSolving the Very First Decision of the Gameの和訳である。原文の掲載は2017年7月4日だった。著者はNico Bohny氏。 要するに、先手・後手、どちらが有利かという話。続きはこちら。 以下訳文。 公平を期すために述べると、このタイトルが当てはまるのは、あなたのゲームの半分だけだ。 先手か後手か? それがこの記事で取り上げたい問題だ。 私自身は頻繁に後手を選ぶが、殆どのプレイヤーはこの問題をさほど深く考えていないように思える。 ではいくつかの練習問題から始めよう。ミラー・マッチをしていて、デッキは60枚すべてが分割カードだ。 問題は、あなたは先手と後手どちらを選ぶべきなのか、そしてそれはなぜか、である。 デッキがすべて《沼/Swamp》と《オリヴィアの血誓い/Olivia’s Bloodsworn》の分割カードである場合。先手と後手どちらを選ぶべき? デッキがすべて《山/Mountain》と《ショック/Shock》の分割カードである場合。先手と後手どちらを選ぶべき? デッキがすべて《森/Forest》と《灰色熊/Grizzly Bears》の分割カードである場合。先手と後手どちらを選ぶべき? （訳注: 第1問は原文だと《島/Island》と《蒸気の精/Vaporkin》だったが、コメント欄によると誤りとのこと) Olivia’s Bloodsworn / オリヴィアの血誓い (1)(黒) クリーチャー - 吸血鬼(Vampire) 兵士(Soldier) 飛行 オリヴィアの血誓いではブロックできない。 (赤): 吸血鬼(Vampire)1体を対象とする。ターン終了時まで、それは速攻を得る。 2/1 Shock / ショック (赤) インスタント クリーチャー1体かプレイヤー1人を対象とする。ショックはそれに2点のダメージを与える。 Grizzly Bears / 灰色熊 (1)(緑) クリーチャー - 熊(Bear) 2/2 この記事の後半で解答を読むことができる。 注意しておくが、この問題は見た目ほど優しくない。 近年における変更 私はインベイジョンが出た頃に競技マジックを始め、シールドやドラフトを好んでプレイしていた。 私は構築戦もプレイしていたが、当時の私のデッキはドラフトデッキのようなものだった。 かつて、シールド戦では後手を選ぶのが常識だった。 ドラフトにおいても、我々は時折後手を選んでいた。(メルカディアン・マスクスのドラフト以降の話だが。) スタンダードでも、後手を積極的に選びたくなるようなデッキを数多く作ってきた。 現在のドラフトにおいて、99%のプレイヤーにとって最初にドローできるかどうかは最早関心事ではない。 シールドにおいてさえ、殆どのプレイヤーが後手を避けるべきだと主張している。 構築線では、後手を選ぶことは話題にも上がらない。 ここ数年で何が変わったんだろうか。 カードパワーのインフレ クリーチャーはより強力になった。一方で呪文、特に除去呪文は弱体化している。 クリーチャーは通常先手にとって有利なカードである。 なぜなら、2マナクリーチャーで攻撃する際、3マナクリーチャーを相手にするより2マナクリーチャーを相手にするほうがマシだからだ。 また、先手で2ターン目にクリーチャーを出せなかった場合でも、後手で2ターン目にクリーチャーを出せない場合よりはずっと被害が少ない。 後手のクリーチャーを有利にするのはリソースの交換だ。 その場合テンポはそこまで重要でなく、後手のプレイヤーは1枚手札を多く引いているからである。 督励のような攻撃的なクリーチャーの能力は、そのリソースの交換をしづらくするだろう。 その場合、除去に頼らざるを得ない。 しかし最近の除去は極めて重いので、序盤のクリーチャーに干渉することは難しいだろうし、しばしばその高速な怪物に殴り殺されることになるだろう。 リミテッドにおいてはクリーチャーが重要なので、したがってあなたは先手をより多く選ぶべきだということになる。 マリガン時の占術ルール 最初にドローできることは、マリガンに対する保険のような役割を果たしていた。 今では代わりに、マリガン後に占術できる新ルールが保険の役割を果たしている。 5枚までマリガンすることは少ないので、その分自由度が減ることも少ない。 アグロデッキは手札が6枚か7枚あれば問題なく動作するし、占術は足りないパーツを探すのに役立つ。 ミッドレンジでは強力な呪文を唱えるために多くの土地が必要なので、手札が7枚であることはより重要になる。 プレインズウォーカーの存在 プレインズウォーカーは神話レアなので、それがレアだったローウィンの頃のように頻繁に見かけることはないだろう。 しかし、プレインズウォーカーがゲームのテンポに与える影響は大きい。 プレインズウォーカーを着地させる盤面はできるだけ安定したものであるべきであり、ここでも先手が有利だ。 WotCはどのように改善できるか? 私はゲームデザイナーではないが、少し考えてみよう。 新能力語・補償(Compensate) : もしあなたが後手であれば、あなたは補償を得る。 開発部の新たな信仰/Renewed Faith in R&amp;amp;D (2)(白) インスタント 補償 - あなたは6点のライフを得る。あなたが後手である場合、代わりにあなたは8点のライフを得る。 サイクリング (1)(白) 補償 - あなたが～をサイクリングしたとき、あなたは2点のライフを得てもよい。あなたが後手である場合、代わりにあなたは4点のライフを得てもよい。 常に列の最後にいるもの、悲しいパンダ/Sad Panda, Always Last Bear in the Row (1)(緑) 伝説のクリーチャー - 熊 補償 - あなたが後手であるかぎり、～は+0/+2の修整を受けるとともに、店のクーポン券を得る。 2/2 (訳注: サウスパークネタっぽいがよくわからない。) 愉快な警察官/Fun Police Officer (1)(赤) クリーチャー 先制攻撃 補償 - あなたが後手であるかぎり、～は速攻を持つ。 2/1 偉大なる取り消しをもう一度/Make Cancel great again (1)(青)(青) インスタント 呪文1つを対象とし、それを打ち消す。 補償 - あなたが後手であるかぎり、あなたが～を唱えるためのコストは(1)だけ小さくなる。 貪欲なる死のネズミ (1)(黒) クリーチャー - ネズミ ～が戦場に出たとき、プレイヤー1人を対象とする。そのプレイヤーは手札を1枚捨てる。 補償 - あなたが後手であるかぎり、～は絆魂と接死を持つ。 1/1 こんな感じでわかっただろうか。 「先手か後手か」という問題を興味深いままにできるので、こういった調整をやりすぎる必要はない。しかし、コモンにこういうサイクルがあったり、構築戦向けのレアがこういう能力を持っていると、MTGはもっと面白くなるんじゃないか。(構築戦ではしばしばダイスロールで勝敗が決まってしまう。) なぞなぞの時間 さて練習問題の解答を述べていこう。 第1問 これは比較的簡単。常に先手でプレイすべきだ。4枚まで土地を伸ばしつつ、毎ターン可能な限り《オリヴィアの血誓い/Olivia’s Bloodsworn》を出していこう。簡単に勝利できる。 第2問 対戦相手を倒すためには10回《ショック/Shock》を唱える必要がある。効率を最大にするためには、2枚の土地を置く必要がある。結果的に、カードは12枚必要だ。12枚のカードにアクセスできるようになるのは、先手であれば6ターン目、後手であれば5ターン目だ。 ここで問題は、後手の場合3枚目の土地が必要になるということだ。なぜなら土地を2枚しか出さない場合、5ターン目までに唱えられるショックは9枚だけだからである。 従ってこの問題でも先手が有利となる。 《ショック/Shock》を《稲妻/Lightning Bolt》に変えた場合、より明白に先手有利になる。 逆に《ショック/Shock》を《双雷弾/Twin Bolt》に変えると、今度は後手が有利になる。 第3問 この問題は信じられないほど簡単に見えるが、最も複雑だ。殆どのプレイヤーは、この問題を3レベルに分けて解決する。多くのプレイヤーはレベル1にしかたどりつけないだろう。 レベル1 後手を選ぶべきだ。なぜなら、《灰色熊/Grizzly Bears》は戦闘で次々に相討ちになるからである。そのため1枚多くの《灰色熊/Grizzly Bears》を持っている方が勝つ。 レベル2 仮に追加の《灰色熊/Grizzly Bears》を持っていても、相手が次のターンにプレイする《灰色熊/Grizzly Bears》にブロックされ、結局相討ちになることになる。 結局《灰色熊/Grizzly Bears》の攻撃は1回も通らない。結果的に勝負は後手のライブラリー切れで決着するはずだ。つまり、先手が必勝ということになる。 レベル3 間違っている。もし双方のプレイヤーが最適な手順を知っている場合、後手が必勝になる。 もし相手が初手をキープした場合、あなたはマリガンをすればよい。 この場合、ライブラリー切れで負けるのは先手になる。 もし相手がマリガンをした場合、それに付き合って手札を0枚にしてはいけない。その場合の正解はキープだ。 こうなればあなたは相手より2体多い《灰色熊/Grizzly Bears》を持っていることになる。 そのうち片方は相手がドローした《灰色熊/Grizzly Bears》と相討ちになるが、1体ぶんの攻撃は本体に通ることになる。グッド・ゲームだ。 ボーナス・レベル まてまて、先手は絶対に勝てないのか? いや、いつだって抜け道はある。2枚の《探検/Explore》だ。 まとめ この手の問題が好きなら、以下も考えてみてほしい。 《血の署名/Sign in Blood》と《金属モックス/Chrome Mox》 《賞罰の天使/Angel of Sanctions》と《霧覆いの平地/Mistveil Plains》 《電結の荒廃者/Arcbound Ravager》と《ミシュラの工廠/Mishra’s Factory》 「海賊パッチーズ/Patches the Pirate」(訳注: ハースストーンのカード)とランダムな8枚のカード 面白い問題を思いついたら、気軽に(訳注: Channel Fireballの)コメント欄に投稿してほしい。 この記事の第1回を楽しんでもらえたなら幸いだ。第2回は、以下の内容にする予定だ。 MTGと他のカードゲーム、とくにハースストーンとの比較 補償能力の別のかたち リミテッドや構築で、後手を選ぶかどうかの判断基準</summary></entry><entry><title type="html">[翻訳記事] 破滅の刻・リミテッドレビュー (赤)</title><link href="http://tefuda.suku.name/2017/07/21/%E7%BF%BB%E8%A8%B3%E8%A8%98%E4%BA%8B-%E7%A0%B4%E6%BB%85%E3%81%AE%E5%88%BB-%E3%83%AA%E3%83%9F%E3%83%86%E3%83%83%E3%83%89%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC-(%E8%B5%A4)/" rel="alternate" type="text/html" title="[翻訳記事] 破滅の刻・リミテッドレビュー (赤)" /><published>2017-07-21T09:02:00+09:00</published><updated>2017-07-21T09:02:00+09:00</updated><id>http://tefuda.suku.name/2017/07/21/%5B%E7%BF%BB%E8%A8%B3%E8%A8%98%E4%BA%8B%5D%20%E7%A0%B4%E6%BB%85%E3%81%AE%E5%88%BB%E3%83%BB%E3%83%AA%E3%83%9F%E3%83%86%E3%83%83%E3%83%89%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%20(%E8%B5%A4)</id><content type="html" xml:base="http://tefuda.suku.name/2017/07/21/%E7%BF%BB%E8%A8%B3%E8%A8%98%E4%BA%8B-%E7%A0%B4%E6%BB%85%E3%81%AE%E5%88%BB-%E3%83%AA%E3%83%9F%E3%83%86%E3%83%83%E3%83%89%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC-(%E8%B5%A4)/">&lt;h2 id=&quot;原文&quot;&gt;原文&lt;/h2&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="[&quot;MTG&quot;, &quot;翻訳記事&quot;, &quot;Channel Fireball&quot;]" /><category term="Nico Bohny" /><category term="理論" /><summary type="html">原文 この文章はChannel Fireballに掲載されたSolving the Very First Decision of the Gameの和訳である。原文の掲載は2017年7月4日だった。著者はNico Bohny氏。 要するに、先手・後手、どちらが有利かという話。続きはこちら。 以下訳文。 公平を期すために述べると、このタイトルが当てはまるのは、あなたのゲームの半分だけだ。 先手か後手か? それがこの記事で取り上げたい問題だ。 私自身は頻繁に後手を選ぶが、殆どのプレイヤーはこの問題をさほど深く考えていないように思える。 ではいくつかの練習問題から始めよう。ミラー・マッチをしていて、デッキは60枚すべてが分割カードだ。 問題は、あなたは先手と後手どちらを選ぶべきなのか、そしてそれはなぜか、である。 デッキがすべて《沼/Swamp》と《オリヴィアの血誓い/Olivia’s Bloodsworn》の分割カードである場合。先手と後手どちらを選ぶべき? デッキがすべて《山/Mountain》と《ショック/Shock》の分割カードである場合。先手と後手どちらを選ぶべき? デッキがすべて《森/Forest》と《灰色熊/Grizzly Bears》の分割カードである場合。先手と後手どちらを選ぶべき? （訳注: 第1問は原文だと《島/Island》と《蒸気の精/Vaporkin》だったが、コメント欄によると誤りとのこと) Olivia’s Bloodsworn / オリヴィアの血誓い (1)(黒) クリーチャー - 吸血鬼(Vampire) 兵士(Soldier) 飛行 オリヴィアの血誓いではブロックできない。 (赤): 吸血鬼(Vampire)1体を対象とする。ターン終了時まで、それは速攻を得る。 2/1 Shock / ショック (赤) インスタント クリーチャー1体かプレイヤー1人を対象とする。ショックはそれに2点のダメージを与える。 Grizzly Bears / 灰色熊 (1)(緑) クリーチャー - 熊(Bear) 2/2 この記事の後半で解答を読むことができる。 注意しておくが、この問題は見た目ほど優しくない。 近年における変更 私はインベイジョンが出た頃に競技マジックを始め、シールドやドラフトを好んでプレイしていた。 私は構築戦もプレイしていたが、当時の私のデッキはドラフトデッキのようなものだった。 かつて、シールド戦では後手を選ぶのが常識だった。 ドラフトにおいても、我々は時折後手を選んでいた。(メルカディアン・マスクスのドラフト以降の話だが。) スタンダードでも、後手を積極的に選びたくなるようなデッキを数多く作ってきた。 現在のドラフトにおいて、99%のプレイヤーにとって最初にドローできるかどうかは最早関心事ではない。 シールドにおいてさえ、殆どのプレイヤーが後手を避けるべきだと主張している。 構築線では、後手を選ぶことは話題にも上がらない。 ここ数年で何が変わったんだろうか。 カードパワーのインフレ クリーチャーはより強力になった。一方で呪文、特に除去呪文は弱体化している。 クリーチャーは通常先手にとって有利なカードである。 なぜなら、2マナクリーチャーで攻撃する際、3マナクリーチャーを相手にするより2マナクリーチャーを相手にするほうがマシだからだ。 また、先手で2ターン目にクリーチャーを出せなかった場合でも、後手で2ターン目にクリーチャーを出せない場合よりはずっと被害が少ない。 後手のクリーチャーを有利にするのはリソースの交換だ。 その場合テンポはそこまで重要でなく、後手のプレイヤーは1枚手札を多く引いているからである。 督励のような攻撃的なクリーチャーの能力は、そのリソースの交換をしづらくするだろう。 その場合、除去に頼らざるを得ない。 しかし最近の除去は極めて重いので、序盤のクリーチャーに干渉することは難しいだろうし、しばしばその高速な怪物に殴り殺されることになるだろう。 リミテッドにおいてはクリーチャーが重要なので、したがってあなたは先手をより多く選ぶべきだということになる。 マリガン時の占術ルール 最初にドローできることは、マリガンに対する保険のような役割を果たしていた。 今では代わりに、マリガン後に占術できる新ルールが保険の役割を果たしている。 5枚までマリガンすることは少ないので、その分自由度が減ることも少ない。 アグロデッキは手札が6枚か7枚あれば問題なく動作するし、占術は足りないパーツを探すのに役立つ。 ミッドレンジでは強力な呪文を唱えるために多くの土地が必要なので、手札が7枚であることはより重要になる。 プレインズウォーカーの存在 プレインズウォーカーは神話レアなので、それがレアだったローウィンの頃のように頻繁に見かけることはないだろう。 しかし、プレインズウォーカーがゲームのテンポに与える影響は大きい。 プレインズウォーカーを着地させる盤面はできるだけ安定したものであるべきであり、ここでも先手が有利だ。 WotCはどのように改善できるか? 私はゲームデザイナーではないが、少し考えてみよう。 新能力語・補償(Compensate) : もしあなたが後手であれば、あなたは補償を得る。 開発部の新たな信仰/Renewed Faith in R&amp;amp;D (2)(白) インスタント 補償 - あなたは6点のライフを得る。あなたが後手である場合、代わりにあなたは8点のライフを得る。 サイクリング (1)(白) 補償 - あなたが～をサイクリングしたとき、あなたは2点のライフを得てもよい。あなたが後手である場合、代わりにあなたは4点のライフを得てもよい。 常に列の最後にいるもの、悲しいパンダ/Sad Panda, Always Last Bear in the Row (1)(緑) 伝説のクリーチャー - 熊 補償 - あなたが後手であるかぎり、～は+0/+2の修整を受けるとともに、店のクーポン券を得る。 2/2 (訳注: サウスパークネタっぽいがよくわからない。) 愉快な警察官/Fun Police Officer (1)(赤) クリーチャー 先制攻撃 補償 - あなたが後手であるかぎり、～は速攻を持つ。 2/1 偉大なる取り消しをもう一度/Make Cancel great again (1)(青)(青) インスタント 呪文1つを対象とし、それを打ち消す。 補償 - あなたが後手であるかぎり、あなたが～を唱えるためのコストは(1)だけ小さくなる。 貪欲なる死のネズミ/Ravenous Rats of Death (1)(黒) クリーチャー - ネズミ ～が戦場に出たとき、プレイヤー1人を対象とする。そのプレイヤーは手札を1枚捨てる。 補償 - あなたが後手であるかぎり、～は絆魂と接死を持つ。 1/1 こんな感じでわかっただろうか。 「先手か後手か」という問題を興味深いままにできるので、こういった調整をやりすぎる必要はない。しかし、コモンにこういうサイクルがあったり、構築戦向けのレアがこういう能力を持っていると、MTGはもっと面白くなるんじゃないか。(構築戦ではしばしばダイスロールで勝敗が決まってしまう。) なぞなぞの時間 さて練習問題の解答を述べていこう。 第1問 これは比較的簡単。常に先手でプレイすべきだ。4枚まで土地を伸ばしつつ、毎ターン可能な限り《オリヴィアの血誓い/Olivia’s Bloodsworn》を出していこう。簡単に勝利できる。 第2問 対戦相手を倒すためには10回《ショック/Shock》を唱える必要がある。効率を最大にするためには、2枚の土地を置く必要がある。結果的に、カードは12枚必要だ。12枚のカードにアクセスできるようになるのは、先手であれば6ターン目、後手であれば5ターン目だ。 ここで問題は、後手の場合3枚目の土地が必要になるということだ。なぜなら土地を2枚しか出さない場合、5ターン目までに唱えられるショックは9枚だけだからである。 従ってこの問題でも先手が有利となる。 《ショック/Shock》を《稲妻/Lightning Bolt》に変えた場合、より明白に先手有利になる。 逆に《ショック/Shock》を《双雷弾/Twin Bolt》に変えると、今度は後手が有利になる。 第3問 この問題は信じられないほど簡単に見えるが、最も複雑だ。殆どのプレイヤーは、この問題を3レベルに分けて解決する。多くのプレイヤーはレベル1にしかたどりつけないだろう。 レベル1 後手を選ぶべきだ。なぜなら、《灰色熊/Grizzly Bears》は戦闘で次々に相討ちになるからである。そのため1枚多くの《灰色熊/Grizzly Bears》を持っている方が勝つ。 レベル2 仮に追加の《灰色熊/Grizzly Bears》を持っていても、相手が次のターンにプレイする《灰色熊/Grizzly Bears》にブロックされ、結局相討ちになることになる。 結局《灰色熊/Grizzly Bears》の攻撃は1回も通らない。結果的に勝負は後手のライブラリー切れで決着するはずだ。つまり、先手が必勝ということになる。 レベル3 間違っている。もし双方のプレイヤーが最適な手順を知っている場合、後手が必勝になる。 もし相手が初手をキープした場合、あなたはマリガンをすればよい。 この場合、ライブラリー切れで負けるのは先手になる。 もし相手がマリガンをした場合、それに付き合って手札を0枚にしてはいけない。その場合の正解はキープだ。 こうなればあなたは相手より2体多い《灰色熊/Grizzly Bears》を持っていることになる。 そのうち片方は相手がドローした《灰色熊/Grizzly Bears》と相討ちになるが、1体ぶんの攻撃は本体に通ることになる。グッド・ゲームだ。 ボーナス・レベル まてまて、先手は絶対に勝てないのか? いや、いつだって抜け道はある。2枚の《探検/Explore》だ。 まとめ この手の問題が好きなら、以下も考えてみてほしい。 《血の署名/Sign in Blood》と《金属モックス/Chrome Mox》 《賞罰の天使/Angel of Sanctions》と《霧覆いの平地/Mistveil Plains》 《電結の荒廃者/Arcbound Ravager》と《ミシュラの工廠/Mishra’s Factory》 「海賊パッチーズ/Patches the Pirate」(訳注: ハースストーンのカード)とランダムな8枚のカード 面白い問題を思いついたら、気軽に(訳注: Channel Fireballの)コメント欄に投稿してほしい。 この記事の第1回を楽しんでもらえたなら幸いだ。第2回は、以下の内容にする予定だ。 MTGと他のカードゲーム、とくにハースストーンとの比較 補償能力の別のかたち リミテッドや構築で、後手を選ぶかどうかの判断基準</summary></entry><entry><title type="html">[翻訳記事] 破滅の刻・リミテッドレビュー (赤)</title><link href="http://tefuda.suku.name/2017/07/21/%E7%BF%BB%E8%A8%B3%E8%A8%98%E4%BA%8B-%E7%A0%B4%E6%BB%85%E3%81%AE%E5%88%BB-%E3%83%AA%E3%83%9F%E3%83%86%E3%83%83%E3%83%89%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC-(%E8%B5%A4)/" rel="alternate" type="text/html" title="[翻訳記事] 破滅の刻・リミテッドレビュー (赤)" /><published>2017-07-21T09:02:00+09:00</published><updated>2017-07-21T09:02:00+09:00</updated><id>http://tefuda.suku.name/2017/07/21/%5B%E7%BF%BB%E8%A8%B3%E8%A8%98%E4%BA%8B%5D%20%E7%A0%B4%E6%BB%85%E3%81%AE%E5%88%BB%E3%83%BB%E3%83%AA%E3%83%9F%E3%83%86%E3%83%83%E3%83%89%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%20(%E8%B5%A4)</id><content type="html" xml:base="http://tefuda.suku.name/2017/07/21/%E7%BF%BB%E8%A8%B3%E8%A8%98%E4%BA%8B-%E7%A0%B4%E6%BB%85%E3%81%AE%E5%88%BB-%E3%83%AA%E3%83%9F%E3%83%86%E3%83%83%E3%83%89%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC-(%E8%B5%A4)/">&lt;h2 id=&quot;原文&quot;&gt;原文&lt;/h2&gt;
 
 &lt;p&gt;この文章は&lt;a href=&quot;http://www.channelfireball.com/&quot;&gt;Channel Fireball&lt;/a&gt;に掲載された&lt;a href=&quot;https://www.channelfireball.com/articles/hour-of-devastation-limited-set-review-black/&quot;&gt;Hour of Devastation Limited Set Review: Red&lt;/a&gt;の和訳である。原文の掲載は2017年7月6日だった。著者はLuis Scott-Vargas(LSV)氏。&lt;/p&gt;
 
@@ -2103,27 +2509,4 @@ X=4で唱えたとして、デッキから異なる名前の4マナクリーチ�
 いくつかはかなり明白な選択だったが、それでもその予想以上の強力さは私を驚かせた。
 例えば《穿刺の一撃/Puncturing Blow》。これが強力な除去呪文なのは明らかだったが、この特定のフォーマットにおけるパフォーマンスのあまりの高さは私の目を奪ったのだ。&lt;/p&gt;
 
-&lt;p&gt;読んでくれてありがとう。そして(訳注: Channel Fireballの)コメント欄で、あなたを驚かせたカードについて教えて欲しい。&lt;/p&gt;</content><author><name></name></author><category term="[&quot;MTG&quot;, &quot;翻訳記事&quot;, &quot;Channel Fireball&quot;]" /><category term="Frank Lepore" /><category term="破滅の刻" /><category term="Sealed" /><category term="Limited" /><category term="Sealed (AKH/HOU)" /><category term="Limited (AKH/HOU)" /><summary type="html">この文章はChannel Fireballに掲載されたThe Cards that Surprised Me at the Hour of Devastation Prereleaseの和訳である。原文の掲載は2017年7月3日だった。著者はFrank Lepore氏。 以下訳文。 先週のプレリリース、はっきり言って大成功だった。 私は3回参加し、合計で11-1の成績で終わることができた。 最初に参加したときは回避能力持ちクリーチャーとテンポ・カードが入った、まっとうな青赤デッキを使用した。 2回目では友人Justinと双頭巨人戦に参加した。Justinはアンコモン10枚レア4枚を使った赤緑デッキを使い、私は青黒のコントロールを使用した。 最後に参加したとき、私が組んだのはバントデッキだった。 私が得た中で最弱のプールであり、3色で組むことを余儀なくされた。 しかしその一方で、《自然に仕える者、ニッサ/Nissa, Steward of Elements》・《誇り高き君主/Pride Sovereign》・《糾弾の天使/Angel of Condemnation》のような超強力カードも存在した。 プレリリースのもっとも良い点の1つは、新しいカードの感触をつかめることだ。 考えたとおりに機能するカードなのか、それともそうでないのか、確かめられるのだ。 カードに書いてあることを読んだだけで判断するのと、実戦でそれが成立するかを見るのはまるで違う。 今回紹介するのは、プレリリースで私の目を釘付けにしたカードたちである。 《不屈のエイヴン/Dauntless Aven》 私はこのカードを入手することができなかった。しかし、対戦相手が戦場に出しているとき、このカードは常に私に強い印象を与えていた。 もし他にクリーチャーがいない場合、このカードは自身に擬似的な警戒を与える。 一方、もし他に何体かの督励持ちクリーチャーがいる場合、この鳥が一緒なら、あなたはそのクリーチャーを毎ターン督励させて攻撃させることができる。 この能力は極めて強力だが、正直に言えば赤白デッキが真に求めていたものとは違うだろう。 とはいうものの3マナで2/1飛行というのはそれだけで完全にプレイアブルである。 だからここで不満はなにひとつない。 もし敢えて難点を言うのであれば、-1/-1カウンターが多い環境でタフネスが1であることくらいか。 しかしその難点は他の多くのクリーチャーも抱えていることである。 《空からの導き手/Aerial Guide》 これはまるで《ゴブリンの先達/Goblin Guide》だ。見ての通り、飛んでるけど。 うん、これは《ゴブリンの先達/Goblin Guide》とはまるで違う。名前に「Guide」って入ってるだけだ。うん、どちらも2/2だ。共通点はそこで終わりだ。私は、衆目の通り、彼らの系譜を知らないのだろう。 週末の間、この鳥は私のために大活躍してくれた。 (オタク風に眼鏡を持ち上げて) 「Frank、こいつはドレイクだ。鳥じゃない」あなたは言うだろう。 いやいや、こいつらはみんな鳥だ。こいつらがドレイク主義者か鳥主義者かは、知ったことではない。 私が知っているのは、4/5や6/6に毎ターン飛行をつけられるのは極めて強力だってこと、そして、それをするために通常の《風のドレイク/Wind Drake》以上のコストが全くかからないってことだ。 《待ち伏せ/Ambuscade》 これまでの類似品と比べ、このカードは遥かにイカれている。 まず《弱者狩り/Hunt the Weak》より1マナ軽い。 さらにこれは格闘ですらなく、《自然の流儀/Nature’s Way》のように一方的にダメージを与えるだけだ。 なぜこれが素晴らしいかというと、格闘と違って使用したクリーチャーで攻撃するのをためらう必要がないからだ。 さらにさらにこいつはインスタントで、督励持ちクリーチャーと組み合わせると凶悪だ。おそらくあなたは戦闘中にこのカードを使用することになるだろう。 先週のプレリリースの間ずっと、このカードは人々をなぎ倒してきた。 私が自分の緑のプールを見たとき、そこには毎回このカードがあった……じつに素晴らしかった。 《忘れられた王族の壁/Wall of Forgotten Pharaohs》 このカードは、私がプレイしたすべてのプールにおいて、驚くほど強力だった。 「砂漠をコントロールしているか墓地に砂漠がある」という条件は、このフォーマットでは決して難しいものではない。 実際のところ、これは全く単純な話だ。 0/4はこの環境では多くのクリーチャーをブロックできるし、(おそらくは飛行持ちで殴っている間に)毎ターン1点のダメージを飛ばせるというのは、本当にクロックを早めることに繋がる。 私が更に《砂時計の侍臣/Vizier of Tumbling Sands》を持っていて、毎ターン2点クロックを刻んでいたことすらあった。 このダメージは極めて高速に蓄積する。 たしかに、この環境には壁を打ち壊してしまうようなコンバット・トリックがある。しかしこの環境にはそれに対応して使える除去だってあるのだ。 概して言うと、この一見無害な2マナ0/4クリーチャーは、堅実なパフォーマンスを発揮するということだ。 《穿刺の一撃/Puncturing Blow》 うん。5点ダメージを与える赤の除去呪文だ。 私がリミテッドで強力なカードとしてこれを挙げたことについて、あなたは驚くほど驚いていないだろう。それは理解している。 しかし、それにもかかわらず、このカードは赤の除去呪文のオールスターの1枚だ。 このカードはこの環境において、《大いなるサンドワーム/Greater Sandwurm》以外ならほぼなんでも除去できる。これは驚異的だ。《川蛇/River Serpent》・《採石場の運び屋/Quarry Hauler》・《採石場の甲虫/Quarry Beetle》・《巨大百足/Colossapede》……この環境であなたが遭遇するだろうこういった大型クリーチャーは、皆このカードの前に死んでいくのだ。 また、不朽や永遠が存在する環境においては、「追放する」と書かれた部分が勝利の鍵になる。 彼らは、死後においてさえ二度と家族に会えなくなるのだ! 公平のために言うと、私が言いたいのは、私たちは彼らがボーラスの心なき奴隷に墜ちることを防いでいる、ということだ。 しかし、私は知らないのだが、何人かのプレイヤーはそのように考えていないかもしれない。 私達がやっているのは救済、そう救済なのだ。 《ロナスの重鎮/Rhonas’s Stalwart》 これは《忘れられた王族の壁/Wall of Forgotten Pharaohs》とはまた別の、一見無害そうだったがプレイすると常に非常に強力だったカードである。 このカードは妥当な2マナ2/2だ。しかし、ときにパワー2以下にブロックされない2マナ3/3に化ける。 私はあなたがどれだけリミテッドをプレイしているかは知らないが、パワー2以下のクリーチャーというのはたくさんいるのだ。 こいつは緑の《突風歩き/Gust Walker》の仲間か、もしかしたらあなたがこれまで見た中で最も《突風歩き/Gust Walker》に近いカードかもしれない。 このカードに対処するのは驚くほど難しく、私は1ターンおきにブロックされない3点ダメージを稼いでいた。 まとめ これらは、プレリリースで私の目を釘付けにしたカードのうちいくつかである。 いくつかはかなり明白な選択だったが、それでもその予想以上の強力さは私を驚かせた。 例えば《穿刺の一撃/Puncturing Blow》。これが強力な除去呪文なのは明らかだったが、この特定のフォーマットにおけるパフォーマンスのあまりの高さは私の目を奪ったのだ。 読んでくれてありがとう。そして(訳注: Channel Fireballの)コメント欄で、あなたを驚かせたカードについて教えて欲しい。</summary></entry><entry><title type="html">[翻訳記事] 破滅の刻リリースに際しての更新通知・イントロダクション</title><link href="http://tefuda.suku.name/2017/07/15/%E7%BF%BB%E8%A8%B3%E8%A8%98%E4%BA%8B-%E7%A0%B4%E6%BB%85%E3%81%AE%E5%88%BB%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%81%AB%E9%9A%9B%E3%81%97%E3%81%A6%E3%81%AE%E6%9B%B4%E6%96%B0%E9%80%9A%E7%9F%A5-%E3%82%A4%E3%83%B3%E3%83%88%E3%83%AD%E3%83%80%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/" rel="alternate" type="text/html" title="[翻訳記事] 破滅の刻リリースに際しての更新通知・イントロダクション" /><published>2017-07-15T00:00:00+09:00</published><updated>2017-07-15T00:00:00+09:00</updated><id>http://tefuda.suku.name/2017/07/15/%5B%E7%BF%BB%E8%A8%B3%E8%A8%98%E4%BA%8B%5D%20%E7%A0%B4%E6%BB%85%E3%81%AE%E5%88%BB%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%81%AB%E9%9A%9B%E3%81%97%E3%81%A6%E3%81%AE%E6%9B%B4%E6%96%B0%E9%80%9A%E7%9F%A5%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%88%E3%83%AD%E3%83%80%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3</id><content type="html" xml:base="http://tefuda.suku.name/2017/07/15/%E7%BF%BB%E8%A8%B3%E8%A8%98%E4%BA%8B-%E7%A0%B4%E6%BB%85%E3%81%AE%E5%88%BB%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%81%AB%E9%9A%9B%E3%81%97%E3%81%A6%E3%81%AE%E6%9B%B4%E6%96%B0%E9%80%9A%E7%9F%A5-%E3%82%A4%E3%83%B3%E3%83%88%E3%83%AD%E3%83%80%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/">&lt;p&gt;この文章は&lt;a href=&quot;http://magic.wizards.com/&quot;&gt;海外公式サイト&lt;/a&gt;に掲載された&lt;a href=&quot;http://magic.wizards.com/en/articles/archive/play-design/hour-devastation-update-bulletin-2017-07-14&quot;&gt;Hour of Devastation Update Bulletin&lt;/a&gt;の和訳である。原文の掲載は2017年7月14日だった。&lt;/p&gt;
-
-&lt;p&gt;破滅の刻リリースに際して行われた、総合ルール・オラクルの更新通知。&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;[翻訳記事] 破滅の刻リリースに際しての更新通知・イントロダクション (ここ)&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/2017/07/15/%E7%BF%BB%E8%A8%B3%E8%A8%98%E4%BA%8B-%E7%A0%B4%E6%BB%85%E3%81%AE%E5%88%BB%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%81%AB%E9%9A%9B%E3%81%97%E3%81%A6%E3%81%AE%E7%B7%8F%E5%90%88%E3%83%AB%E3%83%BC%E3%83%AB%E5%A4%89%E6%9B%B4/&quot;&gt;[翻訳記事] 破滅の刻リリースに際しての総合ルール変更&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/2017/07/15/%E7%BF%BB%E8%A8%B3%E8%A8%98%E4%BA%8B-%E7%A0%B4%E6%BB%85%E3%81%AE%E5%88%BB%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%81%AB%E9%9A%9B%E3%81%97%E3%81%A6%E3%81%AE%E3%82%AA%E3%83%A9%E3%82%AF%E3%83%AB%E5%A4%89%E6%9B%B4/&quot;&gt;[翻訳記事] 破滅の刻リリースに際してのオラクル変更&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;!-- more --&gt;
-
-&lt;p&gt;以下訳文。&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;さあ始めよう!
-我々は《知識の試練/Trial of Knowledge》の廃墟を抜けて、あなたのところへやってきた!
-外にはホラー/Horrorやイナゴがたくさんいるが、私達がいる場所はエアコンが効いているし、レモネードもある。
-世界が語り尽くせぬほどの災害とともに終わろうとしている間に読む本だってたっぷりある。
-そして、俗世の閉塞から離れて楽しむためのArchenemy: Nicol Bolasと破滅の時のリリースに伴い、ルールとオラクル・テキストの変更もまた存在する。&lt;/p&gt;
-
-&lt;p&gt;今回の更新は極めて軽微だ。
-なので、マナ・プールのそばに置いた快適なデッキ・チェアに座り、ストロベリー・スムージーを用意しておくとよい。&lt;/p&gt;</content><author><name></name></author><category term="[&quot;MTG&quot;, &quot;翻訳記事&quot;, &quot;海外公式サイト&quot;, &quot;Update Bulletin&quot;]" /><category term="Eli Shiffrin" /><category term="破滅の刻" /><summary type="html">この文章は海外公式サイトに掲載されたHour of Devastation Update Bulletinの和訳である。原文の掲載は2017年7月14日だった。 破滅の刻リリースに際して行われた、総合ルール・オラクルの更新通知。 [翻訳記事] 破滅の刻リリースに際しての更新通知・イントロダクション (ここ) [翻訳記事] 破滅の刻リリースに際しての総合ルール変更 [翻訳記事] 破滅の刻リリースに際してのオラクル変更 以下訳文。 さあ始めよう! 我々は《知識の試練/Trial of Knowledge》の廃墟を抜けて、あなたのところへやってきた! 外にはホラー/Horrorやイナゴがたくさんいるが、私達がいる場所はエアコンが効いているし、レモネードもある。 世界が語り尽くせぬほどの災害とともに終わろうとしている間に読む本だってたっぷりある。 そして、俗世の閉塞から離れて楽しむためのArchenemy: Nicol Bolasと破滅の時のリリースに伴い、ルールとオラクル・テキストの変更もまた存在する。 今回の更新は極めて軽微だ。 なので、マナ・プールのそばに置いた快適なデッキ・チェアに座り、ストロベリー・スムージーを用意しておくとよい。</summary></entry></feed>
+&lt;p&gt;読んでくれてありがとう。そして(訳注: Channel Fireballの)コメント欄で、あなたを驚かせたカードについて教えて欲しい。&lt;/p&gt;</content><author><name></name></author><category term="[&quot;MTG&quot;, &quot;翻訳記事&quot;, &quot;Channel Fireball&quot;]" /><category term="Frank Lepore" /><category term="破滅の刻" /><category term="Sealed" /><category term="Limited" /><category term="Sealed (AKH/HOU)" /><category term="Limited (AKH/HOU)" /><summary type="html">この文章はChannel Fireballに掲載されたThe Cards that Surprised Me at the Hour of Devastation Prereleaseの和訳である。原文の掲載は2017年7月3日だった。著者はFrank Lepore氏。 以下訳文。 先週のプレリリース、はっきり言って大成功だった。 私は3回参加し、合計で11-1の成績で終わることができた。 最初に参加したときは回避能力持ちクリーチャーとテンポ・カードが入った、まっとうな青赤デッキを使用した。 2回目では友人Justinと双頭巨人戦に参加した。Justinはアンコモン10枚レア4枚を使った赤緑デッキを使い、私は青黒のコントロールを使用した。 最後に参加したとき、私が組んだのはバントデッキだった。 私が得た中で最弱のプールであり、3色で組むことを余儀なくされた。 しかしその一方で、《自然に仕える者、ニッサ/Nissa, Steward of Elements》・《誇り高き君主/Pride Sovereign》・《糾弾の天使/Angel of Condemnation》のような超強力カードも存在した。 プレリリースのもっとも良い点の1つは、新しいカードの感触をつかめることだ。 考えたとおりに機能するカードなのか、それともそうでないのか、確かめられるのだ。 カードに書いてあることを読んだだけで判断するのと、実戦でそれが成立するかを見るのはまるで違う。 今回紹介するのは、プレリリースで私の目を釘付けにしたカードたちである。 《不屈のエイヴン/Dauntless Aven》 私はこのカードを入手することができなかった。しかし、対戦相手が戦場に出しているとき、このカードは常に私に強い印象を与えていた。 もし他にクリーチャーがいない場合、このカードは自身に擬似的な警戒を与える。 一方、もし他に何体かの督励持ちクリーチャーがいる場合、この鳥が一緒なら、あなたはそのクリーチャーを毎ターン督励させて攻撃させることができる。 この能力は極めて強力だが、正直に言えば赤白デッキが真に求めていたものとは違うだろう。 とはいうものの3マナで2/1飛行というのはそれだけで完全にプレイアブルである。 だからここで不満はなにひとつない。 もし敢えて難点を言うのであれば、-1/-1カウンターが多い環境でタフネスが1であることくらいか。 しかしその難点は他の多くのクリーチャーも抱えていることである。 《空からの導き手/Aerial Guide》 これはまるで《ゴブリンの先達/Goblin Guide》だ。見ての通り、飛んでるけど。 うん、これは《ゴブリンの先達/Goblin Guide》とはまるで違う。名前に「Guide」って入ってるだけだ。うん、どちらも2/2だ。共通点はそこで終わりだ。私は、衆目の通り、彼らの系譜を知らないのだろう。 週末の間、この鳥は私のために大活躍してくれた。 (オタク風に眼鏡を持ち上げて) 「Frank、こいつはドレイクだ。鳥じゃない」あなたは言うだろう。 いやいや、こいつらはみんな鳥だ。こいつらがドレイク主義者か鳥主義者かは、知ったことではない。 私が知っているのは、4/5や6/6に毎ターン飛行をつけられるのは極めて強力だってこと、そして、それをするために通常の《風のドレイク/Wind Drake》以上のコストが全くかからないってことだ。 《待ち伏せ/Ambuscade》 これまでの類似品と比べ、このカードは遥かにイカれている。 まず《弱者狩り/Hunt the Weak》より1マナ軽い。 さらにこれは格闘ですらなく、《自然の流儀/Nature’s Way》のように一方的にダメージを与えるだけだ。 なぜこれが素晴らしいかというと、格闘と違って使用したクリーチャーで攻撃するのをためらう必要がないからだ。 さらにさらにこいつはインスタントで、督励持ちクリーチャーと組み合わせると凶悪だ。おそらくあなたは戦闘中にこのカードを使用することになるだろう。 先週のプレリリースの間ずっと、このカードは人々をなぎ倒してきた。 私が自分の緑のプールを見たとき、そこには毎回このカードがあった……じつに素晴らしかった。 《忘れられた王族の壁/Wall of Forgotten Pharaohs》 このカードは、私がプレイしたすべてのプールにおいて、驚くほど強力だった。 「砂漠をコントロールしているか墓地に砂漠がある」という条件は、このフォーマットでは決して難しいものではない。 実際のところ、これは全く単純な話だ。 0/4はこの環境では多くのクリーチャーをブロックできるし、(おそらくは飛行持ちで殴っている間に)毎ターン1点のダメージを飛ばせるというのは、本当にクロックを早めることに繋がる。 私が更に《砂時計の侍臣/Vizier of Tumbling Sands》を持っていて、毎ターン2点クロックを刻んでいたことすらあった。 このダメージは極めて高速に蓄積する。 たしかに、この環境には壁を打ち壊してしまうようなコンバット・トリックがある。しかしこの環境にはそれに対応して使える除去だってあるのだ。 概して言うと、この一見無害な2マナ0/4クリーチャーは、堅実なパフォーマンスを発揮するということだ。 《穿刺の一撃/Puncturing Blow》 うん。5点ダメージを与える赤の除去呪文だ。 私がリミテッドで強力なカードとしてこれを挙げたことについて、あなたは驚くほど驚いていないだろう。それは理解している。 しかし、それにもかかわらず、このカードは赤の除去呪文のオールスターの1枚だ。 このカードはこの環境において、《大いなるサンドワーム/Greater Sandwurm》以外ならほぼなんでも除去できる。これは驚異的だ。《川蛇/River Serpent》・《採石場の運び屋/Quarry Hauler》・《採石場の甲虫/Quarry Beetle》・《巨大百足/Colossapede》……この環境であなたが遭遇するだろうこういった大型クリーチャーは、皆このカードの前に死んでいくのだ。 また、不朽や永遠が存在する環境においては、「追放する」と書かれた部分が勝利の鍵になる。 彼らは、死後においてさえ二度と家族に会えなくなるのだ! 公平のために言うと、私が言いたいのは、私たちは彼らがボーラスの心なき奴隷に墜ちることを防いでいる、ということだ。 しかし、私は知らないのだが、何人かのプレイヤーはそのように考えていないかもしれない。 私達がやっているのは救済、そう救済なのだ。 《ロナスの重鎮/Rhonas’s Stalwart》 これは《忘れられた王族の壁/Wall of Forgotten Pharaohs》とはまた別の、一見無害そうだったがプレイすると常に非常に強力だったカードである。 このカードは妥当な2マナ2/2だ。しかし、ときにパワー2以下にブロックされない2マナ3/3に化ける。 私はあなたがどれだけリミテッドをプレイしているかは知らないが、パワー2以下のクリーチャーというのはたくさんいるのだ。 こいつは緑の《突風歩き/Gust Walker》の仲間か、もしかしたらあなたがこれまで見た中で最も《突風歩き/Gust Walker》に近いカードかもしれない。 このカードに対処するのは驚くほど難しく、私は1ターンおきにブロックされない3点ダメージを稼いでいた。 まとめ これらは、プレリリースで私の目を釘付けにしたカードのうちいくつかである。 いくつかはかなり明白な選択だったが、それでもその予想以上の強力さは私を驚かせた。 例えば《穿刺の一撃/Puncturing Blow》。これが強力な除去呪文なのは明らかだったが、この特定のフォーマットにおけるパフォーマンスのあまりの高さは私の目を奪ったのだ。 読んでくれてありがとう。そして(訳注: Channel Fireballの)コメント欄で、あなたを驚かせたカードについて教えて欲しい。</summary></entry></feed>
