@@ -18,15 +18,16 @@ date: 2017-07-21 00:00:00
 
 ## 原文
 
-この文章は[Channel Fireball](http://www.channelfireball.com/)に掲載された[Hour of Devastation Limited Set Review: Blue](https://www.channelfireball.com/articles/hour-of-devastation-limited-set-review-blue/)の和訳である。原文の掲載は2017年7月4日だった。著者はLuis Scott-Vargas(LSV)。
+この文章は[Channel Fireball](http://www.channelfireball.com/)に掲載された[Hour of Devastation Limited Set Review: Blue](https://www.channelfireball.com/articles/hour-of-devastation-limited-set-review-blue/)の和訳である。原文の掲載は2017年7月4日だった。著者はLuis Scott-Vargas(LSV)氏。
 
-  * 破滅の刻リミテッドレビュー by LSV
+  * 破滅の刻リミテッドレビュー by LSV氏
     * [白]({{ site.baseurl }}{% link _posts/2017/2017-07-07-hour-of-devastation-limited-set-review-white.md %})
     * 青 (これ)
     * [黒]({{ site.baseurl }}{% link _posts/2017/2017-07-21-hour-of-devastation-limited-set-review-black.md %})
     * [赤]({{ site.baseurl }}{% link _posts/2017/2017-07-21-hour-of-devastation-limited-set-review-red.md %})
     * [緑]({{ site.baseurl }}{% link _posts/2017/2017-07-24-hour-of-devastation-limited-set-review-green.md %})
     * [多色・アーティファクト・土地]({{ site.baseurl }}{% link _posts/2017/2017-07-24-hour-of-devastation-limited-set-review-gold-artifacts-and-lands.md %})
+  * [Andrea Mengucci氏によるツッコミ]({{ site.baseurl }}{% link _posts/2017/2017-07-25-the-most-overrated-underrated-cards-in-lsvs-hour-of-devastation-limited-review.md %})
 
 リミテッドレビューとあるが、実際にはドラフトに重きが置かれていると思われる。
 
