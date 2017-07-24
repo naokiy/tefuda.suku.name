@@ -26,7 +26,7 @@ date: 2017-07-21 00:00:00
     * [黒]({{ site.baseurl }}{% link _posts/2017/2017-07-21-hour-of-devastation-limited-set-review-black.md %})
     * [赤]({{ site.baseurl }}{% link _posts/2017/2017-07-21-hour-of-devastation-limited-set-review-red.md %})
     * [緑]({{ site.baseurl }}{% link _posts/2017/2017-07-24-hour-of-devastation-limited-set-review-green.md %})
-    * 多色・無色 (未訳)
+    * [多色・アーティファクト・土地]({{ site.baseurl }}{% link _posts/2017/2017-07-24-hour-of-devastation-limited-set-review-gold-artifacts-and-lands.md %})
 
 リミテッドレビューとあるが、実際にはドラフトに重きが置かれていると思われる。
 
