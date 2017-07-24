@@ -13,12 +13,12 @@ category:
   - MTG
   - 翻訳記事
   - Channel Fireball
-date: 2017-07-24 09:00:00
+date: 2017-07-24 11:00:00
 ---
 
 ## 原文
 
-この文章は[Channel Fireball](http://www.channelfireball.com/)に掲載された[Hour of Devastation Limited Set Review: Green](https://www.channelfireball.com/articles/hour-of-devastation-limited-set-review-green/)の和訳である。原文の掲載は2017年7月5日だった。著者はLuis Scott-Vargas(LSV)。
+この文章は[Channel Fireball](http://www.channelfireball.com/)に掲載された[Hour of Devastation Limited Set Review: Green](https://www.channelfireball.com/articles/hour-of-devastation-limited-set-review-green/)の和訳である。原文の掲載は2017年7月7日だった。著者はLuis Scott-Vargas(LSV)。
 
   * 破滅の刻リミテッドレビュー by LSV
     * [白]({{ site.baseurl }}{% link _posts/2017/2017-07-07-hour-of-devastation-limited-set-review-white.md %})
