@@ -17,7 +17,7 @@ category:
 
 この文章は[Channel Fireball](http://www.channelfireball.com/)に掲載された[The Hour of Devastation Prerelease Primer](https://www.channelfireball.com/articles/the-hour-of-devastation-prerelease-primer/)の和訳である。原文の掲載は2017年7月6日だった。
 
-前回はLSV氏のリミテッドレビューの白を訳した。このLSV氏のリミテッドレビューはどうやらドラフトを意識して書かれているらしい。赤の記事の煽りが「LSV氏 fires off the next installment of his Set Review, evaluating every red card in Hour of Devastation for Draft!」になってるし。
+前回はLSV氏のリミテッドレビューの白を訳した。このLSV氏のリミテッドレビューはどうやらドラフトを意識して書かれているらしい。赤の記事の煽りが「LSV fires off the next installment of his Set Review, evaluating every red card in Hour of Devastation for Draft!」になってるし。
 
 私が遊ぶのはシールドばかりなので、LSV氏の記事を続けて訳すのは一旦やめにした。
 この記事にも書いてあるのだが、シールドとドラフトは環境が違いすぎる。
