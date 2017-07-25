@@ -12,7 +12,7 @@ date: 2017-07-25 00:01:00
 
 ## 原文
 
-この文章は[海外公式サイト (DailyMTG)](http://magic.wizards.com/)に掲載されていた[(Common) Casting Costs](http://magic.wizards.com/en/articles/archive/level-one/common-casting-costs-2014-02-24)の和訳である。原文の掲載は2014年2月24日だった。
+この文章は[海外公式サイト (DailyMTG)](http://magic.wizards.com/)に掲載されていた[Strictly Superior](http://magic.wizards.com/en/articles/archive/level-one/strictly-superior-2014-03-03)の和訳である。原文の掲載は2014年3月3日だった。
 
 初心者向け記事であるLevel One、Mike Flores氏版の第6回。
 
