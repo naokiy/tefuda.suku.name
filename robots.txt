@@ -1,1 +1,1 @@
-Sitemap: http://tefuda.suku.name/sitemap.xml
+Sitemap: https://tefuda.suku.name/sitemap.xml
